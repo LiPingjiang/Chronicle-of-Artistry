@@ -44,7 +44,7 @@
 
 > 20世纪末至21世纪初的怀旧浪潮——当互联网一代尚未老去就开始追忆过去。
 
-这是本书目前最完整的章节，收录了 15 种互联网时代的视觉风格。
+这是本书目前最完整的章节，收录了 **20 种**互联网时代的视觉风格。
 
 ### 核心风格
 
@@ -66,14 +66,19 @@
 | [Indie Sleaze 独立邋遢](11-millennium-nostalgia/indie-sleaze.md) | 2006–2014 | 闪光灯派对、American Apparel、经济衰退下的享乐 |
 | [Scene 场景文化](11-millennium-nostalgia/scene.md) | 2006–2013 | 霓虹色头发、MySpace、硬核音乐圈的时尚分支 |
 | [Surf Crush 冲浪甜心](11-millennium-nostalgia/surf-crush.md) | 1999–2008 | 南加州海滩风、Hollister、《The O.C.》 |
+| [Mall Goth 商场哥特](11-millennium-nostalgia/mall-goth.md) | 1998–2008 | Hot Topic、Tripp NYC绑带裤、新金属 |
 
 ### 数字设计与科幻
 
 | 风格 | 时期 | 一句话 |
 |------|------|--------|
 | [Metalheart 金属心](11-millennium-nostalgia/metalheart.md) | 1998–2004 | 扭曲抽象形态、Depthcore 社区、像素字体 |
+| [Vectorheart 矢量心](11-millennium-nostalgia/vectorheart.md) | 1995–2004 | The Designers Republic、Wipeout、45度斜线 |
+| [Chromecore 铬核](11-millennium-nostalgia/chromecore.md) | 1998–2007 | CD/DVD/数码相机的银灰金属质感 |
+| [90s Cool / Matrix Effect](11-millennium-nostalgia/90s-cool.md) | 1995–2003 | 黑色皮衣、子弹时间、Oakley墨镜 |
 | [Cassette Futurism 磁带未来主义](11-millennium-nostalgia/cassette-futurism.md) | 回望1970s–90s | CRT显示器、物理按键、方盒子里的未来 |
 | [Electropop 08 衰退流行](11-millennium-nostalgia/electropop-08.md) | 2008–2013 | 霓虹派对、Lady Gaga、Avantropop 设计 |
+| [Bloghouse 博客浩室](11-millennium-nostalgia/bloghouse.md) | 2005–2012 | Ed Banger、Justice、MySpace电子音乐传播 |
 
 ### 氛围与情绪
 
@@ -108,7 +113,7 @@
 
 | 章节 | 状态 |
 |------|------|
-| 千禧怀旧美学 (11) | ██████████ 15篇完成 |
+| 千禧怀旧美学 (11) | ██████████ 20篇完成 |
 | 古代 – 当代 (01-08) | ░░░░░░░░░░ 框架已建 |
 | 东方艺术 (09) | ░░░░░░░░░░ 框架已建 |
 | 跨时代专题 (10) | ░░░░░░░░░░ 框架已建 |
