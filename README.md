@@ -44,7 +44,7 @@
 
 > 20世纪末至21世纪初的怀旧浪潮——当互联网一代尚未老去就开始追忆过去。
 
-这是本书目前最完整的章节，收录了 **103 种**互联网时代的视觉风格。
+这是本书目前最完整的章节，收录了 **106 种**互联网时代的视觉风格。
 
 ### 核心风格
 
@@ -67,6 +67,7 @@
 | [Barbiecore 芭比核](11-millennium-nostalgia/barbiecore.md) | 2000s/2022回潮 | 粉色即权力——从 Paris Hilton 到 Barbie 电影 |
 | [Indie Sleaze 独立邋遢](11-millennium-nostalgia/indie-sleaze.md) | 2006–2014 | 闪光灯派对、American Apparel、经济衰退下的享乐 |
 | [Grunge Revival 垃圾摇滚复兴](11-millennium-nostalgia/grunge-revival.md) | 2018–至今 | Kurt Cobain的法兰绒回到Zara货架——90s愤怒的2020s重生 |
+| [Punk 朋克美学](11-millennium-nostalgia/punk.md) | 1976–至今 | 安全别针、手写传单、DIY一切——只需要愤怒 |
 | [Trashy Y2K 垃圾千禧](11-millennium-nostalgia/trashy-y2k.md) | 2000–2007 | 低腰牛仔裤、Von Dutch卡车帽——2000年代最不体面也最自由的时刻 |
 | [Twee 小清新独立](11-millennium-nostalgia/twee.md) | 2009–2014 | Peter Pan 领、复古自行车、Wes Anderson 色板 |
 | [Indie Kid 独立小孩](11-millennium-nostalgia/indie-kid.md) | 2020–至今 | 彩色珠串、扎染卫衣——TikTok 对独立文化的甜美重塑 |
@@ -99,6 +100,7 @@
 | [Corporate Memphis 企业孟菲斯](11-millennium-nostalgia/corporate-memphis.md) | 2017–2023 | 紫色皮肤的人快乐协作——硅谷的视觉安慰剂 |
 | [Brutalist Web 野兽派网页](11-millennium-nostalgia/brutalist-web.md) | 2014–至今 | Times New Roman、蓝色超链接——故意拒绝"好看" |
 | [Neumorphism 新拟物](11-millennium-nostalgia/neumorphism.md) | 2019–2021 | 柔和凸起与凹陷——扁平设计想念阴影的短暂实验 |
+| [Glassmorphism 玻璃拟态](11-millennium-nostalgia/glassmorphism.md) | 2020–至今 | 毛玻璃、模糊背景——iOS设计语言的全面胜利 |
 | [Glitchcore 故障核](11-millennium-nostalgia/glitchcore.md) | 2010s–至今 | 像素撕裂、色彩偏移——当错误本身成为美学 |
 | [Electropop 08 衰退流行](11-millennium-nostalgia/electropop-08.md) | 2008–2013 | 霓虹派对、Lady Gaga、Avantropop 设计 |
 | [Bloghouse 博客浩室](11-millennium-nostalgia/bloghouse.md) | 2005–2012 | Ed Banger、Justice、MySpace电子音乐传播 |
@@ -158,6 +160,7 @@
 |------|------|--------|
 | [Gen X Soft Club](11-millennium-nostalgia/gen-x-soft-club.md) | 1990s末–2000s初 | 机场阈限空间、冷色极简、都市疏离 |
 | [Mallsoft 商场波](11-millennium-nostalgia/mallsoft.md) | 怀念1980s–2000s | 空旷走廊的回声、Muzak 失真、消费主义的幽灵 |
+| [Lo-Fi 低保真美学](11-millennium-nostalgia/lofi.md) | 2017–至今 | 雨天窗边、咖啡杯、无尽的学习播放列表 |
 
 ### 互联网原生美学
 
@@ -218,7 +221,7 @@
 
 | 章节 | 状态 |
 |------|------|
-| 千禧怀旧美学 (11) | ██████████ 103篇完成 |
+| 千禧怀旧美学 (11) | ██████████ 106篇完成 |
 | 古代 – 当代 (01-08) | ░░░░░░░░░░ 框架已建 |
 | 东方艺术 (09) | ░░░░░░░░░░ 框架已建 |
 | 跨时代专题 (10) | ░░░░░░░░░░ 框架已建 |
