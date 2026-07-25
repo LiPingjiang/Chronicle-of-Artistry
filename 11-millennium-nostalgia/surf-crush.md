@@ -2,6 +2,8 @@
 
 > 加州阳光、海盐味的头发、Hollister 店里永远播放的冲浪视频。
 
+![Surf Crush — AI生成概念图](../assets/artworks/surf-crush/surf-crush-aesthetic-gemini-01.png)
+
 ## 概述
 
 Surf Crush（又称 Coconut Girl 的前身）是一种流行于 **1999–2008 年**的青少年时尚与视觉美学，以**南加州海滩冲浪文化**为核心灵感。它由《The O.C.》《Laguna Beach》等电视剧推动，通过 Hollister、Abercrombie & Fitch、PacSun 等品牌商业化，成为 2000 年代美国青少年的"标准穿搭"。

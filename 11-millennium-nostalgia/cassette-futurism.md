@@ -2,6 +2,8 @@
 
 > 未来曾经是塑料做的、方方正正的、可以按下去会咔哒响的。
 
+![Cassette Futurism — AI生成概念图](../assets/artworks/cassette-futurism/cassette-futurism-aesthetic-gemini-01.png)
+
 ## 概述
 
 Cassette Futurism（磁带盒未来主义）是一种复古科幻美学，其视觉内核来自 **1970 年代中期至 1990 年代末**的消费电子产品设计——那个日本电子产品的黄金时代。它重新构想了 IBM PC、Sony Walkman、VHS 录像机所代表的"未来"：一个由物理按键、CRT 显示器、软盘和模拟信号构成的世界。

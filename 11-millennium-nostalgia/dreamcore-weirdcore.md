@@ -1,5 +1,7 @@
 # 梦核与怪核 | Dreamcore & Weirdcore
 
+![Dreamcore / Weirdcore — AI生成概念图](../assets/artworks/dreamcore-weirdcore/dreamcore-weirdcore-aesthetic-gemini-01.png)
+
 ## 概述
 
 - **时间跨度**：2010s – 至今（回望 1990s–2000s）

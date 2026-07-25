@@ -2,6 +2,8 @@
 
 > "当一切变得越来越糟，但在至少还没那么糟糕的今天，充分享受一切。"
 
+![Indie Sleaze — AI生成概念图](../assets/artworks/indie-sleaze/indie-sleaze-aesthetic-gemini-01.png)
+
 ## 概述
 
 Indie Sleaze 是一种流行于 **2006–2014 年**的反时尚享乐主义美学，起源于纽约和伦敦的独立音乐派对场景，在 MySpace 和 Tumblr 上广泛传播。该术语由 Instagram 账号 @indiesleaze 于 2021 年追溯命名。

@@ -1,5 +1,7 @@
 # 蒸汽波 | Vaporwave
 
+![蒸汽波 Vaporwave — AI生成概念图](../assets/artworks/vaporwave/vaporwave-aesthetic-gemini-01.png)
+
 ## 概述
 
 - **时间跨度**：2010 – 至今（回望 1980s–1990s）

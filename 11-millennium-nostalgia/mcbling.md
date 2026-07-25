@@ -2,6 +2,8 @@
 
 > "Bling Bling" — 当奢华变成一种青少年态度。
 
+![McBling — AI生成概念图](../assets/artworks/mcbling/mcbling-aesthetic-gemini-01.png)
+
 ## 概述
 
 McBling（又称 Trashy Y2K / Bubblegum Bling）是一种流行于 **2003–2008 年**的消费主义美学风格，与 Y2K Futurism、UrBling 和 Scene 文化有交叠。它以"闪光"为核心关键词，将嘻哈文化中的炫富符号与少女甜美元素混搭，形成了千禧年代最具辨识度的流行视觉之一。

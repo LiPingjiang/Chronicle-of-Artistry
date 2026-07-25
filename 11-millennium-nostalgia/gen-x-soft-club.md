@@ -2,6 +2,8 @@
 
 > 机场候机厅、地铁站台、蓝绿色调的极简空间——Y2K 的安静另一面。
 
+![Gen X Soft Club — AI生成概念图](../assets/artworks/gen-x-soft-club/gen-x-soft-club-aesthetic-gemini-01.png)
+
 ## 概述
 
 Gen X Soft Club 是一种流行于 **1990 年代末至 2000 年代初**的视觉美学，被认为是 Y2K 未来主义的"更自然、更接地气"的版本。它以**城市阈限空间（机场、地铁站、酒店大堂）、极简主义和冷色调**为标志，传达一种都市游牧者的疏离优雅。

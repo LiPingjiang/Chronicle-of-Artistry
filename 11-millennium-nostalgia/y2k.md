@@ -1,5 +1,7 @@
 # Y2K 美学 | Y2K Aesthetic
 
+![Y2K 美学 — AI生成概念图](../assets/artworks/y2k/y2k-aesthetic-gemini-01.png)
+
 ## 概述
 
 - **时间跨度**：1997 – 2005（回潮：2020s）

@@ -2,6 +2,8 @@
 
 > 模糊背景上的扭曲金属形态——互联网设计师的第一次集体狂欢。
 
+![Metalheart — AI生成概念图](../assets/artworks/metalheart/metalheart-aesthetic-gemini-01.png)
+
 ## 概述
 
 Metalheart（又称 **Depthcore** / **Trendwhore**）是一种流行于 **1998–2004 年**的未来主义数字艺术美学，承袭 90 年代中期的 Cyberdelia（赛博迷幻）风格。它以**模糊背景上的变形抽象金属造型、未来主义 UI 界面和像素字体**为标志。

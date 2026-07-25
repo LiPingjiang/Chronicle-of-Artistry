@@ -2,6 +2,8 @@
 
 > 经济在崩塌，但舞池里的霓虹灯永远不会熄灭。
 
+![Electropop 08 — AI生成概念图](../assets/artworks/electropop-08/electropop-08-aesthetic-gemini-01.png)
+
 ## 概述
 
 Electropop 08（又称 **Recession Pop** / 衰退流行）是一种流行于 **2008–2013 年**的音乐与视觉设计美学。它诞生于全球金融危机的阴影下，却以极度高能、享乐主义和不顾一切的乐观主义作为回应——"世界在燃烧，那就跳舞吧。"
