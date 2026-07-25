@@ -12,12 +12,36 @@ Scene 在 MySpace 平台上蓬勃发展，"Scene Queen"们通过自拍和个人�
 
 ## 历史背景
 
-- **2002**："Scene Queen" 最初是硬核圈对"只关心外表的伪粉丝"的贬义称呼
-- **2004–2005**：Eighteen Visions 的 "Fashioncore" 奠定了视觉基础
-- **2006–2010**：MySpace 黄金期，Scene 文化全面爆发
-- **2010–2013**：逐渐被 Tumblr Grunge 和 Instagram 精致化取代
-- **2020s**："Rawring 20s" — Z 世代在 TikTok 上发起 Scene 复兴
-- **Scenecore Hyperpop**：2020s 的音乐子流派，以怀旧 Scene 为灵感
+### 从贬义词到身份标签
+
+"Scene"这个词的演变本身就是一部亚文化史：
+- **最初含义**：硬核音乐圈中，"scene kid"是对"只关心外表、不懂音乐"的伪粉丝的贬义称呼
+- **2004-2005**：被贬低的群体反而拥抱了这个标签，把它变成了一种骄傲的自我认同
+- **2006-2010**：Scene 从音乐亚文化扩展为一种完整的青少年生活方式
+
+这种"从侮辱到骄傲"的转变，在亚文化史上并不罕见（类似"punk"、"queer"等词的演变）。
+
+### 关键时间线
+
+| 阶段 | 时间 | 标志事件 |
+|------|------|----------|
+| 前身 | 2002-2003 | "Scene Queen"作为贬义词出现在硬核论坛 |
+| 视觉奠基 | 2004-2005 | Eighteen Visions "Fashioncore"、早期MySpace |
+| 爆发 | 2006-2008 | MySpace黄金期，Scene Queens成为网红 |
+| 巅峰 | 2008-2010 | Hot Topic主流化、Blood on the Dance Floor |
+| 衰退 | 2010-2013 | Tumblr取代MySpace，精致化取代DIY |
+| 回潮 | 2020-至今 | "Rawring 20s"、TikTok Scene复兴 |
+
+### MySpace：Scene 的数字家园
+
+MySpace（2003-2010）对Scene文化的意义，就像竹下通对原宿文化的意义。它提供了：
+- **自定义个人主页**：HTML/CSS代码让每个人的页面都独一无二
+- **Top 8**：公开的好友排名制造了社交戏剧
+- **PC4PC（Picture Comment for Picture Comment）**：互相评论照片的社交货币
+- **自动播放音乐**：打开某人的页面就能听到他们的品味
+- **Scene Queens 排行榜**：按好友数量排名的非官方名人体系
+
+当MySpace在2010年后衰落，Scene文化也随之失去了核心平台。
 
 ## 视觉特征
 
