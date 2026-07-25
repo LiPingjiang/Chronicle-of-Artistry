@@ -1,199 +1,128 @@
 # 浮光艺志 | Chronicle of Artistry
 
-> 偏向历史叙事与时间沉淀的感觉。分析汇总各种艺术风格，以 Markdown 为主进行体系化架构与链接。
+> *浮光掠影，艺志千年。*
 
-## 项目定位
+一部以时间为经、风格为纬的艺术美学图鉴。从洞穴壁画到 AI 生成艺术，从文艺复兴到蒸汽波，每一种视觉语言都是人类精神的一面镜子。
 
-一个体系化的艺术风格知识库，按时间线、地域、媒介等多维度梳理人类艺术史中的主要风格与流派，配合图片资料进行视觉化呈现。
+---
 
-## 目录结构
+## 🗺️ 全景导航
 
-```
-Chronicle-of-Artistry/
-├── README.md                    # 项目总览与导航
-├── TIMELINE.md                  # 艺术史总时间线（快速索引）
-├── assets/                      # 图片与媒体资源
-│   ├── covers/                  # 各风格封面图
-│   └── artworks/                # 代表作品图片（按风格子目录）
-│
-├── 01-ancient/                  # 古代艺术 (史前 – 5世纪)
-│   ├── README.md
-│   ├── prehistoric.md           # 史前艺术
-│   ├── egyptian.md              # 古埃及艺术
-│   ├── greek.md                 # 古希腊艺术
-│   └── roman.md                 # 古罗马艺术
-│
-├── 02-medieval/                 # 中世纪艺术 (5世纪 – 14世纪)
-│   ├── README.md
-│   ├── byzantine.md             # 拜占庭艺术
-│   ├── romanesque.md            # 罗马式艺术
-│   └── gothic.md                # 哥特式艺术
-│
-├── 03-renaissance/              # 文艺复兴 (14世纪 – 16世纪)
-│   ├── README.md
-│   ├── early-renaissance.md     # 早期文艺复兴
-│   ├── high-renaissance.md      # 盛期文艺复兴
-│   └── mannerism.md             # 风格主义
-│
-├── 04-baroque-rococo/           # 巴洛克与洛可可 (17世纪 – 18世纪中叶)
-│   ├── README.md
-│   ├── baroque.md               # 巴洛克
-│   └── rococo.md                # 洛可可
-│
-├── 05-neoclassicism-romanticism/ # 新古典主义与浪漫主义 (18世纪末 – 19世纪中叶)
-│   ├── README.md
-│   ├── neoclassicism.md         # 新古典主义
-│   └── romanticism.md           # 浪漫主义
-│
-├── 06-modern-19c/               # 19世纪现代萌芽
-│   ├── README.md
-│   ├── realism.md               # 现实主义
-│   ├── impressionism.md         # 印象派
-│   ├── post-impressionism.md    # 后印象派
-│   ├── neo-impressionism.md     # 新印象派 / 点彩派
-│   ├── symbolism.md             # 象征主义
-│   ├── pre-raphaelite.md        # 前拉斐尔派
-│   └── art-nouveau.md           # 新艺术运动
-│
-├── 07-modern-20c/               # 20世纪现代主义
-│   ├── README.md
-│   ├── fauvism.md               # 野兽派
-│   ├── expressionism.md         # 表现主义
-│   ├── cubism.md                # 立体主义
-│   ├── futurism.md              # 未来主义
-│   ├── dada.md                  # 达达主义
-│   ├── surrealism.md            # 超现实主义
-│   ├── abstract.md              # 抽象艺术 (康定斯基 / 蒙德里安)
-│   ├── abstract-expressionism.md # 抽象表现主义
-│   ├── pop-art.md               # 波普艺术
-│   ├── minimalism.md            # 极简主义
-│   ├── conceptual-art.md        # 概念艺术
-│   ├── op-art.md                # 欧普艺术
-│   └── bauhaus.md               # 包豪斯
-│
-├── 08-postmodern-contemporary/  # 后现代与当代 (1960s – 至今)
-│   ├── README.md
-│   ├── postmodernism.md         # 后现代主义
-│   ├── installation.md          # 装置艺术
-│   ├── performance.md           # 行为艺术
-│   ├── land-art.md              # 大地艺术
-│   ├── neo-expressionism.md     # 新表现主义
-│   ├── digital-art.md           # 数字艺术
-│   ├── street-art.md            # 街头艺术
-│   └── ai-art.md                # AI 生成艺术
-│
-├── 09-eastern/                  # 东方艺术体系
-│   ├── README.md
-│   ├── chinese-traditional.md   # 中国传统绘画（工笔/写意/山水/花鸟）
-│   ├── chinese-modern.md        # 中国近现代艺术
-│   ├── japanese.md              # 日本艺术（浮世绘/琳派/侘寂）
-│   ├── korean.md                # 韩国艺术
-│   ├── indian.md                # 印度艺术
-│   └── islamic.md               # 伊斯兰艺术
-│
-├── 10-cross-cutting/            # 跨时代主题专题
-│   ├── README.md
-│   ├── color-theory.md          # 色彩理论演变
-│   ├── composition.md           # 构图法则
-│   ├── medium-evolution.md      # 媒介演变（壁画→油画→数字）
-│   ├── patronage.md             # 赞助体系与艺术市场
-│   └── women-in-art.md          # 女性艺术家
-│
-├── 11-millennium-nostalgia/     # ★ 千禧怀旧美学（重点章节）
-│   ├── README.md
-│   ├── y2k.md                   # Y2K 千禧未来风
-│   ├── vaporwave.md             # 蒸汽波
-│   ├── synthwave.md             # 合成器浪潮 / Retrowave
-│   ├── frutiger-aero.md         # Frutiger Aero 水晶拟物风
-│   ├── dreamcore-weirdcore.md   # 梦核与怪核 / 阈限空间
-│   └── acid-graphics.md         # 酸性设计
-│
-└── references/                  # 参考资料与外部链接
-    ├── books.md                 # 推荐书目
-    ├── museums.md               # 博物馆与在线资源
-    └── glossary.md              # 术语表
-```
+### 古典与传统
 
-## 每篇风格文档模板
+| 时期 | 章节 | 关键词 |
+|------|------|--------|
+| 史前 – 5世纪 | [古代艺术](01-ancient/README.md) | 洞穴壁画、埃及法老、希腊雕塑、罗马穹顶 |
+| 5 – 14世纪 | [中世纪艺术](02-medieval/README.md) | 拜占庭镶嵌画、罗马式厚墙、哥特尖拱 |
+| 14 – 16世纪 | [文艺复兴](03-renaissance/README.md) | 透视法、人体解剖、达芬奇、米开朗基罗 |
+| 17 – 18世纪中叶 | [巴洛克与洛可可](04-baroque-rococo/README.md) | 戏剧光影、宫廷奢华、卡拉瓦乔、华托 |
+| 18世纪末 – 19世纪中叶 | [新古典与浪漫主义](05-neoclassicism-romanticism/README.md) | 理性回归、情感奔涌、大卫、德拉克洛瓦 |
 
-每个 `.md` 风格文件建议包含以下结构：
+### 现代觉醒
 
-```markdown
-# 风格名称 (英文名)
+| 时期 | 章节 | 关键词 |
+|------|------|--------|
+| 19世纪 | [现代萌芽](06-modern-19c/README.md) | 印象派光影、后印象色彩、新艺术曲线 |
+| 20世纪 | [现代主义](07-modern-20c/README.md) | 立体主义、超现实、波普、极简、包豪斯 |
+| 1960s – 至今 | [后现代与当代](08-postmodern-contemporary/README.md) | 装置、行为、街头、数字、AI 艺术 |
 
-## 概述
-- 时间跨度：
-- 发源地：
-- 核心理念：
+### 东方体系
 
-## 历史背景
-（社会、政治、技术背景）
+| 章节 | 关键词 |
+|------|--------|
+| [东方艺术](09-eastern/README.md) | 中国山水、日本浮世绘、伊斯兰几何、印度细密画 |
 
-## 视觉特征
-- 色彩：
-- 构图：
-- 笔触/技法：
-- 题材：
+### 跨时代专题
 
-## 代表艺术家与作品
-| 艺术家 | 代表作 | 年代 | 图片 |
-|--------|--------|------|------|
-|        |        |      |      |
+| 章节 | 关键词 |
+|------|--------|
+| [主题专题](10-cross-cutting/README.md) | 色彩理论、构图法则、媒介演变、女性艺术家 |
 
-## 影响与传承
-（对后续流派的影响）
+---
 
-## 图片画廊
-<!-- 放置在 assets/artworks/风格名/ 下 -->
+## ✨ 千禧怀旧美学 — 重点章节
 
-## 延伸阅读
-- [链接]()
-```
+> 20世纪末至21世纪初的怀旧浪潮——当互联网一代尚未老去就开始追忆过去。
 
-## 分类维度
+这是本书目前最完整的章节，收录了 15 种互联网时代的视觉风格。
 
-本项目采用多维度交叉索引：
+### 核心风格
 
-| 维度 | 说明 |
+| 风格 | 时期 | 一句话 |
+|------|------|--------|
+| [Y2K 美学](11-millennium-nostalgia/y2k.md) | 1997–2004 | 金属镭射、泡泡糖粉、半透明塑料 |
+| [蒸汽波 Vaporwave](11-millennium-nostalgia/vaporwave.md) | 2010–至今 | 80/90年代消费主义的迷幻解构 |
+| [合成器浪潮 Synthwave](11-millennium-nostalgia/synthwave.md) | 2005–至今 | 对80年代黄金岁月的霓虹致敬 |
+| [Frutiger Aero](11-millennium-nostalgia/frutiger-aero.md) | 2004–2013 | Web 2.0 时代的水晶拟物风 |
+| [Frutiger Metro / Vectordelia](11-millennium-nostalgia/frutiger-metro.md) | 2005–2012 | 矢量迷幻风，耳机剪影放射线，商场的青春记忆 |
+| [梦核与怪核 Dreamcore](11-millennium-nostalgia/dreamcore-weirdcore.md) | 2019–至今 | 阈限空间中的超现实怀旧 |
+| [酸性设计 Acid Graphics](11-millennium-nostalgia/acid-graphics.md) | 2018–至今 | 扭曲金属、液态铬、极端排版 |
+
+### 时尚与亚文化
+
+| 风格 | 时期 | 一句话 |
+|------|------|--------|
+| [McBling 千禧闪耀](11-millennium-nostalgia/mcbling.md) | 2003–2008 | Paris Hilton、水钻、天鹅绒运动套装 |
+| [Indie Sleaze 独立邋遢](11-millennium-nostalgia/indie-sleaze.md) | 2006–2014 | 闪光灯派对、American Apparel、经济衰退下的享乐 |
+| [Scene 场景文化](11-millennium-nostalgia/scene.md) | 2006–2013 | 霓虹色头发、MySpace、硬核音乐圈的时尚分支 |
+| [Surf Crush 冲浪甜心](11-millennium-nostalgia/surf-crush.md) | 1999–2008 | 南加州海滩风、Hollister、《The O.C.》 |
+
+### 数字设计与科幻
+
+| 风格 | 时期 | 一句话 |
+|------|------|--------|
+| [Metalheart 金属心](11-millennium-nostalgia/metalheart.md) | 1998–2004 | 扭曲抽象形态、Depthcore 社区、像素字体 |
+| [Cassette Futurism 磁带未来主义](11-millennium-nostalgia/cassette-futurism.md) | 回望1970s–90s | CRT显示器、物理按键、方盒子里的未来 |
+| [Electropop 08 衰退流行](11-millennium-nostalgia/electropop-08.md) | 2008–2013 | 霓虹派对、Lady Gaga、Avantropop 设计 |
+
+### 氛围与情绪
+
+| 风格 | 时期 | 一句话 |
+|------|------|--------|
+| [Gen X Soft Club](11-millennium-nostalgia/gen-x-soft-club.md) | 1990s末–2000s初 | 机场阈限空间、冷色极简、都市疏离 |
+
+→ [进入千禧怀旧章节完整目录](11-millennium-nostalgia/README.md)
+
+---
+
+## 📖 如何阅读
+
+**按时间线**：从上到下，跟随人类视觉表达的演变脉络。
+
+**按兴趣跳转**：点击任何风格名称直接进入详情页，每篇文档底部都有返回链接和相关风格推荐。
+
+**按关键词**：使用 [术语表](references/glossary.md) 或 [时间线索引](TIMELINE.md) 快速定位。
+
+---
+
+## 🔗 参考资料
+
+- [推荐书目](references/books.md) — 艺术史经典著作
+- [博物馆与在线资源](references/museums.md) — 全球美术馆与数字档案
+- [术语表](references/glossary.md) — 风格名词速查
+- [艺术史时间线](TIMELINE.md) — 全景年表快速索引
+
+---
+
+## 📊 项目进度
+
+| 章节 | 状态 |
 |------|------|
-| **时间线** | 按历史时期纵向排列（主线） |
-| **地域** | 西方 / 东方 / 非洲 / 美洲 |
-| **媒介** | 绘画 / 雕塑 / 建筑 / 摄影 / 数字 |
-| **主题** | 宗教 / 肖像 / 风景 / 静物 / 抽象 |
-| **手法** | 写实 / 表现 / 抽象 / 象征 / 装饰 |
-
-## 图片管理约定
-
-- 图片统一存放在 `assets/` 目录下
-- 封面图：`assets/covers/{style-name}.jpg`
-- 作品图：`assets/artworks/{style-name}/{artist}-{work}.jpg`
-- 文档内使用相对路径引用：`![alt](../assets/artworks/...)`
-- 大图建议控制在 1MB 以内，缩略图 200KB 以内
-
-## 进度追踪
-
-- [x] 项目架构设计
-- [ ] 古代艺术章节
-- [ ] 中世纪艺术章节
-- [ ] 文艺复兴章节
-- [ ] 巴洛克与洛可可章节
-- [ ] 新古典主义与浪漫主义章节
-- [ ] 19世纪现代萌芽章节
-- [ ] 20世纪现代主义章节
-- [ ] 后现代与当代章节
-- [ ] 东方艺术体系章节
-- [ ] 跨时代主题专题
+| 千禧怀旧美学 (11) | ██████████ 15篇完成 |
+| 古代 – 当代 (01-08) | ░░░░░░░░░░ 框架已建 |
+| 东方艺术 (09) | ░░░░░░░░░░ 框架已建 |
+| 跨时代专题 (10) | ░░░░░░░░░░ 框架已建 |
 
 ---
 
-## 作者
+## 关于
 
-**李平江** (Pingjiang Li)
+**作者**：李平江 (Pingjiang Li)
 
-## 许可证
+**许可证**：[MIT License](LICENSE)
 
-本项目采用 [MIT License](LICENSE) 开源。
+**仓库**：[GitHub](https://github.com/LiPingjiang/Chronicle-of-Artistry)
 
 ---
 
-*浮光掠影，艺志千年。*
+*每一种风格都是一个时代的自画像。翻开它，就是翻开那个时代的人们如何看待美、如何想象未来、如何怀念过去。*
