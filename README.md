@@ -44,7 +44,7 @@
 
 > 20世纪末至21世纪初的怀旧浪潮——当互联网一代尚未老去就开始追忆过去。
 
-这是本书目前最完整的章节，收录了 **67 种**互联网时代的视觉风格。
+这是本书目前最完整的章节，收录了 **70 种**互联网时代的视觉风格。
 
 ### 核心风格
 
@@ -53,6 +53,7 @@
 | [Y2K 美学](11-millennium-nostalgia/y2k.md) | 1997–2004 | 金属镭射、泡泡糖粉、半透明塑料 |
 | [蒸汽波 Vaporwave](11-millennium-nostalgia/vaporwave.md) | 2010–至今 | 80/90年代消费主义的迷幻解构 |
 | [合成器浪潮 Synthwave](11-millennium-nostalgia/synthwave.md) | 2005–至今 | 对80年代黄金岁月的霓虹致敬 |
+| [Frutiger Metro 弗鲁提格都市](11-millennium-nostalgia/frutiger-metro.md) | 2005–2012 | 鲜艳色块、黑色人物剪影——2008年老商场里的青春配方 |
 | [Frutiger Aero](11-millennium-nostalgia/frutiger-aero.md) | 2004–2013 | Web 2.0 时代的水晶拟物风 |
 | [Frutiger Metro / Vectordelia](11-millennium-nostalgia/frutiger-metro.md) | 2005–2012 | 矢量迷幻风，耳机剪影放射线，商场的青春记忆 |
 | [梦核与怪核 Dreamcore](11-millennium-nostalgia/dreamcore-weirdcore.md) | 2019–至今 | 阈限空间中的超现实怀旧 |
@@ -77,6 +78,7 @@
 | [Mall Goth 商场哥特](11-millennium-nostalgia/mall-goth.md) | 1998–2008 | Hot Topic、Tripp NYC绑带裤、新金属 |
 | [Cybergoth 赛博哥特](11-millennium-nostalgia/cybergoth.md) | 1999–2012 | 荧光假发辫、防毒面具、工业舞蹈 |
 | [Pastel Goth 粉彩哥特](11-millennium-nostalgia/pastel-goth.md) | 2010–2016 | 把死亡染成粉色——哥特遇见 Kawaii |
+| [Skatercore 滑板核](11-millennium-nostalgia/skatercore.md) | 1970s–至今 | Thrasher字体、磨破的Vans——滑板文化从街头到T台 |
 | [Dark Y2K 暗黑千禧](11-millennium-nostalgia/dark-y2k.md) | 1999–2004 | Y2K 的阴影面——黑色PVC与银色链条 |
 
 ### 数字设计与科幻
@@ -182,7 +184,7 @@
 
 | 章节 | 状态 |
 |------|------|
-| 千禧怀旧美学 (11) | ██████████ 67篇完成 |
+| 千禧怀旧美学 (11) | ██████████ 70篇完成 |
 | 古代 – 当代 (01-08) | ░░░░░░░░░░ 框架已建 |
 | 东方艺术 (09) | ░░░░░░░░░░ 框架已建 |
 | 跨时代专题 (10) | ░░░░░░░░░░ 框架已建 |
