@@ -137,4 +137,4 @@ Frutiger Metro 几乎总和音乐、运动、派对以及青少年商品绑在�
 
 ---
 
-[← Frutiger Aero](frutiger-aero.md) | [→ 梦核与怪核](dreamcore-weirdcore.md)
+[← Frutiger Aero](frutiger-aero.md) | [→ 梦核与怪核](dreamcore-weirdcore.md) | [↑ 返回目录](README.md)

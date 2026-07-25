@@ -89,4 +89,4 @@ Y2K (1997-2005)
 
 ---
 
-[← 返回章节总览](README.md) | [→ 蒸汽波](vaporwave.md)
+[← 返回目录](README.md) | [→ 蒸汽波 Vaporwave](vaporwave.md) | [↑ 返回目录](README.md)

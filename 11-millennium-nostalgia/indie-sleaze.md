@@ -97,4 +97,4 @@ Indie Sleaze 在中国的对应物较为模糊，但可以找到一些平行：
 
 ---
 
-[← 返回章节目录](README.md)
+[← McBling](mcbling.md) | [→ Scene](scene.md) | [↑ 返回目录](README.md)

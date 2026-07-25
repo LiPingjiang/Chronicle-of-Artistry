@@ -77,4 +77,4 @@
 
 ---
 
-[← 梦核与怪核](dreamcore-weirdcore.md) | [→ 返回章节总览](README.md)
+[← 梦核与怪核 Dreamcore](dreamcore-weirdcore.md) | [→ McBling](mcbling.md) | [↑ 返回目录](README.md)

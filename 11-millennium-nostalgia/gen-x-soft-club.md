@@ -52,4 +52,4 @@ Gen X Soft Club 是一种流行于 **1990 年代末至 2000 年代初**的视觉
 
 ---
 
-[← 返回章节目录](README.md)
+[← Electropop 08](electropop-08.md) | [↑ 返回目录](README.md)

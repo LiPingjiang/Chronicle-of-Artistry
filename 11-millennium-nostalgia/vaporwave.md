@@ -82,4 +82,4 @@ Vaporwave (2010s)
 
 ---
 
-[← Y2K 美学](y2k.md) | [→ 合成器浪潮](synthwave.md)
+[← Y2K 美学](y2k.md) | [→ 合成器浪潮 Synthwave](synthwave.md) | [↑ 返回目录](README.md)

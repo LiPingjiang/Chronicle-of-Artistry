@@ -88,4 +88,4 @@ Indie Sleaze (2006-2014) ← 地下版本的派对文化
 
 ---
 
-[← 返回章节目录](README.md)
+[← Cassette Futurism](cassette-futurism.md) | [→ Gen X Soft Club](gen-x-soft-club.md) | [↑ 返回目录](README.md)

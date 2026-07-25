@@ -95,4 +95,4 @@ Cassette Futurism（磁带盒未来主义）是一种复古科幻美学，其视
 
 ---
 
-[← 返回章节目录](README.md)
+[← Metalheart](metalheart.md) | [→ Electropop 08](electropop-08.md) | [↑ 返回目录](README.md)

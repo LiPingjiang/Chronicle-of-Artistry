@@ -91,4 +91,4 @@ Indie Sleaze (2006-2014)
 
 ---
 
-[← 返回章节目录](README.md)
+[← 酸性设计 Acid Graphics](acid-graphics.md) | [→ Indie Sleaze](indie-sleaze.md) | [↑ 返回目录](README.md)

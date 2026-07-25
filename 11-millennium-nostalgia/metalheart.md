@@ -77,4 +77,4 @@ Frutiger Aero (2004-2013) ← 从暗黑抽象到明亮拟物
 
 ---
 
-[← 返回章节目录](README.md)
+[← Surf Crush](surf-crush.md) | [→ Cassette Futurism](cassette-futurism.md) | [↑ 返回目录](README.md)

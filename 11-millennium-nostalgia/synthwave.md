@@ -89,4 +89,4 @@ Synthwave 发迹于2000年代后期，由 College、Kavinsky、FM Attack 等法�
 
 ---
 
-[← 蒸汽波](vaporwave.md) | [→ Frutiger Aero](frutiger-aero.md)
+[← 蒸汽波 Vaporwave](vaporwave.md) | [→ Frutiger Aero](frutiger-aero.md) | [↑ 返回目录](README.md)

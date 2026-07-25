@@ -98,4 +98,4 @@ Frutiger Aero 代表了一个**被许诺但未实现的未来**：
 
 ---
 
-[← 合成器浪潮](synthwave.md) | [→ 梦核与怪核](dreamcore-weirdcore.md)
+[← 合成器浪潮 Synthwave](synthwave.md) | [→ Frutiger Metro](frutiger-metro.md) | [↑ 返回目录](README.md)

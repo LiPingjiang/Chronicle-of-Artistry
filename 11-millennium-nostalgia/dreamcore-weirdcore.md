@@ -106,4 +106,4 @@
 
 ---
 
-[← Frutiger Aero](frutiger-aero.md) | [→ 酸性设计](acid-graphics.md)
+[← Frutiger Metro](frutiger-metro.md) | [→ 酸性设计 Acid Graphics](acid-graphics.md) | [↑ 返回目录](README.md)
