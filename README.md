@@ -122,6 +122,8 @@
 | [Dark Academia 暗黑学院](11-millennium-nostalgia/dark-academia.md) | 2015/2020鼎盛 | 哥特式图书馆里读拉丁文的精英幻想 |
 | [Gorpcore 户外核](11-millennium-nostalgia/gorpcore.md) | 2017–至今 | 穿着始祖鸟去咖啡馆——登山装备成为都市时尚 |
 | [Coastal Grandmother 海岸祖母](11-millennium-nostalgia/coastal-grandmother.md) | 2022–至今 | Nancy Meyers 电影里的汉普顿海边别墅生活 |
+| [Quiet Luxury 静奢](11-millennium-nostalgia/quiet-luxury.md) | 2022–至今 | 没有logo、没有标签——真正的奢侈不需要被看见 |
+| [Grandmillennial 千禧祖母](11-millennium-nostalgia/grandmillennial.md) | 2019–至今 | 碎花壁纸、骨瓷茶杯——千禧一代爱上了奶奶的审美 |
 | [Balletcore 芭蕾核](11-millennium-nostalgia/balletcore.md) | 2021–至今 | 把练功房穿上街——缎面芭蕾鞋和裹身上衣 |
 | [Cluttercore 杂物核](11-millennium-nostalgia/cluttercore.md) | 2020–至今 | 极简主义的反义词——满墙收藏品的有序混乱 |
 | [Goblincore 哥布林核](11-millennium-nostalgia/goblincore.md) | 2019–至今 | 捡石头、看蘑菇——拒绝"漂亮"，拥抱"有趣" |
