@@ -44,7 +44,7 @@
 
 > 20世纪末至21世纪初的怀旧浪潮——当互联网一代尚未老去就开始追忆过去。
 
-这是本书目前最完整的章节，收录了 **100 种**互联网时代的视觉风格。
+这是本书目前最完整的章节，收录了 **103 种**互联网时代的视觉风格。
 
 ### 核心风格
 
@@ -98,6 +98,8 @@
 | [Flat Design 扁平设计](11-millennium-nostalgia/flat-design.md) | 2012–至今 | 去掉阴影和渐变——让界面回归信息本身 |
 | [Corporate Memphis 企业孟菲斯](11-millennium-nostalgia/corporate-memphis.md) | 2017–2023 | 紫色皮肤的人快乐协作——硅谷的视觉安慰剂 |
 | [Brutalist Web 野兽派网页](11-millennium-nostalgia/brutalist-web.md) | 2014–至今 | Times New Roman、蓝色超链接——故意拒绝"好看" |
+| [Neumorphism 新拟物](11-millennium-nostalgia/neumorphism.md) | 2019–2021 | 柔和凸起与凹陷——扁平设计想念阴影的短暂实验 |
+| [Glitchcore 故障核](11-millennium-nostalgia/glitchcore.md) | 2010s–至今 | 像素撕裂、色彩偏移——当错误本身成为美学 |
 | [Electropop 08 衰退流行](11-millennium-nostalgia/electropop-08.md) | 2008–2013 | 霓虹派对、Lady Gaga、Avantropop 设计 |
 | [Bloghouse 博客浩室](11-millennium-nostalgia/bloghouse.md) | 2005–2012 | Ed Banger、Justice、MySpace电子音乐传播 |
 
@@ -183,6 +185,7 @@
 | [Coquette Y2K 千禧甜心](11-millennium-nostalgia/coquette-y2k.md) | 2000s/2020s回潮 | 蝴蝶结、蕾丝、珍珠——温柔版Y2K |
 | [Nu-Rave 新锐舞](11-millennium-nostalgia/nu-rave.md) | 2006–2009 | 荧光涂料+独立摇滚+UV灯光派对 |
 | [Harajuku Y2K 原宿千禧](11-millennium-nostalgia/harajuku-y2k.md) | 2000–2015 | 日本街头的Kawaii层叠爆炸 |
+| [Kawaii 卡哇伊](11-millennium-nostalgia/kawaii.md) | 1970s–至今 | 圆圆的眼睛、粉色腮红——日本'可爱'文化征服全世界 |
 | [Cyber Y2K 赛博千禧](11-millennium-nostalgia/cyber-y2k.md) | 1997–2004 | PVC、铬银、iMac G3——技术乌托邦的极致 |
 | [Y3K 未来主义新浪潮](11-millennium-nostalgia/y3k.md) | 2023–至今 | 液态金属、机甲美学——Y2K的冷峻进化 |
 | [Bubblegum Dance 泡泡糖舞曲](11-millennium-nostalgia/bubblegum-dance.md) | 1996–2005 | 糖果色跳舞机、Aqua、纯粹的身体快乐 |
@@ -215,7 +218,7 @@
 
 | 章节 | 状态 |
 |------|------|
-| 千禧怀旧美学 (11) | ██████████ 100篇完成 |
+| 千禧怀旧美学 (11) | ██████████ 103篇完成 |
 | 古代 – 当代 (01-08) | ░░░░░░░░░░ 框架已建 |
 | 东方艺术 (09) | ░░░░░░░░░░ 框架已建 |
 | 跨时代专题 (10) | ░░░░░░░░░░ 框架已建 |
