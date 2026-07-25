@@ -55,7 +55,10 @@ Coquette Y2K 代表了Z世代对"女性气质"的重新拥抱——在经历了�
 
 ## 图片画廊
 
-> 待生成补充
+| | |
+|:---:|:---:|
+| ![Coquette Y2K概念图](../assets/artworks/coquette-y2k/coquette-y2k-aesthetic-gemini-01.png) | |
+| *千禧甜心风 · 粉色蝴蝶结与珍珠* | |
 
 ## 延伸阅读
 

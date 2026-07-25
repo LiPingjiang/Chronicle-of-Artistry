@@ -61,7 +61,10 @@ Frutiger Aero (2004-2013) ← 从暗黑抽象到明亮拟物
 
 ## 图库
 
-> 🖼️ 待补充图片
+| | |
+|:---:|:---:|
+| ![Metalheart概念图](../assets/artworks/metalheart/metalheart-aesthetic-gemini-01.png) | ![铬色有机形态](../assets/artworks/metalheart/metalheart-chrome-gemini-02.png) |
+| *Metalheart 金属心概念* | *扭曲铬色有机形态 · Depthcore风格* |
 
 **推荐图片来源（需手动下载）：**
 - https://frutigeraeroarchive.org/wallpapers/metalheart — Metalheart 壁纸收藏

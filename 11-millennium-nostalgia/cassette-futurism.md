@@ -81,7 +81,10 @@ Cassette Futurism（磁带盒未来主义）是一种复古科幻美学，其视
 
 ## 图库
 
-> 🖼️ 待补充图片
+| | |
+|:---:|:---:|
+| ![Cassette Futurism概念图](../assets/artworks/cassette-futurism/cassette-futurism-aesthetic-gemini-01.png) | ![CRT控制台](../assets/artworks/cassette-futurism/cassette-futurism-crt-gemini-02.png) |
+| *磁带未来主义概念* | *CRT显示器与物理按键控制台* |
 
 **推荐图片来源（需手动下载）：**
 - Reddit: r/cassettefuturism

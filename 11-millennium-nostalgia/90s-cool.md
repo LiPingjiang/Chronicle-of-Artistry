@@ -81,6 +81,11 @@
 
 <!-- 图片存放于 assets/artworks/90s-cool/ -->
 
+| | |
+|:---:|:---:|
+| ![90s Cool概念图](../assets/artworks/90s-cool/90s-cool-aesthetic-gemini-01.png) | ![Matrix风格](../assets/artworks/90s-cool/90s-cool-matrix-gemini-02.png) |
+| *90s Cool 概念* | *Matrix 黑客帝国风* |
+
 **推荐图片来源**：
 - [Aesthetics Wiki: 90s Cool](https://aesthetics.fandom.com/wiki/90s_Cool)
 - 《黑客帝国》官方剧照

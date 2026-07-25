@@ -83,7 +83,10 @@ Indie Sleaze 在中国的对应物较为模糊，但可以找到一些平行：
 
 ## 图库
 
-> 🖼️ 待补充图片
+| | |
+|:---:|:---:|
+| ![Indie Sleaze概念图](../assets/artworks/indie-sleaze/indie-sleaze-aesthetic-gemini-01.png) | ![派对闪光灯](../assets/artworks/indie-sleaze/indie-sleaze-party-gemini-02.png) |
+| *Indie Sleaze 概念* | *闪光灯派对摄影* |
 
 **推荐图片来源（需手动下载）：**
 - Instagram: @indiesleaze（12万粉丝的怀旧账号）

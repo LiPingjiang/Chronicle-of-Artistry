@@ -85,6 +85,11 @@ Mall Goth 可以被视为 Scene 文化的前身——两者都诞生于商场，
 
 <!-- 图片存放于 assets/artworks/mall-goth/ -->
 
+| | |
+|:---:|:---:|
+| ![Mall Goth概念图](../assets/artworks/mall-goth/mall-goth-aesthetic-gemini-01.png) | ![Hot Topic风格](../assets/artworks/mall-goth/mall-goth-hottopic-gemini-02.png) |
+| *商场哥特概念* | *Hot Topic 绑带裤与链条* |
+
 **推荐图片来源**：
 - [知乎：Lil Uzi Vert 格莱美造型与Mall Goth](https://zhuanlan.zhihu.com/p/531211397)
 - [知乎：现代哥特式服装时尚简史](https://zhuanlan.zhihu.com/p/644193451)

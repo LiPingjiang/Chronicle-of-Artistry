@@ -41,7 +41,10 @@ Gen X Soft Club 是一种流行于 **1990 年代末至 2000 年代初**的视觉
 
 ## 图库
 
-> 🖼️ 待补充图片
+| | |
+|:---:|:---:|
+| ![Gen X Soft Club概念图](../assets/artworks/gen-x-soft-club/gen-x-soft-club-aesthetic-gemini-01.png) | ![机场阈限空间](../assets/artworks/gen-x-soft-club/gen-x-soft-club-airport-gemini-02.png) |
+| *Gen X Soft Club 概念* | *凌晨机场候机厅 · 冷色极简* |
 
 **推荐图片来源：**
 - https://aesthetics.fandom.com/wiki/Gen_X_Soft_Club

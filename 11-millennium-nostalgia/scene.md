@@ -80,7 +80,10 @@ Scene 文化在中国有一个著名的平行现象——**杀马特**（Smart �
 
 ## 图库
 
-> 🖼️ 待补充图片
+| | |
+|:---:|:---:|
+| ![Scene概念图](../assets/artworks/scene/scene-aesthetic-gemini-01.png) | ![Scene Kid](../assets/artworks/scene/scene-kid-gemini-02.png) |
+| *Scene 场景文化概念* | *霓虹色头发 · MySpace自拍* |
 
 **推荐图片来源（需手动下载）：**
 - https://aesthetics.fandom.com/wiki/Scene

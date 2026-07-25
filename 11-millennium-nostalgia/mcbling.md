@@ -76,7 +76,10 @@ Indie Sleaze (2006-2014)
 
 ## 图库
 
-> 🖼️ 待补充图片
+| | |
+|:---:|:---:|
+| ![McBling概念图](../assets/artworks/mcbling/mcbling-aesthetic-gemini-01.png) | ![Juicy Couture风格](../assets/artworks/mcbling/mcbling-juicy-gemini-02.png) |
+| *McBling 千禧闪耀概念* | *Juicy Couture 水钻翻盖手机* |
 
 **推荐图片来源（需手动下载）：**
 - Pinterest 搜索 "McBling aesthetic moodboard"

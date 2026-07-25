@@ -73,7 +73,10 @@ Indie Sleaze (2006-2014) ← 地下版本的派对文化
 
 ## 图库
 
-> 🖼️ 待补充图片
+| | |
+|:---:|:---:|
+| ![Electropop 08概念图](../assets/artworks/electropop-08/electropop-08-aesthetic-gemini-01.png) | ![Gaga风格](../assets/artworks/electropop-08/electropop-08-gaga-gemini-02.png) |
+| *Electropop 08 概念* | *几何舞台灯光与前卫时装* |
 
 **推荐图片来源（需手动下载）：**
 - https://aesthetics.fandom.com/wiki/Electropop_08

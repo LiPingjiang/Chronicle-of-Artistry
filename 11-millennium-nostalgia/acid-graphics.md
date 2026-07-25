@@ -68,7 +68,11 @@
 ## 图片画廊
 
 <!-- 存放于 assets/artworks/acid-graphics/ -->
-> 待补充：液态铬球体、极端排版海报、荧光色设计、金属渐变
+
+| | |
+|:---:|:---:|
+| ![酸性设计概念图](../assets/artworks/acid-graphics/acid-graphics-aesthetic-gemini-01.png) | ![铬色排版](../assets/artworks/acid-graphics/acid-graphics-chrome-gemini-02.png) |
+| *酸性设计概念* | *铬色液态排版* |
 
 ## 延伸阅读
 

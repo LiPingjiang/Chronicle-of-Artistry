@@ -45,7 +45,10 @@ FantasY2K 的核心是一种**自觉的不严肃**——它知道自己在"犯�
 
 ## 图片画廊
 
-> 待生成补充
+| | |
+|:---:|:---:|
+| ![FantasY2K概念图](../assets/artworks/fantasy2k/fantasy2k-aesthetic-gemini-01.png) | |
+| *奇幻千禧风 · 铬甲公主与蝴蝶* | |
 
 ## 延伸阅读
 

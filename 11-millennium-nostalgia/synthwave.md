@@ -79,7 +79,13 @@ Synthwave 发迹于2000年代后期，由 College、Kavinsky、FM Attack 等法�
 ## 图片画廊
 
 <!-- 存放于 assets/artworks/synthwave/ -->
-> 待补充：霓虹网格、落日跑车、专辑封面、像素城市
+
+| | |
+|:---:|:---:|
+| ![Synthwave概念图](../assets/artworks/synthwave/synthwave-aesthetic-gemini-01.png) | ![Outrun跑车](../assets/artworks/synthwave/synthwave-outrun-gemini-02.png) |
+| *合成器浪潮概念* | *Outrun 霓虹公路* |
+| ![霓虹城市](../assets/artworks/synthwave/synthwave-city-gemini-03.png) | |
+| *赛博城市夜景* | |
 
 ## 延伸阅读
 

@@ -73,7 +73,10 @@ Coconut Girl / "Surfercore" (2021+)
 
 ## 图库
 
-> 🖼️ 待补充图片
+| | |
+|:---:|:---:|
+| ![Surf Crush概念图](../assets/artworks/surf-crush/surf-crush-aesthetic-gemini-01.png) | ![海滩风格](../assets/artworks/surf-crush/surf-crush-beach-gemini-02.png) |
+| *Surf Crush 概念* | *南加州海滩日落* |
 
 **推荐图片来源（需手动下载）：**
 - https://aesthetics.fandom.com/wiki/Surf_Crush

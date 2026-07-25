@@ -79,6 +79,11 @@ Chromecore 在90年代末作为 Cyberpunk 和 Metalheart 的一个分支出现�
 
 <!-- 图片存放于 assets/artworks/chromecore/ -->
 
+| | |
+|:---:|:---:|
+| ![Chromecore概念图](../assets/artworks/chromecore/chromecore-aesthetic-gemini-01.png) | ![铬色设备](../assets/artworks/chromecore/chromecore-devices-gemini-02.png) |
+| *铬核概念* | *银色数码设备群像* |
+
 **推荐图片来源**：
 - [贴吧：铬核Chromecore——衰落的设计风格](https://tieba.baidu.com/p/9043554191)
 - [Aesthetics Wiki: Y2K - Chromecore 条目](https://aesthetics.fandom.com/wiki/Y2K)

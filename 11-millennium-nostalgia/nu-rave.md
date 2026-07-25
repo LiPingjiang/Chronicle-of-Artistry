@@ -62,7 +62,10 @@ Nu-Rave 是对2000年代中期英国独立音乐"过于严肃"的反叛。当 Ar
 
 ## 图片画廊
 
-> 待生成补充
+| | |
+|:---:|:---:|
+| ![Nu-Rave概念图](../assets/artworks/nu-rave/nu-rave-aesthetic-gemini-01.png) | |
+| *新锐舞风 · 荧光涂料与UV灯光* | |
 
 ## 延伸阅读
 

@@ -87,6 +87,11 @@ Pedro Winter（Busy P）在巴黎创立的 Ed Banger Records 是 Bloghouse 的�
 
 <!-- 图片存放于 assets/artworks/bloghouse/ -->
 
+| | |
+|:---:|:---:|
+| ![Bloghouse概念图](../assets/artworks/bloghouse/bloghouse-aesthetic-gemini-01.png) | ![Ed Banger风格](../assets/artworks/bloghouse/bloghouse-edbanger-gemini-02.png) |
+| *博客浩室概念* | *Ed Banger Records 派对* |
+
 **推荐图片来源**：
 - Ed Banger Records 官方视觉档案
 - So Me 的插画作品集

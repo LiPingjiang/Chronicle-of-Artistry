@@ -95,8 +95,12 @@
 
 ## 图片画廊
 
-<!-- 存放于 assets/artworks/dreamcore/ -->
-> 待补充：阈限空间走廊、Backrooms黄色房间、梦核粉色场景、怪核拼贴
+<!-- 存放于 assets/artworks/dreamcore-weirdcore/ -->
+
+| | |
+|:---:|:---:|
+| ![梦核概念图](../assets/artworks/dreamcore-weirdcore/dreamcore-weirdcore-aesthetic-gemini-01.png) | ![阈限走廊](../assets/artworks/dreamcore-weirdcore/dreamcore-hallway-gemini-02.png) |
+| *梦核超现实空间* | *无尽走廊 · 阈限空间* |
 
 ## 延伸阅读
 

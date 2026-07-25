@@ -60,7 +60,10 @@
 
 ## 图片画廊
 
-> 待生成补充
+| | |
+|:---:|:---:|
+| ![Harajuku Y2K概念图](../assets/artworks/harajuku-y2k/harajuku-y2k-aesthetic-gemini-01.png) | |
+| *原宿千禧风 · Decora发夹与彩虹层叠* | |
 
 ## 延伸阅读
 

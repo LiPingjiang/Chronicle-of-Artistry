@@ -84,6 +84,11 @@ Vectorheart 与 Metalheart 同属Y2K时代的数字设计风格，但二者有�
 
 <!-- 图片存放于 assets/artworks/vectorheart/ -->
 
+| | |
+|:---:|:---:|
+| ![Vectorheart概念图](../assets/artworks/vectorheart/vectorheart-aesthetic-gemini-01.png) | ![TDR风格](../assets/artworks/vectorheart/vectorheart-tdr-gemini-02.png) |
+| *矢量心概念* | *The Designers Republic 风格* |
+
 **推荐图片来源**：
 - [The Designers Republic 官网 Wipeout 项目页](https://www.thedesignersrepublic.com/project/wipeout)
 - [CARI Institute: Vectorheart](https://cari.institute/aesthetics/vectorheart)

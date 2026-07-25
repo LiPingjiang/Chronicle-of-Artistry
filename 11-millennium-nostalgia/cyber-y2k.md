@@ -59,7 +59,10 @@ Cyber Y2K 是**技术乌托邦主义的视觉化**。在互联网泡沫破裂之
 
 ## 图片画廊
 
-> 待生成补充
+| | |
+|:---:|:---:|
+| ![Cyber Y2K概念图](../assets/artworks/cyber-y2k/cyber-y2k-aesthetic-gemini-01.png) | |
+| *赛博千禧风 · PVC与铬银未来* | |
 
 ## 延伸阅读
 
