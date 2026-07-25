@@ -6,7 +6,7 @@
 
 ## 📖 阅读指南
 
-本章收录了 **35 种**互联网时代的视觉风格。你可以按分类浏览，也可以从第一篇开始顺序阅读——每篇文档底部都有"上一篇 / 下一篇"导航。
+本章收录了 **38 种**互联网时代的视觉风格。你可以按分类浏览，也可以从第一篇开始顺序阅读——每篇文档底部都有"上一篇 / 下一篇"导航。
 
 ---
 
@@ -86,6 +86,9 @@
 | 33 | [Bubblegum Dance 泡泡糖舞曲](bubblegum-dance.md) | 1996–2005 | 糖果色跳舞机、Aqua、纯粹的身体快乐 |
 | 34 | [Trillwave](trillwave.md) | 2012–至今 | 紫色迷雾中的街头幻觉——Vaporwave×南方嘻哈 |
 | 35 | [Kidcore 童年核](kidcore.md) | 2019–至今 | Lisa Frank彩虹、塑料玩具、拒绝长大 |
+| 36 | [Liminal Space 阈限空间](liminal-space.md) | 2019–至今 | 空无一人的走廊、Backrooms、记忆的幽灵 |
+| 37 | [Hyperpop Visual 超流行视觉](hyperpop.md) | 2015–至今 | 故障艺术、极端饱和、流行文化的加速崩溃 |
+| 38 | [Nostalgiacore / Hauntology](nostalgiacore.md) | 2006–至今 | 从未到来的未来、VHS幽灵、Mark Fisher |
 
 ---
 
