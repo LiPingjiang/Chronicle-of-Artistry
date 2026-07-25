@@ -44,7 +44,7 @@
 
 > 20世纪末至21世纪初的怀旧浪潮——当互联网一代尚未老去就开始追忆过去。
 
-这是本书目前最完整的章节，收录了 **45 种**互联网时代的视觉风格。
+这是本书目前最完整的章节，收录了 **49 种**互联网时代的视觉风格。
 
 ### 核心风格
 
@@ -66,9 +66,12 @@
 | [Barbiecore 芭比核](11-millennium-nostalgia/barbiecore.md) | 2000s/2022回潮 | 粉色即权力——从 Paris Hilton 到 Barbie 电影 |
 | [Indie Sleaze 独立邋遢](11-millennium-nostalgia/indie-sleaze.md) | 2006–2014 | 闪光灯派对、American Apparel、经济衰退下的享乐 |
 | [Twee 小清新独立](11-millennium-nostalgia/twee.md) | 2009–2014 | Peter Pan 领、复古自行车、Wes Anderson 色板 |
+| [Pale Grunge 苍白垃圾摇滚](11-millennium-nostalgia/pale-grunge.md) | 2012–2016 | Tumblr 2013：把 Nirvana 的愤怒稀释成一杯冰美式 |
 | [Scene 场景文化](11-millennium-nostalgia/scene.md) | 2006–2013 | 霓虹色头发、MySpace、硬核音乐圈的时尚分支 |
 | [Emo 情绪核](11-millennium-nostalgia/emo.md) | 2003–2012 | 斜刘海、黑色眼线、MySpace 镜子自拍 |
 | [E-Girl / E-Boy](11-millennium-nostalgia/egirl-eboy.md) | 2018–至今 | TikTok 时代的数字原住民亚文化——Emo 的转世 |
+| [Soft Girl 软妹风](11-millennium-nostalgia/soft-girl.md) | 2019–至今 | 粉色云朵、蝴蝶发夹——TikTok 最甜的视觉糖果 |
+| [Normcore 正常核](11-millennium-nostalgia/normcore.md) | 2013–2017 | 故意穿得像你爸——"没有风格"本身成为风格 |
 | [Surf Crush 冲浪甜心](11-millennium-nostalgia/surf-crush.md) | 1999–2008 | 南加州海滩风、Hollister、《The O.C.》 |
 | [Mall Goth 商场哥特](11-millennium-nostalgia/mall-goth.md) | 1998–2008 | Hot Topic、Tripp NYC绑带裤、新金属 |
 | [Cybergoth 赛博哥特](11-millennium-nostalgia/cybergoth.md) | 1999–2012 | 荧光假发辫、防毒面具、工业舞蹈 |
@@ -93,6 +96,7 @@
 | 风格 | 时期 | 一句话 |
 |------|------|--------|
 | [Gen X Soft Club](11-millennium-nostalgia/gen-x-soft-club.md) | 1990s末–2000s初 | 机场阈限空间、冷色极简、都市疏离 |
+| [Frasurbane 郊区怀旧](11-millennium-nostalgia/frasurbane.md) | 怀念1993–2004 | 90年代情景喜剧里那个永远不会变的客厅 |
 | [Mallsoft 商场波](11-millennium-nostalgia/mallsoft.md) | 怀念1980s–2000s | 空旷走廊的回声、Muzak 失真、消费主义的幽灵 |
 
 ### 互联网原生美学
@@ -153,7 +157,7 @@
 
 | 章节 | 状态 |
 |------|------|
-| 千禧怀旧美学 (11) | ██████████ 45篇完成 |
+| 千禧怀旧美学 (11) | ██████████ 49篇完成 |
 | 古代 – 当代 (01-08) | ░░░░░░░░░░ 框架已建 |
 | 东方艺术 (09) | ░░░░░░░░░░ 框架已建 |
 | 跨时代专题 (10) | ░░░░░░░░░░ 框架已建 |
