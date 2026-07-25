@@ -6,6 +6,8 @@
 
 ![Pixel Art 概念图](../assets/artworks/pixel-art/pixel-art-concept-01.png)
 
+![Pixel Art — 等距像素城市](../assets/artworks/pixel-art/pixel-art-concept-02.png)
+
 ---
 
 ## 一句话定义

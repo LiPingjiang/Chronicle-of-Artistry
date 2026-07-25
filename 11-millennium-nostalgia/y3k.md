@@ -6,6 +6,8 @@
 
 ![Y3K 概念图](../assets/artworks/y3k/y3k-concept-01.png)
 
+![Y3K — 后人类时装](../assets/artworks/y3k/y3k-concept-02.png)
+
 ---
 
 ## 一句话定义

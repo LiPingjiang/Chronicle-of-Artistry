@@ -6,6 +6,8 @@
 
 ![Kidcore 概念图](../assets/artworks/kidcore/kidcore-concept-01.png)
 
+![Kidcore — 90s 玩具房间](../assets/artworks/kidcore/kidcore-concept-02.png)
+
 ---
 
 ## 一句话定义

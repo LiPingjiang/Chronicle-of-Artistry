@@ -6,6 +6,8 @@
 
 ![Glitter Graphics 概念图](../assets/artworks/glitter-graphics/glitter-graphics-concept-01.png)
 
+![Glitter Graphics — Blingee 风格](../assets/artworks/glitter-graphics/glitter-graphics-concept-02.png)
+
 ---
 
 ## 一句话定义
