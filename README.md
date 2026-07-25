@@ -44,7 +44,7 @@
 
 > 20世纪末至21世纪初的怀旧浪潮——当互联网一代尚未老去就开始追忆过去。
 
-这是本书目前最完整的章节，收录了 **109 种**互联网时代的视觉风格。
+这是本书目前最完整的章节，收录了 **112 种**互联网时代的视觉风格。
 
 ### 核心风格
 
@@ -58,6 +58,9 @@
 | [Frutiger Metro / Vectordelia](11-millennium-nostalgia/frutiger-metro.md) | 2005–2012 | 矢量迷幻风，耳机剪影放射线，商场的青春记忆 |
 | [梦核与怪核 Dreamcore](11-millennium-nostalgia/dreamcore-weirdcore.md) | 2019–至今 | 阈限空间中的超现实怀旧 |
 | [酸性设计 Acid Graphics](11-millennium-nostalgia/acid-graphics.md) | 2018–至今 | 扭曲金属、液态铬、极端排版 |
+| [Memphis Design 孟菲斯设计](11-millennium-nostalgia/memphis-design.md) | 1981–1988/2010s复兴 | 几何碰撞、色彩爆炸——1980年代最叛逆的设计运动 |
+| [Pop Art Revival 波普艺术复兴](11-millennium-nostalgia/pop-art-revival.md) | 1950s–至今 | Ben-Day网点、漫画气泡——安迪·沃霍尔的数字时代重生 |
+| [Minimalist Digital 数字极简](11-millennium-nostalgia/minimalist-digital.md) | 2010s–至今 | 一个颜色、一种字体、大量留白——少即是多 |
 
 ### 时尚与亚文化
 
@@ -224,7 +227,7 @@
 
 | 章节 | 状态 |
 |------|------|
-| 千禧怀旧美学 (11) | ██████████ 109篇完成 |
+| 千禧怀旧美学 (11) | ██████████ 112篇完成 |
 | 古代 – 当代 (01-08) | ░░░░░░░░░░ 框架已建 |
 | 东方艺术 (09) | ░░░░░░░░░░ 框架已建 |
 | 跨时代专题 (10) | ░░░░░░░░░░ 框架已建 |
