@@ -6,6 +6,8 @@
 
 ![Nostalgiacore 概念图](../assets/artworks/nostalgiacore/nostalgiacore-concept-01.png)
 
+![Nostalgiacore — 失落的未来](../assets/artworks/nostalgiacore/nostalgiacore-concept-02.png)
+
 ---
 
 ## 一句话定义

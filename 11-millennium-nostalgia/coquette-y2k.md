@@ -2,6 +2,8 @@
 
 ![Coquette Y2K — AI生成概念图](../assets/artworks/coquette-y2k/coquette-y2k-aesthetic-gemini-01.png)
 
+![Coquette Y2K — 蝴蝶结与珍珠](../assets/artworks/coquette-y2k/coquette-y2k-concept-02.png)
+
 ## 概述
 
 - **时间跨度**：2000s 起源，2020s 大规模回潮

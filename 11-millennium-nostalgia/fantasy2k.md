@@ -2,6 +2,8 @@
 
 ![FantasY2K — AI生成概念图](../assets/artworks/fantasy2k/fantasy2k-aesthetic-gemini-01.png)
 
+![FantasY2K — 奇幻千禧混搭](../assets/artworks/fantasy2k/fantasy2k-concept-02.png)
+
 ## 概述
 
 - **时间跨度**：2000 – 2010（回潮：2020s）
