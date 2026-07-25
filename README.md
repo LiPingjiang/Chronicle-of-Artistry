@@ -44,7 +44,7 @@
 
 > 20世纪末至21世纪初的怀旧浪潮——当互联网一代尚未老去就开始追忆过去。
 
-这是本书目前最完整的章节，收录了 **38 种**互联网时代的视觉风格。
+这是本书目前最完整的章节，收录了 **43 种**互联网时代的视觉风格。
 
 ### 核心风格
 
@@ -63,11 +63,15 @@
 | 风格 | 时期 | 一句话 |
 |------|------|--------|
 | [McBling 千禧闪耀](11-millennium-nostalgia/mcbling.md) | 2003–2008 | Paris Hilton、水钻、天鹅绒运动套装 |
+| [Barbiecore 芭比核](11-millennium-nostalgia/barbiecore.md) | 2000s/2022回潮 | 粉色即权力——从 Paris Hilton 到 Barbie 电影 |
 | [Indie Sleaze 独立邋遢](11-millennium-nostalgia/indie-sleaze.md) | 2006–2014 | 闪光灯派对、American Apparel、经济衰退下的享乐 |
 | [Scene 场景文化](11-millennium-nostalgia/scene.md) | 2006–2013 | 霓虹色头发、MySpace、硬核音乐圈的时尚分支 |
 | [Emo 情绪核](11-millennium-nostalgia/emo.md) | 2003–2012 | 斜刘海、黑色眼线、MySpace 镜子自拍 |
 | [Surf Crush 冲浪甜心](11-millennium-nostalgia/surf-crush.md) | 1999–2008 | 南加州海滩风、Hollister、《The O.C.》 |
 | [Mall Goth 商场哥特](11-millennium-nostalgia/mall-goth.md) | 1998–2008 | Hot Topic、Tripp NYC绑带裤、新金属 |
+| [Cybergoth 赛博哥特](11-millennium-nostalgia/cybergoth.md) | 1999–2012 | 荧光假发辫、防毒面具、工业舞蹈 |
+| [Pastel Goth 粉彩哥特](11-millennium-nostalgia/pastel-goth.md) | 2010–2016 | 把死亡染成粉色——哥特遇见 Kawaii |
+| [Dark Y2K 暗黑千禧](11-millennium-nostalgia/dark-y2k.md) | 1999–2004 | Y2K 的阴影面——黑色PVC与银色链条 |
 
 ### 数字设计与科幻
 
@@ -96,6 +100,7 @@
 | [Webcore / Old Web](11-millennium-nostalgia/webcore.md) | 1995–2005 | 动态GIF、访客计数器、霓虹背景的野生互联网 |
 | [Glitter Graphics / Blingee](11-millennium-nostalgia/glitter-graphics.md) | 2005–2013 | 闪光贴纸、动态星星、MySpace 的数字民间艺术 |
 | [Seapunk 海洋朋克](11-millennium-nostalgia/seapunk.md) | 2011–2013 | 海豚+3D渲染+青色——第一个互联网原生美学运动 |
+| [Animecore 动漫核](11-millennium-nostalgia/animecore.md) | 2000s/2018–至今 | CRT屏幕上的动漫截图——低保真高热情的二次元怀旧 |
 | [Kidcore 童年核](11-millennium-nostalgia/kidcore.md) | 2019–至今 | Lisa Frank彩虹、塑料玩具、拒绝长大 |
 
 ### 氛围与理论
@@ -146,7 +151,7 @@
 
 | 章节 | 状态 |
 |------|------|
-| 千禧怀旧美学 (11) | ██████████ 38篇完成 |
+| 千禧怀旧美学 (11) | ██████████ 43篇完成 |
 | 古代 – 当代 (01-08) | ░░░░░░░░░░ 框架已建 |
 | 东方艺术 (09) | ░░░░░░░░░░ 框架已建 |
 | 跨时代专题 (10) | ░░░░░░░░░░ 框架已建 |
