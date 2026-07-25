@@ -6,7 +6,7 @@
 
 ## 📖 阅读指南
 
-本章收录了 **20 种**互联网时代的视觉风格。你可以按分类浏览，也可以从第一篇开始顺序阅读——每篇文档底部都有"上一篇 / 下一篇"导航。
+本章收录了 **25 种**互联网时代的视觉风格。你可以按分类浏览，也可以从第一篇开始顺序阅读——每篇文档底部都有"上一篇 / 下一篇"导航。
 
 ---
 
@@ -58,13 +58,25 @@
 |---|------|------|--------|
 | 20 | [Gen X Soft Club](gen-x-soft-club.md) | 1990s末–2000s初 | 机场阈限空间、冷色极简、都市疏离 |
 
+## Y2K 扩展宇宙
+
+千禧美学的地域变体、时尚分支与跨界混搭。
+
+| # | 风格 | 时期 | 一句话 |
+|---|------|------|--------|
+| 21 | [FantasY2K 奇幻千禧](fantasy2k.md) | 2000–2010 | 中世纪奇幻+千禧时尚的kitsch混搭 |
+| 22 | [Coquette Y2K 千禧甜心](coquette-y2k.md) | 2000s/2020s回潮 | 蝴蝶结、蕾丝、珍珠——温柔版Y2K |
+| 23 | [Nu-Rave 新锐舞](nu-rave.md) | 2006–2009 | 荧光涂料+独立摇滚+UV灯光派对 |
+| 24 | [Harajuku Y2K 原宿千禧](harajuku-y2k.md) | 2000–2015 | 日本街头的Kawaii层叠爆炸 |
+| 25 | [Cyber Y2K 赛博千禧](cyber-y2k.md) | 1997–2004 | PVC、铬银、iMac G3——技术乌托邦的极致 |
+
 ---
 
 ## 顺序阅读路线
 
 如果你想从头到尾读完，按以下顺序：
 
-> Y2K → Vaporwave → Synthwave → Frutiger Aero → Frutiger Metro → Dreamcore → Acid Graphics → McBling → Indie Sleaze → Scene → Surf Crush → Metalheart → Cassette Futurism → Electropop 08 → Gen X Soft Club → Vectorheart → Chromecore → 90s Cool → Mall Goth → Bloghouse
+> Y2K → Vaporwave → Synthwave → Frutiger Aero → Frutiger Metro → Dreamcore → Acid Graphics → McBling → Indie Sleaze → Scene → Surf Crush → Metalheart → Cassette Futurism → Electropop 08 → Gen X Soft Club → Vectorheart → Chromecore → 90s Cool → Mall Goth → Bloghouse → FantasY2K → Coquette Y2K → Nu-Rave → Harajuku Y2K → Cyber Y2K
 
 每篇底部都有 `← 上一篇 | → 下一篇` 链接，无需返回本页。
 
@@ -84,7 +96,7 @@
 
 ## 关键词索引
 
-`Y2K` `千禧风` `蒸汽波` `合成器浪潮` `Frutiger Aero` `Frutiger Metro` `Vectordelia` `梦核` `怪核` `阈限空间` `酸性设计` `复古未来主义` `霓虹` `低保真` `McBling` `Indie Sleaze` `Scene` `Surf Crush` `Metalheart` `Vectorheart` `Chromecore` `90s Cool` `Matrix Effect` `Mall Goth` `Bloghouse` `Cassette Futurism` `Electropop 08` `Gen X Soft Club`
+`Y2K` `千禧风` `蒸汽波` `合成器浪潮` `Frutiger Aero` `Frutiger Metro` `Vectordelia` `梦核` `怪核` `阈限空间` `酸性设计` `复古未来主义` `霓虹` `低保真` `McBling` `Indie Sleaze` `Scene` `Surf Crush` `Metalheart` `Vectorheart` `Chromecore` `90s Cool` `Matrix Effect` `Mall Goth` `Bloghouse` `Cassette Futurism` `Electropop 08` `Gen X Soft Club` `FantasY2K` `Coquette` `Nu-Rave` `Harajuku` `Cyber Y2K` `Decora` `Kawaii`
 
 ---
 
