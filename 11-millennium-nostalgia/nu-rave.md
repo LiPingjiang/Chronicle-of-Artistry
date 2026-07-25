@@ -2,6 +2,8 @@
 
 ![Nu-Rave — AI生成概念图](../assets/artworks/nu-rave/nu-rave-aesthetic-gemini-01.png)
 
+![Nu-Rave — UV荧光派对](../assets/artworks/nu-rave/nu-rave-concept-02.png)
+
 ## 概述
 
 - **时间跨度**：2006 – 2009

@@ -2,6 +2,8 @@
 
 ![Cyber Y2K — AI生成概念图](../assets/artworks/cyber-y2k/cyber-y2k-aesthetic-gemini-01.png)
 
+![Cyber Y2K — iMac与PVC](../assets/artworks/cyber-y2k/cyber-y2k-concept-02.png)
+
 ## 概述
 
 - **时间跨度**：1997 – 2004（回潮：2020s）

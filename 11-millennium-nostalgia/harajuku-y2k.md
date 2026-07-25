@@ -2,6 +2,8 @@
 
 ![Harajuku Y2K — AI生成概念图](../assets/artworks/harajuku-y2k/harajuku-y2k-aesthetic-gemini-01.png)
 
+![Harajuku Y2K — 原宿街拍](../assets/artworks/harajuku-y2k/harajuku-y2k-concept-02.png)
+
 ## 概述
 
 - **时间跨度**：2000 – 2015

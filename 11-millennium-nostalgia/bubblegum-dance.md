@@ -6,6 +6,8 @@
 
 ![Bubblegum Dance 概念图](../assets/artworks/bubblegum-dance/bubblegum-dance-concept-01.png)
 
+![Bubblegum Dance — DDR 跳舞机](../assets/artworks/bubblegum-dance/bubblegum-dance-concept-02.png)
+
 ---
 
 ## 一句话定义
