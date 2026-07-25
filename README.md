@@ -44,7 +44,7 @@
 
 > 20世纪末至21世纪初的怀旧浪潮——当互联网一代尚未老去就开始追忆过去。
 
-这是本书目前最完整的章节，收录了 **88 种**互联网时代的视觉风格。
+这是本书目前最完整的章节，收录了 **95 种**互联网时代的视觉风格。
 
 ### 核心风格
 
@@ -66,6 +66,8 @@
 | [McBling 千禧闪耀](11-millennium-nostalgia/mcbling.md) | 2003–2008 | Paris Hilton、水钻、天鹅绒运动套装 |
 | [Barbiecore 芭比核](11-millennium-nostalgia/barbiecore.md) | 2000s/2022回潮 | 粉色即权力——从 Paris Hilton 到 Barbie 电影 |
 | [Indie Sleaze 独立邋遢](11-millennium-nostalgia/indie-sleaze.md) | 2006–2014 | 闪光灯派对、American Apparel、经济衰退下的享乐 |
+| [Grunge Revival 垃圾摇滚复兴](11-millennium-nostalgia/grunge-revival.md) | 2018–至今 | Kurt Cobain的法兰绒回到Zara货架——90s愤怒的2020s重生 |
+| [Trashy Y2K 垃圾千禧](11-millennium-nostalgia/trashy-y2k.md) | 2000–2007 | 低腰牛仔裤、Von Dutch卡车帽——2000年代最不体面也最自由的时刻 |
 | [Twee 小清新独立](11-millennium-nostalgia/twee.md) | 2009–2014 | Peter Pan 领、复古自行车、Wes Anderson 色板 |
 | [Indie Kid 独立小孩](11-millennium-nostalgia/indie-kid.md) | 2020–至今 | 彩色珠串、扎染卫衣——TikTok 对独立文化的甜美重塑 |
 | [Pale Grunge 苍白垃圾摇滚](11-millennium-nostalgia/pale-grunge.md) | 2012–2016 | Tumblr 2013：把 Nirvana 的愤怒稀释成一杯冰美式 |
@@ -90,6 +92,8 @@
 | [Chromecore 铬核](11-millennium-nostalgia/chromecore.md) | 1998–2007 | CD/DVD/数码相机的银灰金属质感 |
 | [90s Cool / Matrix Effect](11-millennium-nostalgia/90s-cool.md) | 1995–2003 | 黑色皮衣、子弹时间、Oakley墨镜 |
 | [Cassette Futurism 磁带未来主义](11-millennium-nostalgia/cassette-futurism.md) | 回望1970s–90s | CRT显示器、物理按键、方盒子里的未来 |
+| [Retrofuturism 复古未来主义](11-millennium-nostalgia/retrofuturism.md) | 1950s–1970s/2010s复兴 | 飞行汽车、银色连体衣——1960年代想象的2000年 |
+| [Cyberpunk 赛博朋克](11-millennium-nostalgia/cyberpunk.md) | 1980s–至今 | 高科技低生活——霓虹雨夜中的义体改造人 |
 | [Pixel Art 像素艺术](11-millennium-nostalgia/pixel-art.md) | 1970s–至今 | 方块与有限色彩中的无限表现力 |
 | [Electropop 08 衰退流行](11-millennium-nostalgia/electropop-08.md) | 2008–2013 | 霓虹派对、Lady Gaga、Avantropop 设计 |
 | [Bloghouse 博客浩室](11-millennium-nostalgia/bloghouse.md) | 2005–2012 | Ed Banger、Justice、MySpace电子音乐传播 |
@@ -129,10 +133,13 @@
 | [Nautical 航海风](11-millennium-nostalgia/nautical.md) | 经典设计语言 | 蓝白条纹、黄铜罗盘——大海永远在召唤 |
 | [Japandi 日式北欧](11-millennium-nostalgia/japandi.md) | 2018–至今 | 侘寂遇见Hygge——日本的空与北欧的暖的平衡 |
 | [Grandmacore 奶奶核](11-millennium-nostalgia/grandmacore.md) | 2020–至今 | 碎花沙发、手钩桌布——奶奶的客厅才是避风港 |
+| [Cottagecore Dark 暗黑田园核](11-millennium-nostalgia/cottagecore-dark.md) | 2020–至今 | 毒蘑菇、乌鸦、荆棘——田园生活美丽而危险的另一面 |
+| [Dark Romantic 暗黑浪漫](11-millennium-nostalgia/dark-romantic.md) | 哥特文学起源/2020s复兴 | 枯萎玫瑰、天鹅绒与烛光——在黑暗中寻找美 |
 | [Mermaidcore 美人鱼核](11-millennium-nostalgia/mermaidcore.md) | 2012–至今 | 鳞片闪光、珍珠发饰——每个人心里都住着一条美人鱼 |
 | [Steampunk 蒸汽朋克](11-millennium-nostalgia/steampunk.md) | 1980s–至今 | 齿轮、黄铜和永不存在的维多利亚未来 |
 | [Solarpunk 太阳朋克](11-millennium-nostalgia/solarpunk.md) | 2014–至今 | 藤蔓缠绕的太阳能城市——乐观的生态未来 |
 | [Dopamine Dressing 多巴胺穿搭](11-millennium-nostalgia/dopamine-dressing.md) | 2021–至今 | 穿得像一包彩虹糖——后疫情的色彩爆发 |
+| [Maximalism 极繁主义](11-millennium-nostalgia/maximalism.md) | 2019–至今 | 更多就是更多——当极简主义让你窒息 |
 | [Soft Girl 软妹风](11-millennium-nostalgia/soft-girl.md) | 2019–至今 | 粉色云朵、蝴蝶发夹——TikTok 最甜的视觉糖果 |
 | [Normcore 正常核](11-millennium-nostalgia/normcore.md) | 2013–2017 | 故意穿得像你爸——"没有风格"本身成为风格 |
 | [Frasurbane 郊区怀旧](11-millennium-nostalgia/frasurbane.md) | 怀念1993–2004 | 90年代情景喜剧里那个永远不会变的客厅 |
@@ -202,7 +209,7 @@
 
 | 章节 | 状态 |
 |------|------|
-| 千禧怀旧美学 (11) | ██████████ 88篇完成 |
+| 千禧怀旧美学 (11) | ██████████ 95篇完成 |
 | 古代 – 当代 (01-08) | ░░░░░░░░░░ 框架已建 |
 | 东方艺术 (09) | ░░░░░░░░░░ 框架已建 |
 | 跨时代专题 (10) | ░░░░░░░░░░ 框架已建 |
