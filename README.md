@@ -44,7 +44,7 @@
 
 > 20世纪末至21世纪初的怀旧浪潮——当互联网一代尚未老去就开始追忆过去。
 
-这是本书目前最完整的章节，收录了 **58 种**互联网时代的视觉风格。
+这是本书目前最完整的章节，收录了 **61 种**互联网时代的视觉风格。
 
 ### 核心风格
 
@@ -104,6 +104,9 @@
 | [Goblincore 哥布林核](11-millennium-nostalgia/goblincore.md) | 2019–至今 | 捡石头、看蘑菇——拒绝"漂亮"，拥抱"有趣" |
 | [Old Money 老钱风](11-millennium-nostalgia/old-money.md) | 2022–2023爆发 | 无logo、完美剪裁——真正的有钱人不需要证明 |
 | [Clean Girl 干净女孩](11-millennium-nostalgia/clean-girl.md) | 2021–至今 | 看起来什么都没用——实际上用了12个产品 |
+| [Regencycore 摄政核](11-millennium-nostalgia/regencycore.md) | 2020–至今 | 《布里奇顿》让全世界想穿帝政腰线裙喝下午茶 |
+| [Witchcore 巫术核](11-millennium-nostalgia/witchcore.md) | 2015/2020爆发 | 月亮、水晶、塔罗牌——"女巫"成为自我赋权 |
+| [Dopamine Dressing 多巴胺穿搭](11-millennium-nostalgia/dopamine-dressing.md) | 2021–至今 | 穿得像一包彩虹糖——后疫情的色彩爆发 |
 | [Soft Girl 软妹风](11-millennium-nostalgia/soft-girl.md) | 2019–至今 | 粉色云朵、蝴蝶发夹——TikTok 最甜的视觉糖果 |
 | [Normcore 正常核](11-millennium-nostalgia/normcore.md) | 2013–2017 | 故意穿得像你爸——"没有风格"本身成为风格 |
 | [Frasurbane 郊区怀旧](11-millennium-nostalgia/frasurbane.md) | 怀念1993–2004 | 90年代情景喜剧里那个永远不会变的客厅 |
@@ -173,7 +176,7 @@
 
 | 章节 | 状态 |
 |------|------|
-| 千禧怀旧美学 (11) | ██████████ 58篇完成 |
+| 千禧怀旧美学 (11) | ██████████ 61篇完成 |
 | 古代 – 当代 (01-08) | ░░░░░░░░░░ 框架已建 |
 | 东方艺术 (09) | ░░░░░░░░░░ 框架已建 |
 | 跨时代专题 (10) | ░░░░░░░░░░ 框架已建 |
