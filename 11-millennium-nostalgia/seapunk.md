@@ -4,7 +4,7 @@
 > **活跃年代**：2011 – 2013（原生期）；偶有回潮  
 > **起源**：Twitter/Tumblr 亚文化
 
-![Seapunk 概念图](../assets/artworks/seapunk-concept-01.png)
+![Seapunk 概念图](../assets/artworks/seapunk/seapunk-concept-01.png)
 
 ---
 

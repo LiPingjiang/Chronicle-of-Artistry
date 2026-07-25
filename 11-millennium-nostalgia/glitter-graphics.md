@@ -4,7 +4,7 @@
 > **活跃年代**：2005 – 2013  
 > **核心平台**：Blingee、Glitter-Graphics.com、PhotoBucket、MySpace
 
-![Glitter Graphics 概念图](../assets/artworks/glitter-graphics-concept-01.png)
+![Glitter Graphics 概念图](../assets/artworks/glitter-graphics/glitter-graphics-concept-01.png)
 
 ---
 

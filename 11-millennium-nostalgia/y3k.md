@@ -4,7 +4,7 @@
 > **活跃年代**：2023 – 至今  
 > **核心领域**：高端时尚、MV 视觉、社交媒体美学
 
-![Y3K 概念图](../assets/artworks/y3k-concept-01.png)
+![Y3K 概念图](../assets/artworks/y3k/y3k-concept-01.png)
 
 ---
 

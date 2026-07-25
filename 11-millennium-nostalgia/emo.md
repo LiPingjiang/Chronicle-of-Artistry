@@ -4,7 +4,7 @@
 > **活跃年代**：2003 – 2012（巅峰期）；2020s 回潮  
 > **核心平台**：MySpace、LiveJournal、Photobucket
 
-![Emo 概念图](../assets/artworks/emo-concept-01.png)
+![Emo 概念图](../assets/artworks/emo/emo-concept-01.png)
 
 ---
 

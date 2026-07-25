@@ -4,7 +4,7 @@
 > **活跃年代**：1995 – 2005（原生期）；2018 – 至今（怀旧复兴期）  
 > **关键平台**：GeoCities、Angelfire、Tripod、早期论坛、个人主页
 
-![Webcore 概念图](../assets/artworks/webcore-concept-01.png)
+![Webcore 概念图](../assets/artworks/webcore/webcore-concept-01.png)
 
 ---
 

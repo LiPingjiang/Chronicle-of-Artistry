@@ -4,7 +4,7 @@
 > **活跃年代**：1970s – 至今（持续演化）  
 > **关键节点**：1970s 街机 → 1980s-90s 游戏黄金期 → 2010s 独立游戏复兴 → 2020s NFT/品牌应用
 
-![Pixel Art 概念图](../assets/artworks/pixel-art-concept-01.png)
+![Pixel Art 概念图](../assets/artworks/pixel-art/pixel-art-concept-01.png)
 
 ---
 

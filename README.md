@@ -44,7 +44,7 @@
 
 > 20世纪末至21世纪初的怀旧浪潮——当互联网一代尚未老去就开始追忆过去。
 
-这是本书目前最完整的章节，收录了 **25 种**互联网时代的视觉风格。
+这是本书目前最完整的章节，收录了 **35 种**互联网时代的视觉风格。
 
 ### 核心风格
 
@@ -65,6 +65,7 @@
 | [McBling 千禧闪耀](11-millennium-nostalgia/mcbling.md) | 2003–2008 | Paris Hilton、水钻、天鹅绒运动套装 |
 | [Indie Sleaze 独立邋遢](11-millennium-nostalgia/indie-sleaze.md) | 2006–2014 | 闪光灯派对、American Apparel、经济衰退下的享乐 |
 | [Scene 场景文化](11-millennium-nostalgia/scene.md) | 2006–2013 | 霓虹色头发、MySpace、硬核音乐圈的时尚分支 |
+| [Emo 情绪核](11-millennium-nostalgia/emo.md) | 2003–2012 | 斜刘海、黑色眼线、MySpace 镜子自拍 |
 | [Surf Crush 冲浪甜心](11-millennium-nostalgia/surf-crush.md) | 1999–2008 | 南加州海滩风、Hollister、《The O.C.》 |
 | [Mall Goth 商场哥特](11-millennium-nostalgia/mall-goth.md) | 1998–2008 | Hot Topic、Tripp NYC绑带裤、新金属 |
 
@@ -77,6 +78,7 @@
 | [Chromecore 铬核](11-millennium-nostalgia/chromecore.md) | 1998–2007 | CD/DVD/数码相机的银灰金属质感 |
 | [90s Cool / Matrix Effect](11-millennium-nostalgia/90s-cool.md) | 1995–2003 | 黑色皮衣、子弹时间、Oakley墨镜 |
 | [Cassette Futurism 磁带未来主义](11-millennium-nostalgia/cassette-futurism.md) | 回望1970s–90s | CRT显示器、物理按键、方盒子里的未来 |
+| [Pixel Art 像素艺术](11-millennium-nostalgia/pixel-art.md) | 1970s–至今 | 方块与有限色彩中的无限表现力 |
 | [Electropop 08 衰退流行](11-millennium-nostalgia/electropop-08.md) | 2008–2013 | 霓虹派对、Lady Gaga、Avantropop 设计 |
 | [Bloghouse 博客浩室](11-millennium-nostalgia/bloghouse.md) | 2005–2012 | Ed Banger、Justice、MySpace电子音乐传播 |
 
@@ -85,6 +87,16 @@
 | 风格 | 时期 | 一句话 |
 |------|------|--------|
 | [Gen X Soft Club](11-millennium-nostalgia/gen-x-soft-club.md) | 1990s末–2000s初 | 机场阈限空间、冷色极简、都市疏离 |
+| [Mallsoft 商场波](11-millennium-nostalgia/mallsoft.md) | 怀念1980s–2000s | 空旷走廊的回声、Muzak 失真、消费主义的幽灵 |
+
+### 互联网原生美学
+
+| 风格 | 时期 | 一句话 |
+|------|------|--------|
+| [Webcore / Old Web](11-millennium-nostalgia/webcore.md) | 1995–2005 | 动态GIF、访客计数器、霓虹背景的野生互联网 |
+| [Glitter Graphics / Blingee](11-millennium-nostalgia/glitter-graphics.md) | 2005–2013 | 闪光贴纸、动态星星、MySpace 的数字民间艺术 |
+| [Seapunk 海洋朋克](11-millennium-nostalgia/seapunk.md) | 2011–2013 | 海豚+3D渲染+青色——第一个互联网原生美学运动 |
+| [Kidcore 童年核](11-millennium-nostalgia/kidcore.md) | 2019–至今 | Lisa Frank彩虹、塑料玩具、拒绝长大 |
 
 ### Y2K 扩展宇宙
 
@@ -95,6 +107,9 @@
 | [Nu-Rave 新锐舞](11-millennium-nostalgia/nu-rave.md) | 2006–2009 | 荧光涂料+独立摇滚+UV灯光派对 |
 | [Harajuku Y2K 原宿千禧](11-millennium-nostalgia/harajuku-y2k.md) | 2000–2015 | 日本街头的Kawaii层叠爆炸 |
 | [Cyber Y2K 赛博千禧](11-millennium-nostalgia/cyber-y2k.md) | 1997–2004 | PVC、铬银、iMac G3——技术乌托邦的极致 |
+| [Y3K 未来主义新浪潮](11-millennium-nostalgia/y3k.md) | 2023–至今 | 液态金属、机甲美学——Y2K的冷峻进化 |
+| [Bubblegum Dance 泡泡糖舞曲](11-millennium-nostalgia/bubblegum-dance.md) | 1996–2005 | 糖果色跳舞机、Aqua、纯粹的身体快乐 |
+| [Trillwave](11-millennium-nostalgia/trillwave.md) | 2012–至今 | 紫色迷雾中的街头幻觉——Vaporwave×南方嘻哈 |
 
 → [进入千禧怀旧章节完整目录](11-millennium-nostalgia/README.md)
 
@@ -123,7 +138,7 @@
 
 | 章节 | 状态 |
 |------|------|
-| 千禧怀旧美学 (11) | ██████████ 25篇完成 |
+| 千禧怀旧美学 (11) | ██████████ 35篇完成 |
 | 古代 – 当代 (01-08) | ░░░░░░░░░░ 框架已建 |
 | 东方艺术 (09) | ░░░░░░░░░░ 框架已建 |
 | 跨时代专题 (10) | ░░░░░░░░░░ 框架已建 |

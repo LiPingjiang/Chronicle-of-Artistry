@@ -4,7 +4,7 @@
 > **活跃年代**：2015 – 至今（作为怀旧美学）；怀念对象为 1980s – 2000s 的商场文化  
 > **起源**：Vaporwave 的子流派，后独立发展
 
-![Mallsoft 概念图](../assets/artworks/mallsoft-concept-01.png)
+![Mallsoft 概念图](../assets/artworks/mallsoft/mallsoft-concept-01.png)
 
 ---
 
