@@ -6,6 +6,8 @@
 
 ![Emo 概念图](../assets/artworks/emo/emo-concept-01.png)
 
+![Emo — MySpace 自拍](../assets/artworks/emo/emo-concept-02.png)
+
 ---
 
 ## 一句话定义

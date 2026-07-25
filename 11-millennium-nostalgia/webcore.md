@@ -6,6 +6,8 @@
 
 ![Webcore 概念图](../assets/artworks/webcore/webcore-concept-01.png)
 
+![Webcore — 90s 个人主页](../assets/artworks/webcore/webcore-concept-02.png)
+
 ---
 
 ## 一句话定义

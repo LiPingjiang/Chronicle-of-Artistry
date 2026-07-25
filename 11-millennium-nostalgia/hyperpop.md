@@ -6,6 +6,8 @@
 
 ![Hyperpop 概念图](../assets/artworks/hyperpop/hyperpop-concept-01.png)
 
+![Hyperpop — 液态铬面孔](../assets/artworks/hyperpop/hyperpop-concept-02.png)
+
 ---
 
 ## 一句话定义

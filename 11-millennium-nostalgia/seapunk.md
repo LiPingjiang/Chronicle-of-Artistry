@@ -6,6 +6,8 @@
 
 ![Seapunk 概念图](../assets/artworks/seapunk/seapunk-concept-01.png)
 
+![Seapunk — 数字海洋](../assets/artworks/seapunk/seapunk-concept-02.png)
+
 ---
 
 ## 一句话定义

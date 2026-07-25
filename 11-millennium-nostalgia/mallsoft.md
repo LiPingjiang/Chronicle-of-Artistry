@@ -6,6 +6,8 @@
 
 ![Mallsoft 概念图](../assets/artworks/mallsoft/mallsoft-concept-01.png)
 
+![Mallsoft — 废弃商场](../assets/artworks/mallsoft/mallsoft-concept-02.png)
+
 ---
 
 ## 一句话定义

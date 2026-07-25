@@ -6,6 +6,8 @@
 
 ![Liminal Space 概念图](../assets/artworks/liminal-space/liminal-space-concept-01.png)
 
+![Liminal Space — 空旷泳池](../assets/artworks/liminal-space/liminal-space-concept-02.png)
+
 ---
 
 ## 一句话定义
