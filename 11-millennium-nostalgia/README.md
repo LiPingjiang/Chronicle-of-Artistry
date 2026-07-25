@@ -8,6 +8,7 @@
 - [蒸汽波 Vaporwave](vaporwave.md) — 80/90年代消费主义的迷幻解构
 - [合成器浪潮 Synthwave / Retrowave](synthwave.md) — 对80年代黄金岁月的霓虹致敬
 - [Frutiger Aero](frutiger-aero.md) — Web 2.0 时代的水晶拟物风
+- [Frutiger Metro / Vectordelia](frutiger-metro.md) — 矢量迷幻风，耳机剪影放射线，2008年商场的青春记忆
 - [梦核与怪核 Dreamcore / Weirdcore](dreamcore-weirdcore.md) — 阈限空间中的超现实怀旧
 - [酸性设计 Acid Graphics](acid-graphics.md) — 扭曲金属、液态铬、极端排版
 
