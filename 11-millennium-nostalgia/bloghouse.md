@@ -103,4 +103,4 @@ Pedro Winter（Busy P）在巴黎创立的 Ed Banger Records 是 Bloghouse 的�
 
 ---
 
-[← Mall Goth](mall-goth.md) | [↑ 返回目录](README.md)
+[← Mall Goth](mall-goth.md) | [→ FantasY2K](fantasy2k.md) | [↑ 返回目录](README.md)
