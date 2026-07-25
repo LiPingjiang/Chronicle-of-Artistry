@@ -93,8 +93,10 @@ Frutiger Aero 代表了一个**被许诺但未实现的未来**：
 | *自然与科技的和谐 — 核心视觉* | *Windows Vista Aero Glass 风格* |
 | ![水下世界 — 热带鱼与气泡](../assets/artworks/frutiger-aero/frutiger-aero-underwater-gemini-03.png) | ![热气球与草地 — 自由与乐观](../assets/artworks/frutiger-aero/frutiger-aero-balloons-gemini-04.png) |
 | *水下生态 — Frutiger Eco 变体* | *热气球 — 自由与轻盈的象征* |
-| ![拟物化UI图标](../assets/artworks/frutiger-aero/frutiger-aero-skeuomorphic-gemini-05.png) | |
-| *iOS 6 时代的拟物化设计* | |
+| ![拟物化UI图标](../assets/artworks/frutiger-aero/frutiger-aero-skeuomorphic-gemini-05.png) | ![Nokia N系列广告风格](../assets/artworks/frutiger-aero/frutiger-aero-nokia-gemini-06.png) |
+| *iOS 6 时代的拟物化设计* | *Nokia N系列 — 科技与自然的广告语言* |
+| ![极光湖面 — Windows 7壁纸风](../assets/artworks/frutiger-aero/frutiger-aero-aurora-gemini-07.png) | ![光泽3D图标](../assets/artworks/frutiger-aero/frutiger-aero-icons-gemini-08.png) |
+| *极光湖面 — 数字自然景观* | *光泽拟物化图标群* |
 
 > 以上图片由 AI (Gemini 2.5 Flash Image) 生成，用于展示风格视觉特征。
 
