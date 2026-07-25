@@ -44,7 +44,7 @@
 
 > 20世纪末至21世纪初的怀旧浪潮——当互联网一代尚未老去就开始追忆过去。
 
-这是本书目前最完整的章节，收录了 **106 种**互联网时代的视觉风格。
+这是本书目前最完整的章节，收录了 **109 种**互联网时代的视觉风格。
 
 ### 核心风格
 
@@ -78,6 +78,7 @@
 | [Soft Girl 软妹风](11-millennium-nostalgia/soft-girl.md) | 2019–至今 | 粉色云朵、蝴蝶发夹——TikTok 最甜的视觉糖果 |
 | [Normcore 正常核](11-millennium-nostalgia/normcore.md) | 2013–2017 | 故意穿得像你爸——"没有风格"本身成为风格 |
 | [Surf Crush 冲浪甜心](11-millennium-nostalgia/surf-crush.md) | 1999–2008 | 南加州海滩风、Hollister、《The O.C.》 |
+| [Tropical 热带风](11-millennium-nostalgia/tropical.md) | 2015–至今 | 棕榈叶、火烈鸟、日落鸡尾酒——永远在度假 |
 | [Mall Goth 商场哥特](11-millennium-nostalgia/mall-goth.md) | 1998–2008 | Hot Topic、Tripp NYC绑带裤、新金属 |
 | [Cybergoth 赛博哥特](11-millennium-nostalgia/cybergoth.md) | 1999–2012 | 荧光假发辫、防毒面具、工业舞蹈 |
 | [Pastel Goth 粉彩哥特](11-millennium-nostalgia/pastel-goth.md) | 2010–2016 | 把死亡染成粉色——哥特遇见 Kawaii |
@@ -95,6 +96,7 @@
 | [Cassette Futurism 磁带未来主义](11-millennium-nostalgia/cassette-futurism.md) | 回望1970s–90s | CRT显示器、物理按键、方盒子里的未来 |
 | [Retrofuturism 复古未来主义](11-millennium-nostalgia/retrofuturism.md) | 1950s–1970s/2010s复兴 | 飞行汽车、银色连体衣——1960年代想象的2000年 |
 | [Cyberpunk 赛博朋克](11-millennium-nostalgia/cyberpunk.md) | 1980s–至今 | 高科技低生活——霓虹雨夜中的义体改造人 |
+| [Dark Neon 暗黑霓虹](11-millennium-nostalgia/dark-neon.md) | 2016–至今 | 纯黑背景上的霓虹线条——夜晚城市的电子脉搏 |
 | [Pixel Art 像素艺术](11-millennium-nostalgia/pixel-art.md) | 1970s–至今 | 方块与有限色彩中的无限表现力 |
 | [Flat Design 扁平设计](11-millennium-nostalgia/flat-design.md) | 2012–至今 | 去掉阴影和渐变——让界面回归信息本身 |
 | [Corporate Memphis 企业孟菲斯](11-millennium-nostalgia/corporate-memphis.md) | 2017–2023 | 紫色皮肤的人快乐协作——硅谷的视觉安慰剂 |
@@ -111,6 +113,7 @@
 |------|------|--------|
 | [Cottagecore 田园核](11-millennium-nostalgia/cottagecore.md) | 2018–至今 | 逃离算法，回到祖母的花园——烤面包、摘野花 |
 | [Cottagecore Dark 暗黑田园核](11-millennium-nostalgia/cottagecore-dark.md) | 2020–至今 | 毒蘑菇、乌鸦、荆棘——田园生活美丽而危险的另一面 |
+| [Cottagecore Tech 田园科技](11-millennium-nostalgia/cottagecore-tech.md) | 2020–至今 | 用MacBook在花园里写代码——程序员的田园梦 |
 | [Dark Academia 暗黑学院](11-millennium-nostalgia/dark-academia.md) | 2015/2020鼎盛 | 哥特式图书馆里读拉丁文的精英幻想 |
 | [Gorpcore 户外核](11-millennium-nostalgia/gorpcore.md) | 2017–至今 | 穿着始祖鸟去咖啡馆——登山装备成为都市时尚 |
 | [Coastal Grandmother 海岸祖母](11-millennium-nostalgia/coastal-grandmother.md) | 2022–至今 | Nancy Meyers 电影里的汉普顿海边别墅生活 |
@@ -221,7 +224,7 @@
 
 | 章节 | 状态 |
 |------|------|
-| 千禧怀旧美学 (11) | ██████████ 106篇完成 |
+| 千禧怀旧美学 (11) | ██████████ 109篇完成 |
 | 古代 – 当代 (01-08) | ░░░░░░░░░░ 框架已建 |
 | 东方艺术 (09) | ░░░░░░░░░░ 框架已建 |
 | 跨时代专题 (10) | ░░░░░░░░░░ 框架已建 |
