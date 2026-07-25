@@ -44,7 +44,7 @@
 
 > 20世纪末至21世纪初的怀旧浪潮——当互联网一代尚未老去就开始追忆过去。
 
-这是本书目前最完整的章节，收录了 **79 种**互联网时代的视觉风格。
+这是本书目前最完整的章节，收录了 **82 种**互联网时代的视觉风格。
 
 ### 核心风格
 
@@ -121,6 +121,9 @@
 | [Kidcore 童核](11-millennium-nostalgia/kidcore.md) | 2019–至今 | 彩虹、积木、贴纸——拒绝长大的视觉宣言 |
 | [Light Academia 明亮学院](11-millennium-nostalgia/light-academia.md) | 2020–至今 | 阳光洒在旧书页上——学术的浪漫不需要黑暗 |
 | [Soft Grunge 软垃圾摇滚](11-millennium-nostalgia/soft-grunge.md) | 2011–2015 | Nirvana T恤配花冠——Tumblr 把叛逆变成了美学 |
+| [Dieselpunk 柴油朋克](11-millennium-nostalgia/dieselpunk.md) | 1920s–1950s 设定 | Art Deco 飞机、铆钉坦克——永远停在1940年代的平行世界 |
+| [Grandmacore 奶奶核](11-millennium-nostalgia/grandmacore.md) | 2020–至今 | 碎花沙发、手钩桌布——奶奶的客厅才是避风港 |
+| [Mermaidcore 美人鱼核](11-millennium-nostalgia/mermaidcore.md) | 2012–至今 | 鳞片闪光、珍珠发饰——每个人心里都住着一条美人鱼 |
 | [Steampunk 蒸汽朋克](11-millennium-nostalgia/steampunk.md) | 1980s–至今 | 齿轮、黄铜和永不存在的维多利亚未来 |
 | [Solarpunk 太阳朋克](11-millennium-nostalgia/solarpunk.md) | 2014–至今 | 藤蔓缠绕的太阳能城市——乐观的生态未来 |
 | [Dopamine Dressing 多巴胺穿搭](11-millennium-nostalgia/dopamine-dressing.md) | 2021–至今 | 穿得像一包彩虹糖——后疫情的色彩爆发 |
@@ -193,7 +196,7 @@
 
 | 章节 | 状态 |
 |------|------|
-| 千禧怀旧美学 (11) | ██████████ 79篇完成 |
+| 千禧怀旧美学 (11) | ██████████ 82篇完成 |
 | 古代 – 当代 (01-08) | ░░░░░░░░░░ 框架已建 |
 | 东方艺术 (09) | ░░░░░░░░░░ 框架已建 |
 | 跨时代专题 (10) | ░░░░░░░░░░ 框架已建 |
