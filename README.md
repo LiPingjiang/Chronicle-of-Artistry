@@ -99,6 +99,15 @@ Chronicle-of-Artistry/
 │   ├── patronage.md             # 赞助体系与艺术市场
 │   └── women-in-art.md          # 女性艺术家
 │
+├── 11-millennium-nostalgia/     # ★ 千禧怀旧美学（重点章节）
+│   ├── README.md
+│   ├── y2k.md                   # Y2K 千禧未来风
+│   ├── vaporwave.md             # 蒸汽波
+│   ├── synthwave.md             # 合成器浪潮 / Retrowave
+│   ├── frutiger-aero.md         # Frutiger Aero 水晶拟物风
+│   ├── dreamcore-weirdcore.md   # 梦核与怪核 / 阈限空间
+│   └── acid-graphics.md         # 酸性设计
+│
 └── references/                  # 参考资料与外部链接
     ├── books.md                 # 推荐书目
     ├── museums.md               # 博物馆与在线资源

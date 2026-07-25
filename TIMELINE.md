@@ -56,6 +56,17 @@
 | 印度艺术 | 吠陀 – 至今 | 细密画/石窟/曼陀罗 | [→](09-eastern/indian.md) |
 | 伊斯兰艺术 | 7c – 至今 | 几何纹样/书法/阿拉伯式花纹 | [→](09-eastern/islamic.md) |
 
+## ★ 千禧怀旧美学（重点章节）
+
+| 风格 | 时间跨度 | 核心特征 | 链接 |
+|------|----------|----------|------|
+| Y2K 美学 | 1997-2005 | 金属镭射、泡泡糖粉、半透明塑料、未来乐观 | [→](11-millennium-nostalgia/y2k.md) |
+| 蒸汽波 Vaporwave | 2010s | 80/90年代消费主义解构、粉紫渐变、石膏像 | [→](11-millennium-nostalgia/vaporwave.md) |
+| 合成器浪潮 Synthwave | 2005– | 霓虹网格、落日跑车、80年代致敬 | [→](11-millennium-nostalgia/synthwave.md) |
+| Frutiger Aero | 2004-2013 | 拟物化、毛玻璃、自然+科技、Web 2.0 | [→](11-millennium-nostalgia/frutiger-aero.md) |
+| 梦核/怪核 Dreamcore/Weirdcore | 2010s– | 阈限空间、低保真、超现实怀旧 | [→](11-millennium-nostalgia/dreamcore-weirdcore.md) |
+| 酸性设计 Acid Graphics | 2018– | 液态铬、极端排版、荧光+黑色 | [→](11-millennium-nostalgia/acid-graphics.md) |
+
 ## 跨时代专题
 
 | 专题 | 链接 |
