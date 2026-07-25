@@ -6,7 +6,7 @@
 
 ## 📖 阅读指南
 
-本章收录了 **25 种**互联网时代的视觉风格。你可以按分类浏览，也可以从第一篇开始顺序阅读——每篇文档底部都有"上一篇 / 下一篇"导航。
+本章收录了 **32 种**互联网时代的视觉风格。你可以按分类浏览，也可以从第一篇开始顺序阅读——每篇文档底部都有"上一篇 / 下一篇"导航。
 
 ---
 
@@ -33,8 +33,9 @@
 | 8 | [McBling 千禧闪耀](mcbling.md) | 2003–2008 | Paris Hilton、水钻、天鹅绒运动套装 |
 | 9 | [Indie Sleaze 独立邋遢](indie-sleaze.md) | 2006–2014 | 闪光灯派对、American Apparel、经济衰退下的享乐 |
 | 10 | [Scene 场景文化](scene.md) | 2006–2013 | 霓虹色头发、MySpace、硬核音乐圈的时尚分支 |
-| 11 | [Surf Crush 冲浪甜心](surf-crush.md) | 1999–2008 | 南加州海滩风、Hollister、《The O.C.》 |
-| 12 | [Mall Goth 商场哥特](mall-goth.md) | 1998–2008 | Hot Topic、Tripp NYC绑带裤、新金属 |
+| 11 | [Emo 情绪核](emo.md) | 2003–2012 | 斜刘海、黑色眼线、MySpace 镜子自拍 |
+| 12 | [Surf Crush 冲浪甜心](surf-crush.md) | 1999–2008 | 南加州海滩风、Hollister、《The O.C.》 |
+| 13 | [Mall Goth 商场哥特](mall-goth.md) | 1998–2008 | Hot Topic、Tripp NYC绑带裤、新金属 |
 
 ## 数字设计与科幻
 
@@ -42,13 +43,14 @@
 
 | # | 风格 | 时期 | 一句话 |
 |---|------|------|--------|
-| 13 | [Metalheart 金属心](metalheart.md) | 1998–2004 | 扭曲抽象形态、Depthcore 社区、像素字体 |
-| 14 | [Vectorheart 矢量心](vectorheart.md) | 1995–2004 | The Designers Republic、Wipeout、45度斜线 |
-| 15 | [Chromecore 铬核](chromecore.md) | 1998–2007 | CD/DVD/数码相机的银灰金属质感 |
-| 16 | [90s Cool / Matrix Effect](90s-cool.md) | 1995–2003 | 黑色皮衣、子弹时间、Oakley墨镜 |
-| 17 | [Cassette Futurism 磁带未来主义](cassette-futurism.md) | 回望1970s–90s | CRT显示器、物理按键、方盒子里的未来 |
-| 18 | [Electropop 08 衰退流行](electropop-08.md) | 2008–2013 | 霓虹派对、Lady Gaga、Avantropop 设计 |
-| 19 | [Bloghouse 博客浩室](bloghouse.md) | 2005–2012 | Ed Banger、Justice、MySpace上的电子音乐传播 |
+| 14 | [Metalheart 金属心](metalheart.md) | 1998–2004 | 扭曲抽象形态、Depthcore 社区、像素字体 |
+| 15 | [Vectorheart 矢量心](vectorheart.md) | 1995–2004 | The Designers Republic、Wipeout、45度斜线 |
+| 16 | [Chromecore 铬核](chromecore.md) | 1998–2007 | CD/DVD/数码相机的银灰金属质感 |
+| 17 | [90s Cool / Matrix Effect](90s-cool.md) | 1995–2003 | 黑色皮衣、子弹时间、Oakley墨镜 |
+| 18 | [Cassette Futurism 磁带未来主义](cassette-futurism.md) | 回望1970s–90s | CRT显示器、物理按键、方盒子里的未来 |
+| 19 | [Pixel Art 像素艺术](pixel-art.md) | 1970s–至今 | 方块与有限色彩中的无限表现力 |
+| 20 | [Electropop 08 衰退流行](electropop-08.md) | 2008–2013 | 霓虹派对、Lady Gaga、Avantropop 设计 |
+| 21 | [Bloghouse 博客浩室](bloghouse.md) | 2005–2012 | Ed Banger、Justice、MySpace上的电子音乐传播 |
 
 ## 氛围与情绪
 
@@ -56,7 +58,18 @@
 
 | # | 风格 | 时期 | 一句话 |
 |---|------|------|--------|
-| 20 | [Gen X Soft Club](gen-x-soft-club.md) | 1990s末–2000s初 | 机场阈限空间、冷色极简、都市疏离 |
+| 22 | [Gen X Soft Club](gen-x-soft-club.md) | 1990s末–2000s初 | 机场阈限空间、冷色极简、都市疏离 |
+| 23 | [Mallsoft 商场波](mallsoft.md) | 怀念1980s–2000s | 空旷走廊的回声、Muzak 失真、消费主义的幽灵 |
+
+## 互联网原生美学
+
+诞生于网络社区的视觉运动——从 GeoCities 到 Tumblr。
+
+| # | 风格 | 时期 | 一句话 |
+|---|------|------|--------|
+| 24 | [Webcore / Old Web](webcore.md) | 1995–2005 | 动态GIF、访客计数器、霓虹背景的野生互联网 |
+| 25 | [Glitter Graphics / Blingee](glitter-graphics.md) | 2005–2013 | 闪光贴纸、动态星星、MySpace 的数字民间艺术 |
+| 26 | [Seapunk 海洋朋克](seapunk.md) | 2011–2013 | 海豚+3D渲染+青色——第一个互联网原生美学运动 |
 
 ## Y2K 扩展宇宙
 
@@ -64,11 +77,12 @@
 
 | # | 风格 | 时期 | 一句话 |
 |---|------|------|--------|
-| 21 | [FantasY2K 奇幻千禧](fantasy2k.md) | 2000–2010 | 中世纪奇幻+千禧时尚的kitsch混搭 |
-| 22 | [Coquette Y2K 千禧甜心](coquette-y2k.md) | 2000s/2020s回潮 | 蝴蝶结、蕾丝、珍珠——温柔版Y2K |
-| 23 | [Nu-Rave 新锐舞](nu-rave.md) | 2006–2009 | 荧光涂料+独立摇滚+UV灯光派对 |
-| 24 | [Harajuku Y2K 原宿千禧](harajuku-y2k.md) | 2000–2015 | 日本街头的Kawaii层叠爆炸 |
-| 25 | [Cyber Y2K 赛博千禧](cyber-y2k.md) | 1997–2004 | PVC、铬银、iMac G3——技术乌托邦的极致 |
+| 27 | [FantasY2K 奇幻千禧](fantasy2k.md) | 2000–2010 | 中世纪奇幻+千禧时尚的kitsch混搭 |
+| 28 | [Coquette Y2K 千禧甜心](coquette-y2k.md) | 2000s/2020s回潮 | 蝴蝶结、蕾丝、珍珠——温柔版Y2K |
+| 29 | [Nu-Rave 新锐舞](nu-rave.md) | 2006–2009 | 荧光涂料+独立摇滚+UV灯光派对 |
+| 30 | [Harajuku Y2K 原宿千禧](harajuku-y2k.md) | 2000–2015 | 日本街头的Kawaii层叠爆炸 |
+| 31 | [Cyber Y2K 赛博千禧](cyber-y2k.md) | 1997–2004 | PVC、铬银、iMac G3——技术乌托邦的极致 |
+| 32 | [Y3K 未来主义新浪潮](y3k.md) | 2023–至今 | 液态金属、机甲美学——Y2K的冷峻进化 |
 
 ---
 
@@ -76,7 +90,7 @@
 
 如果你想从头到尾读完，按以下顺序：
 
-> Y2K → Vaporwave → Synthwave → Frutiger Aero → Frutiger Metro → Dreamcore → Acid Graphics → McBling → Indie Sleaze → Scene → Surf Crush → Metalheart → Cassette Futurism → Electropop 08 → Gen X Soft Club → Vectorheart → Chromecore → 90s Cool → Mall Goth → Bloghouse → FantasY2K → Coquette Y2K → Nu-Rave → Harajuku Y2K → Cyber Y2K
+> Y2K → Vaporwave → Synthwave → Frutiger Aero → Frutiger Metro → Dreamcore → Acid Graphics → McBling → Indie Sleaze → Scene → Emo → Surf Crush → Mall Goth → Metalheart → Vectorheart → Chromecore → 90s Cool → Cassette Futurism → Pixel Art → Electropop 08 → Bloghouse → Gen X Soft Club → Mallsoft → Webcore → Glitter Graphics → Seapunk → FantasY2K → Coquette Y2K → Nu-Rave → Harajuku Y2K → Cyber Y2K → Y3K
 
 每篇底部都有 `← 上一篇 | → 下一篇` 链接，无需返回本页。
 
@@ -96,7 +110,7 @@
 
 ## 关键词索引
 
-`Y2K` `千禧风` `蒸汽波` `合成器浪潮` `Frutiger Aero` `Frutiger Metro` `Vectordelia` `梦核` `怪核` `阈限空间` `酸性设计` `复古未来主义` `霓虹` `低保真` `McBling` `Indie Sleaze` `Scene` `Surf Crush` `Metalheart` `Vectorheart` `Chromecore` `90s Cool` `Matrix Effect` `Mall Goth` `Bloghouse` `Cassette Futurism` `Electropop 08` `Gen X Soft Club` `FantasY2K` `Coquette` `Nu-Rave` `Harajuku` `Cyber Y2K` `Decora` `Kawaii`
+`Y2K` `千禧风` `蒸汽波` `合成器浪潮` `Frutiger Aero` `Frutiger Metro` `Vectordelia` `梦核` `怪核` `阈限空间` `酸性设计` `复古未来主义` `霓虹` `低保真` `McBling` `Indie Sleaze` `Scene` `Emo` `Surf Crush` `Metalheart` `Vectorheart` `Chromecore` `90s Cool` `Matrix Effect` `Mall Goth` `Bloghouse` `Cassette Futurism` `Electropop 08` `Gen X Soft Club` `FantasY2K` `Coquette` `Nu-Rave` `Harajuku` `Cyber Y2K` `Decora` `Kawaii` `Glitter Graphics` `Blingee` `Webcore` `Old Web` `Seapunk` `Mallsoft` `Pixel Art` `Y3K`
 
 ---
 
