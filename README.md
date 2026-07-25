@@ -44,7 +44,7 @@
 
 > 20世纪末至21世纪初的怀旧浪潮——当互联网一代尚未老去就开始追忆过去。
 
-这是本书目前最完整的章节，收录了 **49 种**互联网时代的视觉风格。
+这是本书目前最完整的章节，收录了 **52 种**互联网时代的视觉风格。
 
 ### 核心风格
 
@@ -91,12 +91,22 @@
 | [Electropop 08 衰退流行](11-millennium-nostalgia/electropop-08.md) | 2008–2013 | 霓虹派对、Lady Gaga、Avantropop 设计 |
 | [Bloghouse 博客浩室](11-millennium-nostalgia/bloghouse.md) | 2005–2012 | Ed Banger、Justice、MySpace电子音乐传播 |
 
+### 生活方式美学
+
+| 风格 | 时期 | 一句话 |
+|------|------|--------|
+| [Cottagecore 田园核](11-millennium-nostalgia/cottagecore.md) | 2018–至今 | 逃离算法，回到祖母的花园——烤面包、摘野花 |
+| [Dark Academia 暗黑学院](11-millennium-nostalgia/dark-academia.md) | 2015/2020鼎盛 | 哥特式图书馆里读拉丁文的精英幻想 |
+| [Gorpcore 户外核](11-millennium-nostalgia/gorpcore.md) | 2017–至今 | 穿着始祖鸟去咖啡馆——登山装备成为都市时尚 |
+| [Soft Girl 软妹风](11-millennium-nostalgia/soft-girl.md) | 2019–至今 | 粉色云朵、蝴蝶发夹——TikTok 最甜的视觉糖果 |
+| [Normcore 正常核](11-millennium-nostalgia/normcore.md) | 2013–2017 | 故意穿得像你爸——"没有风格"本身成为风格 |
+| [Frasurbane 郊区怀旧](11-millennium-nostalgia/frasurbane.md) | 怀念1993–2004 | 90年代情景喜剧里那个永远不会变的客厅 |
+
 ### 氛围与情绪
 
 | 风格 | 时期 | 一句话 |
 |------|------|--------|
 | [Gen X Soft Club](11-millennium-nostalgia/gen-x-soft-club.md) | 1990s末–2000s初 | 机场阈限空间、冷色极简、都市疏离 |
-| [Frasurbane 郊区怀旧](11-millennium-nostalgia/frasurbane.md) | 怀念1993–2004 | 90年代情景喜剧里那个永远不会变的客厅 |
 | [Mallsoft 商场波](11-millennium-nostalgia/mallsoft.md) | 怀念1980s–2000s | 空旷走廊的回声、Muzak 失真、消费主义的幽灵 |
 
 ### 互联网原生美学
@@ -157,7 +167,7 @@
 
 | 章节 | 状态 |
 |------|------|
-| 千禧怀旧美学 (11) | ██████████ 49篇完成 |
+| 千禧怀旧美学 (11) | ██████████ 52篇完成 |
 | 古代 – 当代 (01-08) | ░░░░░░░░░░ 框架已建 |
 | 东方艺术 (09) | ░░░░░░░░░░ 框架已建 |
 | 跨时代专题 (10) | ░░░░░░░░░░ 框架已建 |
