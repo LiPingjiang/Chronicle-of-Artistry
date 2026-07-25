@@ -44,7 +44,7 @@
 
 > 20世纪末至21世纪初的怀旧浪潮——当互联网一代尚未老去就开始追忆过去。
 
-这是本书目前最完整的章节，收录了 **95 种**互联网时代的视觉风格。
+这是本书目前最完整的章节，收录了 **100 种**互联网时代的视觉风格。
 
 ### 核心风格
 
@@ -95,6 +95,9 @@
 | [Retrofuturism 复古未来主义](11-millennium-nostalgia/retrofuturism.md) | 1950s–1970s/2010s复兴 | 飞行汽车、银色连体衣——1960年代想象的2000年 |
 | [Cyberpunk 赛博朋克](11-millennium-nostalgia/cyberpunk.md) | 1980s–至今 | 高科技低生活——霓虹雨夜中的义体改造人 |
 | [Pixel Art 像素艺术](11-millennium-nostalgia/pixel-art.md) | 1970s–至今 | 方块与有限色彩中的无限表现力 |
+| [Flat Design 扁平设计](11-millennium-nostalgia/flat-design.md) | 2012–至今 | 去掉阴影和渐变——让界面回归信息本身 |
+| [Corporate Memphis 企业孟菲斯](11-millennium-nostalgia/corporate-memphis.md) | 2017–2023 | 紫色皮肤的人快乐协作——硅谷的视觉安慰剂 |
+| [Brutalist Web 野兽派网页](11-millennium-nostalgia/brutalist-web.md) | 2014–至今 | Times New Roman、蓝色超链接——故意拒绝"好看" |
 | [Electropop 08 衰退流行](11-millennium-nostalgia/electropop-08.md) | 2008–2013 | 霓虹派对、Lady Gaga、Avantropop 设计 |
 | [Bloghouse 博客浩室](11-millennium-nostalgia/bloghouse.md) | 2005–2012 | Ed Banger、Justice、MySpace电子音乐传播 |
 
@@ -103,6 +106,7 @@
 | 风格 | 时期 | 一句话 |
 |------|------|--------|
 | [Cottagecore 田园核](11-millennium-nostalgia/cottagecore.md) | 2018–至今 | 逃离算法，回到祖母的花园——烤面包、摘野花 |
+| [Cottagecore Dark 暗黑田园核](11-millennium-nostalgia/cottagecore-dark.md) | 2020–至今 | 毒蘑菇、乌鸦、荆棘——田园生活美丽而危险的另一面 |
 | [Dark Academia 暗黑学院](11-millennium-nostalgia/dark-academia.md) | 2015/2020鼎盛 | 哥特式图书馆里读拉丁文的精英幻想 |
 | [Gorpcore 户外核](11-millennium-nostalgia/gorpcore.md) | 2017–至今 | 穿着始祖鸟去咖啡馆——登山装备成为都市时尚 |
 | [Coastal Grandmother 海岸祖母](11-millennium-nostalgia/coastal-grandmother.md) | 2022–至今 | Nancy Meyers 电影里的汉普顿海边别墅生活 |
@@ -110,6 +114,8 @@
 | [Cluttercore 杂物核](11-millennium-nostalgia/cluttercore.md) | 2020–至今 | 极简主义的反义词——满墙收藏品的有序混乱 |
 | [Goblincore 哥布林核](11-millennium-nostalgia/goblincore.md) | 2019–至今 | 捡石头、看蘑菇——拒绝"漂亮"，拥抱"有趣" |
 | [Old Money 老钱风](11-millennium-nostalgia/old-money.md) | 2022–2023爆发 | 无logo、完美剪裁——真正的有钱人不需要证明 |
+| [Art Deco Revival 装饰艺术复兴](11-millennium-nostalgia/art-deco-revival.md) | 1920s/2010s复兴 | 金色几何线条、黑色大理石——1920年代的优雅永不过时 |
+| [Boho 波西米亚](11-millennium-nostalgia/boho.md) | 1960s/2010s鼎盛 | 流苏、扎染、大地色——自由灵魂不需要规则 |
 | [Clean Girl 干净女孩](11-millennium-nostalgia/clean-girl.md) | 2021–至今 | 看起来什么都没用——实际上用了12个产品 |
 | [Regencycore 摄政核](11-millennium-nostalgia/regencycore.md) | 2020–至今 | 《布里奇顿》让全世界想穿帝政腰线裙喝下午茶 |
 | [Witchcore 巫术核](11-millennium-nostalgia/witchcore.md) | 2015/2020爆发 | 月亮、水晶、塔罗牌——"女巫"成为自我赋权 |
@@ -209,7 +215,7 @@
 
 | 章节 | 状态 |
 |------|------|
-| 千禧怀旧美学 (11) | ██████████ 95篇完成 |
+| 千禧怀旧美学 (11) | ██████████ 100篇完成 |
 | 古代 – 当代 (01-08) | ░░░░░░░░░░ 框架已建 |
 | 东方艺术 (09) | ░░░░░░░░░░ 框架已建 |
 | 跨时代专题 (10) | ░░░░░░░░░░ 框架已建 |
