@@ -44,7 +44,7 @@
 
 > 20世纪末至21世纪初的怀旧浪潮——当互联网一代尚未老去就开始追忆过去。
 
-这是本书目前最完整的章节，收录了 **73 种**互联网时代的视觉风格。
+这是本书目前最完整的章节，收录了 **76 种**互联网时代的视觉风格。
 
 ### 核心风格
 
@@ -114,6 +114,9 @@
 | [Corecore 核核](11-millennium-nostalgia/corecore.md) | 2022–至今 | 当所有"-core"叠在一起，剩下的是存在本身 |
 | [Auroracore 极光核](11-millennium-nostalgia/auroracore.md) | 2021–至今 | 北极光的色彩与永恒冬夜的宁静 |
 | [Health Goth 健康哥特](11-millennium-nostalgia/health-goth.md) | 2013–2016 | 穿全黑Nike去健身房——哥特遇见运动科学 |
+| [Afrofuturism 非洲未来主义](11-millennium-nostalgia/afrofuturism.md) | 1950s–至今 | 瓦坎达不只是虚构——非洲传统遇见太空科技 |
+| [Kidcore 童核](11-millennium-nostalgia/kidcore.md) | 2019–至今 | 彩虹、积木、贴纸——拒绝长大的视觉宣言 |
+| [Light Academia 明亮学院](11-millennium-nostalgia/light-academia.md) | 2020–至今 | 阳光洒在旧书页上——学术的浪漫不需要黑暗 |
 | [Soft Grunge 软垃圾摇滚](11-millennium-nostalgia/soft-grunge.md) | 2011–2015 | Nirvana T恤配花冠——Tumblr 把叛逆变成了美学 |
 | [Steampunk 蒸汽朋克](11-millennium-nostalgia/steampunk.md) | 1980s–至今 | 齿轮、黄铜和永不存在的维多利亚未来 |
 | [Solarpunk 太阳朋克](11-millennium-nostalgia/solarpunk.md) | 2014–至今 | 藤蔓缠绕的太阳能城市——乐观的生态未来 |
@@ -187,7 +190,7 @@
 
 | 章节 | 状态 |
 |------|------|
-| 千禧怀旧美学 (11) | ██████████ 73篇完成 |
+| 千禧怀旧美学 (11) | ██████████ 76篇完成 |
 | 古代 – 当代 (01-08) | ░░░░░░░░░░ 框架已建 |
 | 东方艺术 (09) | ░░░░░░░░░░ 框架已建 |
 | 跨时代专题 (10) | ░░░░░░░░░░ 框架已建 |
