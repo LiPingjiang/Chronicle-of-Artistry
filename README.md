@@ -44,7 +44,7 @@
 
 > 20世纪末至21世纪初的怀旧浪潮——当互联网一代尚未老去就开始追忆过去。
 
-这是本书目前最完整的章节，收录了 **112 种**互联网时代的视觉风格。
+这是本书目前最完整的章节，收录了 **114 种**互联网时代的视觉风格。
 
 ### 核心风格
 
@@ -60,6 +60,7 @@
 | [酸性设计 Acid Graphics](11-millennium-nostalgia/acid-graphics.md) | 2018–至今 | 扭曲金属、液态铬、极端排版 |
 | [Memphis Design 孟菲斯设计](11-millennium-nostalgia/memphis-design.md) | 1981–1988/2010s复兴 | 几何碰撞、色彩爆炸——1980年代最叛逆的设计运动 |
 | [Pop Art Revival 波普艺术复兴](11-millennium-nostalgia/pop-art-revival.md) | 1950s–至今 | Ben-Day网点、漫画气泡——安迪·沃霍尔的数字时代重生 |
+| [Psychedelic Revival 迷幻复兴](11-millennium-nostalgia/psychedelic-revival.md) | 1960s/2018–至今 | 万花筒色彩、液态字体——意识扩展的视觉翻译 |
 | [Minimalist Digital 数字极简](11-millennium-nostalgia/minimalist-digital.md) | 2010s–至今 | 一个颜色、一种字体、大量留白——少即是多 |
 
 ### 时尚与亚文化
@@ -102,6 +103,7 @@
 | [Dark Neon 暗黑霓虹](11-millennium-nostalgia/dark-neon.md) | 2016–至今 | 纯黑背景上的霓虹线条——夜晚城市的电子脉搏 |
 | [Pixel Art 像素艺术](11-millennium-nostalgia/pixel-art.md) | 1970s–至今 | 方块与有限色彩中的无限表现力 |
 | [Flat Design 扁平设计](11-millennium-nostalgia/flat-design.md) | 2012–至今 | 去掉阴影和渐变——让界面回归信息本身 |
+| [Skeuomorphism 拟物设计](11-millennium-nostalgia/skeuomorphism.md) | 2007–2012 | 皮革纹理、木质书架——当数字界面假装自己是真实物品 |
 | [Corporate Memphis 企业孟菲斯](11-millennium-nostalgia/corporate-memphis.md) | 2017–2023 | 紫色皮肤的人快乐协作——硅谷的视觉安慰剂 |
 | [Brutalist Web 野兽派网页](11-millennium-nostalgia/brutalist-web.md) | 2014–至今 | Times New Roman、蓝色超链接——故意拒绝"好看" |
 | [Neumorphism 新拟物](11-millennium-nostalgia/neumorphism.md) | 2019–2021 | 柔和凸起与凹陷——扁平设计想念阴影的短暂实验 |
@@ -227,7 +229,7 @@
 
 | 章节 | 状态 |
 |------|------|
-| 千禧怀旧美学 (11) | ██████████ 112篇完成 |
+| 千禧怀旧美学 (11) | ██████████ 114篇完成 |
 | 古代 – 当代 (01-08) | ░░░░░░░░░░ 框架已建 |
 | 东方艺术 (09) | ░░░░░░░░░░ 框架已建 |
 | 跨时代专题 (10) | ░░░░░░░░░░ 框架已建 |
