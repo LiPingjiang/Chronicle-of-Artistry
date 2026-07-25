@@ -44,7 +44,7 @@
 
 > 20世纪末至21世纪初的怀旧浪潮——当互联网一代尚未老去就开始追忆过去。
 
-这是本书目前最完整的章节，收录了 **43 种**互联网时代的视觉风格。
+这是本书目前最完整的章节，收录了 **45 种**互联网时代的视觉风格。
 
 ### 核心风格
 
@@ -65,8 +65,10 @@
 | [McBling 千禧闪耀](11-millennium-nostalgia/mcbling.md) | 2003–2008 | Paris Hilton、水钻、天鹅绒运动套装 |
 | [Barbiecore 芭比核](11-millennium-nostalgia/barbiecore.md) | 2000s/2022回潮 | 粉色即权力——从 Paris Hilton 到 Barbie 电影 |
 | [Indie Sleaze 独立邋遢](11-millennium-nostalgia/indie-sleaze.md) | 2006–2014 | 闪光灯派对、American Apparel、经济衰退下的享乐 |
+| [Twee 小清新独立](11-millennium-nostalgia/twee.md) | 2009–2014 | Peter Pan 领、复古自行车、Wes Anderson 色板 |
 | [Scene 场景文化](11-millennium-nostalgia/scene.md) | 2006–2013 | 霓虹色头发、MySpace、硬核音乐圈的时尚分支 |
 | [Emo 情绪核](11-millennium-nostalgia/emo.md) | 2003–2012 | 斜刘海、黑色眼线、MySpace 镜子自拍 |
+| [E-Girl / E-Boy](11-millennium-nostalgia/egirl-eboy.md) | 2018–至今 | TikTok 时代的数字原住民亚文化——Emo 的转世 |
 | [Surf Crush 冲浪甜心](11-millennium-nostalgia/surf-crush.md) | 1999–2008 | 南加州海滩风、Hollister、《The O.C.》 |
 | [Mall Goth 商场哥特](11-millennium-nostalgia/mall-goth.md) | 1998–2008 | Hot Topic、Tripp NYC绑带裤、新金属 |
 | [Cybergoth 赛博哥特](11-millennium-nostalgia/cybergoth.md) | 1999–2012 | 荧光假发辫、防毒面具、工业舞蹈 |
@@ -151,7 +153,7 @@
 
 | 章节 | 状态 |
 |------|------|
-| 千禧怀旧美学 (11) | ██████████ 43篇完成 |
+| 千禧怀旧美学 (11) | ██████████ 45篇完成 |
 | 古代 – 当代 (01-08) | ░░░░░░░░░░ 框架已建 |
 | 东方艺术 (09) | ░░░░░░░░░░ 框架已建 |
 | 跨时代专题 (10) | ░░░░░░░░░░ 框架已建 |
