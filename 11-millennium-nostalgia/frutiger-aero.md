@@ -87,8 +87,16 @@ Frutiger Aero 代表了一个**被许诺但未实现的未来**：
 
 ## 图片画廊
 
-<!-- 存放于 assets/artworks/frutiger-aero/ -->
-> 待补充：Windows 7壁纸、iOS拟物化图标、Mirror's Edge截图、诺基亚广告
+| | |
+|:---:|:---:|
+| ![Frutiger Aero 概念图 — 自然与科技的融合](../assets/artworks/frutiger-aero/frutiger-aero-aesthetic-gemini-01.png) | ![Vista 毛玻璃窗口效果](../assets/artworks/frutiger-aero/frutiger-aero-vista-glass-gemini-02.png) |
+| *自然与科技的和谐 — 核心视觉* | *Windows Vista Aero Glass 风格* |
+| ![水下世界 — 热带鱼与气泡](../assets/artworks/frutiger-aero/frutiger-aero-underwater-gemini-03.png) | ![热气球与草地 — 自由与乐观](../assets/artworks/frutiger-aero/frutiger-aero-balloons-gemini-04.png) |
+| *水下生态 — Frutiger Eco 变体* | *热气球 — 自由与轻盈的象征* |
+| ![拟物化UI图标](../assets/artworks/frutiger-aero/frutiger-aero-skeuomorphic-gemini-05.png) | |
+| *iOS 6 时代的拟物化设计* | |
+
+> 以上图片由 AI (Gemini 2.5 Flash Image) 生成，用于展示风格视觉特征。
 
 ## 延伸阅读
 

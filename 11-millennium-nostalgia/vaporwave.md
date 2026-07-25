@@ -72,8 +72,14 @@ Vaporwave (2010s)
 
 ## 图片画廊
 
-<!-- 存放于 assets/artworks/vaporwave/ -->
-> 待补充：经典专辑封面、大卫像拼贴、Windows弹窗艺术、霓虹都市
+| | |
+|:---:|:---:|
+| ![蒸汽波概念图 — 希腊雕像与网格](../assets/artworks/vaporwave/vaporwave-aesthetic-gemini-01.png) | ![故障雕像 — Windows弹窗与日文](../assets/artworks/vaporwave/vaporwave-glitch-bust-gemini-02.png) |
+| *核心视觉：粉青渐变、棕榈树、透视网格* | *大卫像故障：Win95弹窗与片假名* |
+| ![空旷商场 — 消费主义怀旧](../assets/artworks/vaporwave/vaporwave-mall-gemini-03.png) | |
+| *霓虹空商场：大理石地面与棕榈树* | |
+
+> 以上图片由 AI (Gemini 2.5 Flash Image) 生成，用于展示风格视觉特征。
 
 ## 延伸阅读
 

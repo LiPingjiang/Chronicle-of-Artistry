@@ -79,8 +79,14 @@ Y2K (1997-2005)
 
 ## 图片画廊
 
-<!-- 存放于 assets/artworks/y2k/ -->
-> 待补充：iMac G3、千禧辣妹造型、Y2K海报设计、翻盖手机广告
+| | |
+|:---:|:---:|
+| ![Y2K 美学概念图 — 全息与泡泡](../assets/artworks/y2k/y2k-aesthetic-gemini-01.png) | ![千禧少女卧室 — 半透明塑料与蝴蝶](../assets/artworks/y2k/y2k-teen-bedroom-gemini-02.png) |
+| *核心视觉：全息、铬色、糖果渐变* | *2001年少女卧室：iBook、闪光笔、充气家具* |
+| ![赛博空间 — 3D铬字与线框地球](../assets/artworks/y2k/y2k-cyberspace-gemini-03.png) | ![千禧时尚 — 金属银与PVC](../assets/artworks/y2k/y2k-fashion-gemini-04.png) |
+| *千禧赛博空间：iMac G3与数字雨* | *Y2K时尚：太空感银色与厚底鞋* |
+
+> 以上图片由 AI (Gemini 2.5 Flash Image) 生成，用于展示风格视觉特征。
 
 ## 延伸阅读
 

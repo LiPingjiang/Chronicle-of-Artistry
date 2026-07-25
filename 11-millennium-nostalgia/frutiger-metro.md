@@ -123,8 +123,16 @@ Frutiger Metro 几乎总和音乐、运动、派对以及青少年商品绑在�
 
 ## 图片画廊
 
-<!-- 存放于 assets/artworks/frutiger-metro/ -->
-> 待补充：矢量人物剪影海报、QQ空间皮肤、文具封面、夜店传单
+| | |
+|:---:|:---:|
+| ![Frutiger Metro 概念图 — 矢量迷幻风](../assets/artworks/frutiger-metro/frutiger-metro-aesthetic-gemini-01.png) | ![街舞海报 — 人物剪影与放射线](../assets/artworks/frutiger-metro/frutiger-metro-breakdance-gemini-02.png) |
+| *核心视觉：剪影+同心圆+音箱* | *商场海报风格：街舞与涂鸦* |
+| ![笔记本封面 — 文具店记忆](../assets/artworks/frutiger-metro/frutiger-metro-notebook-gemini-03.png) | ![QQ空间 — 个人主页装扮](../assets/artworks/frutiger-metro/frutiger-metro-qqspace-gemini-04.png) |
+| *2008年文具店笔记本封面* | *QQ空间个性化装扮时代* |
+| ![夜店传单 — 城市天际线与DJ](../assets/artworks/frutiger-metro/frutiger-metro-nightclub-gemini-05.png) | |
+| *夜店传单：城市剪影+唱片机* | |
+
+> 以上图片由 AI (Gemini 2.5 Flash Image) 生成，用于展示风格视觉特征。
 
 ## 延伸阅读
 
