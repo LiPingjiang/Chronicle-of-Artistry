@@ -2,6 +2,8 @@
 
 ![Pastel Goth 概念图](../assets/artworks/pastel-goth/pastel-goth-concept-01.png)
 
+![Pastel Goth — 粉彩暗黑房间](../assets/artworks/pastel-goth/pastel-goth-concept-02.png)
+
 > **"把死亡染成粉色——当哥特遇见 Kawaii。"**
 
 ## 概述

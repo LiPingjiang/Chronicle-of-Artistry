@@ -2,6 +2,8 @@
 
 ![Cybergoth 概念图](../assets/artworks/cybergoth/cybergoth-concept-01.png)
 
+![Cybergoth — 工业舞蹈](../assets/artworks/cybergoth/cybergoth-concept-02.png)
+
 > **"工业音乐遇见荧光管——在废墟上跳舞的未来部落。"**
 
 ## 概述

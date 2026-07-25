@@ -2,6 +2,8 @@
 
 ![Dark Y2K 概念图](../assets/artworks/dark-y2k/dark-y2k-concept-01.png)
 
+![Dark Y2K — 暗黑夜店](../assets/artworks/dark-y2k/dark-y2k-concept-02.png)
+
 > **"Y2K 的阴影面——当千禧乐观主义遇见世纪末恐惧。"**
 
 ## 概述

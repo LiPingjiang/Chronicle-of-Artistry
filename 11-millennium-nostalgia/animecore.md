@@ -2,6 +2,8 @@
 
 ![Animecore 概念图](../assets/artworks/animecore/animecore-concept-01.png)
 
+![Animecore — 动漫拼贴](../assets/artworks/animecore/animecore-concept-02.png)
+
 > **"当二次元从屏幕溢出，渗透进现实世界的每一个像素。"**
 
 ## 概述

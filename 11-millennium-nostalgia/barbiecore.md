@@ -2,6 +2,8 @@
 
 ![Barbiecore 概念图](../assets/artworks/barbiecore/barbiecore-concept-01.png)
 
+![Barbiecore — 粉色极致主义](../assets/artworks/barbiecore/barbiecore-concept-02.png)
+
 > **"Life in plastic, it's fantastic."**
 
 ## 概述
