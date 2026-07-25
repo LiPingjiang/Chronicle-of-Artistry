@@ -69,6 +69,8 @@
 |------|------|--------|
 | [McBling 千禧闪耀](11-millennium-nostalgia/mcbling.md) | 2003–2008 | Paris Hilton、水钻、天鹅绒运动套装 |
 | [Barbiecore 芭比核](11-millennium-nostalgia/barbiecore.md) | 2000s/2022回潮 | 粉色即权力——从 Paris Hilton 到 Barbie 电影 |
+| [Balletcore 芭蕾核](11-millennium-nostalgia/balletcore.md) | 2022–至今 | 缎面芭蕾鞋、薄纱裙——把练功房的优雅穿到日常 |
+| [Mob Wife 黑帮妻子](11-millennium-nostalgia/mob-wife.md) | 2024–至今 | 皮草大衣、金色大耳环、红唇——对"安静"的反叛 |
 | [Indie Sleaze 独立邋遢](11-millennium-nostalgia/indie-sleaze.md) | 2006–2014 | 闪光灯派对、American Apparel、经济衰退下的享乐 |
 | [Grunge Revival 垃圾摇滚复兴](11-millennium-nostalgia/grunge-revival.md) | 2018–至今 | Kurt Cobain的法兰绒回到Zara货架——90s愤怒的2020s重生 |
 | [Punk 朋克美学](11-millennium-nostalgia/punk.md) | 1976–至今 | 安全别针、手写传单、DIY一切——只需要愤怒 |
