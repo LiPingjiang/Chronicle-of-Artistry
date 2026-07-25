@@ -44,7 +44,7 @@
 
 > 20世纪末至21世纪初的怀旧浪潮——当互联网一代尚未老去就开始追忆过去。
 
-这是本书目前最完整的章节，收录了 **82 种**互联网时代的视觉风格。
+这是本书目前最完整的章节，收录了 **85 种**互联网时代的视觉风格。
 
 ### 核心风格
 
@@ -121,6 +121,9 @@
 | [Kidcore 童核](11-millennium-nostalgia/kidcore.md) | 2019–至今 | 彩虹、积木、贴纸——拒绝长大的视觉宣言 |
 | [Light Academia 明亮学院](11-millennium-nostalgia/light-academia.md) | 2020–至今 | 阳光洒在旧书页上——学术的浪漫不需要黑暗 |
 | [Soft Grunge 软垃圾摇滚](11-millennium-nostalgia/soft-grunge.md) | 2011–2015 | Nirvana T恤配花冠——Tumblr 把叛逆变成了美学 |
+| [Traumacore 创伤核](11-millennium-nostalgia/traumacore.md) | 2019–至今 | 破碎的娃娃、模糊的童年照片——用美学说出无法开口的痛 |
+| [Princesscore 公主核](11-millennium-nostalgia/princesscore.md) | 2020–至今 | 粉色城堡、水晶皇冠——每个人都值得拥有自己的童话 |
+| [Dark Fantasy 暗黑奇幻](11-millennium-nostalgia/dark-fantasy.md) | 2010s–至今 | 血月下的骑士——当奇幻世界拒绝光明结局 |
 | [Dieselpunk 柴油朋克](11-millennium-nostalgia/dieselpunk.md) | 1920s–1950s 设定 | Art Deco 飞机、铆钉坦克——永远停在1940年代的平行世界 |
 | [Grandmacore 奶奶核](11-millennium-nostalgia/grandmacore.md) | 2020–至今 | 碎花沙发、手钩桌布——奶奶的客厅才是避风港 |
 | [Mermaidcore 美人鱼核](11-millennium-nostalgia/mermaidcore.md) | 2012–至今 | 鳞片闪光、珍珠发饰——每个人心里都住着一条美人鱼 |
@@ -196,7 +199,7 @@
 
 | 章节 | 状态 |
 |------|------|
-| 千禧怀旧美学 (11) | ██████████ 82篇完成 |
+| 千禧怀旧美学 (11) | ██████████ 85篇完成 |
 | 古代 – 当代 (01-08) | ░░░░░░░░░░ 框架已建 |
 | 东方艺术 (09) | ░░░░░░░░░░ 框架已建 |
 | 跨时代专题 (10) | ░░░░░░░░░░ 框架已建 |
