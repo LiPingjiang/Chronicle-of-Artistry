@@ -6,7 +6,7 @@
 
 ## 📖 阅读指南
 
-本章收录了 **15 种**互联网时代的视觉风格。你可以按分类浏览，也可以从第一篇开始顺序阅读——每篇文档底部都有"上一篇 / 下一篇"导航。
+本章收录了 **20 种**互联网时代的视觉风格。你可以按分类浏览，也可以从第一篇开始顺序阅读——每篇文档底部都有"上一篇 / 下一篇"导航。
 
 ---
 
@@ -34,6 +34,7 @@
 | 9 | [Indie Sleaze 独立邋遢](indie-sleaze.md) | 2006–2014 | 闪光灯派对、American Apparel、经济衰退下的享乐 |
 | 10 | [Scene 场景文化](scene.md) | 2006–2013 | 霓虹色头发、MySpace、硬核音乐圈的时尚分支 |
 | 11 | [Surf Crush 冲浪甜心](surf-crush.md) | 1999–2008 | 南加州海滩风、Hollister、《The O.C.》 |
+| 12 | [Mall Goth 商场哥特](mall-goth.md) | 1998–2008 | Hot Topic、Tripp NYC绑带裤、新金属 |
 
 ## 数字设计与科幻
 
@@ -41,9 +42,13 @@
 
 | # | 风格 | 时期 | 一句话 |
 |---|------|------|--------|
-| 12 | [Metalheart 金属心](metalheart.md) | 1998–2004 | 扭曲抽象形态、Depthcore 社区、像素字体 |
-| 13 | [Cassette Futurism 磁带未来主义](cassette-futurism.md) | 回望1970s–90s | CRT显示器、物理按键、方盒子里的未来 |
-| 14 | [Electropop 08 衰退流行](electropop-08.md) | 2008–2013 | 霓虹派对、Lady Gaga、Avantropop 设计 |
+| 13 | [Metalheart 金属心](metalheart.md) | 1998–2004 | 扭曲抽象形态、Depthcore 社区、像素字体 |
+| 14 | [Vectorheart 矢量心](vectorheart.md) | 1995–2004 | The Designers Republic、Wipeout、45度斜线 |
+| 15 | [Chromecore 铬核](chromecore.md) | 1998–2007 | CD/DVD/数码相机的银灰金属质感 |
+| 16 | [90s Cool / Matrix Effect](90s-cool.md) | 1995–2003 | 黑色皮衣、子弹时间、Oakley墨镜 |
+| 17 | [Cassette Futurism 磁带未来主义](cassette-futurism.md) | 回望1970s–90s | CRT显示器、物理按键、方盒子里的未来 |
+| 18 | [Electropop 08 衰退流行](electropop-08.md) | 2008–2013 | 霓虹派对、Lady Gaga、Avantropop 设计 |
+| 19 | [Bloghouse 博客浩室](bloghouse.md) | 2005–2012 | Ed Banger、Justice、MySpace上的电子音乐传播 |
 
 ## 氛围与情绪
 
@@ -51,7 +56,7 @@
 
 | # | 风格 | 时期 | 一句话 |
 |---|------|------|--------|
-| 15 | [Gen X Soft Club](gen-x-soft-club.md) | 1990s末–2000s初 | 机场阈限空间、冷色极简、都市疏离 |
+| 20 | [Gen X Soft Club](gen-x-soft-club.md) | 1990s末–2000s初 | 机场阈限空间、冷色极简、都市疏离 |
 
 ---
 
@@ -59,7 +64,7 @@
 
 如果你想从头到尾读完，按以下顺序：
 
-> Y2K → Vaporwave → Synthwave → Frutiger Aero → Frutiger Metro → Dreamcore → Acid Graphics → McBling → Indie Sleaze → Scene → Surf Crush → Metalheart → Cassette Futurism → Electropop 08 → Gen X Soft Club
+> Y2K → Vaporwave → Synthwave → Frutiger Aero → Frutiger Metro → Dreamcore → Acid Graphics → McBling → Indie Sleaze → Scene → Surf Crush → Metalheart → Cassette Futurism → Electropop 08 → Gen X Soft Club → Vectorheart → Chromecore → 90s Cool → Mall Goth → Bloghouse
 
 每篇底部都有 `← 上一篇 | → 下一篇` 链接，无需返回本页。
 
@@ -79,7 +84,7 @@
 
 ## 关键词索引
 
-`Y2K` `千禧风` `蒸汽波` `合成器浪潮` `Frutiger Aero` `Frutiger Metro` `Vectordelia` `梦核` `怪核` `阈限空间` `酸性设计` `复古未来主义` `霓虹` `低保真` `McBling` `Indie Sleaze` `Scene` `Surf Crush` `Metalheart` `Cassette Futurism` `Electropop 08` `Gen X Soft Club`
+`Y2K` `千禧风` `蒸汽波` `合成器浪潮` `Frutiger Aero` `Frutiger Metro` `Vectordelia` `梦核` `怪核` `阈限空间` `酸性设计` `复古未来主义` `霓虹` `低保真` `McBling` `Indie Sleaze` `Scene` `Surf Crush` `Metalheart` `Vectorheart` `Chromecore` `90s Cool` `Matrix Effect` `Mall Goth` `Bloghouse` `Cassette Futurism` `Electropop 08` `Gen X Soft Club`
 
 ---
 
