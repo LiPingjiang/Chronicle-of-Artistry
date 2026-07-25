@@ -44,7 +44,7 @@
 
 > 20世纪末至21世纪初的怀旧浪潮——当互联网一代尚未老去就开始追忆过去。
 
-这是本书目前最完整的章节，收录了 **52 种**互联网时代的视觉风格。
+这是本书目前最完整的章节，收录了 **55 种**互联网时代的视觉风格。
 
 ### 核心风格
 
@@ -98,6 +98,9 @@
 | [Cottagecore 田园核](11-millennium-nostalgia/cottagecore.md) | 2018–至今 | 逃离算法，回到祖母的花园——烤面包、摘野花 |
 | [Dark Academia 暗黑学院](11-millennium-nostalgia/dark-academia.md) | 2015/2020鼎盛 | 哥特式图书馆里读拉丁文的精英幻想 |
 | [Gorpcore 户外核](11-millennium-nostalgia/gorpcore.md) | 2017–至今 | 穿着始祖鸟去咖啡馆——登山装备成为都市时尚 |
+| [Coastal Grandmother 海岸祖母](11-millennium-nostalgia/coastal-grandmother.md) | 2022–至今 | Nancy Meyers 电影里的汉普顿海边别墅生活 |
+| [Balletcore 芭蕾核](11-millennium-nostalgia/balletcore.md) | 2021–至今 | 把练功房穿上街——缎面芭蕾鞋和裹身上衣 |
+| [Cluttercore 杂物核](11-millennium-nostalgia/cluttercore.md) | 2020–至今 | 极简主义的反义词——满墙收藏品的有序混乱 |
 | [Soft Girl 软妹风](11-millennium-nostalgia/soft-girl.md) | 2019–至今 | 粉色云朵、蝴蝶发夹——TikTok 最甜的视觉糖果 |
 | [Normcore 正常核](11-millennium-nostalgia/normcore.md) | 2013–2017 | 故意穿得像你爸——"没有风格"本身成为风格 |
 | [Frasurbane 郊区怀旧](11-millennium-nostalgia/frasurbane.md) | 怀念1993–2004 | 90年代情景喜剧里那个永远不会变的客厅 |
@@ -167,7 +170,7 @@
 
 | 章节 | 状态 |
 |------|------|
-| 千禧怀旧美学 (11) | ██████████ 52篇完成 |
+| 千禧怀旧美学 (11) | ██████████ 55篇完成 |
 | 古代 – 当代 (01-08) | ░░░░░░░░░░ 框架已建 |
 | 东方艺术 (09) | ░░░░░░░░░░ 框架已建 |
 | 跨时代专题 (10) | ░░░░░░░░░░ 框架已建 |
