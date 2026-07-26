@@ -176,8 +176,10 @@
 | [Futurism 未来主义](11-millennium-nostalgia/futurism.md) | 1909–1944/影响至今 | 速度是新的美——汽车比胜利女神更美 |
 | [Expressionism 表现主义](11-millennium-nostalgia/expressionism.md) | 1905–1930s/影响至今 | 不画世界的样子——画世界让我感受到的样子 |
 | [Cubism 立体主义](11-millennium-nostalgia/cubism.md) | 1907–1920s/影响至今 | 为什么只从一个角度看？——同时画出所有角度 |
+| [Orphism 俄耳甫斯主义](11-millennium-nostalgia/orphism.md) | 1912–1914 | 纯色彩的音乐——不需要物体，色彩本身就能歌唱 |
 | [Abstract Expressionism 抽象表现主义](11-millennium-nostalgia/abstract-expressionism.md) | 1940s–1960s/影响至今 | 画布是竞技场——行动本身就是艺术 |
 | [Action Painting 行动绘画](11-millennium-nostalgia/action-painting.md) | 1940s–1960s | 泼洒、滴落、甩动——身体的痕迹就是艺术 |
+| [Lyrical Abstraction 抒情抽象](11-millennium-nostalgia/lyrical-abstraction.md) | 1940s–1970s | 抽象不必冷酷——它可以像诗一样温柔，像音乐一样流动 |
 | [Art Informel 非形式艺术](11-millennium-nostalgia/art-informel.md) | 1940s–1960s | 形式已死——让材料自己说话，让手势自由流动 |
 | [Color Field 色域绘画](11-millennium-nostalgia/color-field.md) | 1950s–1970s | 一整面墙的纯色——不是空无，是无限 |
 | [Hard-Edge Painting 硬边绘画](11-millennium-nostalgia/hard-edge-painting.md) | 1950s–1960s | 没有模糊——没有渐变——只有纯色与纯色之间锋利如刀的边界 |
@@ -231,6 +233,7 @@
 | [Grunge 垃圾摇滚美学](11-millennium-nostalgia/grunge.md) | 1988–1997/2018复兴 | 法兰绒衬衫、破洞牛仔裤——西雅图的愤怒改变一切 |
 | [Mid-Century Modern 中世纪现代](11-millennium-nostalgia/mid-century-modern.md) | 1945–1969/2010s复兴 | Eames椅、原子钟、柚木边柜——1950年代相信设计可以改变生活 |
 | [Art Deco 装饰艺术](11-millennium-nostalgia/art-deco.md) | 1920–1940/2010s复兴 | 金色几何、摩天大楼、爵士时代——当奢华遇上机器美学 |
+| [Precisionism 精确主义](11-millennium-nostalgia/precisionism.md) | 1920s–1930s | 工厂烟囱是新时代的大教堂——用几何的纯净歌颂机器文明 |
 | [Dark Deco 暗黑装饰艺术](11-millennium-nostalgia/dark-deco.md) | 2010s–至今 | Art Deco的几何奢华遇见哥特的黑暗深渊——金色线条在黑色大理石上闪耀 |
 | [Film Noir 黑色电影](11-millennium-nostalgia/film-noir.md) | 1940s–1950s/影响至今 | 雨夜、霓虹、香烟的烟雾——光与影的极端对比中，每个人都有秘密 |
 | [Swiss Design 瑞士国际主义](11-millennium-nostalgia/swiss-design.md) | 1950s–1970s/影响至今 | 网格、Helvetica、留白——当设计追求绝对的客观与清晰 |
