@@ -235,6 +235,9 @@
 | [Lovecore 爱心核](11-millennium-nostalgia/lovecore.md) | 2020–至今 | 红色心形、丘比特箭、玫瑰花瓣——把情人节变成生活方式 |
 | [Clowncore 小丑核](11-millennium-nostalgia/clowncore.md) | 2019–至今 | 彩虹条纹、红鼻子——当荒诞成为一种自由 |
 | [Mushroomcore 蘑菇核](11-millennium-nostalgia/mushroomcore.md) | 2020–至今 | 毒蝇伞、苔藓、孢子——在腐朽中看见生命的循环 |
+| [Oceancore 海洋核](11-millennium-nostalgia/oceancore.md) | 2020–至今 | 深蓝海水、珊瑚礁、贝壳——让大海的呼吸成为日常 |
+| [Desertcore 沙漠核](11-millennium-nostalgia/desertcore.md) | 2020–至今 | 红色砂岩、仙人掌、无尽地平线——在荒芜中找到壮美 |
+| [Forestcore 森林核](11-millennium-nostalgia/forestcore.md) | 2020–至今 | 苔藓小径、树冠光斑、蕨类卷曲——在绿色的沉默中找到安宁 |
 
 ### 氛围与理论
 
