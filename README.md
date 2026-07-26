@@ -168,11 +168,15 @@
 | [Gothic Art 哥特艺术](11-millennium-nostalgia/gothic-art.md) | 1140–1500/影响至今 | 尖拱直指天堂、彩色玻璃过滤神圣之光 |
 | [Dadaism 达达主义](11-millennium-nostalgia/dadaism.md) | 1916–1924/影响至今 | 艺术已死——我们在它的葬礼上跳舞——反一切、反艺术本身 |
 | [Fluxus 激浪派](11-millennium-nostalgia/fluxus.md) | 1960s–1970s | 艺术不在画廊里——艺术在你刷牙、走路、呼吸的每一刻 |
+| [Performance Art 行为艺术](11-millennium-nostalgia/performance-art.md) | 1960s–至今 | 身体是画布，时间是颜料，观众是共谋者——艺术发生在此刻 |
+| [Sound Art 声音艺术](11-millennium-nostalgia/sound-art.md) | 1960s–至今 | 闭上眼睛——用耳朵看世界——声音本身就是雕塑 |
+| [Assemblage 集合艺术](11-millennium-nostalgia/assemblage.md) | 1950s–至今 | 垃圾是金矿——废弃物的第二次生命，在艺术家手中重生 |
 | [Futurism 未来主义](11-millennium-nostalgia/futurism.md) | 1909–1944/影响至今 | 速度是新的美——汽车比胜利女神更美 |
 | [Expressionism 表现主义](11-millennium-nostalgia/expressionism.md) | 1905–1930s/影响至今 | 不画世界的样子——画世界让我感受到的样子 |
 | [Cubism 立体主义](11-millennium-nostalgia/cubism.md) | 1907–1920s/影响至今 | 为什么只从一个角度看？——同时画出所有角度 |
 | [Abstract Expressionism 抽象表现主义](11-millennium-nostalgia/abstract-expressionism.md) | 1940s–1960s/影响至今 | 画布是竞技场——行动本身就是艺术 |
 | [Color Field 色域绘画](11-millennium-nostalgia/color-field.md) | 1950s–1970s | 一整面墙的纯色——不是空无，是无限 |
+| [Hard-Edge Painting 硬边绘画](11-millennium-nostalgia/hard-edge-painting.md) | 1950s–1960s | 没有模糊——没有渐变——只有纯色与纯色之间锋利如刀的边界 |
 | [Neo-Expressionism 新表现主义](11-millennium-nostalgia/neo-expressionism.md) | 1970s末–1980s | 在极简和概念的冰冷之后——绘画以野蛮的力量回归 |
 | [Street Art 街头艺术](11-millennium-nostalgia/street-art.md) | 1960s–至今 | 城市是画布、喷漆是画笔——不需要画廊的许可 |
 | [Graffiti 涂鸦艺术](11-millennium-nostalgia/graffiti.md) | 1960s–至今 | 一罐喷漆、一个名字、一面墙——在城市的皮肤上刻下"我存在" |
@@ -181,6 +185,7 @@
 | [Video Art 录像艺术](11-millennium-nostalgia/video-art.md) | 1960s–至今 | 电视不是家具——是画布。录像不是记录——是创造 |
 | [Installation Art 装置艺术](11-millennium-nostalgia/installation-art.md) | 1960s–至今 | 走进艺术——不是看它，是被它包围、改变、重塑 |
 | [New Media Art 新媒体艺术](11-millennium-nostalgia/new-media-art.md) | 1990s–至今 | 代码是画笔，数据是颜料，算法是构图——艺术的新物种 |
+| [Bio Art 生物艺术](11-millennium-nostalgia/bio-art.md) | 1990s–至今 | 当艺术家的画笔是基因、画布是活细胞——生命本身成为创作媒介 |
 | [Social Realism 社会现实主义](11-millennium-nostalgia/social-realism.md) | 1930s–1980s | 艺术为人民——画工人的汗水、农民的土地、社会的真相 |
 | [Typography Art 字体艺术](11-millennium-nostalgia/typography-art.md) | 1450–至今 | 字母不只是信息的载体——字母本身就是形状、节奏和情感 |
 | [AI Art 人工智能艺术](11-millennium-nostalgia/ai-art.md) | 2015–至今 | 输入文字，输出图像——当创造力不再需要手 |
