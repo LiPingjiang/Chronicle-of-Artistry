@@ -221,6 +221,9 @@
 | [Storybook Illustration 故事书插画](11-millennium-nostalgia/storybook-illustration.md) | 1900s–至今 | 水彩晕染、手绘线条——打开一本书就进入另一个世界 |
 | [Golden Age Illustration 黄金时代插画](11-millennium-nostalgia/golden-age-illustration.md) | 1880–1914/影响至今 | 水彩与墨线的极致——插画史上最华丽的篇章 |
 | [Naive Art 稚拙艺术](11-millennium-nostalgia/naive-art.md) | 1880s–至今 | 没有透视、没有训练——最纯粹的创造力来自最"不专业"的手 |
+| [Whimsical Design 异想天开设计](11-millennium-nostalgia/whimsical-design.md) | 1900s–至今 | 不对称的房子、会飞的鲸鱼——当设计决定不再"正经" |
+| [Pop Surrealism 波普超现实主义](11-millennium-nostalgia/pop-surrealism.md) | 1970s–至今 | 大眼睛的女孩、融化的冰淇淋——当流行文化遇见潜意识 |
+| [Isometric Design 等距设计](11-millennium-nostalgia/isometric-design.md) | 1980s/2015–至今 | 30度角的平行世界——没有透视消失点，每个细节都同等重要 |
 | [Outsider Art 局外人艺术](11-millennium-nostalgia/outsider-art.md) | 1945–至今 | 精神病院的墙壁、囚犯的笔记本——主流之外最震撼的创造力 |
 | [Risograph 孔版印刷美学](11-millennium-nostalgia/risograph.md) | 2010s–至今 | 荧光油墨、套色偏移——最"不完美"的印刷术成了最酷的设计风格 |
 | [Zine Culture 独立出版文化](11-millennium-nostalgia/zine-culture.md) | 1930s/1970s/2010s–至今 | 复印机、订书钉——在没有许可的情况下出版你自己的世界 |
