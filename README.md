@@ -240,6 +240,9 @@
 | [American Kitsch 美国媚俗](11-millennium-nostalgia/american-kitsch.md) | 1940s–1960s/影响至今 | 理想化的家庭主妇、太空时代曲线——战后美国梦的视觉糖衣 |
 | [Collage Art 拼贴艺术](11-millennium-nostalgia/collage-art.md) | 1912–至今 | 剪刀、胶水、旧杂志——把现实撕碎再重新组合成新的真实 |
 | [Paper Cut Art 剪纸艺术](11-millennium-nostalgia/paper-cut-art.md) | 古代–至今 | 一把剪刀、一张纸——在正负空间之间创造整个世界 |
+| [Folk Art 民间艺术](11-millennium-nostalgia/folk-art.md) | 史前–至今 | 没有学院、没有理论——只有一代代人用双手传递的美 |
+| [Fashion Illustration 时装插画](11-millennium-nostalgia/fashion-illustration.md) | 1900s–至今 | 一笔勾勒出面料的垂坠——比照片更能传达服装的灵魂 |
+| [Matte Painting 数字绘景](11-millennium-nostalgia/matte-painting.md) | 1907–至今 | 让观众相信他们看到了一个不存在的世界——电影魔法最古老的秘密 |
 | [Corecore 核核](11-millennium-nostalgia/corecore.md) | 2022–至今 | 当所有"-core"叠在一起，剩下的是存在本身 |
 | [Auroracore 极光核](11-millennium-nostalgia/auroracore.md) | 2021–至今 | 北极光的色彩与永恒冬夜的宁静 |
 | [Health Goth 健康哥特](11-millennium-nostalgia/health-goth.md) | 2013–2016 | 穿全黑Nike去健身房——哥特遇见运动科学 |
