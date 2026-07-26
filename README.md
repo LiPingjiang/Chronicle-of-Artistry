@@ -347,6 +347,9 @@
 | [Temari 手毬](11-millennium-nostalgia/temari.md) | 7世纪–至今 日本 | 丝线的星球——手毬の幾何学 |
 | [Boro 襤褸](11-millennium-nostalgia/boro.md) | 江户时代–至今 日本 | 贫穷的诗意——ぼろの藍色世界 |
 | [Totem Pole 图腾柱](11-millennium-nostalgia/totem-pole.md) | 古代–至今 北美西北岸 | 雪松上的家族史——Gyáa'aang |
+| [Inuit Art 因纽特艺术](11-millennium-nostalgia/inuit-art.md) | 古代–至今 加拿大北极 | 冰原上的石头会说话——ᐃᓄᐃᑦ ᓴᓇᙳᐊᖅ |
+| [Maori Ta Moko 毛利纹身](11-millennium-nostalgia/maori-ta-moko.md) | 古代–至今 新西兰 | 脸上的族谱——Tā Moko |
+| [Retablo 墨西哥祭坛画](11-millennium-nostalgia/retablo.md) | 殖民时期–至今 墨西哥 | 铁皮上的奇迹——Ex-voto |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
