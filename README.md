@@ -133,6 +133,9 @@
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s/影响至今 | 融化的时钟、梦境逻辑——当潜意识成为画布 |
 | [Boho Chic 波西米亚时尚](11-millennium-nostalgia/boho-chic.md) | 1960s/2005–2015鼎盛 | 流苏、扎染、大地色——自由灵魂不需要规则 |
 | [Bauhaus 包豪斯](11-millennium-nostalgia/bauhaus.md) | 1919–1933/影响至今 | 形式追随功能、三原色——现代设计从这里开始 |
+| [Constructivism 构成主义](11-millennium-nostalgia/constructivism.md) | 1913–1935/影响至今 | 红色楔子劈开白色——当艺术为革命服务 |
+| [De Stijl 风格派](11-millennium-nostalgia/de-stijl.md) | 1917–1931/影响至今 | 红黄蓝+黑色网格——Mondrian相信这就是宇宙的本质 |
+| [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Grunge 垃圾摇滚美学](11-millennium-nostalgia/grunge.md) | 1988–1997/2018复兴 | 法兰绒衬衫、破洞牛仔裤——西雅图的愤怒改变一切 |
 | [Mid-Century Modern 中世纪现代](11-millennium-nostalgia/mid-century-modern.md) | 1945–1969/2010s复兴 | Eames椅、原子钟、柚木边柜——1950年代相信设计可以改变生活 |
 | [Art Deco 装饰艺术](11-millennium-nostalgia/art-deco.md) | 1920–1940/2010s复兴 | 金色几何、摩天大楼、爵士时代——当奢华遇上机器美学 |
