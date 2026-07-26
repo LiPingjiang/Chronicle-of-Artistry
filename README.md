@@ -158,6 +158,8 @@
 | [Britpop 英伦流行](11-millennium-nostalgia/britpop.md) | 1993–1997 | Union Jack吉他、Adidas运动鞋——90年代英国的文化自信 |
 | [Shoegaze 自赏](11-millennium-nostalgia/shoegaze.md) | 1988–1993/2000s复兴/至今 | 效果器墙、低头弹琴——美到让你忘记旋律 |
 | [Acid House 酸浩室](11-millennium-nostalgia/acid-house.md) | 1987–1992/影响至今 | 笑脸、荧光、仓库派对——1988年的第二个夏天改变了一切 |
+| [Madchester 曼彻斯特之声](11-millennium-nostalgia/madchester.md) | 1988–1992 | 宽松牛仔裤、渔夫帽、Haçienda——当吉他摇滚遇上Acid House |
+| [Trip-Hop 神游舞曲](11-millennium-nostalgia/trip-hop.md) | 1991–2000s/影响至今 | 慢拍鼓机、采样黑胶——电子音乐学会了忧郁 |
 | [Skatepunk 滑板朋克](11-millennium-nostalgia/skatepunk.md) | 1980s/1990s–2000s黄金时代 | Thrasher字体、骷髅图案——半管里的无政府主义 |
 | [Grunge 垃圾摇滚美学](11-millennium-nostalgia/grunge.md) | 1988–1997/2018复兴 | 法兰绒衬衫、破洞牛仔裤——西雅图的愤怒改变一切 |
 | [Mid-Century Modern 中世纪现代](11-millennium-nostalgia/mid-century-modern.md) | 1945–1969/2010s复兴 | Eames椅、原子钟、柚木边柜——1950年代相信设计可以改变生活 |
@@ -170,6 +172,7 @@
 | [Dark Luxe 暗黑奢华](11-millennium-nostalgia/dark-luxe.md) | 2018–至今 | 黑色天鹅绒、金色细节——奢华不需要明亮 |
 | [Dark Romance 暗黑浪漫](11-millennium-nostalgia/dark-romance.md) | 2022–至今 | 黑色蕾丝、枯萎玫瑰——爱情最美的时刻是它即将消逝的瞬间 |
 | [Dark Cottagecore 暗黑田园核](11-millennium-nostalgia/dark-cottagecore.md) | 2020–至今 | 荆棘花园、黑色蕾丝围裙——田园生活的暗面 |
+| [Dark Natural 暗黑自然](11-millennium-nostalgia/dark-natural.md) | 2015–至今 | 枯枝、苔藓、骨骼标本——自然不只有阳光，还有腐朽的美 |
 | [Graffiti Art 涂鸦艺术](11-millennium-nostalgia/graffiti-art.md) | 1970s–至今 | 喷漆罐、地铁车厢、Tag签名——城市是我的画布 |
 | [Hip-Hop Aesthetic 嘻哈美学](11-millennium-nostalgia/hip-hop-aesthetic.md) | 1973–至今 | 金链子、Boombox、涂鸦——从布朗克斯到全球文化 |
 | [Lowrider 低趴文化](11-millennium-nostalgia/lowrider.md) | 1940s–至今 | 液压弹跳、糖果漆面——慢慢开，让全世界看见 |
