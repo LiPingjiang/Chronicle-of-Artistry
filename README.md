@@ -148,6 +148,7 @@
 | [Industrial 工业风](11-millennium-nostalgia/industrial.md) | 1970s起源/2010s主流化 | 裸露管道、红砖墙——工厂废墟变成最酷的loft |
 | [Flat Design 扁平设计](11-millennium-nostalgia/flat-design.md) | 2012–至今 | 无阴影、纯色块——当设计决定诚实面对屏幕 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s艺术/2010s生活方式 | 少即是多——去掉一切多余，剩下本质 |
+| [Arte Povera 贫穷艺术](11-millennium-nostalgia/arte-povera.md) | 1960s–1970s | 用最贫穷的材料——说最富有的话 |
 | [Art Nouveau 新艺术运动](11-millennium-nostalgia/art-nouveau.md) | 1890–1910/2020s复兴 | 藤蔓曲线、孔雀羽毛——当自然成为装饰的语法 |
 | [Pre-Raphaelite 拉斐尔前派](11-millennium-nostalgia/pre-raphaelite.md) | 1848–1870s/影响至今 | 回到拉斐尔之前——中世纪的纯真、自然的色彩、不妥协的细节 |
 | [Ukiyo-e 浮世绘](11-millennium-nostalgia/ukiyo-e.md) | 1603–1868/影响至今 | 浮世的欢愉、木版的精确——江户时代的"流行文化"影响了整个西方现代艺术 |
@@ -160,14 +161,19 @@
 | [Suprematism 至上主义](11-millennium-nostalgia/suprematism.md) | 1913–1930s/影响至今 | 黑色方块在白色背景上——纯粹的感觉、纯粹的形式 |
 | [Fauvism 野兽派](11-millennium-nostalgia/fauvism.md) | 1904–1908/影响至今 | 颜色不需要"正确"——红色的树、蓝色的脸——颜色本身就是表达 |
 | [Impressionism 印象派](11-millennium-nostalgia/impressionism.md) | 1860s–1880s/影响至今 | 不画事物"是什么"——画事物"看起来像什么"——光与色彩的革命 |
+| [Post-Impressionism 后印象派](11-millennium-nostalgia/post-impressionism.md) | 1886–1910s | 印象派画光——我们画结构、情感和永恒 |
+| [Symbolism 象征主义](11-millennium-nostalgia/symbolism.md) | 1880s–1910s | 不画所见，画所感——梦境、神话与灵魂的视觉语言 |
 | [Pointillism 点彩派](11-millennium-nostalgia/pointillism.md) | 1886–1910/影响至今 | 不混合颜料——让眼睛混合——无数彩色小点在视网膜上融合成光 |
 | [Romanticism 浪漫主义](11-millennium-nostalgia/romanticism.md) | 1780–1850/影响至今 | 理性太冷了——让情感、自然、崇高和想象力重新统治艺术 |
 | [Gothic Art 哥特艺术](11-millennium-nostalgia/gothic-art.md) | 1140–1500/影响至今 | 尖拱直指天堂、彩色玻璃过滤神圣之光 |
 | [Dadaism 达达主义](11-millennium-nostalgia/dadaism.md) | 1916–1924/影响至今 | 艺术已死——我们在它的葬礼上跳舞——反一切、反艺术本身 |
+| [Fluxus 激浪派](11-millennium-nostalgia/fluxus.md) | 1960s–1970s | 艺术不在画廊里——艺术在你刷牙、走路、呼吸的每一刻 |
 | [Futurism 未来主义](11-millennium-nostalgia/futurism.md) | 1909–1944/影响至今 | 速度是新的美——汽车比胜利女神更美 |
 | [Expressionism 表现主义](11-millennium-nostalgia/expressionism.md) | 1905–1930s/影响至今 | 不画世界的样子——画世界让我感受到的样子 |
 | [Cubism 立体主义](11-millennium-nostalgia/cubism.md) | 1907–1920s/影响至今 | 为什么只从一个角度看？——同时画出所有角度 |
 | [Abstract Expressionism 抽象表现主义](11-millennium-nostalgia/abstract-expressionism.md) | 1940s–1960s/影响至今 | 画布是竞技场——行动本身就是艺术 |
+| [Color Field 色域绘画](11-millennium-nostalgia/color-field.md) | 1950s–1970s | 一整面墙的纯色——不是空无，是无限 |
+| [Neo-Expressionism 新表现主义](11-millennium-nostalgia/neo-expressionism.md) | 1970s末–1980s | 在极简和概念的冰冷之后——绘画以野蛮的力量回归 |
 | [Street Art 街头艺术](11-millennium-nostalgia/street-art.md) | 1960s–至今 | 城市是画布、喷漆是画笔——不需要画廊的许可 |
 | [Graffiti 涂鸦艺术](11-millennium-nostalgia/graffiti.md) | 1960s–至今 | 一罐喷漆、一个名字、一面墙——在城市的皮肤上刻下"我存在" |
 | [Land Art 大地艺术](11-millennium-nostalgia/land-art.md) | 1960s–至今 | 地球本身就是材料——艺术的尺度可以是一座山 |
@@ -175,6 +181,7 @@
 | [Typography Art 字体艺术](11-millennium-nostalgia/typography-art.md) | 1450–至今 | 字母不只是信息的载体——字母本身就是形状、节奏和情感 |
 | [AI Art 人工智能艺术](11-millennium-nostalgia/ai-art.md) | 2015–至今 | 输入文字，输出图像——当创造力不再需要手 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1950s–1970s/影响至今 | Campbell's汤罐头、Ben-Day网点——大众文化成为高级艺术 |
+| [Photorealism 照相写实主义](11-millennium-nostalgia/photorealism.md) | 1960s–至今 | 比照片更像照片——当绘画挑战摄影的极限 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s/影响至今 | 融化的时钟、梦境逻辑——当潜意识成为画布 |
 | [Boho Chic 波西米亚时尚](11-millennium-nostalgia/boho-chic.md) | 1960s/2005–2015鼎盛 | 流苏、扎染、大地色——自由灵魂不需要规则 |
 | [Bauhaus 包豪斯](11-millennium-nostalgia/bauhaus.md) | 1919–1933/影响至今 | 形式追随功能、三原色——现代设计从这里开始 |
