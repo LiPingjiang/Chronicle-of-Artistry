@@ -155,6 +155,9 @@
 | [Psychedelia 迷幻艺术](11-millennium-nostalgia/psychedelia.md) | 1965–1972原版 | 万花筒色彩、液态字体——1967年旧金山的视觉翻译 |
 | [Post-Punk 后朋克](11-millennium-nostalgia/post-punk.md) | 1978–1984/2000s复兴 | Joy Division的鼓机、Peter Saville的封面——朋克学会了冷静 |
 | [Mod 摩德文化](11-millennium-nostalgia/mod.md) | 1958–1967/1979复兴/至今 | Vespa踏板车、Fred Perry Polo衫——60年代英国工人阶级的优雅反叛 |
+| [Britpop 英伦流行](11-millennium-nostalgia/britpop.md) | 1993–1997 | Union Jack吉他、Adidas运动鞋——90年代英国的文化自信 |
+| [Shoegaze 自赏](11-millennium-nostalgia/shoegaze.md) | 1988–1993/2000s复兴/至今 | 效果器墙、低头弹琴——美到让你忘记旋律 |
+| [Acid House 酸浩室](11-millennium-nostalgia/acid-house.md) | 1987–1992/影响至今 | 笑脸、荧光、仓库派对——1988年的第二个夏天改变了一切 |
 | [Skatepunk 滑板朋克](11-millennium-nostalgia/skatepunk.md) | 1980s/1990s–2000s黄金时代 | Thrasher字体、骷髅图案——半管里的无政府主义 |
 | [Grunge 垃圾摇滚美学](11-millennium-nostalgia/grunge.md) | 1988–1997/2018复兴 | 法兰绒衬衫、破洞牛仔裤——西雅图的愤怒改变一切 |
 | [Mid-Century Modern 中世纪现代](11-millennium-nostalgia/mid-century-modern.md) | 1945–1969/2010s复兴 | Eames椅、原子钟、柚木边柜——1950年代相信设计可以改变生活 |
