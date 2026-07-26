@@ -156,6 +156,8 @@
 | [Renaissance 文艺复兴](11-millennium-nostalgia/renaissance.md) | 1400–1600/影响至今 | 人是万物的尺度——透视法、解剖学、明暗法 |
 | [Baroque 巴洛克](11-millennium-nostalgia/baroque.md) | 1600–1750/影响至今 | 更大、更戏剧、更震撼——光与影的极致对比 |
 | [Rococo 洛可可](11-millennium-nostalgia/rococo.md) | 1720–1780/影响至今 | 轻盈、甜美、精致——贝壳曲线、粉色天使、镀金一切 |
+| [Neoclassicism 新古典主义](11-millennium-nostalgia/neoclassicism.md) | 1760–1850/影响至今 | 回到希腊罗马的理性与秩序——古典的纯净对抗洛可可的轻浮 |
+| [Suprematism 至上主义](11-millennium-nostalgia/suprematism.md) | 1913–1930s/影响至今 | 黑色方块在白色背景上——纯粹的感觉、纯粹的形式 |
 | [Fauvism 野兽派](11-millennium-nostalgia/fauvism.md) | 1904–1908/影响至今 | 颜色不需要"正确"——红色的树、蓝色的脸——颜色本身就是表达 |
 | [Impressionism 印象派](11-millennium-nostalgia/impressionism.md) | 1860s–1880s/影响至今 | 不画事物"是什么"——画事物"看起来像什么"——光与色彩的革命 |
 | [Pointillism 点彩派](11-millennium-nostalgia/pointillism.md) | 1886–1910/影响至今 | 不混合颜料——让眼睛混合——无数彩色小点在视网膜上融合成光 |
