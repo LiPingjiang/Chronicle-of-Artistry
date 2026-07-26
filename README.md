@@ -332,6 +332,9 @@
 | [Calligraphy 书法](11-millennium-nostalgia/calligraphy.md) | 5000年–至今 全球 | 笔尖的舞蹈——書道 / الخط العربي |
 | [Warli Art 瓦尔利画](11-millennium-nostalgia/warli-art.md) | 2000年–至今 印度 | 白色的记忆——वारली चित्रकला |
 | [Madhubani 米提拉画](11-millennium-nostalgia/madhubani.md) | 古代–至今 印度 | 每一面墙都是一本书——मधुबनी चित्रकला |
+| [Pysanky 乌克兰彩蛋](11-millennium-nostalgia/pysanky.md) | 古代–至今 乌克兰 | 蜡与火的魔法——Писанка |
+| [Truck Art 巴基斯坦卡车彩绘](11-millennium-nostalgia/truck-art.md) | 1940s–至今 巴基斯坦 | 公路上的移动画廊——ٹرک آرٹ |
+| [Tingatinga 坦桑尼亚画派](11-millennium-nostalgia/tingatinga.md) | 1960s–至今 坦桑尼亚 | 非洲的色彩爆炸——自行车漆的快乐动物 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
