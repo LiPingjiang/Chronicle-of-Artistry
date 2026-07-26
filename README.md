@@ -164,6 +164,9 @@
 | [Trip-Hop 神游舞曲](11-millennium-nostalgia/trip-hop.md) | 1991–2000s/影响至今 | 慢拍鼓机、采样黑胶——电子音乐学会了忧郁 |
 | [Jungle / Drum & Bass 丛林/鼓打贝斯](11-millennium-nostalgia/jungle-dnb.md) | 1991–至今 | 碎拍鼓点、深沉贝斯——伦敦地下的声音革命 |
 | [UK Garage 英国车库](11-millennium-nostalgia/uk-garage.md) | 1994–2002/影响至今 | 2-step节奏、Moschino、香槟——90年代末伦敦最时髦的声音 |
+| [Grime 英国街头电子](11-millennium-nostalgia/grime.md) | 2002–至今 | 140BPM、MC对战、盗版电台——伦敦东区的愤怒之声 |
+| [Dubstep 回响贝斯](11-millennium-nostalgia/dubstep.md) | 2001–至今 | Sub贝斯、半拍节奏——当贝斯变成了物理力量 |
+| [Chillwave 寒潮](11-millennium-nostalgia/chillwave.md) | 2008–2013/影响至今 | Lo-fi合成器、VHS噪点——用卧室电脑重建一个从未存在的80年代 |
 | [Northern Soul 北方灵魂](11-millennium-nostalgia/northern-soul.md) | 1968–至今 | 稀有黑胶、滑步舞、通宵舞厅——英格兰北部工人阶级的秘密宗教 |
 | [Disco Funk 迪斯科放克](11-millennium-nostalgia/disco-funk.md) | 1970–1983/影响至今 | 镜面球、喇叭裤、贝斯线——70年代舞池里的解放运动 |
 | [Skatepunk 滑板朋克](11-millennium-nostalgia/skatepunk.md) | 1980s/1990s–2000s黄金时代 | Thrasher字体、骷髅图案——半管里的无政府主义 |
