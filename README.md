@@ -167,6 +167,14 @@
 | [Grime 英国街头电子](11-millennium-nostalgia/grime.md) | 2002–至今 | 140BPM、MC对战、盗版电台——伦敦东区的愤怒之声 |
 | [Dubstep 回响贝斯](11-millennium-nostalgia/dubstep.md) | 2001–至今 | Sub贝斯、半拍节奏——当贝斯变成了物理力量 |
 | [Chillwave 寒潮](11-millennium-nostalgia/chillwave.md) | 2008–2013/影响至今 | Lo-fi合成器、VHS噪点——用卧室电脑重建一个从未存在的80年代 |
+| [Trance 迷幻电子](11-millennium-nostalgia/trance.md) | 1991–至今 | 138BPM、渐进式编排、激光——90年代锐舞文化的精神巅峰 |
+| [Techno Berlin 柏林科技](11-millennium-nostalgia/techno-berlin.md) | 1989–至今 | 四四拍、工业废墟、Berghain——柏林墙倒塌后的自由之声 |
+| [Electroclash 电子冲击](11-millennium-nostalgia/electro-clash.md) | 2000–2004/影响至今 | 合成器朋克、性感挑衅——当80年代合成器遇上2000年代的讽刺 |
+| [Witch House 巫宅](11-millennium-nostalgia/witch-house.md) | 2009–2014/影响至今 | ▲符号、拖慢人声——互联网深处最黑暗的电子音乐 |
+| [Future Bass 未来贝斯](11-millennium-nostalgia/future-bass.md) | 2012–至今 | 超锯齿和弦、彩虹色彩——EDM时代最甜美的电子音乐 |
+| [Lo-fi Hip-Hop 低保真嘻哈](11-millennium-nostalgia/lo-fi-hip-hop.md) | 2013–至今 | 雨声、黑胶噼啪、学习女孩——互联网时代的背景音乐革命 |
+| [Phonk 放克浪潮](11-millennium-nostalgia/phonk.md) | 2010s–至今 | Memphis采样、漂移视频——地下说唱在TikTok上的复活 |
+| [Dark Trap 暗黑陷阱](11-millennium-nostalgia/dark-trap.md) | 2014–至今 | 808低音、暗黑旋律——互联网时代最阴暗的Hip-Hop变体 |
 | [Northern Soul 北方灵魂](11-millennium-nostalgia/northern-soul.md) | 1968–至今 | 稀有黑胶、滑步舞、通宵舞厅——英格兰北部工人阶级的秘密宗教 |
 | [Disco Funk 迪斯科放克](11-millennium-nostalgia/disco-funk.md) | 1970–1983/影响至今 | 镜面球、喇叭裤、贝斯线——70年代舞池里的解放运动 |
 | [Skatepunk 滑板朋克](11-millennium-nostalgia/skatepunk.md) | 1980s/1990s–2000s黄金时代 | Thrasher字体、骷髅图案——半管里的无政府主义 |
@@ -208,6 +216,9 @@
 | [Witchcore 巫术核](11-millennium-nostalgia/witchcore.md) | 2015/2020爆发 | 月亮、水晶、塔罗牌——"女巫"成为自我赋权 |
 | [Royalcore 皇室核](11-millennium-nostalgia/royalcore.md) | 2020–至今 | 天鹅绒长裙、金色王冠和凡尔赛宫的镜厅 |
 | [Fairycore 仙女核](11-millennium-nostalgia/fairycore.md) | 2020–至今 | 蘑菇圈里的精灵、露珠上的蜻蜓翅膀 |
+| [Storybook Illustration 故事书插画](11-millennium-nostalgia/storybook-illustration.md) | 1900s–至今 | 水彩晕染、手绘线条——打开一本书就进入另一个世界 |
+| [Naive Art 稚拙艺术](11-millennium-nostalgia/naive-art.md) | 1880s–至今 | 没有透视、没有训练——最纯粹的创造力来自最"不专业"的手 |
+| [Mid-Century Illustration 世纪中叶插画](11-millennium-nostalgia/mid-century-illustration.md) | 1945–1970/影响至今 | 几何简化、颗粒纹理——50年代的插画比任何时代都更"现代" |
 | [Corecore 核核](11-millennium-nostalgia/corecore.md) | 2022–至今 | 当所有"-core"叠在一起，剩下的是存在本身 |
 | [Auroracore 极光核](11-millennium-nostalgia/auroracore.md) | 2021–至今 | 北极光的色彩与永恒冬夜的宁静 |
 | [Health Goth 健康哥特](11-millennium-nostalgia/health-goth.md) | 2013–2016 | 穿全黑Nike去健身房——哥特遇见运动科学 |
