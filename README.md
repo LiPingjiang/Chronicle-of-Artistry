@@ -365,6 +365,9 @@
 | [Palekh 帕列赫漆画](11-millennium-nostalgia/palekh.md) | 1924–至今 俄罗斯 | 黑漆上的金色童话——Палехская миниатюра |
 | [Kente 肯特布](11-millennium-nostalgia/kente.md) | 古代–至今 加纳 | 国王的织布机——Kɛntɛ |
 | [Suzani 苏扎尼](11-millennium-nostalgia/suzani.md) | 古代–至今 中亚 | 新娘的嫁妆——سوزنی |
+| [Ikat 伊卡特](11-millennium-nostalgia/ikat.md) | 古代–至今 全球 | 染在线上的幻影——先染后织 |
+| [Otomi Tenango 奥托米刺绣](11-millennium-nostalgia/otomi-tenango.md) | 古代–至今 墨西哥 | 山里人的彩色宇宙——Tenango de Doria |
+| [Petrykivka 彼得里基夫卡彩绘](11-millennium-nostalgia/petrykivka.md) | 古代–至今 乌克兰 | 乌克兰的花园——Петриківський розпис |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
