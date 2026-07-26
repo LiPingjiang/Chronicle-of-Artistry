@@ -124,6 +124,7 @@
 | [Cottagecore Tech 田园科技](11-millennium-nostalgia/cottagecore-tech.md) | 2020–至今 | 用MacBook在花园里写代码——程序员的田园梦 |
 | [Dark Academia 暗黑学院](11-millennium-nostalgia/dark-academia.md) | 2015/2020鼎盛 | 哥特式图书馆里读拉丁文的精英幻想 |
 | [Gorpcore 户外核](11-millennium-nostalgia/gorpcore.md) | 2017–至今 | 穿着始祖鸟去咖啡馆——登山装备成为都市时尚 |
+| [Cabincore 木屋核](11-millennium-nostalgia/cabincore.md) | 2020–至今 | 松木壁炉、格纹毛毯——在山间小屋过永恒的冬天 |
 | [Techwear 机能风](11-millennium-nostalgia/techwear.md) | 2010s–至今 | Gore-Tex、磁吸扣、模块化口袋——可穿戴的赛博建筑 |
 | [Brutalism 粗野主义](11-millennium-nostalgia/brutalism.md) | 1950s–70s/2010s数字复兴 | 裸露混凝土、几何体块——建筑不需要讨好你 |
 | [Industrial 工业风](11-millennium-nostalgia/industrial.md) | 1970s起源/2010s主流化 | 裸露管道、红砖墙——工厂废墟变成最酷的loft |
