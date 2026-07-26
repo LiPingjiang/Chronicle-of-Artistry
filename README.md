@@ -352,6 +352,10 @@
 | [Nu-Rave 新锐舞](11-millennium-nostalgia/nu-rave.md) | 2006–2009 | 荧光涂料+独立摇滚+UV灯光派对 |
 | [Harajuku Y2K 原宿千禧](11-millennium-nostalgia/harajuku-y2k.md) | 2000–2015 | 日本街头的Kawaii层叠爆炸 |
 | [Kawaii 卡哇伊](11-millennium-nostalgia/kawaii.md) | 1970s–至今 | 圆圆的眼睛、粉色腮红——日本'可爱'文化征服全世界 |
+| [Manga 漫画](11-millennium-nostalgia/manga.md) | 1940s–至今 | 从右到左、黑白分明——日本漫画用线条和分镜征服了全世界 |
+| [Anime 动画美学](11-millennium-nostalgia/anime.md) | 1960s–至今 | 赛璐珞的光影、无限的想象——日本动画的平行视觉宇宙 |
+| [Comic Art 漫画艺术（西方）](11-millennium-nostalgia/comic-art.md) | 1930s–至今 | 超级英雄、四格漫画、图像小说——色彩和动态讲述英雄与日常 |
+| [Watercolor Art 水彩艺术](11-millennium-nostalgia/watercolor-art.md) | 古代–至今 | 水是画笔的灵魂——颜料在纸上流动、晕染、呼吸 |
 | [Cyber Y2K 赛博千禧](11-millennium-nostalgia/cyber-y2k.md) | 1997–2004 | PVC、铬银、iMac G3——技术乌托邦的极致 |
 | [Y3K 未来主义新浪潮](11-millennium-nostalgia/y3k.md) | 2023–至今 | 液态金属、机甲美学——Y2K的冷峻进化 |
 | [Bubblegum Dance 泡泡糖舞曲](11-millennium-nostalgia/bubblegum-dance.md) | 1996–2005 | 糖果色跳舞机、Aqua、纯粹的身体快乐 |
