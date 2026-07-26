@@ -263,6 +263,9 @@
 | [Pattachitra 帕塔奇特拉](11-millennium-nostalgia/pattachitra.md) | 5世纪–至今 印度奥里萨 | 布上的神话——ପଟ୍ଟଚିତ୍ର千年不变的技法 |
 | [Kalamkari 卡拉姆卡里](11-millennium-nostalgia/kalamkari.md) | 古代–至今 印度安得拉 | 笔尖蘸着铁锈和牛奶——కలంకారి布上史诗 |
 | [Tanjore Painting 坦贾武尔绘画](11-millennium-nostalgia/tanjore-painting.md) | 16世纪–至今 印度泰米尔 | 金箔和宝石堆砌的神圣——தஞ்சாவூர் ஓவியம் |
+| [Kintsugi 金继ぎ](11-millennium-nostalgia/kintsugi.md) | 15世纪–至今 日本 | 用金色拥抱裂痕——破碎不是终结而是新生 |
+| [Azulejo 阿苏莱霍瓷砖](11-millennium-nostalgia/azulejo.md) | 15世纪–至今 葡萄牙 | 蓝与白铺满整座城市——里斯本的墙壁是打开的书 |
+| [İznik Ceramics 伊兹尼克陶瓷](11-millennium-nostalgia/iznik-ceramics.md) | 15–17世纪 奥斯曼 | 郁金香和石榴在釉下绽放——İznik Çinileri |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
