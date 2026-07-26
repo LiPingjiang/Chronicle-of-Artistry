@@ -75,6 +75,7 @@
 | [Balletcore 芭蕾核](11-millennium-nostalgia/balletcore.md) | 2022–至今 | 缎面芭蕾鞋、薄纱裙——把练功房的优雅穿到日常 |
 | [Mob Wife 黑帮妻子](11-millennium-nostalgia/mob-wife.md) | 2024–至今 | 皮草大衣、金色大耳环、红唇——对"安静"的反叛 |
 | [Indie Sleaze 独立邋遢](11-millennium-nostalgia/indie-sleaze.md) | 2006–2014 | 闪光灯派对、American Apparel、经济衰退下的享乐 |
+| [Twee Pop 小清新流行](11-millennium-nostalgia/twee-pop.md) | 1986–至今 | 尤克里里、碎花裙、独立唱片店——温柔也是一种反叛 |
 | [Grunge Revival 垃圾摇滚复兴](11-millennium-nostalgia/grunge-revival.md) | 2018–至今 | Kurt Cobain的法兰绒回到Zara货架——90s愤怒的2020s重生 |
 | [Kinderwhore 童装娃娃](11-millennium-nostalgia/kinderwhore.md) | 1991–1997/2010s复兴 | 碎花娃娃裙、涂花口红——用'天真'作为武器 |
 | [Punk 朋克美学](11-millennium-nostalgia/punk.md) | 1976–至今 | 安全别针、手写传单、DIY一切——只需要愤怒 |
@@ -88,6 +89,7 @@
 | [Scene Kid 场景小孩](11-millennium-nostalgia/scene-kid.md) | 2005–2012 | 彩虹刘海、恐龙T恤、MySpace自拍——2007年最酷的孩子 |
 | [Visual Kei 视觉系](11-millennium-nostalgia/visual-kei.md) | 1980s–至今 | 华丽妆容、哥特服装、性别模糊——日本摇滚的视觉革命 |
 | [Decora デコラ](11-millennium-nostalgia/decora.md) | 1990s–至今 | 100个发夹、彩虹手环——'太多'这个词不存在 |
+| [Harajuku Street 原宿街头](11-millennium-nostalgia/harajuku-street.md) | 1980s–至今 | 竹下通的彩色爆炸——没有规则，只有自我表达 |
 | [E-Girl / E-Boy](11-millennium-nostalgia/egirl-eboy.md) | 2018–至今 | TikTok 时代的数字原住民亚文化——Emo 的转世 |
 | [Soft Girl 软妹风](11-millennium-nostalgia/soft-girl.md) | 2019–至今 | 粉色云朵、蝴蝶发夹——TikTok 最甜的视觉糖果 |
 | [Normcore 正常核](11-millennium-nostalgia/normcore.md) | 2013–2017 | 故意穿得像你爸——"没有风格"本身成为风格 |
@@ -96,6 +98,7 @@
 | [Mall Goth 商场哥特](11-millennium-nostalgia/mall-goth.md) | 1998–2008 | Hot Topic、Tripp NYC绑带裤、新金属 |
 | [Cybergoth 赛博哥特](11-millennium-nostalgia/cybergoth.md) | 1999–2012 | 荧光假发辫、防毒面具、工业舞蹈 |
 | [Pastel Goth 粉彩哥特](11-millennium-nostalgia/pastel-goth.md) | 2010–2016 | 把死亡染成粉色——哥特遇见 Kawaii |
+| [Nu-Goth 新哥特](11-millennium-nostalgia/nu-goth.md) | 2010–至今 | 倒十字架、全黑运动装——哥特在社交媒体时代的重生 |
 | [Skatercore 滑板核](11-millennium-nostalgia/skatercore.md) | 1970s–至今 | Thrasher字体、磨破的Vans——滑板文化从街头到T台 |
 | [Dark Y2K 暗黑千禧](11-millennium-nostalgia/dark-y2k.md) | 1999–2004 | Y2K 的阴影面——黑色PVC与银色链条 |
 
