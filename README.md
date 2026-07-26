@@ -223,6 +223,9 @@
 | [Fairycore 仙女核](11-millennium-nostalgia/fairycore.md) | 2020–至今 | 蘑菇圈里的精灵、露珠上的蜻蜓翅膀 |
 | [Storybook Illustration 故事书插画](11-millennium-nostalgia/storybook-illustration.md) | 1900s–至今 | 水彩晕染、手绘线条——打开一本书就进入另一个世界 |
 | [Golden Age Illustration 黄金时代插画](11-millennium-nostalgia/golden-age-illustration.md) | 1880–1914/影响至今 | 水彩与墨线的极致——插画史上最华丽的篇章 |
+| [Botanical Illustration 植物科学插画](11-millennium-nostalgia/botanical-illustration.md) | 15世纪–至今 | 每一片叶脉都精确到毫米——科学与艺术最优雅的交汇 |
+| [Editorial Illustration 编辑插画](11-millennium-nostalgia/editorial-illustration.md) | 1800s–至今 | 一张图说清一篇文章的核心——报纸杂志上最有力量的视觉评论 |
+| [Concept Art 概念艺术](11-millennium-nostalgia/concept-art.md) | 1930s–至今 | 在电影开拍之前、游戏开发之前——一切都从概念艺术家的画笔开始 |
 | [Naive Art 稚拙艺术](11-millennium-nostalgia/naive-art.md) | 1880s–至今 | 没有透视、没有训练——最纯粹的创造力来自最"不专业"的手 |
 | [Whimsical Design 异想天开设计](11-millennium-nostalgia/whimsical-design.md) | 1900s–至今 | 不对称的房子、会飞的鲸鱼——当设计决定不再"正经" |
 | [Pop Surrealism 波普超现实主义](11-millennium-nostalgia/pop-surrealism.md) | 1970s–至今 | 大眼睛的女孩、融化的冰淇淋——当流行文化遇见潜意识 |
