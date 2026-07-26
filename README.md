@@ -146,6 +146,8 @@
 | [New Wave 新浪潮](11-millennium-nostalgia/new-wave.md) | 1978–1986/2020s复兴 | 合成器、几何发型、霓虹眼影——后朋克穿上了彩色西装 |
 | [Disco 迪斯科](11-millennium-nostalgia/disco.md) | 1974–1981/2020s复兴 | 镜面球、喇叭裤、Studio 54——当夜晚属于舞池 |
 | [Gothic 哥特美学](11-millennium-nostalgia/gothic.md) | 12世纪建筑/1980s亚文化/至今 | 黑色蕾丝、尖拱窗、蝙蝠翅膀——在黑暗中找到美 |
+| [Dark Luxe 暗黑奢华](11-millennium-nostalgia/dark-luxe.md) | 2018–至今 | 黑色天鹅绒、金色细节——奢华不需要明亮 |
+| [Dark Cottagecore 暗黑田园核](11-millennium-nostalgia/dark-cottagecore.md) | 2020–至今 | 荆棘花园、黑色蕾丝围裙——田园生活的暗面 |
 | [Graffiti Art 涂鸦艺术](11-millennium-nostalgia/graffiti-art.md) | 1970s–至今 | 喷漆罐、地铁车厢、Tag签名——城市是我的画布 |
 | [Hip-Hop Aesthetic 嘻哈美学](11-millennium-nostalgia/hip-hop-aesthetic.md) | 1973–至今 | 金链子、Boombox、涂鸦——从布朗克斯到全球文化 |
 | [Streetwear 街头服饰](11-millennium-nostalgia/streetwear.md) | 1980s/2015–至今 | Supreme Box Logo、限量球鞋——当街头变成了奢侈品 |
