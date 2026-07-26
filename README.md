@@ -75,6 +75,7 @@
 | [Indie Sleaze 独立邋遢](11-millennium-nostalgia/indie-sleaze.md) | 2006–2014 | 闪光灯派对、American Apparel、经济衰退下的享乐 |
 | [Grunge Revival 垃圾摇滚复兴](11-millennium-nostalgia/grunge-revival.md) | 2018–至今 | Kurt Cobain的法兰绒回到Zara货架——90s愤怒的2020s重生 |
 | [Punk 朋克美学](11-millennium-nostalgia/punk.md) | 1976–至今 | 安全别针、手写传单、DIY一切——只需要愤怒 |
+| [Riot Grrrl 暴女运动](11-millennium-nostalgia/riot-grrrl.md) | 1991–1997/2010s复兴 | DIY杂志、手写歌词——女孩也可以组乐队、也可以愤怒 |
 | [Trashy Y2K 垃圾千禧](11-millennium-nostalgia/trashy-y2k.md) | 2000–2007 | 低腰牛仔裤、Von Dutch卡车帽——2000年代最不体面也最自由的时刻 |
 | [Twee 小清新独立](11-millennium-nostalgia/twee.md) | 2009–2014 | Peter Pan 领、复古自行车、Wes Anderson 色板 |
 | [Indie Kid 独立小孩](11-millennium-nostalgia/indie-kid.md) | 2020–至今 | 彩色珠串、扎染卫衣——TikTok 对独立文化的甜美重塑 |
@@ -125,6 +126,7 @@
 | [Dark Academia 暗黑学院](11-millennium-nostalgia/dark-academia.md) | 2015/2020鼎盛 | 哥特式图书馆里读拉丁文的精英幻想 |
 | [Gorpcore 户外核](11-millennium-nostalgia/gorpcore.md) | 2017–至今 | 穿着始祖鸟去咖啡馆——登山装备成为都市时尚 |
 | [Cabincore 木屋核](11-millennium-nostalgia/cabincore.md) | 2020–至今 | 松木壁炉、格纹毛毯——在山间小屋过永恒的冬天 |
+| [Hygge 丹麦舒适哲学](11-millennium-nostalgia/hygge.md) | 丹麦传统/2016全球流行 | 蜡烛、毛毯、热可可——把'舒适'变成一种生活艺术 |
 | [Techwear 机能风](11-millennium-nostalgia/techwear.md) | 2010s–至今 | Gore-Tex、磁吸扣、模块化口袋——可穿戴的赛博建筑 |
 | [Brutalism 粗野主义](11-millennium-nostalgia/brutalism.md) | 1950s–70s/2010s数字复兴 | 裸露混凝土、几何体块——建筑不需要讨好你 |
 | [Industrial 工业风](11-millennium-nostalgia/industrial.md) | 1970s起源/2010s主流化 | 裸露管道、红砖墙——工厂废墟变成最酷的loft |
