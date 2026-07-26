@@ -284,6 +284,9 @@
 | [Yoruba Adire 约鲁巴蓝染布](11-millennium-nostalgia/yoruba-adire.md) | 古代–至今 尼日利亚 | 靛蓝是力量的颜色——àdìrẹ的蓝白神话 |
 | [Scherenschnitte 瑞士德式剪纸](11-millennium-nostalgia/scherenschnitte.md) | 16世纪–至今 瑞士/德国 | 阿尔卑斯山的牧歌在黑色剪影中永恒 |
 | [Khokhloma 霍赫洛马](11-millennium-nostalgia/khokhloma.md) | 17世纪–至今 俄罗斯 | 不用黄金却闪耀金色——Хохлома的浆果蔓藤 |
+| [Benin Bronzes 贝宁青铜](11-millennium-nostalgia/benin-bronzes.md) | 13–19世纪 尼日利亚 | 失蜡法铸就的王国记忆——Edo Bronze |
+| [African Wax Print 非洲蜡染印花布](11-millennium-nostalgia/african-wax-print.md) | 19世纪–至今 西非 | 荷兰仿制印尼蜡染却在非洲找到灵魂——Ankara |
+| [Shibori 绞り染め](11-millennium-nostalgia/shibori.md) | 8世纪–至今 日本 | 布料在绑扎中呼吸——絞り染めの靛蓝宇宙 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
