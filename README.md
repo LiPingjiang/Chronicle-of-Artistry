@@ -178,6 +178,10 @@
 | [Graffiti 涂鸦艺术](11-millennium-nostalgia/graffiti.md) | 1960s–至今 | 一罐喷漆、一个名字、一面墙——在城市的皮肤上刻下"我存在" |
 | [Land Art 大地艺术](11-millennium-nostalgia/land-art.md) | 1960s–至今 | 地球本身就是材料——艺术的尺度可以是一座山 |
 | [Digital Art 数字艺术](11-millennium-nostalgia/digital-art.md) | 1960s–至今 | 像素是新的颜料、屏幕是新的画布——无限撤销、无限可能 |
+| [Video Art 录像艺术](11-millennium-nostalgia/video-art.md) | 1960s–至今 | 电视不是家具——是画布。录像不是记录——是创造 |
+| [Installation Art 装置艺术](11-millennium-nostalgia/installation-art.md) | 1960s–至今 | 走进艺术——不是看它，是被它包围、改变、重塑 |
+| [New Media Art 新媒体艺术](11-millennium-nostalgia/new-media-art.md) | 1990s–至今 | 代码是画笔，数据是颜料，算法是构图——艺术的新物种 |
+| [Social Realism 社会现实主义](11-millennium-nostalgia/social-realism.md) | 1930s–1980s | 艺术为人民——画工人的汗水、农民的土地、社会的真相 |
 | [Typography Art 字体艺术](11-millennium-nostalgia/typography-art.md) | 1450–至今 | 字母不只是信息的载体——字母本身就是形状、节奏和情感 |
 | [AI Art 人工智能艺术](11-millennium-nostalgia/ai-art.md) | 2015–至今 | 输入文字，输出图像——当创造力不再需要手 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1950s–1970s/影响至今 | Campbell's汤罐头、Ben-Day网点——大众文化成为高级艺术 |
