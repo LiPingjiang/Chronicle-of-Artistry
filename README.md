@@ -233,6 +233,9 @@
 | [Persian Miniature 波斯细密画](11-millennium-nostalgia/persian-miniature.md) | 13–17世纪 波斯 | 金色天空下的花园——《列王纪》的视觉史诗 |
 | [Aboriginal Australian Art 澳大利亚原住民艺术](11-millennium-nostalgia/aboriginal-art.md) | 65,000年前–至今 | 梦幻时代的点画地图——世界最古老的持续艺术传统 |
 | [Chinese Literati Painting 中国文人画](11-millennium-nostalgia/chinese-literati.md) | 宋–清 中国 | 逸笔草草不求形似——墨分五色的精神山水 |
+| [Byzantine Art 拜占庭艺术](11-millennium-nostalgia/byzantine-art.md) | 330–1453 东罗马 | 金色马赛克中的永恒——当天堂降临墙壁 |
+| [Rinpa 琳派](11-millennium-nostalgia/rinpa.md) | 17–19世纪 日本 | 金箔屏风上的燕子花——自然之美的装饰化戏剧 |
+| [Korean Minhwa 韩国民画](11-millennium-nostalgia/korean-minhwa.md) | 朝鲜王朝 韩国 | 笑虎与喜鹊——无名画工的吉祥宇宙 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
