@@ -53,6 +53,7 @@
 | [Y2K 美学](11-millennium-nostalgia/y2k.md) | 1997–2004 | 金属镭射、泡泡糖粉、半透明塑料 |
 | [蒸汽波 Vaporwave](11-millennium-nostalgia/vaporwave.md) | 2010–至今 | 80/90年代消费主义的迷幻解构 |
 | [合成器浪潮 Synthwave](11-millennium-nostalgia/synthwave.md) | 2005–至今 | 对80年代黄金岁月的霓虹致敬 |
+| [Vapor Twitch 蒸汽抽搐](11-millennium-nostalgia/vapor-twitch.md) | 2018–至今 | 故障信号、紫色闪烁——当蒸汽波遇上直播文化 |
 | [Frutiger Metro 弗鲁提格都市](11-millennium-nostalgia/frutiger-metro.md) | 2005–2012 | 鲜艳色块、黑色人物剪影——2008年老商场里的青春配方 |
 | [Frutiger Aero](11-millennium-nostalgia/frutiger-aero.md) | 2004–2013 | Web 2.0 时代的水晶拟物风 |
 | [Frutiger Metro / Vectordelia](11-millennium-nostalgia/frutiger-metro.md) | 2005–2012 | 矢量迷幻风，耳机剪影放射线，商场的青春记忆 |
@@ -239,6 +240,7 @@
 | [Mushroomcore 蘑菇核](11-millennium-nostalgia/mushroomcore.md) | 2020–至今 | 毒蝇伞、苔藓、孢子——在腐朽中看见生命的循环 |
 | [Oceancore 海洋核](11-millennium-nostalgia/oceancore.md) | 2020–至今 | 深蓝海水、珊瑚礁、贝壳——让大海的呼吸成为日常 |
 | [Desertcore 沙漠核](11-millennium-nostalgia/desertcore.md) | 2020–至今 | 红色砂岩、仙人掌、无尽地平线——在荒芜中找到壮美 |
+| [Mountaincore 山核](11-millennium-nostalgia/mountaincore.md) | 2020–至今 | 雪峰、松林、高山湖泊——在海拔之上找到渺小与壮阔 |
 | [Forestcore 森林核](11-millennium-nostalgia/forestcore.md) | 2020–至今 | 苔藓小径、树冠光斑、蕨类卷曲——在绿色的沉默中找到安宁 |
 | [Cloudcore 云核](11-millennium-nostalgia/cloudcore.md) | 2020–至今 | 棉花糖云层、天空渐变——在云端找到轻盈与自由 |
 | [Starcore 星核](11-millennium-nostalgia/starcore.md) | 2020–至今 | 银河、星座、宇宙尘埃——仰望星空时我们都是渺小而伟大的 |
