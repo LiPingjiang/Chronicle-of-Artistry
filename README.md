@@ -218,6 +218,9 @@
 | [Fairycore 仙女核](11-millennium-nostalgia/fairycore.md) | 2020–至今 | 蘑菇圈里的精灵、露珠上的蜻蜓翅膀 |
 | [Storybook Illustration 故事书插画](11-millennium-nostalgia/storybook-illustration.md) | 1900s–至今 | 水彩晕染、手绘线条——打开一本书就进入另一个世界 |
 | [Naive Art 稚拙艺术](11-millennium-nostalgia/naive-art.md) | 1880s–至今 | 没有透视、没有训练——最纯粹的创造力来自最"不专业"的手 |
+| [Outsider Art 局外人艺术](11-millennium-nostalgia/outsider-art.md) | 1945–至今 | 精神病院的墙壁、囚犯的笔记本——主流之外最震撼的创造力 |
+| [Risograph 孔版印刷美学](11-millennium-nostalgia/risograph.md) | 2010s–至今 | 荧光油墨、套色偏移——最"不完美"的印刷术成了最酷的设计风格 |
+| [Zine Culture 独立出版文化](11-millennium-nostalgia/zine-culture.md) | 1930s/1970s/2010s–至今 | 复印机、订书钉——在没有许可的情况下出版你自己的世界 |
 | [Mid-Century Illustration 世纪中叶插画](11-millennium-nostalgia/mid-century-illustration.md) | 1945–1970/影响至今 | 几何简化、颗粒纹理——50年代的插画比任何时代都更"现代" |
 | [Corecore 核核](11-millennium-nostalgia/corecore.md) | 2022–至今 | 当所有"-core"叠在一起，剩下的是存在本身 |
 | [Auroracore 极光核](11-millennium-nostalgia/auroracore.md) | 2021–至今 | 北极光的色彩与永恒冬夜的宁静 |
