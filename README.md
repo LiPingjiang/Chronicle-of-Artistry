@@ -353,6 +353,9 @@
 | [Katagami 型紙](11-millennium-nostalgia/katagami.md) | 室町时代–至今 日本 | 纸上的蕾丝——かたがみ |
 | [Raku 楽焼](11-millennium-nostalgia/raku.md) | 16世纪–至今 日本 | 火中取宝——らくやき |
 | [Quillwork 豪猪刺绣](11-millennium-nostalgia/quillwork.md) | 古代–至今 北美原住民 | 刺猬的礼物——Porcupine Quillwork |
+| [Kumihimo 組紐](11-millennium-nostalgia/kumihimo.md) | 奈良时代–至今 日本 | 丝线的数学——くみひも |
+| [Kogin-zashi こぎん刺し](11-millennium-nostalgia/kogin-zashi.md) | 江户时代–至今 日本 | 雪国的几何——津軽こぎん |
+| [Blue Willow Pattern 柳树图案](11-millennium-nostalgia/blue-willow-pattern.md) | 1780s–至今 英国 | 英国人想象中的中国——Willow Pattern |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
