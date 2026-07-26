@@ -236,6 +236,9 @@
 | [Byzantine Art 拜占庭艺术](11-millennium-nostalgia/byzantine-art.md) | 330–1453 东罗马 | 金色马赛克中的永恒——当天堂降临墙壁 |
 | [Rinpa 琳派](11-millennium-nostalgia/rinpa.md) | 17–19世纪 日本 | 金箔屏风上的燕子花——自然之美的装饰化戏剧 |
 | [Korean Minhwa 韩国民画](11-millennium-nostalgia/korean-minhwa.md) | 朝鲜王朝 韩国 | 笑虎与喜鹊——无名画工的吉祥宇宙 |
+| [African Textile Art 非洲纺织艺术](11-millennium-nostalgia/african-textile.md) | 12世纪–至今 西非 | Kente、Bogolan、Adire——布料会说话 |
+| [Ottoman Miniature 奥斯曼细密画](11-millennium-nostalgia/ottoman-miniature.md) | 15–18世纪 土耳其 | 帝国的视觉编年史——苏丹的荣耀与疆域 |
+| [Brazilian Neo-Concretism 巴西新具体主义](11-millennium-nostalgia/neo-concretism.md) | 1959–1970s 巴西 | 触摸、穿戴、参与——艺术不是被观看的对象 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
