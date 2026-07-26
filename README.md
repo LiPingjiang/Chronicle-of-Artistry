@@ -155,6 +155,7 @@
 | [Chinoiserie 中国风](11-millennium-nostalgia/chinoiserie.md) | 17世纪–19世纪/影响至今 | 欧洲人想象中的中国——青花瓷、宝塔、龙凤——一个美丽的"误读" |
 | [Chinese Ink Painting 中国水墨画](11-millennium-nostalgia/chinese-ink-painting.md) | 唐代–至今 | 墨分五色、计白当黑——一笔之中见天地、留白之处藏万象 |
 | [Renaissance 文艺复兴](11-millennium-nostalgia/renaissance.md) | 1400–1600/影响至今 | 人是万物的尺度——透视法、解剖学、明暗法 |
+| [Mannerism 矫饰主义](11-millennium-nostalgia/mannerism.md) | 1520s–1600 | 文艺复兴太完美了——我们要打破它，用扭曲、拉长、不安来表达内心的骚动 |
 | [Baroque 巴洛克](11-millennium-nostalgia/baroque.md) | 1600–1750/影响至今 | 更大、更戏剧、更震撼——光与影的极致对比 |
 | [Rococo 洛可可](11-millennium-nostalgia/rococo.md) | 1720–1780/影响至今 | 轻盈、甜美、精致——贝壳曲线、粉色天使、镀金一切 |
 | [Neoclassicism 新古典主义](11-millennium-nostalgia/neoclassicism.md) | 1760–1850/影响至今 | 回到希腊罗马的理性与秩序——古典的纯净对抗洛可可的轻浮 |
@@ -165,6 +166,7 @@
 | [Symbolism 象征主义](11-millennium-nostalgia/symbolism.md) | 1880s–1910s | 不画所见，画所感——梦境、神话与灵魂的视觉语言 |
 | [Pointillism 点彩派](11-millennium-nostalgia/pointillism.md) | 1886–1910/影响至今 | 不混合颜料——让眼睛混合——无数彩色小点在视网膜上融合成光 |
 | [Romanticism 浪漫主义](11-millennium-nostalgia/romanticism.md) | 1780–1850/影响至今 | 理性太冷了——让情感、自然、崇高和想象力重新统治艺术 |
+| [Realism 现实主义](11-millennium-nostalgia/realism.md) | 1840s–1880s | 不美化、不丑化——如实描绘世界的本来面目 |
 | [Gothic Art 哥特艺术](11-millennium-nostalgia/gothic-art.md) | 1140–1500/影响至今 | 尖拱直指天堂、彩色玻璃过滤神圣之光 |
 | [Dadaism 达达主义](11-millennium-nostalgia/dadaism.md) | 1916–1924/影响至今 | 艺术已死——我们在它的葬礼上跳舞——反一切、反艺术本身 |
 | [Fluxus 激浪派](11-millennium-nostalgia/fluxus.md) | 1960s–1970s | 艺术不在画廊里——艺术在你刷牙、走路、呼吸的每一刻 |
@@ -175,6 +177,8 @@
 | [Expressionism 表现主义](11-millennium-nostalgia/expressionism.md) | 1905–1930s/影响至今 | 不画世界的样子——画世界让我感受到的样子 |
 | [Cubism 立体主义](11-millennium-nostalgia/cubism.md) | 1907–1920s/影响至今 | 为什么只从一个角度看？——同时画出所有角度 |
 | [Abstract Expressionism 抽象表现主义](11-millennium-nostalgia/abstract-expressionism.md) | 1940s–1960s/影响至今 | 画布是竞技场——行动本身就是艺术 |
+| [Action Painting 行动绘画](11-millennium-nostalgia/action-painting.md) | 1940s–1960s | 泼洒、滴落、甩动——身体的痕迹就是艺术 |
+| [Art Informel 非形式艺术](11-millennium-nostalgia/art-informel.md) | 1940s–1960s | 形式已死——让材料自己说话，让手势自由流动 |
 | [Color Field 色域绘画](11-millennium-nostalgia/color-field.md) | 1950s–1970s | 一整面墙的纯色——不是空无，是无限 |
 | [Hard-Edge Painting 硬边绘画](11-millennium-nostalgia/hard-edge-painting.md) | 1950s–1960s | 没有模糊——没有渐变——只有纯色与纯色之间锋利如刀的边界 |
 | [Neo-Expressionism 新表现主义](11-millennium-nostalgia/neo-expressionism.md) | 1970s末–1980s | 在极简和概念的冰冷之后——绘画以野蛮的力量回归 |
