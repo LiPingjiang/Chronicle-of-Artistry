@@ -69,6 +69,7 @@
 | 风格 | 时期 | 一句话 |
 |------|------|--------|
 | [McBling 千禧闪耀](11-millennium-nostalgia/mcbling.md) | 2003–2008 | Paris Hilton、水钻、天鹅绒运动套装 |
+| [Gyaru ギャル](11-millennium-nostalgia/gyaru.md) | 1990s–至今 | 深色美黑、夸张假睫毛、金色长发——日本女孩对'可爱'的叛逆重定义 |
 | [Barbiecore 芭比核](11-millennium-nostalgia/barbiecore.md) | 2000s/2022回潮 | 粉色即权力——从 Paris Hilton 到 Barbie 电影 |
 | [Balletcore 芭蕾核](11-millennium-nostalgia/balletcore.md) | 2022–至今 | 缎面芭蕾鞋、薄纱裙——把练功房的优雅穿到日常 |
 | [Mob Wife 黑帮妻子](11-millennium-nostalgia/mob-wife.md) | 2024–至今 | 皮草大衣、金色大耳环、红唇——对"安静"的反叛 |
@@ -124,6 +125,7 @@
 | 风格 | 时期 | 一句话 |
 |------|------|--------|
 | [Cottagecore 田园核](11-millennium-nostalgia/cottagecore.md) | 2018–至今 | 逃离算法，回到祖母的花园——烤面包、摘野花 |
+| [Mori Girl 森女](11-millennium-nostalgia/mori-girl.md) | 2006–至今 | 亚麻长裙、编织篮子——像住在森林里的女孩一样生活 |
 | [Cottagecore Dark 暗黑田园核](11-millennium-nostalgia/cottagecore-dark.md) | 2020–至今 | 毒蘑菇、乌鸦、荆棘——田园生活美丽而危险的另一面 |
 | [Cottagecore Tech 田园科技](11-millennium-nostalgia/cottagecore-tech.md) | 2020–至今 | 用MacBook在花园里写代码——程序员的田园梦 |
 | [Dark Academia 暗黑学院](11-millennium-nostalgia/dark-academia.md) | 2015/2020鼎盛 | 哥特式图书馆里读拉丁文的精英幻想 |
@@ -153,6 +155,7 @@
 | [New Wave 新浪潮](11-millennium-nostalgia/new-wave.md) | 1978–1986/2020s复兴 | 合成器、几何发型、霓虹眼影——后朋克穿上了彩色西装 |
 | [Disco 迪斯科](11-millennium-nostalgia/disco.md) | 1974–1981/2020s复兴 | 镜面球、喇叭裤、Studio 54——当夜晚属于舞池 |
 | [Gothic 哥特美学](11-millennium-nostalgia/gothic.md) | 12世纪建筑/1980s亚文化/至今 | 黑色蕾丝、尖拱窗、蝙蝠翅膀——在黑暗中找到美 |
+| [Cyber Goth 赛博哥特](11-millennium-nostalgia/cyber-goth.md) | 1990s–至今 | 荧光假发、防毒面具、工业舞步——当哥特遇上赛博朋克 |
 | [Dark Luxe 暗黑奢华](11-millennium-nostalgia/dark-luxe.md) | 2018–至今 | 黑色天鹅绒、金色细节——奢华不需要明亮 |
 | [Dark Romance 暗黑浪漫](11-millennium-nostalgia/dark-romance.md) | 2022–至今 | 黑色蕾丝、枯萎玫瑰——爱情最美的时刻是它即将消逝的瞬间 |
 | [Dark Cottagecore 暗黑田园核](11-millennium-nostalgia/dark-cottagecore.md) | 2020–至今 | 荆棘花园、黑色蕾丝围裙——田园生活的暗面 |
