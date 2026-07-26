@@ -251,6 +251,12 @@
 | [Pacific Northwest Coast Art 太平洋西北海岸艺术](11-millennium-nostalgia/pacific-northwest-art.md) | 5000 BCE–至今 北美 | 乌鸦与鹰在红与黑之间变形——Formline的视觉宇宙 |
 | [Andean Textile Art 安第斯纺织艺术](11-millennium-nostalgia/andean-textile.md) | 3000 BCE–至今 南美 | 没有文字的文明用线记录一切——每个结都是历史 |
 | [Vietnamese Lacquer Art 越南漆画](11-millennium-nostalgia/vietnamese-lacquer.md) | 1930s–至今 越南 | 百层漆千次磨——在黑暗中打磨出光 |
+| [Inuit Art 因纽特艺术](11-millennium-nostalgia/inuit-art.md) | 1948–至今 北极 | 在冰与石之间雕刻出生命的形状 |
+| [Navajo Weaving 纳瓦霍织毯](11-millennium-nostalgia/navajo-weaving.md) | 1650–至今 美国西南 | 蜘蛛女教会了织布——每条经线连接天与地 |
+| [Armenian Manuscript 亚美尼亚手抄本](11-millennium-nostalgia/armenian-manuscript.md) | 5世纪–至今 亚美尼亚 | 在世界的十字路口用金色和靛蓝守护文字 |
+| [Balinese Painting 巴厘岛绘画](11-millennium-nostalgia/balinese-painting.md) | 12世纪–至今 印尼 | 神话在画布上跳舞——每片叶子都藏着精灵 |
+| [Georgian Cloisonné 格鲁吉亚掐丝珐琅](11-millennium-nostalgia/georgian-enamel.md) | 8–12世纪 格鲁吉亚 | 金丝围出的色彩宇宙——高加索的拜占庭光辉 |
+| [Dark Deco 暗黑装饰艺术](11-millennium-nostalgia/dark-deco.md) | 2010s–至今 | 当Art Deco坠入暗夜——金色几何在黑暗中闪烁 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
