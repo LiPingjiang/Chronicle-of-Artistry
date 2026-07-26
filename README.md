@@ -150,6 +150,8 @@
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s艺术/2010s生活方式 | 少即是多——去掉一切多余，剩下本质 |
 | [Arte Povera 贫穷艺术](11-millennium-nostalgia/arte-povera.md) | 1960s–1970s | 用最贫穷的材料——说最富有的话 |
 | [Art Nouveau 新艺术运动](11-millennium-nostalgia/art-nouveau.md) | 1890–1910/2020s复兴 | 藤蔓曲线、孔雀羽毛——当自然成为装饰的语法 |
+| [Arts and Crafts 工艺美术运动](11-millennium-nostalgia/arts-and-crafts.md) | 1860s–1910s | 机器摧毁了美——让我们用双手把它找回来 |
+| [Vienna Secession 维也纳分离派](11-millennium-nostalgia/vienna-secession.md) | 1897–1905 | 每个时代有它的艺术，每种艺术有它的自由 |
 | [Pre-Raphaelite 拉斐尔前派](11-millennium-nostalgia/pre-raphaelite.md) | 1848–1870s/影响至今 | 回到拉斐尔之前——中世纪的纯真、自然的色彩、不妥协的细节 |
 | [Ukiyo-e 浮世绘](11-millennium-nostalgia/ukiyo-e.md) | 1603–1868/影响至今 | 浮世的欢愉、木版的精确——江户时代的"流行文化"影响了整个西方现代艺术 |
 | [Chinoiserie 中国风](11-millennium-nostalgia/chinoiserie.md) | 17世纪–19世纪/影响至今 | 欧洲人想象中的中国——青花瓷、宝塔、龙凤——一个美丽的"误读" |
@@ -193,6 +195,7 @@
 | [New Media Art 新媒体艺术](11-millennium-nostalgia/new-media-art.md) | 1990s–至今 | 代码是画笔，数据是颜料，算法是构图——艺术的新物种 |
 | [Bio Art 生物艺术](11-millennium-nostalgia/bio-art.md) | 1990s–至今 | 当艺术家的画笔是基因、画布是活细胞——生命本身成为创作媒介 |
 | [Social Realism 社会现实主义](11-millennium-nostalgia/social-realism.md) | 1930s–1980s | 艺术为人民——画工人的汗水、农民的土地、社会的真相 |
+| [Mexican Muralism 墨西哥壁画运动](11-millennium-nostalgia/mexican-muralism.md) | 1920s–1970s | 墙壁是人民的画布——让艺术走出画廊，走进街头，属于所有人 |
 | [Typography Art 字体艺术](11-millennium-nostalgia/typography-art.md) | 1450–至今 | 字母不只是信息的载体——字母本身就是形状、节奏和情感 |
 | [AI Art 人工智能艺术](11-millennium-nostalgia/ai-art.md) | 2015–至今 | 输入文字，输出图像——当创造力不再需要手 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1950s–1970s/影响至今 | Campbell's汤罐头、Ben-Day网点——大众文化成为高级艺术 |
