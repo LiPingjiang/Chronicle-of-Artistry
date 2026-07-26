@@ -79,6 +79,8 @@
 | [Grunge Revival 垃圾摇滚复兴](11-millennium-nostalgia/grunge-revival.md) | 2018–至今 | Kurt Cobain的法兰绒回到Zara货架——90s愤怒的2020s重生 |
 | [Kinderwhore 童装娃娃](11-millennium-nostalgia/kinderwhore.md) | 1991–1997/2010s复兴 | 碎花娃娃裙、涂花口红——用'天真'作为武器 |
 | [Punk 朋克美学](11-millennium-nostalgia/punk.md) | 1976–至今 | 安全别针、手写传单、DIY一切——只需要愤怒 |
+| [Ska & 2 Tone 斯卡与双色调](11-millennium-nostalgia/ska-2tone.md) | 1960s/1979–1984/至今 | 黑白格子、Pork Pie帽——牙买加节奏遇上英国工人阶级 |
+| [Rockabilly 摇滚比利](11-millennium-nostalgia/rockabilly.md) | 1950s/1980s复兴/至今 | 飞机头、复古纹身、站立贝斯——50年代的叛逆从未过时 |
 | [Riot Grrrl 暴女运动](11-millennium-nostalgia/riot-grrrl.md) | 1991–1997/2010s复兴 | DIY杂志、手写歌词——女孩也可以组乐队、也可以愤怒 |
 | [Trashy Y2K 垃圾千禧](11-millennium-nostalgia/trashy-y2k.md) | 2000–2007 | 低腰牛仔裤、Von Dutch卡车帽——2000年代最不体面也最自由的时刻 |
 | [Twee 小清新独立](11-millennium-nostalgia/twee.md) | 2009–2014 | Peter Pan 领、复古自行车、Wes Anderson 色板 |
@@ -167,6 +169,7 @@
 | [Dark Cottagecore 暗黑田园核](11-millennium-nostalgia/dark-cottagecore.md) | 2020–至今 | 荆棘花园、黑色蕾丝围裙——田园生活的暗面 |
 | [Graffiti Art 涂鸦艺术](11-millennium-nostalgia/graffiti-art.md) | 1970s–至今 | 喷漆罐、地铁车厢、Tag签名——城市是我的画布 |
 | [Hip-Hop Aesthetic 嘻哈美学](11-millennium-nostalgia/hip-hop-aesthetic.md) | 1973–至今 | 金链子、Boombox、涂鸦——从布朗克斯到全球文化 |
+| [Lowrider 低趴文化](11-millennium-nostalgia/lowrider.md) | 1940s–至今 | 液压弹跳、糖果漆面——慢慢开，让全世界看见 |
 | [Streetwear 街头服饰](11-millennium-nostalgia/streetwear.md) | 1980s/2015–至今 | Supreme Box Logo、限量球鞋——当街头变成了奢侈品 |
 | [Preppy 学院预科风](11-millennium-nostalgia/preppy.md) | 1950s/1980s鼎盛/至今 | Polo衫、卡其裤、帆船鞋——常春藤联盟的永恒制服 |
 | [Americana 美式复古](11-millennium-nostalgia/americana.md) | 1920s–1960s/2010s复兴 | 66号公路、霓虹汽车旅馆、牛仔靴——永远在路上的美国梦 |
