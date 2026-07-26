@@ -152,6 +152,11 @@
 | [Pre-Raphaelite 拉斐尔前派](11-millennium-nostalgia/pre-raphaelite.md) | 1848–1870s/影响至今 | 回到拉斐尔之前——中世纪的纯真、自然的色彩、不妥协的细节 |
 | [Ukiyo-e 浮世绘](11-millennium-nostalgia/ukiyo-e.md) | 1603–1868/影响至今 | 浮世的欢愉、木版的精确——江户时代的"流行文化"影响了整个西方现代艺术 |
 | [Chinoiserie 中国风](11-millennium-nostalgia/chinoiserie.md) | 17世纪–19世纪/影响至今 | 欧洲人想象中的中国——青花瓷、宝塔、龙凤——一个美丽的"误读" |
+| [Chinese Ink Painting 中国水墨画](11-millennium-nostalgia/chinese-ink-painting.md) | 唐代–至今 | 墨分五色、计白当黑——一笔之中见天地、留白之处藏万象 |
+| [Renaissance 文艺复兴](11-millennium-nostalgia/renaissance.md) | 1400–1600/影响至今 | 人是万物的尺度——透视法、解剖学、明暗法 |
+| [Baroque 巴洛克](11-millennium-nostalgia/baroque.md) | 1600–1750/影响至今 | 更大、更戏剧、更震撼——光与影的极致对比 |
+| [Rococo 洛可可](11-millennium-nostalgia/rococo.md) | 1720–1780/影响至今 | 轻盈、甜美、精致——贝壳曲线、粉色天使、镀金一切 |
+| [Fauvism 野兽派](11-millennium-nostalgia/fauvism.md) | 1904–1908/影响至今 | 颜色不需要"正确"——红色的树、蓝色的脸——颜色本身就是表达 |
 | [Impressionism 印象派](11-millennium-nostalgia/impressionism.md) | 1860s–1880s/影响至今 | 不画事物"是什么"——画事物"看起来像什么"——光与色彩的革命 |
 | [Expressionism 表现主义](11-millennium-nostalgia/expressionism.md) | 1905–1930s/影响至今 | 不画世界的样子——画世界让我感受到的样子 |
 | [Cubism 立体主义](11-millennium-nostalgia/cubism.md) | 1907–1920s/影响至今 | 为什么只从一个角度看？——同时画出所有角度 |
