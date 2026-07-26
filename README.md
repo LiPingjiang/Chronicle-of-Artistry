@@ -158,6 +158,11 @@
 | [Rococo 洛可可](11-millennium-nostalgia/rococo.md) | 1720–1780/影响至今 | 轻盈、甜美、精致——贝壳曲线、粉色天使、镀金一切 |
 | [Fauvism 野兽派](11-millennium-nostalgia/fauvism.md) | 1904–1908/影响至今 | 颜色不需要"正确"——红色的树、蓝色的脸——颜色本身就是表达 |
 | [Impressionism 印象派](11-millennium-nostalgia/impressionism.md) | 1860s–1880s/影响至今 | 不画事物"是什么"——画事物"看起来像什么"——光与色彩的革命 |
+| [Pointillism 点彩派](11-millennium-nostalgia/pointillism.md) | 1886–1910/影响至今 | 不混合颜料——让眼睛混合——无数彩色小点在视网膜上融合成光 |
+| [Romanticism 浪漫主义](11-millennium-nostalgia/romanticism.md) | 1780–1850/影响至今 | 理性太冷了——让情感、自然、崇高和想象力重新统治艺术 |
+| [Gothic Art 哥特艺术](11-millennium-nostalgia/gothic-art.md) | 1140–1500/影响至今 | 尖拱直指天堂、彩色玻璃过滤神圣之光 |
+| [Dadaism 达达主义](11-millennium-nostalgia/dadaism.md) | 1916–1924/影响至今 | 艺术已死——我们在它的葬礼上跳舞——反一切、反艺术本身 |
+| [Futurism 未来主义](11-millennium-nostalgia/futurism.md) | 1909–1944/影响至今 | 速度是新的美——汽车比胜利女神更美 |
 | [Expressionism 表现主义](11-millennium-nostalgia/expressionism.md) | 1905–1930s/影响至今 | 不画世界的样子——画世界让我感受到的样子 |
 | [Cubism 立体主义](11-millennium-nostalgia/cubism.md) | 1907–1920s/影响至今 | 为什么只从一个角度看？——同时画出所有角度 |
 | [Abstract Expressionism 抽象表现主义](11-millennium-nostalgia/abstract-expressionism.md) | 1940s–1960s/影响至今 | 画布是竞技场——行动本身就是艺术 |
