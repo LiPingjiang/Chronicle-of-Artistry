@@ -326,6 +326,9 @@
 | [Wabi-Sabi 侘寂](11-millennium-nostalgia/wabi-sabi.md) | 15世纪–至今 日本 | 不完美即完美——侘び寂び |
 | [Mudcloth 泥染布](11-millennium-nostalgia/mudcloth.md) | 古代–至今 马里 | 大地的语言——Bògòlanfini |
 | [Tapa Cloth 树皮布](11-millennium-nostalgia/tapa-cloth.md) | 古代–至今 太平洋岛屿 | 太平洋的纸——Ngatu / Siapo |
+| [Zentangle 禅绕画](11-millennium-nostalgia/zentangle.md) | 2004–至今 美国/全球 | 一笔一画的冥想——结构化图案 |
+| [Origami 折纸](11-millennium-nostalgia/origami.md) | 6世纪–至今 日本 | 一张纸的宇宙——折り紙 |
+| [Ikebana 花道](11-millennium-nostalgia/ikebana.md) | 6世纪–至今 日本 | 一枝花的宇宙——生け花 / 華道 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
