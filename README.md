@@ -134,6 +134,12 @@
 | [Boho Chic 波西米亚时尚](11-millennium-nostalgia/boho-chic.md) | 1960s/2005–2015鼎盛 | 流苏、扎染、大地色——自由灵魂不需要规则 |
 | [Bauhaus 包豪斯](11-millennium-nostalgia/bauhaus.md) | 1919–1933/影响至今 | 形式追随功能、三原色——现代设计从这里开始 |
 | [Grunge 垃圾摇滚美学](11-millennium-nostalgia/grunge.md) | 1988–1997/2018复兴 | 法兰绒衬衫、破洞牛仔裤——西雅图的愤怒改变一切 |
+| [Mid-Century Modern 中世纪现代](11-millennium-nostalgia/mid-century-modern.md) | 1945–1969/2010s复兴 | Eames椅、原子钟、柚木边柜——1950年代相信设计可以改变生活 |
+| [Art Deco 装饰艺术](11-millennium-nostalgia/art-deco.md) | 1920–1940/2010s复兴 | 金色几何、摩天大楼、爵士时代——当奢华遇上机器美学 |
+| [Swiss Design 瑞士国际主义](11-millennium-nostalgia/swiss-design.md) | 1950s–1970s/影响至今 | 网格、Helvetica、留白——当设计追求绝对的客观与清晰 |
+| [New Wave 新浪潮](11-millennium-nostalgia/new-wave.md) | 1978–1986/2020s复兴 | 合成器、几何发型、霓虹眼影——后朋克穿上了彩色西装 |
+| [Hip-Hop Aesthetic 嘻哈美学](11-millennium-nostalgia/hip-hop-aesthetic.md) | 1973–至今 | 金链子、Boombox、涂鸦——从布朗克斯到全球文化 |
+| [Streetwear 街头服饰](11-millennium-nostalgia/streetwear.md) | 1980s/2015–至今 | Supreme Box Logo、限量球鞋——当街头变成了奢侈品 |
 | [Dark Feminine 暗黑女性力量](11-millennium-nostalgia/dark-feminine.md) | 2022–至今 | 黑色丝绸、红唇、自信——温柔不是唯一的女性力量 |
 | [City Pop シティ・ポップ](11-millennium-nostalgia/city-pop.md) | 1978–88/2017复兴 | 霓虹都市、棕榈树、日落——80年代东京泡沫经济的画面 |
 | [Coastal Grandmother 海岸祖母](11-millennium-nostalgia/coastal-grandmother.md) | 2022–至今 | Nancy Meyers 电影里的汉普顿海边别墅生活 |
