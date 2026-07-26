@@ -160,6 +160,9 @@
 | [Acid House 酸浩室](11-millennium-nostalgia/acid-house.md) | 1987–1992/影响至今 | 笑脸、荧光、仓库派对——1988年的第二个夏天改变了一切 |
 | [Madchester 曼彻斯特之声](11-millennium-nostalgia/madchester.md) | 1988–1992 | 宽松牛仔裤、渔夫帽、Haçienda——当吉他摇滚遇上Acid House |
 | [Trip-Hop 神游舞曲](11-millennium-nostalgia/trip-hop.md) | 1991–2000s/影响至今 | 慢拍鼓机、采样黑胶——电子音乐学会了忧郁 |
+| [Jungle / Drum & Bass 丛林/鼓打贝斯](11-millennium-nostalgia/jungle-dnb.md) | 1991–至今 | 碎拍鼓点、深沉贝斯——伦敦地下的声音革命 |
+| [UK Garage 英国车库](11-millennium-nostalgia/uk-garage.md) | 1994–2002/影响至今 | 2-step节奏、Moschino、香槟——90年代末伦敦最时髦的声音 |
+| [Northern Soul 北方灵魂](11-millennium-nostalgia/northern-soul.md) | 1968–至今 | 稀有黑胶、滑步舞、通宵舞厅——英格兰北部工人阶级的秘密宗教 |
 | [Skatepunk 滑板朋克](11-millennium-nostalgia/skatepunk.md) | 1980s/1990s–2000s黄金时代 | Thrasher字体、骷髅图案——半管里的无政府主义 |
 | [Grunge 垃圾摇滚美学](11-millennium-nostalgia/grunge.md) | 1988–1997/2018复兴 | 法兰绒衬衫、破洞牛仔裤——西雅图的愤怒改变一切 |
 | [Mid-Century Modern 中世纪现代](11-millennium-nostalgia/mid-century-modern.md) | 1945–1969/2010s复兴 | Eames椅、原子钟、柚木边柜——1950年代相信设计可以改变生活 |
