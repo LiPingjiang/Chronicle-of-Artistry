@@ -302,6 +302,9 @@
 | [Paisley 佩斯利](11-millennium-nostalgia/paisley.md) | 3世纪–至今 波斯/印度/全球 | 从波斯柏树到苏格兰织机——بته‌جقه |
 | [Rangoli 兰戈利](11-millennium-nostalgia/rangoli.md) | 古代–至今 印度 | 门前的彩色祈祷——रंगोली的地面花园 |
 | [Ukiyo-e 浮世绘](11-millennium-nostalgia/ukiyo-e.md) | 1603–1868 日本 | 浮世的欢愉——浮世絵の木版画美学 |
+| [Henna / Mehndi 指甲花彩绘](11-millennium-nostalgia/henna-mehndi.md) | 5000年–至今 南亚/中东 | 皮肤是最古老的画布——مهندی मेहंदी |
+| [Chinoiserie 中国风](11-millennium-nostalgia/chinoiserie.md) | 17–18世纪 欧洲 | 欧洲人梦中的东方——想象比真实更迷人 |
+| [Majolica 马约利卡](11-millennium-nostalgia/majolica.md) | 15世纪–至今 意大利 | 文艺复兴的色彩在陶土上绽放——Maiolica |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
