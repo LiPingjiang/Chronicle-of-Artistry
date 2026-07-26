@@ -222,6 +222,9 @@
 | [Risograph 孔版印刷美学](11-millennium-nostalgia/risograph.md) | 2010s–至今 | 荧光油墨、套色偏移——最"不完美"的印刷术成了最酷的设计风格 |
 | [Zine Culture 独立出版文化](11-millennium-nostalgia/zine-culture.md) | 1930s/1970s/2010s–至今 | 复印机、订书钉——在没有许可的情况下出版你自己的世界 |
 | [Mid-Century Illustration 世纪中叶插画](11-millennium-nostalgia/mid-century-illustration.md) | 1945–1970/影响至今 | 几何简化、颗粒纹理——50年代的插画比任何时代都更"现代" |
+| [American Kitsch 美国媚俗](11-millennium-nostalgia/american-kitsch.md) | 1940s–1960s/影响至今 | 理想化的家庭主妇、太空时代曲线——战后美国梦的视觉糖衣 |
+| [Collage Art 拼贴艺术](11-millennium-nostalgia/collage-art.md) | 1912–至今 | 剪刀、胶水、旧杂志——把现实撕碎再重新组合成新的真实 |
+| [Paper Cut Art 剪纸艺术](11-millennium-nostalgia/paper-cut-art.md) | 古代–至今 | 一把剪刀、一张纸——在正负空间之间创造整个世界 |
 | [Corecore 核核](11-millennium-nostalgia/corecore.md) | 2022–至今 | 当所有"-core"叠在一起，剩下的是存在本身 |
 | [Auroracore 极光核](11-millennium-nostalgia/auroracore.md) | 2021–至今 | 北极光的色彩与永恒冬夜的宁静 |
 | [Health Goth 健康哥特](11-millennium-nostalgia/health-goth.md) | 2013–2016 | 穿全黑Nike去健身房——哥特遇见运动科学 |
