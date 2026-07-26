@@ -115,6 +115,12 @@
 | [Chromecore 铬核](11-millennium-nostalgia/chromecore.md) | 1998–2007 | CD/DVD/数码相机的银灰金属质感 |
 | [90s Cool / Matrix Effect](11-millennium-nostalgia/90s-cool.md) | 1995–2003 | 黑色皮衣、子弹时间、Oakley墨镜 |
 | [Cassette Futurism 磁带未来主义](11-millennium-nostalgia/cassette-futurism.md) | 回望1970s–90s | CRT显示器、物理按键、方盒子里的未来 |
+| [Cassette Futurism 多语言补充](11-millennium-nostalgia/cassette-futurism-multilingual.md) | 跨文化视角 | カセット・フューチャリズム、카세트 퓨처리즘 |
+| [Tropicália 热带主义](11-millennium-nostalgia/tropicalia.md) | 1967–1972 巴西 | 文化食人主义、迷幻拼贴、反独裁艺术运动 |
+| [Jugendstil 青年风格](11-millennium-nostalgia/jugendstil.md) | 1895–1914 德/奥 | Art Nouveau德语变体、Klimt金箔、几何花卉 |
+| [Socialist Realism 社会主义现实主义](11-millennium-nostalgia/socialist-realism.md) | 1932–1991 苏联 | 英雄工人、红旗麦田、仰视构图、党性艺术 |
+| [Stalinist Empire 斯大林帝国风格](11-millennium-nostalgia/stalinist-empire.md) | 1933–1955 苏联 | 七姐妹高楼、地铁宫殿、社会主义新古典 |
+| [Soviet Modernism 苏联现代主义](11-millennium-nostalgia/soviet-modernism.md) | 1955–1991 苏联 | 混凝土乌托邦、马赛克壁画、太空时代建筑 |
 | [Retrofuturism 复古未来主义](11-millennium-nostalgia/retrofuturism.md) | 1950s–1970s/2010s复兴 | 飞行汽车、银色连体衣——1960年代想象的2000年 |
 | [Cyberpunk 赛博朋克](11-millennium-nostalgia/cyberpunk.md) | 1980s–至今 | 高科技低生活——霓虹雨夜中的义体改造人 |
 | [Nanopunk 纳米朋克](11-millennium-nostalgia/nanopunk.md) | 2000s–至今 | 技术小到看不见——但它改变了一切。纳米机器人在你的血液里 |
