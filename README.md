@@ -278,6 +278,9 @@
 | [Petrykivka 彼得里基夫卡彩绘](11-millennium-nostalgia/petrykivka.md) | 19世纪–至今 乌克兰 | 花朵从指尖绽放——Петриківський розпис |
 | [Delft Blue 代尔夫特蓝](11-millennium-nostalgia/delft-blue.md) | 17世纪–至今 荷兰 | 荷兰人对青花瓷的深情回应——Delfts Blauw |
 | [Mola 莫拉](11-millennium-nostalgia/mola.md) | 19世纪–至今 巴拿马 | 反向贴布绣——库纳族层层剪裁的色彩迷宫 |
+| [Otomi Embroidery 奥托米刺绣](11-millennium-nostalgia/otomi-embroidery.md) | 1960s–至今 墨西哥 | 森林里的精灵在布上跳舞——Tenango |
+| [Zhostovo 日斯托沃托盘画](11-millennium-nostalgia/zhostovo.md) | 1825–至今 俄罗斯 | 黑色漆面上的花束——Жостовская роспись |
+| [Kente Cloth 肯特布](11-millennium-nostalgia/kente-cloth.md) | 古代–至今 加纳 | 每条线都有名字——阿散蒂王国的丝线密码 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
