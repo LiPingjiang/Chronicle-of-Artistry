@@ -164,6 +164,15 @@
 | [Maximalism 极繁主义](11-millennium-nostalgia/maximalism.md) | 2019–至今 | 更多就是更多——当极简主义让你窒息 |
 | [Soft Girl 软妹风](11-millennium-nostalgia/soft-girl.md) | 2019–至今 | 粉色云朵、蝴蝶发夹——TikTok 最甜的视觉糖果 |
 | [Normcore 正常核](11-millennium-nostalgia/normcore.md) | 2013–2017 | 故意穿得像你爸——"没有风格"本身成为风格 |
+| [Techwear 机能风](11-millennium-nostalgia/techwear.md) | 2010s–至今 | Gore-Tex、磁吸扣、模块化口袋——可穿戴的赛博建筑 |
+| [Old Money 老钱风](11-millennium-nostalgia/old-money.md) | 概念永恒/2021 TikTok复兴 | Polo衫、帆船鞋——像继承了三代财富一样穿衣 |
+| [Dark Romantic 暗黑浪漫](11-millennium-nostalgia/dark-romantic.md) | 2019–至今 | 枯萎玫瑰、黑色蕾丝、烛光——美丽总带一丝忧伤 |
+| [Twee 小清新独立](11-millennium-nostalgia/twee.md) | 2009–2014 | Peter Pan领、复古自行车——在Wes Anderson色板里生活 |
+| [Coquette 蝴蝶结少女](11-millennium-nostalgia/coquette.md) | 2022–至今 | 粉色蝴蝶结、蕾丝、珍珠——用少女感作为权力 |
+| [Blokecore 球迷核](11-millennium-nostalgia/blokecore.md) | 2022–至今 | 复古球衣、Adidas Samba——把看台文化穿成时装 |
+| [Coastal Cowgirl 海岸牛仔女孩](11-millennium-nostalgia/coastal-cowgirl.md) | 2022–至今 | 牛仔帽+比基尼+日落——当西部遇见海滩 |
+| [Tomato Girl 番茄女孩](11-millennium-nostalgia/tomato-girl.md) | 2023–至今 | 红色亚麻裙、草编篮——意大利电影里走出来的女孩 |
+| [Eclectic Grandpa 古怪爷爷](11-millennium-nostalgia/eclectic-grandpa.md) | 2024–至今 | 超大号针织衫、宽松裤——穿得像最有品味的爷爷 |
 | [Frasurbane 郊区怀旧](11-millennium-nostalgia/frasurbane.md) | 怀念1993–2004 | 90年代情景喜剧里那个永远不会变的客厅 |
 
 ### 氛围与情绪
