@@ -305,6 +305,9 @@
 | [Henna / Mehndi 指甲花彩绘](11-millennium-nostalgia/henna-mehndi.md) | 5000年–至今 南亚/中东 | 皮肤是最古老的画布——مهندی मेहंदी |
 | [Chinoiserie 中国风](11-millennium-nostalgia/chinoiserie.md) | 17–18世纪 欧洲 | 欧洲人梦中的东方——想象比真实更迷人 |
 | [Majolica 马约利卡](11-millennium-nostalgia/majolica.md) | 15世纪–至今 意大利 | 文艺复兴的色彩在陶土上绽放——Maiolica |
+| [Cloisonné 景泰蓝](11-millennium-nostalgia/cloisonne.md) | 前15世纪–至今 中国/拜占庭 | 铜丝为骨珐琅为肉——掐丝珐琅的宝石花园 |
+| [Stained Glass 彩色玻璃](11-millennium-nostalgia/stained-glass.md) | 12世纪–至今 欧洲 | 光线穿过色彩——哥特大教堂的Vitrail |
+| [Mosaic 马赛克](11-millennium-nostalgia/mosaic.md) | 前3000年–至今 全球 | 碎片拼出永恒——Μωσαϊκό的像素美学 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
