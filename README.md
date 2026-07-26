@@ -123,6 +123,10 @@
 | [Cottagecore Tech 田园科技](11-millennium-nostalgia/cottagecore-tech.md) | 2020–至今 | 用MacBook在花园里写代码——程序员的田园梦 |
 | [Dark Academia 暗黑学院](11-millennium-nostalgia/dark-academia.md) | 2015/2020鼎盛 | 哥特式图书馆里读拉丁文的精英幻想 |
 | [Gorpcore 户外核](11-millennium-nostalgia/gorpcore.md) | 2017–至今 | 穿着始祖鸟去咖啡馆——登山装备成为都市时尚 |
+| [Techwear 机能风](11-millennium-nostalgia/techwear.md) | 2010s–至今 | Gore-Tex、磁吸扣、模块化口袋——可穿戴的赛博建筑 |
+| [Brutalism 粗野主义](11-millennium-nostalgia/brutalism.md) | 1950s–70s/2010s数字复兴 | 裸露混凝土、几何体块——建筑不需要讨好你 |
+| [Dark Feminine 暗黑女性力量](11-millennium-nostalgia/dark-feminine.md) | 2022–至今 | 黑色丝绸、红唇、自信——温柔不是唯一的女性力量 |
+| [City Pop シティ・ポップ](11-millennium-nostalgia/city-pop.md) | 1978–88/2017复兴 | 霓虹都市、棕榈树、日落——80年代东京泡沫经济的画面 |
 | [Coastal Grandmother 海岸祖母](11-millennium-nostalgia/coastal-grandmother.md) | 2022–至今 | Nancy Meyers 电影里的汉普顿海边别墅生活 |
 | [Quiet Luxury 静奢](11-millennium-nostalgia/quiet-luxury.md) | 2022–至今 | 没有logo、没有标签——真正的奢侈不需要被看见 |
 | [Grandmillennial 千禧祖母](11-millennium-nostalgia/grandmillennial.md) | 2019–至今 | 碎花壁纸、骨瓷茶杯——千禧一代爱上了奶奶的审美 |
