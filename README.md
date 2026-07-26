@@ -247,6 +247,8 @@
 | [Googie 古吉风格](11-millennium-nostalgia/googie.md) | 1945–1970s | 飞碟屋顶、霓虹星爆、原子图案——未来就在路边的咖啡店 |
 | [Precisionism 精确主义](11-millennium-nostalgia/precisionism.md) | 1920s–1930s | 工厂烟囱是新时代的大教堂——用几何的纯净歌颂机器文明 |
 | [Dark Deco 暗黑装饰艺术](11-millennium-nostalgia/dark-deco.md) | 2010s–至今 | Art Deco的几何奢华遇见哥特的黑暗深渊——金色线条在黑色大理石上闪耀 |
+| [Decopunk 装饰朋克](11-millennium-nostalgia/decopunk.md) | 2000s–至今 | Art Deco的世界如果从未结束——高科技与黄金几何的永恒帝国 |
+| [Neo-Noir 新黑色](11-millennium-nostalgia/neo-noir.md) | 1970s–至今 | 经典黑色电影的精神在霓虹灯下重生——更暗、更湿、更绝望 |
 | [Film Noir 黑色电影](11-millennium-nostalgia/film-noir.md) | 1940s–1950s/影响至今 | 雨夜、霓虹、香烟的烟雾——光与影的极端对比中，每个人都有秘密 |
 | [Swiss Design 瑞士国际主义](11-millennium-nostalgia/swiss-design.md) | 1950s–1970s/影响至今 | 网格、Helvetica、留白——当设计追求绝对的客观与清晰 |
 | [New Wave 新浪潮](11-millennium-nostalgia/new-wave.md) | 1978–1986/2020s复兴 | 合成器、几何发型、霓虹眼影——后朋克穿上了彩色西装 |
@@ -322,8 +324,10 @@
 | [Traumacore 创伤核](11-millennium-nostalgia/traumacore.md) | 2019–至今 | 破碎的娃娃、模糊的童年照片——用美学说出无法开口的痛 |
 | [Princesscore 公主核](11-millennium-nostalgia/princesscore.md) | 2020–至今 | 粉色城堡、水晶皇冠——每个人都值得拥有自己的童话 |
 | [Dark Fantasy 暗黑奇幻](11-millennium-nostalgia/dark-fantasy.md) | 2010s–至今 | 血月下的骑士——当奇幻世界拒绝光明结局 |
+| [Dungeon Synth 地牢合成器](11-millennium-nostalgia/dungeon-synth.md) | 1990s/2010s复兴 | 廉价合成器演奏的中世纪幻想——地下室里的骑士与巫师 |
 | [Dieselpunk 柴油朋克](11-millennium-nostalgia/dieselpunk.md) | 1920s–1950s 设定 | Art Deco 飞机、铆钉坦克——永远停在1940年代的平行世界 |
 | [Atompunk 原子朋克](11-millennium-nostalgia/atompunk.md) | 1945–1965/2000s复兴 | 原子能、太空竞赛、镀铬火箭——1950年代相信的闪亮未来 |
+| [Space Age 太空时代](11-millennium-nostalgia/space-age.md) | 1957–1972 | 人类即将征服宇宙——每一件家具、每一栋建筑都应该像太空船 |
 | [Vintage Americana 复古美国风](11-millennium-nostalgia/vintage-americana.md) | 1950s 设定 | 霓虹汽车旅馆、铬合金点唱机——永远停在1950年代的美国梦 |
 | [Nautical 航海风](11-millennium-nostalgia/nautical.md) | 经典设计语言 | 蓝白条纹、黄铜罗盘——大海永远在召唤 |
 | [Japandi 日式北欧](11-millennium-nostalgia/japandi.md) | 2018–至今 | 侘寂遇见Hygge——日本的空与北欧的暖的平衡 |
@@ -338,6 +342,9 @@
 | [Dark Romantic 暗黑浪漫](11-millennium-nostalgia/dark-romantic.md) | 哥特文学起源/2020s复兴 | 枯萎玫瑰、天鹅绒与烛光——在黑暗中寻找美 |
 | [Mermaidcore 美人鱼核](11-millennium-nostalgia/mermaidcore.md) | 2012–至今 | 鳞片闪光、珍珠发饰——每个人心里都住着一条美人鱼 |
 | [Steampunk 蒸汽朋克](11-millennium-nostalgia/steampunk.md) | 1980s–至今 | 齿轮、黄铜和永不存在的维多利亚未来 |
+| [Clockpunk 钟表朋克](11-millennium-nostalgia/clockpunk.md) | 2000s–至今 | 如果达芬奇的发明全部成真——齿轮、发条、黄铜的文艺复兴帝国 |
+| [Biopunk 生物朋克](11-millennium-nostalgia/biopunk.md) | 1990s–至今 | 基因是新的代码，肉体是新的机器——当生物学取代硅芯片 |
+| [Hopepunk 希望朋克](11-millennium-nostalgia/hopepunk.md) | 2017–至今 | 在绝望的世界里选择善良——不是天真，是最激进的反抗 |
 | [Solarpunk 太阳朋克](11-millennium-nostalgia/solarpunk.md) | 2014–至今 | 藤蔓缠绕的太阳能城市——乐观的生态未来 |
 | [Lunarpunk 月亮朋克](11-millennium-nostalgia/lunarpunk.md) | 2021–至今 | 月光加密、生物发光——在黑暗中建造隐秘的乌托邦 |
 | [Dopamine Dressing 多巴胺穿搭](11-millennium-nostalgia/dopamine-dressing.md) | 2021–至今 | 穿得像一包彩虹糖——后疫情的色彩爆发 |
