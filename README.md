@@ -149,6 +149,9 @@
 | [Flat Design 扁平设计](11-millennium-nostalgia/flat-design.md) | 2012–至今 | 无阴影、纯色块——当设计决定诚实面对屏幕 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s艺术/2010s生活方式 | 少即是多——去掉一切多余，剩下本质 |
 | [Art Nouveau 新艺术运动](11-millennium-nostalgia/art-nouveau.md) | 1890–1910/2020s复兴 | 藤蔓曲线、孔雀羽毛——当自然成为装饰的语法 |
+| [Ukiyo-e 浮世绘](11-millennium-nostalgia/ukiyo-e.md) | 1603–1868/影响至今 | 浮世的欢愉、木版的精确——江户时代的"流行文化"影响了整个西方现代艺术 |
+| [Chinoiserie 中国风](11-millennium-nostalgia/chinoiserie.md) | 17世纪–19世纪/影响至今 | 欧洲人想象中的中国——青花瓷、宝塔、龙凤——一个美丽的"误读" |
+| [Impressionism 印象派](11-millennium-nostalgia/impressionism.md) | 1860s–1880s/影响至今 | 不画事物"是什么"——画事物"看起来像什么"——光与色彩的革命 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1950s–1970s/影响至今 | Campbell's汤罐头、Ben-Day网点——大众文化成为高级艺术 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s/影响至今 | 融化的时钟、梦境逻辑——当潜意识成为画布 |
 | [Boho Chic 波西米亚时尚](11-millennium-nostalgia/boho-chic.md) | 1960s/2005–2015鼎盛 | 流苏、扎染、大地色——自由灵魂不需要规则 |
