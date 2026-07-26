@@ -211,6 +211,7 @@
 | [Grunge 垃圾摇滚美学](11-millennium-nostalgia/grunge.md) | 1988–1997/2018复兴 | 法兰绒衬衫、破洞牛仔裤——西雅图的愤怒改变一切 |
 | [Mid-Century Modern 中世纪现代](11-millennium-nostalgia/mid-century-modern.md) | 1945–1969/2010s复兴 | Eames椅、原子钟、柚木边柜——1950年代相信设计可以改变生活 |
 | [Art Deco 装饰艺术](11-millennium-nostalgia/art-deco.md) | 1920–1940/2010s复兴 | 金色几何、摩天大楼、爵士时代——当奢华遇上机器美学 |
+| [Dark Deco 暗黑装饰艺术](11-millennium-nostalgia/dark-deco.md) | 2010s–至今 | Art Deco的几何奢华遇见哥特的黑暗深渊——金色线条在黑色大理石上闪耀 |
 | [Swiss Design 瑞士国际主义](11-millennium-nostalgia/swiss-design.md) | 1950s–1970s/影响至今 | 网格、Helvetica、留白——当设计追求绝对的客观与清晰 |
 | [New Wave 新浪潮](11-millennium-nostalgia/new-wave.md) | 1978–1986/2020s复兴 | 合成器、几何发型、霓虹眼影——后朋克穿上了彩色西装 |
 | [Disco 迪斯科](11-millennium-nostalgia/disco.md) | 1974–1981/2020s复兴 | 镜面球、喇叭裤、Studio 54——当夜晚属于舞池 |
