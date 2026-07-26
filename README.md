@@ -117,6 +117,8 @@
 | [Cassette Futurism 磁带未来主义](11-millennium-nostalgia/cassette-futurism.md) | 回望1970s–90s | CRT显示器、物理按键、方盒子里的未来 |
 | [Retrofuturism 复古未来主义](11-millennium-nostalgia/retrofuturism.md) | 1950s–1970s/2010s复兴 | 飞行汽车、银色连体衣——1960年代想象的2000年 |
 | [Cyberpunk 赛博朋克](11-millennium-nostalgia/cyberpunk.md) | 1980s–至今 | 高科技低生活——霓虹雨夜中的义体改造人 |
+| [Nanopunk 纳米朋克](11-millennium-nostalgia/nanopunk.md) | 2000s–至今 | 技术小到看不见——但它改变了一切。纳米机器人在你的血液里 |
+| [Silkpunk 丝绸朋克](11-millennium-nostalgia/silkpunk.md) | 2015–至今 | 竹子代替钢铁，丝绸代替电线——东亚想象的技术文明 |
 | [Dark Neon 暗黑霓虹](11-millennium-nostalgia/dark-neon.md) | 2016–至今 | 纯黑背景上的霓虹线条——夜晚城市的电子脉搏 |
 | [Pixel Art 像素艺术](11-millennium-nostalgia/pixel-art.md) | 1970s–至今 | 方块与有限色彩中的无限表现力 |
 | [Flat Design 扁平设计](11-millennium-nostalgia/flat-design.md) | 2012–至今 | 去掉阴影和渐变——让界面回归信息本身 |
@@ -174,6 +176,7 @@
 | [Romanticism 浪漫主义](11-millennium-nostalgia/romanticism.md) | 1780–1850/影响至今 | 理性太冷了——让情感、自然、崇高和想象力重新统治艺术 |
 | [Realism 现实主义](11-millennium-nostalgia/realism.md) | 1840s–1880s | 不美化、不丑化——如实描绘世界的本来面目 |
 | [Gothic Art 哥特艺术](11-millennium-nostalgia/gothic-art.md) | 1140–1500/影响至今 | 尖拱直指天堂、彩色玻璃过滤神圣之光 |
+| [Gothic Revival 哥特复兴](11-millennium-nostalgia/gothic-revival.md) | 1740s–1900s | 尖拱、飞扶壁、玫瑰窗——中世纪的灵魂在工业时代重生 |
 | [Dadaism 达达主义](11-millennium-nostalgia/dadaism.md) | 1916–1924/影响至今 | 艺术已死——我们在它的葬礼上跳舞——反一切、反艺术本身 |
 | [Fluxus 激浪派](11-millennium-nostalgia/fluxus.md) | 1960s–1970s | 艺术不在画廊里——艺术在你刷牙、走路、呼吸的每一刻 |
 | [Performance Art 行为艺术](11-millennium-nostalgia/performance-art.md) | 1960s–至今 | 身体是画布，时间是颜料，观众是共谋者——艺术发生在此刻 |
@@ -325,6 +328,8 @@
 | [Princesscore 公主核](11-millennium-nostalgia/princesscore.md) | 2020–至今 | 粉色城堡、水晶皇冠——每个人都值得拥有自己的童话 |
 | [Dark Fantasy 暗黑奇幻](11-millennium-nostalgia/dark-fantasy.md) | 2010s–至今 | 血月下的骑士——当奇幻世界拒绝光明结局 |
 | [Dungeon Synth 地牢合成器](11-millennium-nostalgia/dungeon-synth.md) | 1990s/2010s复兴 | 廉价合成器演奏的中世纪幻想——地下室里的骑士与巫师 |
+| [Dark Ambient 暗黑氛围](11-millennium-nostalgia/dark-ambient.md) | 1980s–至今 | 声音的黑暗有了形状——废墟、雾、无限的空旷 |
+| [Mythpunk 神话朋克](11-millennium-nostalgia/mythpunk.md) | 2006–至今 | 古老的神话被拆解、重组、颠覆——用朋克的态度重写众神的故事 |
 | [Dieselpunk 柴油朋克](11-millennium-nostalgia/dieselpunk.md) | 1920s–1950s 设定 | Art Deco 飞机、铆钉坦克——永远停在1940年代的平行世界 |
 | [Atompunk 原子朋克](11-millennium-nostalgia/atompunk.md) | 1945–1965/2000s复兴 | 原子能、太空竞赛、镀铬火箭——1950年代相信的闪亮未来 |
 | [Space Age 太空时代](11-millennium-nostalgia/space-age.md) | 1957–1972 | 人类即将征服宇宙——每一件家具、每一栋建筑都应该像太空船 |
