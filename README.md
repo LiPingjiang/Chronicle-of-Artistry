@@ -125,6 +125,8 @@
 | [Brutalist Web 野兽派网页](11-millennium-nostalgia/brutalist-web.md) | 2014–至今 | Times New Roman、蓝色超链接——故意拒绝"好看" |
 | [Neumorphism 新拟物](11-millennium-nostalgia/neumorphism.md) | 2019–2021 | 柔和凸起与凹陷——扁平设计想念阴影的短暂实验 |
 | [Glassmorphism 玻璃拟态](11-millennium-nostalgia/glassmorphism.md) | 2020–至今 | 毛玻璃、模糊背景——iOS设计语言的全面胜利 |
+| [Neomorphism 新拟态](11-millennium-nostalgia/neomorphism.md) | 2019–至今 | 柔和阴影、内凹外凸——UI设计中最"触感"的数字风格 |
+| [Brutalism Design 野兽派设计](11-millennium-nostalgia/brutalism-design.md) | 2014–至今 | 裸露结构、粗暴排版——在过度设计的时代选择原始 |
 | [Glitchcore 故障核](11-millennium-nostalgia/glitchcore.md) | 2010s–至今 | 像素撕裂、色彩偏移——当错误本身成为美学 |
 | [Electropop 08 衰退流行](11-millennium-nostalgia/electropop-08.md) | 2008–2013 | 霓虹派对、Lady Gaga、Avantropop 设计 |
 | [Bloghouse 博客浩室](11-millennium-nostalgia/bloghouse.md) | 2005–2012 | Ed Banger、Justice、MySpace电子音乐传播 |
@@ -217,6 +219,7 @@
 | [Royalcore 皇室核](11-millennium-nostalgia/royalcore.md) | 2020–至今 | 天鹅绒长裙、金色王冠和凡尔赛宫的镜厅 |
 | [Fairycore 仙女核](11-millennium-nostalgia/fairycore.md) | 2020–至今 | 蘑菇圈里的精灵、露珠上的蜻蜓翅膀 |
 | [Storybook Illustration 故事书插画](11-millennium-nostalgia/storybook-illustration.md) | 1900s–至今 | 水彩晕染、手绘线条——打开一本书就进入另一个世界 |
+| [Golden Age Illustration 黄金时代插画](11-millennium-nostalgia/golden-age-illustration.md) | 1880–1914/影响至今 | 水彩与墨线的极致——插画史上最华丽的篇章 |
 | [Naive Art 稚拙艺术](11-millennium-nostalgia/naive-art.md) | 1880s–至今 | 没有透视、没有训练——最纯粹的创造力来自最"不专业"的手 |
 | [Outsider Art 局外人艺术](11-millennium-nostalgia/outsider-art.md) | 1945–至今 | 精神病院的墙壁、囚犯的笔记本——主流之外最震撼的创造力 |
 | [Risograph 孔版印刷美学](11-millennium-nostalgia/risograph.md) | 2010s–至今 | 荧光油墨、套色偏移——最"不完美"的印刷术成了最酷的设计风格 |
