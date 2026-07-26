@@ -82,6 +82,9 @@
 | [Pale Grunge 苍白垃圾摇滚](11-millennium-nostalgia/pale-grunge.md) | 2012–2016 | Tumblr 2013：把 Nirvana 的愤怒稀释成一杯冰美式 |
 | [Scene 场景文化](11-millennium-nostalgia/scene.md) | 2006–2013 | 霓虹色头发、MySpace、硬核音乐圈的时尚分支 |
 | [Emo 情绪核](11-millennium-nostalgia/emo.md) | 2003–2012 | 斜刘海、黑色眼线、MySpace 镜子自拍 |
+| [Scene Kid 场景小孩](11-millennium-nostalgia/scene-kid.md) | 2005–2012 | 彩虹刘海、恐龙T恤、MySpace自拍——2007年最酷的孩子 |
+| [Visual Kei 视觉系](11-millennium-nostalgia/visual-kei.md) | 1980s–至今 | 华丽妆容、哥特服装、性别模糊——日本摇滚的视觉革命 |
+| [Decora デコラ](11-millennium-nostalgia/decora.md) | 1990s–至今 | 100个发夹、彩虹手环——'太多'这个词不存在 |
 | [E-Girl / E-Boy](11-millennium-nostalgia/egirl-eboy.md) | 2018–至今 | TikTok 时代的数字原住民亚文化——Emo 的转世 |
 | [Soft Girl 软妹风](11-millennium-nostalgia/soft-girl.md) | 2019–至今 | 粉色云朵、蝴蝶发夹——TikTok 最甜的视觉糖果 |
 | [Normcore 正常核](11-millennium-nostalgia/normcore.md) | 2013–2017 | 故意穿得像你爸——"没有风格"本身成为风格 |
