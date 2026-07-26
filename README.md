@@ -127,6 +127,9 @@
 | [Brutalism 粗野主义](11-millennium-nostalgia/brutalism.md) | 1950s–70s/2010s数字复兴 | 裸露混凝土、几何体块——建筑不需要讨好你 |
 | [Industrial 工业风](11-millennium-nostalgia/industrial.md) | 1970s起源/2010s主流化 | 裸露管道、红砖墙——工厂废墟变成最酷的loft |
 | [Flat Design 扁平设计](11-millennium-nostalgia/flat-design.md) | 2012–至今 | 无阴影、纯色块——当设计决定诚实面对屏幕 |
+| [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s艺术/2010s生活方式 | 少即是多——去掉一切多余，剩下本质 |
+| [Art Nouveau 新艺术运动](11-millennium-nostalgia/art-nouveau.md) | 1890–1910/2020s复兴 | 藤蔓曲线、孔雀羽毛——当自然成为装饰的语法 |
+| [Bauhaus 包豪斯](11-millennium-nostalgia/bauhaus.md) | 1919–1933/影响至今 | 形式追随功能、三原色——现代设计从这里开始 |
 | [Grunge 垃圾摇滚美学](11-millennium-nostalgia/grunge.md) | 1988–1997/2018复兴 | 法兰绒衬衫、破洞牛仔裤——西雅图的愤怒改变一切 |
 | [Dark Feminine 暗黑女性力量](11-millennium-nostalgia/dark-feminine.md) | 2022–至今 | 黑色丝绸、红唇、自信——温柔不是唯一的女性力量 |
 | [City Pop シティ・ポップ](11-millennium-nostalgia/city-pop.md) | 1978–88/2017复兴 | 霓虹都市、棕榈树、日落——80年代东京泡沫经济的画面 |
