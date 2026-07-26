@@ -362,6 +362,9 @@
 | [Wycinanki 波兰剪纸](11-millennium-nostalgia/wycinanki.md) | 19世纪–至今 波兰 | 农舍里的对称宇宙——Wycinanki |
 | [Rosemaling 挪威玫瑰彩绘](11-millennium-nostalgia/rosemaling.md) | 18世纪–至今 挪威 | 峡湾里的花园——Rosemåling |
 | [Zhostovo 日斯托沃托盘画](11-millennium-nostalgia/zhostovo.md) | 1825–至今 俄罗斯 | 铁皮上的花园——Жостовская роспись |
+| [Palekh 帕列赫漆画](11-millennium-nostalgia/palekh.md) | 1924–至今 俄罗斯 | 黑漆上的金色童话——Палехская миниатюра |
+| [Kente 肯特布](11-millennium-nostalgia/kente.md) | 古代–至今 加纳 | 国王的织布机——Kɛntɛ |
+| [Suzani 苏扎尼](11-millennium-nostalgia/suzani.md) | 古代–至今 中亚 | 新娘的嫁妆——سوزنی |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
