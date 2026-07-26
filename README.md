@@ -161,6 +161,7 @@
 | [Baroque 巴洛克](11-millennium-nostalgia/baroque.md) | 1600–1750/影响至今 | 更大、更戏剧、更震撼——光与影的极致对比 |
 | [Rococo 洛可可](11-millennium-nostalgia/rococo.md) | 1720–1780/影响至今 | 轻盈、甜美、精致——贝壳曲线、粉色天使、镀金一切 |
 | [Neoclassicism 新古典主义](11-millennium-nostalgia/neoclassicism.md) | 1760–1850/影响至今 | 回到希腊罗马的理性与秩序——古典的纯净对抗洛可可的轻浮 |
+| [Academic Art 学院派艺术](11-millennium-nostalgia/academic-art.md) | 1600s–1900s | 规则、技巧、传统——在学院的殿堂里，美有唯一正确的答案 |
 | [Suprematism 至上主义](11-millennium-nostalgia/suprematism.md) | 1913–1930s/影响至今 | 黑色方块在白色背景上——纯粹的感觉、纯粹的形式 |
 | [Fauvism 野兽派](11-millennium-nostalgia/fauvism.md) | 1904–1908/影响至今 | 颜色不需要"正确"——红色的树、蓝色的脸——颜色本身就是表达 |
 | [Impressionism 印象派](11-millennium-nostalgia/impressionism.md) | 1860s–1880s/影响至今 | 不画事物"是什么"——画事物"看起来像什么"——光与色彩的革命 |
@@ -193,6 +194,7 @@
 | [Video Art 录像艺术](11-millennium-nostalgia/video-art.md) | 1960s–至今 | 电视不是家具——是画布。录像不是记录——是创造 |
 | [Installation Art 装置艺术](11-millennium-nostalgia/installation-art.md) | 1960s–至今 | 走进艺术——不是看它，是被它包围、改变、重塑 |
 | [New Media Art 新媒体艺术](11-millennium-nostalgia/new-media-art.md) | 1990s–至今 | 代码是画笔，数据是颜料，算法是构图——艺术的新物种 |
+| [Post-Internet Art 后网络艺术](11-millennium-nostalgia/post-internet.md) | 2008–至今 | 互联网不再是新事物——它是空气。后网络艺术在这片空气中呼吸 |
 | [Bio Art 生物艺术](11-millennium-nostalgia/bio-art.md) | 1990s–至今 | 当艺术家的画笔是基因、画布是活细胞——生命本身成为创作媒介 |
 | [Social Realism 社会现实主义](11-millennium-nostalgia/social-realism.md) | 1930s–1980s | 艺术为人民——画工人的汗水、农民的土地、社会的真相 |
 | [Mexican Muralism 墨西哥壁画运动](11-millennium-nostalgia/mexican-muralism.md) | 1920s–1970s | 墙壁是人民的画布——让艺术走出画廊，走进街头，属于所有人 |
@@ -287,6 +289,7 @@
 | [ASCII Art 字符画艺术](11-millennium-nostalgia/ascii-art.md) | 1960s–至今 | 用键盘上的字符拼出蒙娜丽莎——最早的"像素艺术" |
 | [Isometric Design 等距设计](11-millennium-nostalgia/isometric-design.md) | 1980s/2015–至今 | 30度角的平行世界——没有透视消失点，每个细节都同等重要 |
 | [Outsider Art 局外人艺术](11-millennium-nostalgia/outsider-art.md) | 1945–至今 | 精神病院的墙壁、囚犯的笔记本——主流之外最震撼的创造力 |
+| [Art Brut 原生艺术](11-millennium-nostalgia/art-brut.md) | 1945–至今 | 没有学过画的人——画出了最真实的东西 |
 | [Risograph 孔版印刷美学](11-millennium-nostalgia/risograph.md) | 2010s–至今 | 荧光油墨、套色偏移——最"不完美"的印刷术成了最酷的设计风格 |
 | [Zine Culture 独立出版文化](11-millennium-nostalgia/zine-culture.md) | 1930s/1970s/2010s–至今 | 复印机、订书钉——在没有许可的情况下出版你自己的世界 |
 | [Mid-Century Illustration 世纪中叶插画](11-millennium-nostalgia/mid-century-illustration.md) | 1945–1970/影响至今 | 几何简化、颗粒纹理——50年代的插画比任何时代都更"现代" |
