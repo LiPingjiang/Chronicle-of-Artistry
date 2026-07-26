@@ -232,6 +232,9 @@
 | [Seapunk 海洋朋克](11-millennium-nostalgia/seapunk.md) | 2011–2013 | 海豚+3D渲染+青色——第一个互联网原生美学运动 |
 | [Animecore 动漫核](11-millennium-nostalgia/animecore.md) | 2000s/2018–至今 | CRT屏幕上的动漫截图——低保真高热情的二次元怀旧 |
 | [Kidcore 童年核](11-millennium-nostalgia/kidcore.md) | 2019–至今 | Lisa Frank彩虹、塑料玩具、拒绝长大 |
+| [Lovecore 爱心核](11-millennium-nostalgia/lovecore.md) | 2020–至今 | 红色心形、丘比特箭、玫瑰花瓣——把情人节变成生活方式 |
+| [Clowncore 小丑核](11-millennium-nostalgia/clowncore.md) | 2019–至今 | 彩虹条纹、红鼻子——当荒诞成为一种自由 |
+| [Mushroomcore 蘑菇核](11-millennium-nostalgia/mushroomcore.md) | 2020–至今 | 毒蝇伞、苔藓、孢子——在腐朽中看见生命的循环 |
 
 ### 氛围与理论
 
