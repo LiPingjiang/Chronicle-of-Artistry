@@ -227,6 +227,9 @@
 | [Scandinavian Design 北欧设计](11-millennium-nostalgia/scandinavian-design.md) | 1950s 北欧 | 简洁、自然、民主——美丽日常不是少数人的特权 |
 | [Neo-Impressionism 新印象主义](11-millennium-nostalgia/neo-impressionism.md) | 1886–1906 法国 | 科学的色点在视网膜上重组为灿烂的光 |
 | [Muralismo Mexicano 墨西哥壁画运动](11-millennium-nostalgia/muralismo-mexicano.md) | 1920s 墨西哥 | 整面墙壁的史诗——用图像教育一个民族 |
+| [Islamic Geometric Art 伊斯兰几何艺术](11-millennium-nostalgia/islamic-geometric-art.md) | 7世纪–至今 | 在有限空间创造无限图案——数学与信仰的交汇 |
+| [Indian Miniature Painting 印度细密画](11-millennium-nostalgia/indian-miniature.md) | 16–19世纪 印度 | 单根松鼠毛画笔下的神话爱情与音乐图解 |
+| [Russian Avant-Garde 俄罗斯先锋派](11-millennium-nostalgia/russian-avant-garde.md) | 1910–1932 俄国 | 黑色方块与第三国际塔——艺术融入生活的革命 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
