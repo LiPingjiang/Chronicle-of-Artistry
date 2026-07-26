@@ -242,6 +242,9 @@
 | [Celtic Art 凯尔特艺术](11-millennium-nostalgia/celtic-art.md) | 800 BCE–至今 爱尔兰/苏格兰 | 永无终点的线条——在缠绕与交织中触摸永恒 |
 | [Tibetan Thangka 藏传唐卡](11-millennium-nostalgia/tibetan-thangka.md) | 7世纪–至今 西藏 | 一幅唐卡就是一座可以随身携带的寺庙 |
 | [Thai Temple Art 泰国寺庙艺术](11-millennium-nostalgia/thai-temple-art.md) | 6世纪–至今 泰国 | 金色尖顶刺向天空——每寸墙壁都在讲述佛陀的故事 |
+| [Indonesian Batik 印尼蜡染](11-millennium-nostalgia/indonesian-batik.md) | 12世纪–至今 印尼 | 一块布上的宇宙——热蜡与靛蓝的千年对话 |
+| [Rangoli & Kolam 印度地画艺术](11-millennium-nostalgia/rangoli-kolam.md) | 3世纪–至今 印度 | 每天清晨用米粉画出小宇宙——欢迎吉祥女神 |
+| [Shibori 日本绞染](11-millennium-nostalgia/shibori.md) | 奈良时代–至今 日本 | 捆扎折叠扭曲——靛蓝留下风暴的痕迹 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
