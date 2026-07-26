@@ -53,6 +53,7 @@
 | [Y2K 美学](11-millennium-nostalgia/y2k.md) | 1997–2004 | 金属镭射、泡泡糖粉、半透明塑料 |
 | [蒸汽波 Vaporwave](11-millennium-nostalgia/vaporwave.md) | 2010–至今 | 80/90年代消费主义的迷幻解构 |
 | [合成器浪潮 Synthwave](11-millennium-nostalgia/synthwave.md) | 2005–至今 | 对80年代黄金岁月的霓虹致敬 |
+| [New Romantic 新浪漫主义](11-millennium-nostalgia/new-romantic.md) | 1979–1984 | 眼影、丝绒、合成器——80年代伦敦夜店里最华丽的一群人 |
 | [Vapor Twitch 蒸汽抽搐](11-millennium-nostalgia/vapor-twitch.md) | 2018–至今 | 故障信号、紫色闪烁——当蒸汽波遇上直播文化 |
 | [Frutiger Metro 弗鲁提格都市](11-millennium-nostalgia/frutiger-metro.md) | 2005–2012 | 鲜艳色块、黑色人物剪影——2008年老商场里的青春配方 |
 | [Frutiger Aero](11-millennium-nostalgia/frutiger-aero.md) | 2004–2013 | Web 2.0 时代的水晶拟物风 |
@@ -75,6 +76,7 @@
 | [Mob Wife 黑帮妻子](11-millennium-nostalgia/mob-wife.md) | 2024–至今 | 皮草大衣、金色大耳环、红唇——对"安静"的反叛 |
 | [Indie Sleaze 独立邋遢](11-millennium-nostalgia/indie-sleaze.md) | 2006–2014 | 闪光灯派对、American Apparel、经济衰退下的享乐 |
 | [Grunge Revival 垃圾摇滚复兴](11-millennium-nostalgia/grunge-revival.md) | 2018–至今 | Kurt Cobain的法兰绒回到Zara货架——90s愤怒的2020s重生 |
+| [Kinderwhore 童装娃娃](11-millennium-nostalgia/kinderwhore.md) | 1991–1997/2010s复兴 | 碎花娃娃裙、涂花口红——用'天真'作为武器 |
 | [Punk 朋克美学](11-millennium-nostalgia/punk.md) | 1976–至今 | 安全别针、手写传单、DIY一切——只需要愤怒 |
 | [Riot Grrrl 暴女运动](11-millennium-nostalgia/riot-grrrl.md) | 1991–1997/2010s复兴 | DIY杂志、手写歌词——女孩也可以组乐队、也可以愤怒 |
 | [Trashy Y2K 垃圾千禧](11-millennium-nostalgia/trashy-y2k.md) | 2000–2007 | 低腰牛仔裤、Von Dutch卡车帽——2000年代最不体面也最自由的时刻 |
@@ -147,6 +149,7 @@
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelia 迷幻艺术](11-millennium-nostalgia/psychedelia.md) | 1965–1972原版 | 万花筒色彩、液态字体——1967年旧金山的视觉翻译 |
 | [Post-Punk 后朋克](11-millennium-nostalgia/post-punk.md) | 1978–1984/2000s复兴 | Joy Division的鼓机、Peter Saville的封面——朋克学会了冷静 |
+| [Mod 摩德文化](11-millennium-nostalgia/mod.md) | 1958–1967/1979复兴/至今 | Vespa踏板车、Fred Perry Polo衫——60年代英国工人阶级的优雅反叛 |
 | [Skatepunk 滑板朋克](11-millennium-nostalgia/skatepunk.md) | 1980s/1990s–2000s黄金时代 | Thrasher字体、骷髅图案——半管里的无政府主义 |
 | [Grunge 垃圾摇滚美学](11-millennium-nostalgia/grunge.md) | 1988–1997/2018复兴 | 法兰绒衬衫、破洞牛仔裤——西雅图的愤怒改变一切 |
 | [Mid-Century Modern 中世纪现代](11-millennium-nostalgia/mid-century-modern.md) | 1945–1969/2010s复兴 | Eames椅、原子钟、柚木边柜——1950年代相信设计可以改变生活 |
