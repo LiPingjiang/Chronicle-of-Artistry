@@ -338,6 +338,9 @@
 | [Fileteado 阿根廷花体彩绘](11-millennium-nostalgia/fileteado.md) | 20世纪初–至今 阿根廷 | 布宜诺斯艾利斯的视觉探戈——Fileteado Porteño |
 | [Alebrije 墨西哥幻想动物](11-millennium-nostalgia/alebrije.md) | 1936–至今 墨西哥 | 梦境的动物园——彩色幻想生物 |
 | [Ndebele House Painting 恩德贝勒壁画](11-millennium-nostalgia/ndebele.md) | 19世纪末–至今 南非 | 彩色的堡垒——Ukugwala |
+| [Shadow Puppet 皮影戏](11-millennium-nostalgia/shadow-puppet.md) | 2000年–至今 中国/东南亚 | 光与影的剧场——Wayang / 影絵 |
+| [Netsuke 根付](11-millennium-nostalgia/netsuke.md) | 17世纪–至今 日本 | 掌中的宇宙——根付の微雕 |
+| [Sand Painting 沙画](11-millennium-nostalgia/sand-painting.md) | 古代–至今 纳瓦霍/藏区 | 风一吹就消失的艺术——iikaah / དུལ་ཚོན |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
