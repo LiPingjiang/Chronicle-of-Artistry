@@ -341,6 +341,9 @@
 | [Shadow Puppet 皮影戏](11-millennium-nostalgia/shadow-puppet.md) | 2000年–至今 中国/东南亚 | 光与影的剧场——Wayang / 影絵 |
 | [Netsuke 根付](11-millennium-nostalgia/netsuke.md) | 17世纪–至今 日本 | 掌中的宇宙——根付の微雕 |
 | [Sand Painting 沙画](11-millennium-nostalgia/sand-painting.md) | 古代–至今 纳瓦霍/藏区 | 风一吹就消失的艺术——iikaah / དུལ་ཚོན |
+| [Huichol Beadwork 维乔尔族珠饰](11-millennium-nostalgia/huichol-beadwork.md) | 古代–至今 墨西哥 | 每一颗珠子都是一个祈祷——Wixárika |
+| [Reverse Glass Painting 玻璃反画](11-millennium-nostalgia/reverse-glass-painting.md) | 古代–至今 全球 | 镜子背后的世界——Hinterglasmalerei |
+| [Bonsai 盆栽](11-millennium-nostalgia/bonsai.md) | 6世纪–至今 中国/日本 | 一盆之中见山河——盆栽 / 盆景 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
