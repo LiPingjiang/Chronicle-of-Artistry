@@ -144,6 +144,9 @@
 | [Art Deco 装饰艺术](11-millennium-nostalgia/art-deco.md) | 1920–1940/2010s复兴 | 金色几何、摩天大楼、爵士时代——当奢华遇上机器美学 |
 | [Swiss Design 瑞士国际主义](11-millennium-nostalgia/swiss-design.md) | 1950s–1970s/影响至今 | 网格、Helvetica、留白——当设计追求绝对的客观与清晰 |
 | [New Wave 新浪潮](11-millennium-nostalgia/new-wave.md) | 1978–1986/2020s复兴 | 合成器、几何发型、霓虹眼影——后朋克穿上了彩色西装 |
+| [Disco 迪斯科](11-millennium-nostalgia/disco.md) | 1974–1981/2020s复兴 | 镜面球、喇叭裤、Studio 54——当夜晚属于舞池 |
+| [Gothic 哥特美学](11-millennium-nostalgia/gothic.md) | 12世纪建筑/1980s亚文化/至今 | 黑色蕾丝、尖拱窗、蝙蝠翅膀——在黑暗中找到美 |
+| [Graffiti Art 涂鸦艺术](11-millennium-nostalgia/graffiti-art.md) | 1970s–至今 | 喷漆罐、地铁车厢、Tag签名——城市是我的画布 |
 | [Hip-Hop Aesthetic 嘻哈美学](11-millennium-nostalgia/hip-hop-aesthetic.md) | 1973–至今 | 金链子、Boombox、涂鸦——从布朗克斯到全球文化 |
 | [Streetwear 街头服饰](11-millennium-nostalgia/streetwear.md) | 1980s/2015–至今 | Supreme Box Logo、限量球鞋——当街头变成了奢侈品 |
 | [Dark Feminine 暗黑女性力量](11-millennium-nostalgia/dark-feminine.md) | 2022–至今 | 黑色丝绸、红唇、自信——温柔不是唯一的女性力量 |
