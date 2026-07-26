@@ -293,6 +293,9 @@
 | [Suzani 苏扎尼刺绣](11-millennium-nostalgia/suzani.md) | 15世纪–至今 中亚 | 丝绸之路上的花园——Сўзана的链锁绣天堂 |
 | [Mingei 民藝](11-millennium-nostalgia/mingei.md) | 1926–至今 日本 | 无名工匠的美——柳宗悦的日用器物哲学 |
 | [Celtic Knotwork 凯尔特结](11-millennium-nostalgia/celtic-knotwork.md) | 5–9世纪–至今 爱尔兰 | 没有起点也没有终点——Snaidhm Cheilteach |
+| [Kilim 基里姆](11-millennium-nostalgia/kilim.md) | 古代–至今 土耳其/中亚 | 经线即图案——游牧民族的平织宇宙密码 |
+| [Talavera 塔拉韦拉陶瓷](11-millennium-nostalgia/talavera.md) | 16世纪–至今 墨西哥 | 西班牙蓝白遇见墨西哥色彩——Talavera Poblana |
+| [Batik Indonesia 印尼蜡染](11-millennium-nostalgia/batik-indonesia.md) | 古代–至今 印尼 | 蜡与靛蓝的对话——爪哇岛的宇宙秩序 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
