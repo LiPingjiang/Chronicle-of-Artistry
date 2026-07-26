@@ -149,6 +149,9 @@
 | [Graffiti Art 涂鸦艺术](11-millennium-nostalgia/graffiti-art.md) | 1970s–至今 | 喷漆罐、地铁车厢、Tag签名——城市是我的画布 |
 | [Hip-Hop Aesthetic 嘻哈美学](11-millennium-nostalgia/hip-hop-aesthetic.md) | 1973–至今 | 金链子、Boombox、涂鸦——从布朗克斯到全球文化 |
 | [Streetwear 街头服饰](11-millennium-nostalgia/streetwear.md) | 1980s/2015–至今 | Supreme Box Logo、限量球鞋——当街头变成了奢侈品 |
+| [Preppy 学院预科风](11-millennium-nostalgia/preppy.md) | 1950s/1980s鼎盛/至今 | Polo衫、卡其裤、帆船鞋——常春藤联盟的永恒制服 |
+| [Americana 美式复古](11-millennium-nostalgia/americana.md) | 1920s–1960s/2010s复兴 | 66号公路、霓虹汽车旅馆、牛仔靴——永远在路上的美国梦 |
+| [Dark Folk 暗黑民谣](11-millennium-nostalgia/dark-folk.md) | 1990s/2015–至今 | 篝火、符文、鹿角——北欧森林的古老歌谣在月光下复活 |
 | [Dark Feminine 暗黑女性力量](11-millennium-nostalgia/dark-feminine.md) | 2022–至今 | 黑色丝绸、红唇、自信——温柔不是唯一的女性力量 |
 | [City Pop シティ・ポップ](11-millennium-nostalgia/city-pop.md) | 1978–88/2017复兴 | 霓虹都市、棕榈树、日落——80年代东京泡沫经济的画面 |
 | [Coastal Grandmother 海岸祖母](11-millennium-nostalgia/coastal-grandmother.md) | 2022–至今 | Nancy Meyers 电影里的汉普顿海边别墅生活 |
