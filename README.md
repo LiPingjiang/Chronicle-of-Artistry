@@ -226,6 +226,9 @@
 | [Naive Art 稚拙艺术](11-millennium-nostalgia/naive-art.md) | 1880s–至今 | 没有透视、没有训练——最纯粹的创造力来自最"不专业"的手 |
 | [Whimsical Design 异想天开设计](11-millennium-nostalgia/whimsical-design.md) | 1900s–至今 | 不对称的房子、会飞的鲸鱼——当设计决定不再"正经" |
 | [Pop Surrealism 波普超现实主义](11-millennium-nostalgia/pop-surrealism.md) | 1970s–至今 | 大眼睛的女孩、融化的冰淇淋——当流行文化遇见潜意识 |
+| [Lowbrow Art 低俗艺术](11-millennium-nostalgia/lowbrow-art.md) | 1970s–至今 | 热棒车、怪物、地下漫画——画廊不要的，我们自己办展 |
+| [Kinetic Art 动态艺术](11-millennium-nostalgia/kinetic-art.md) | 1920s–至今 | 艺术不该挂在墙上不动——它应该旋转、摆动、随风起舞 |
+| [ASCII Art 字符画艺术](11-millennium-nostalgia/ascii-art.md) | 1960s–至今 | 用键盘上的字符拼出蒙娜丽莎——最早的"像素艺术" |
 | [Isometric Design 等距设计](11-millennium-nostalgia/isometric-design.md) | 1980s/2015–至今 | 30度角的平行世界——没有透视消失点，每个细节都同等重要 |
 | [Outsider Art 局外人艺术](11-millennium-nostalgia/outsider-art.md) | 1945–至今 | 精神病院的墙壁、囚犯的笔记本——主流之外最震撼的创造力 |
 | [Risograph 孔版印刷美学](11-millennium-nostalgia/risograph.md) | 2010s–至今 | 荧光油墨、套色偏移——最"不完美"的印刷术成了最酷的设计风格 |
