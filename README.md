@@ -222,6 +222,11 @@
 | [Dansaekhwa 단색화 韩国单色画](11-millennium-nostalgia/dansaekhwa.md) | 1970s 韩国 | 冥想式重复笔触——物我两忘的单色世界 |
 | [Supports/Surfaces 载体/表面](11-millennium-nostalgia/supports-surfaces.md) | 1969 法国 | 解构绘画本体——没有画框的画布，没有画笔的绘画 |
 | [Mono-ha 物派](11-millennium-nostalgia/mono-ha.md) | 1968 日本 | 石头与铁板的遭遇——让材料自行显现 |
+| [Gutai 具体派](11-millennium-nostalgia/gutai.md) | 1954–1972 日本 | 用身体穿破纸墙、在泥中翻滚——"勿仿效他人" |
+| [CoBrA 眼镜蛇画派](11-millennium-nostalgia/cobra-movement.md) | 1948–1951 欧洲 | 哥本哈根+布鲁塞尔+阿姆斯特丹——原始表现力的爆发 |
+| [Scandinavian Design 北欧设计](11-millennium-nostalgia/scandinavian-design.md) | 1950s 北欧 | 简洁、自然、民主——美丽日常不是少数人的特权 |
+| [Neo-Impressionism 新印象主义](11-millennium-nostalgia/neo-impressionism.md) | 1886–1906 法国 | 科学的色点在视网膜上重组为灿烂的光 |
+| [Muralismo Mexicano 墨西哥壁画运动](11-millennium-nostalgia/muralismo-mexicano.md) | 1920s 墨西哥 | 整面墙壁的史诗——用图像教育一个民族 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
