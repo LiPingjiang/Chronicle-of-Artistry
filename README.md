@@ -81,6 +81,8 @@
 | [Punk 朋克美学](11-millennium-nostalgia/punk.md) | 1976–至今 | 安全别针、手写传单、DIY一切——只需要愤怒 |
 | [Ska & 2 Tone 斯卡与双色调](11-millennium-nostalgia/ska-2tone.md) | 1960s/1979–1984/至今 | 黑白格子、Pork Pie帽——牙买加节奏遇上英国工人阶级 |
 | [Rockabilly 摇滚比利](11-millennium-nostalgia/rockabilly.md) | 1950s/1980s复兴/至今 | 飞机头、复古纹身、站立贝斯——50年代的叛逆从未过时 |
+| [Teddy Boy 泰迪男孩](11-millennium-nostalgia/teddy-boy.md) | 1950s–1960s/复兴至今 | 长外套、绉底鞋、飞机头——50年代英国第一个青年亚文化 |
+| [Psychobilly 精神比利](11-millennium-nostalgia/psychobilly.md) | 1980–至今 | 巨型飞机头+朋克+恐怖片——Rockabilly喝了太多怪物能量饮料 |
 | [Riot Grrrl 暴女运动](11-millennium-nostalgia/riot-grrrl.md) | 1991–1997/2010s复兴 | DIY杂志、手写歌词——女孩也可以组乐队、也可以愤怒 |
 | [Trashy Y2K 垃圾千禧](11-millennium-nostalgia/trashy-y2k.md) | 2000–2007 | 低腰牛仔裤、Von Dutch卡车帽——2000年代最不体面也最自由的时刻 |
 | [Twee 小清新独立](11-millennium-nostalgia/twee.md) | 2009–2014 | Peter Pan 领、复古自行车、Wes Anderson 色板 |
@@ -163,6 +165,7 @@
 | [Jungle / Drum & Bass 丛林/鼓打贝斯](11-millennium-nostalgia/jungle-dnb.md) | 1991–至今 | 碎拍鼓点、深沉贝斯——伦敦地下的声音革命 |
 | [UK Garage 英国车库](11-millennium-nostalgia/uk-garage.md) | 1994–2002/影响至今 | 2-step节奏、Moschino、香槟——90年代末伦敦最时髦的声音 |
 | [Northern Soul 北方灵魂](11-millennium-nostalgia/northern-soul.md) | 1968–至今 | 稀有黑胶、滑步舞、通宵舞厅——英格兰北部工人阶级的秘密宗教 |
+| [Disco Funk 迪斯科放克](11-millennium-nostalgia/disco-funk.md) | 1970–1983/影响至今 | 镜面球、喇叭裤、贝斯线——70年代舞池里的解放运动 |
 | [Skatepunk 滑板朋克](11-millennium-nostalgia/skatepunk.md) | 1980s/1990s–2000s黄金时代 | Thrasher字体、骷髅图案——半管里的无政府主义 |
 | [Grunge 垃圾摇滚美学](11-millennium-nostalgia/grunge.md) | 1988–1997/2018复兴 | 法兰绒衬衫、破洞牛仔裤——西雅图的愤怒改变一切 |
 | [Mid-Century Modern 中世纪现代](11-millennium-nostalgia/mid-century-modern.md) | 1945–1969/2010s复兴 | Eames椅、原子钟、柚木边柜——1950年代相信设计可以改变生活 |
