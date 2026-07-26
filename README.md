@@ -248,6 +248,9 @@
 | [Polynesian Art 波利尼西亚艺术](11-millennium-nostalgia/polynesian-art.md) | 1000 BCE–至今 太平洋 | 皮肤是画布——每条线记录着血脉与航海 |
 | [Mesoamerican Art 中美洲古文明艺术](11-millennium-nostalgia/mesoamerican-art.md) | 1500 BCE–1521 CE | 石头上的宇宙——玛雅历法与羽蛇神的永恒凝视 |
 | [Ethiopian Art 埃塞俄比亚艺术](11-millennium-nostalgia/ethiopian-art.md) | 4世纪–至今 埃塞俄比亚 | 大眼睛凝视着你——非洲之角最古老的基督教视觉传统 |
+| [Pacific Northwest Coast Art 太平洋西北海岸艺术](11-millennium-nostalgia/pacific-northwest-art.md) | 5000 BCE–至今 北美 | 乌鸦与鹰在红与黑之间变形——Formline的视觉宇宙 |
+| [Andean Textile Art 安第斯纺织艺术](11-millennium-nostalgia/andean-textile.md) | 3000 BCE–至今 南美 | 没有文字的文明用线记录一切——每个结都是历史 |
+| [Vietnamese Lacquer Art 越南漆画](11-millennium-nostalgia/vietnamese-lacquer.md) | 1930s–至今 越南 | 百层漆千次磨——在黑暗中打磨出光 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
