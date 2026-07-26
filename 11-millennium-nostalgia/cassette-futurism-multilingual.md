@@ -30,6 +30,10 @@
 - 游戏《Signalis》（2022）——融合日本80年代科幻动画与Cassette Futurism
 - Apple II、Commodore 64、NEC PC-98系列的实物设计
 
+## 概念图
+
+![Cassette Futurism 多语言视角概念图](../assets/artworks/cassette-futurism/cassette-futurism-aesthetic-gemini-01.png)
+
 ---
 
 *最后更新：2026-07-26*
