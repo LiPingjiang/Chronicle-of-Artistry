@@ -219,6 +219,9 @@
 | [Bauhaus 包豪斯](11-millennium-nostalgia/bauhaus.md) | 1919–1933/影响至今 | 形式追随功能、三原色——现代设计从这里开始 |
 | [Constructivism 构成主义](11-millennium-nostalgia/constructivism.md) | 1913–1935/影响至今 | 红色楔子劈开白色——当艺术为革命服务 |
 | [De Stijl 风格派](11-millennium-nostalgia/de-stijl.md) | 1917–1931/影响至今 | 红黄蓝+黑色网格——Mondrian相信这就是宇宙的本质 |
+| [Dansaekhwa 단색화 韩国单色画](11-millennium-nostalgia/dansaekhwa.md) | 1970s 韩国 | 冥想式重复笔触——物我两忘的单色世界 |
+| [Supports/Surfaces 载体/表面](11-millennium-nostalgia/supports-surfaces.md) | 1969 法国 | 解构绘画本体——没有画框的画布，没有画笔的绘画 |
+| [Mono-ha 物派](11-millennium-nostalgia/mono-ha.md) | 1968 日本 | 石头与铁板的遭遇——让材料自行显现 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
