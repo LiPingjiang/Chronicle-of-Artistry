@@ -158,6 +158,9 @@
 | [Vintage Americana 复古美国风](11-millennium-nostalgia/vintage-americana.md) | 1950s 设定 | 霓虹汽车旅馆、铬合金点唱机——永远停在1950年代的美国梦 |
 | [Nautical 航海风](11-millennium-nostalgia/nautical.md) | 经典设计语言 | 蓝白条纹、黄铜罗盘——大海永远在召唤 |
 | [Japandi 日式北欧](11-millennium-nostalgia/japandi.md) | 2018–至今 | 侘寂遇见Hygge——日本的空与北欧的暖的平衡 |
+| [Wabi-Sabi 侘寂](11-millennium-nostalgia/wabi-sabi.md) | 日本传统/2015全球流行 | 裂纹陶碗、枯枝——在残缺中看见永恒 |
+| [Retro Futurism 复古未来主义](11-millennium-nostalgia/retro-futurism.md) | 1920s–60s/2010s复兴 | 飞行汽车、圆形太空站——过去想象的未来更有趣 |
+| [Chinese Cyberpunk 中国赛博朋克](11-millennium-nostalgia/chinese-cyberpunk.md) | 2017–至今 | 霓虹汉字、城中村天线——赛博朋克不在东京，在重庆 |
 | [New Chinese Style 新中式](11-millennium-nostalgia/new-chinese-style.md) | 2018–至今 | 水墨留白、宋代极简——让传统在当代呼吸 |
 | [Corporate Memphis 企业孟菲斯](11-millennium-nostalgia/corporate-memphis.md) | 2017–2023 | 无脸人物、夸张肢体——硅谷的"人性化"面具 |
 | [Knightcore 骑士核](11-millennium-nostalgia/knightcore.md) | 2020–至今 | 银色盔甲、石砌城堡——中世纪的荣耀与浪漫 |
