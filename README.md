@@ -239,6 +239,9 @@
 | [African Textile Art 非洲纺织艺术](11-millennium-nostalgia/african-textile.md) | 12世纪–至今 西非 | Kente、Bogolan、Adire——布料会说话 |
 | [Ottoman Miniature 奥斯曼细密画](11-millennium-nostalgia/ottoman-miniature.md) | 15–18世纪 土耳其 | 帝国的视觉编年史——苏丹的荣耀与疆域 |
 | [Brazilian Neo-Concretism 巴西新具体主义](11-millennium-nostalgia/neo-concretism.md) | 1959–1970s 巴西 | 触摸、穿戴、参与——艺术不是被观看的对象 |
+| [Celtic Art 凯尔特艺术](11-millennium-nostalgia/celtic-art.md) | 800 BCE–至今 爱尔兰/苏格兰 | 永无终点的线条——在缠绕与交织中触摸永恒 |
+| [Tibetan Thangka 藏传唐卡](11-millennium-nostalgia/tibetan-thangka.md) | 7世纪–至今 西藏 | 一幅唐卡就是一座可以随身携带的寺庙 |
+| [Thai Temple Art 泰国寺庙艺术](11-millennium-nostalgia/thai-temple-art.md) | 6世纪–至今 泰国 | 金色尖顶刺向天空——每寸墙壁都在讲述佛陀的故事 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
