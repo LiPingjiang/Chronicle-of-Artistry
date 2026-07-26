@@ -266,6 +266,9 @@
 | [Kintsugi 金继ぎ](11-millennium-nostalgia/kintsugi.md) | 15世纪–至今 日本 | 用金色拥抱裂痕——破碎不是终结而是新生 |
 | [Azulejo 阿苏莱霍瓷砖](11-millennium-nostalgia/azulejo.md) | 15世纪–至今 葡萄牙 | 蓝与白铺满整座城市——里斯本的墙壁是打开的书 |
 | [İznik Ceramics 伊兹尼克陶瓷](11-millennium-nostalgia/iznik-ceramics.md) | 15–17世纪 奥斯曼 | 郁金香和石榴在釉下绽放——İznik Çinileri |
+| [Ebru 土耳其水拓画](11-millennium-nostalgia/ebru.md) | 15世纪–至今 土耳其 | 水面上的花园——颜料在水上跳舞纸张捕捉永恒 |
+| [Huichol Art 维乔尔艺术](11-millennium-nostalgia/huichol-art.md) | 古代–至今 墨西哥 | 数千颗珠子拼出神圣幻象——Arte Wixárika |
+| [Khmer Art 高棉艺术](11-millennium-nostalgia/khmer-art.md) | 802–1431 CE 柬埔寨 | 吴哥窟的微笑——សិល្បៈខ្មែរ石头上的天堂 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
