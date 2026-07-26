@@ -153,6 +153,7 @@
 | [Arts and Crafts 工艺美术运动](11-millennium-nostalgia/arts-and-crafts.md) | 1860s–1910s | 机器摧毁了美——让我们用双手把它找回来 |
 | [Vienna Secession 维也纳分离派](11-millennium-nostalgia/vienna-secession.md) | 1897–1905 | 每个时代有它的艺术，每种艺术有它的自由 |
 | [Pre-Raphaelite 拉斐尔前派](11-millennium-nostalgia/pre-raphaelite.md) | 1848–1870s/影响至今 | 回到拉斐尔之前——中世纪的纯真、自然的色彩、不妥协的细节 |
+| [Aesthetic Movement 唯美主义运动](11-millennium-nostalgia/aesthetic-movement.md) | 1868–1901 | 为艺术而艺术——美不需要理由，不需要道德，不需要目的 |
 | [Ukiyo-e 浮世绘](11-millennium-nostalgia/ukiyo-e.md) | 1603–1868/影响至今 | 浮世的欢愉、木版的精确——江户时代的"流行文化"影响了整个西方现代艺术 |
 | [Chinoiserie 中国风](11-millennium-nostalgia/chinoiserie.md) | 17世纪–19世纪/影响至今 | 欧洲人想象中的中国——青花瓷、宝塔、龙凤——一个美丽的"误读" |
 | [Chinese Ink Painting 中国水墨画](11-millennium-nostalgia/chinese-ink-painting.md) | 唐代–至今 | 墨分五色、计白当黑——一笔之中见天地、留白之处藏万象 |
@@ -165,6 +166,8 @@
 | [Suprematism 至上主义](11-millennium-nostalgia/suprematism.md) | 1913–1930s/影响至今 | 黑色方块在白色背景上——纯粹的感觉、纯粹的形式 |
 | [Fauvism 野兽派](11-millennium-nostalgia/fauvism.md) | 1904–1908/影响至今 | 颜色不需要"正确"——红色的树、蓝色的脸——颜色本身就是表达 |
 | [Impressionism 印象派](11-millennium-nostalgia/impressionism.md) | 1860s–1880s/影响至今 | 不画事物"是什么"——画事物"看起来像什么"——光与色彩的革命 |
+| [Luminism 光辉主义](11-millennium-nostalgia/luminism.md) | 1850s–1870s | 光线本身就是主角——静谧、透明、无限 |
+| [Tonalism 调性主义](11-millennium-nostalgia/tonalism.md) | 1880–1915 | 像音乐一样画画——用色调唤起情感，用朦胧捕捉诗意 |
 | [Post-Impressionism 后印象派](11-millennium-nostalgia/post-impressionism.md) | 1886–1910s | 印象派画光——我们画结构、情感和永恒 |
 | [Symbolism 象征主义](11-millennium-nostalgia/symbolism.md) | 1880s–1910s | 不画所见，画所感——梦境、神话与灵魂的视觉语言 |
 | [Pointillism 点彩派](11-millennium-nostalgia/pointillism.md) | 1886–1910/影响至今 | 不混合颜料——让眼睛混合——无数彩色小点在视网膜上融合成光 |
@@ -207,6 +210,7 @@
 | [Bauhaus 包豪斯](11-millennium-nostalgia/bauhaus.md) | 1919–1933/影响至今 | 形式追随功能、三原色——现代设计从这里开始 |
 | [Constructivism 构成主义](11-millennium-nostalgia/constructivism.md) | 1913–1935/影响至今 | 红色楔子劈开白色——当艺术为革命服务 |
 | [De Stijl 风格派](11-millennium-nostalgia/de-stijl.md) | 1917–1931/影响至今 | 红黄蓝+黑色网格——Mondrian相信这就是宇宙的本质 |
+| [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
 | [Glitch Art 故障艺术](11-millennium-nostalgia/glitch-art.md) | 2000s–至今 | 像素错位、数据损坏——当机器"犯错"时产生的意外之美 |
@@ -238,6 +242,9 @@
 | [Grunge 垃圾摇滚美学](11-millennium-nostalgia/grunge.md) | 1988–1997/2018复兴 | 法兰绒衬衫、破洞牛仔裤——西雅图的愤怒改变一切 |
 | [Mid-Century Modern 中世纪现代](11-millennium-nostalgia/mid-century-modern.md) | 1945–1969/2010s复兴 | Eames椅、原子钟、柚木边柜——1950年代相信设计可以改变生活 |
 | [Art Deco 装饰艺术](11-millennium-nostalgia/art-deco.md) | 1920–1940/2010s复兴 | 金色几何、摩天大楼、爵士时代——当奢华遇上机器美学 |
+| [Streamline Moderne 流线型现代](11-millennium-nostalgia/streamline-moderne.md) | 1930s–1950s | 速度的形状——即使静止的物体也应该看起来在飞 |
+| [Raygun Gothic 射线枪哥特](11-millennium-nostalgia/raygun-gothic.md) | 1930s–1960s/当代复兴 | 如果Art Deco设计了太空飞船——那就是Raygun Gothic |
+| [Googie 古吉风格](11-millennium-nostalgia/googie.md) | 1945–1970s | 飞碟屋顶、霓虹星爆、原子图案——未来就在路边的咖啡店 |
 | [Precisionism 精确主义](11-millennium-nostalgia/precisionism.md) | 1920s–1930s | 工厂烟囱是新时代的大教堂——用几何的纯净歌颂机器文明 |
 | [Dark Deco 暗黑装饰艺术](11-millennium-nostalgia/dark-deco.md) | 2010s–至今 | Art Deco的几何奢华遇见哥特的黑暗深渊——金色线条在黑色大理石上闪耀 |
 | [Film Noir 黑色电影](11-millennium-nostalgia/film-noir.md) | 1940s–1950s/影响至今 | 雨夜、霓虹、香烟的烟雾——光与影的极端对比中，每个人都有秘密 |
