@@ -238,6 +238,9 @@
 | [Oceancore 海洋核](11-millennium-nostalgia/oceancore.md) | 2020–至今 | 深蓝海水、珊瑚礁、贝壳——让大海的呼吸成为日常 |
 | [Desertcore 沙漠核](11-millennium-nostalgia/desertcore.md) | 2020–至今 | 红色砂岩、仙人掌、无尽地平线——在荒芜中找到壮美 |
 | [Forestcore 森林核](11-millennium-nostalgia/forestcore.md) | 2020–至今 | 苔藓小径、树冠光斑、蕨类卷曲——在绿色的沉默中找到安宁 |
+| [Cloudcore 云核](11-millennium-nostalgia/cloudcore.md) | 2020–至今 | 棉花糖云层、天空渐变——在云端找到轻盈与自由 |
+| [Starcore 星核](11-millennium-nostalgia/starcore.md) | 2020–至今 | 银河、星座、宇宙尘埃——仰望星空时我们都是渺小而伟大的 |
+| [Weirdcore 怪核](11-millennium-nostalgia/weirdcore.md) | 2020–至今 | 低分辨率走廊、错位天空——熟悉感中的深层恐惧 |
 
 ### 氛围与理论
 
