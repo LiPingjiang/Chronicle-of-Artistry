@@ -158,6 +158,9 @@
 | [Vintage Americana 复古美国风](11-millennium-nostalgia/vintage-americana.md) | 1950s 设定 | 霓虹汽车旅馆、铬合金点唱机——永远停在1950年代的美国梦 |
 | [Nautical 航海风](11-millennium-nostalgia/nautical.md) | 经典设计语言 | 蓝白条纹、黄铜罗盘——大海永远在召唤 |
 | [Japandi 日式北欧](11-millennium-nostalgia/japandi.md) | 2018–至今 | 侘寂遇见Hygge——日本的空与北欧的暖的平衡 |
+| [New Chinese Style 新中式](11-millennium-nostalgia/new-chinese-style.md) | 2018–至今 | 水墨留白、宋代极简——让传统在当代呼吸 |
+| [Corporate Memphis 企业孟菲斯](11-millennium-nostalgia/corporate-memphis.md) | 2017–2023 | 无脸人物、夸张肢体——硅谷的"人性化"面具 |
+| [Knightcore 骑士核](11-millennium-nostalgia/knightcore.md) | 2020–至今 | 银色盔甲、石砌城堡——中世纪的荣耀与浪漫 |
 | [Grandmacore 奶奶核](11-millennium-nostalgia/grandmacore.md) | 2020–至今 | 碎花沙发、手钩桌布——奶奶的客厅才是避风港 |
 | [Cottagecore Dark 暗黑田园核](11-millennium-nostalgia/cottagecore-dark.md) | 2020–至今 | 毒蘑菇、乌鸦、荆棘——田园生活美丽而危险的另一面 |
 | [Dark Romantic 暗黑浪漫](11-millennium-nostalgia/dark-romantic.md) | 哥特文学起源/2020s复兴 | 枯萎玫瑰、天鹅绒与烛光——在黑暗中寻找美 |
