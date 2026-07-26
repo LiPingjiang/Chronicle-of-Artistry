@@ -296,6 +296,9 @@
 | [Kilim 基里姆](11-millennium-nostalgia/kilim.md) | 古代–至今 土耳其/中亚 | 经线即图案——游牧民族的平织宇宙密码 |
 | [Talavera 塔拉韦拉陶瓷](11-millennium-nostalgia/talavera.md) | 16世纪–至今 墨西哥 | 西班牙蓝白遇见墨西哥色彩——Talavera Poblana |
 | [Batik Indonesia 印尼蜡染](11-millennium-nostalgia/batik-indonesia.md) | 古代–至今 印尼 | 蜡与靛蓝的对话——爪哇岛的宇宙秩序 |
+| [Aboriginal Dot Painting 澳大利亚原住民点画](11-millennium-nostalgia/aboriginal-dot-painting.md) | 4万年–至今 澳大利亚 | 每一个点都是一首歌——Dreamtime的地图 |
+| [Persian Miniature 波斯细密画](11-millennium-nostalgia/persian-miniature.md) | 13世纪–至今 伊朗 | 指甲大小的空间容纳整个宇宙——نگارگری ایرانی |
+| [Toile de Jouy 茹伊印花布](11-millennium-nostalgia/toile-de-jouy.md) | 1760–至今 法国 | 单色铜版印花讲述18世纪的田园牧歌 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
