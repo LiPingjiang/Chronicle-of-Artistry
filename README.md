@@ -156,6 +156,9 @@
 | [Constructivism 构成主义](11-millennium-nostalgia/constructivism.md) | 1913–1935/影响至今 | 红色楔子劈开白色——当艺术为革命服务 |
 | [De Stijl 风格派](11-millennium-nostalgia/de-stijl.md) | 1917–1931/影响至今 | 红黄蓝+黑色网格——Mondrian相信这就是宇宙的本质 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
+| [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
+| [Glitch Art 故障艺术](11-millennium-nostalgia/glitch-art.md) | 2000s–至今 | 像素错位、数据损坏——当机器"犯错"时产生的意外之美 |
+| [Generative Art 生成艺术](11-millennium-nostalgia/generative-art.md) | 1960s–至今 | 写代码而不是拿画笔——让算法成为你的合作者 |
 | [Psychedelia 迷幻艺术](11-millennium-nostalgia/psychedelia.md) | 1965–1972原版 | 万花筒色彩、液态字体——1967年旧金山的视觉翻译 |
 | [Post-Punk 后朋克](11-millennium-nostalgia/post-punk.md) | 1978–1984/2000s复兴 | Joy Division的鼓机、Peter Saville的封面——朋克学会了冷静 |
 | [Mod 摩德文化](11-millennium-nostalgia/mod.md) | 1958–1967/1979复兴/至今 | Vespa踏板车、Fred Perry Polo衫——60年代英国工人阶级的优雅反叛 |
