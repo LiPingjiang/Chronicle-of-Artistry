@@ -136,6 +136,9 @@
 | [Constructivism 构成主义](11-millennium-nostalgia/constructivism.md) | 1913–1935/影响至今 | 红色楔子劈开白色——当艺术为革命服务 |
 | [De Stijl 风格派](11-millennium-nostalgia/de-stijl.md) | 1917–1931/影响至今 | 红黄蓝+黑色网格——Mondrian相信这就是宇宙的本质 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
+| [Psychedelia 迷幻艺术](11-millennium-nostalgia/psychedelia.md) | 1965–1972原版 | 万花筒色彩、液态字体——1967年旧金山的视觉翻译 |
+| [Post-Punk 后朋克](11-millennium-nostalgia/post-punk.md) | 1978–1984/2000s复兴 | Joy Division的鼓机、Peter Saville的封面——朋克学会了冷静 |
+| [Skatepunk 滑板朋克](11-millennium-nostalgia/skatepunk.md) | 1980s/1990s–2000s黄金时代 | Thrasher字体、骷髅图案——半管里的无政府主义 |
 | [Grunge 垃圾摇滚美学](11-millennium-nostalgia/grunge.md) | 1988–1997/2018复兴 | 法兰绒衬衫、破洞牛仔裤——西雅图的愤怒改变一切 |
 | [Mid-Century Modern 中世纪现代](11-millennium-nostalgia/mid-century-modern.md) | 1945–1969/2010s复兴 | Eames椅、原子钟、柚木边柜——1950年代相信设计可以改变生活 |
 | [Art Deco 装饰艺术](11-millennium-nostalgia/art-deco.md) | 1920–1940/2010s复兴 | 金色几何、摩天大楼、爵士时代——当奢华遇上机器美学 |
