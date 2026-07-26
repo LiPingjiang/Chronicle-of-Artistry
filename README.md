@@ -307,6 +307,12 @@
 | [ASCII Art 字符画艺术](11-millennium-nostalgia/ascii-art.md) | 1960s–至今 | 用键盘上的字符拼出蒙娜丽莎——最早的"像素艺术" |
 | [Isometric Design 等距设计](11-millennium-nostalgia/isometric-design.md) | 1980s/2015–至今 | 30度角的平行世界——没有透视消失点，每个细节都同等重要 |
 | [Outsider Art 局外人艺术](11-millennium-nostalgia/outsider-art.md) | 1945–至今 | 精神病院的墙壁、囚犯的笔记本——主流之外最震撼的创造力 |
+| [Art Brut 原生艺术](11-millennium-nostalgia/art-brut.md) | 1945 杜布菲 | "粗野艺术"——未经文化污染的最纯粹创造冲动 |
+| [Mingei 民芸](11-millennium-nostalgia/mingei.md) | 1926 柳宗悦 | 无名工匠的日用品之美——用之美·他力之美 |
+| [Transavanguardia 超前卫](11-millennium-nostalgia/transavanguardia.md) | 1979 意大利 | 回到画布、回到具象——文化游牧主义的野性绘画 |
+| [Spazialismo 空间主义](11-millennium-nostalgia/spazialismo.md) | 1947 封塔纳 | 切割画布打开无限——Concetto Spaziale |
+| [Italian Radical Design 意大利激进设计](11-millennium-nostalgia/italian-radical-design.md) | 1960s–70s | 反设计——用荒诞讽刺颠覆"好品味"的霸权 |
+| [Novecento Italiano 意大利二十世纪](11-millennium-nostalgia/novecento-italiano.md) | 1922 米兰 | 复兴古典秩序与纪念碑性的现代运动 |
 | [Art Brut 原生艺术](11-millennium-nostalgia/art-brut.md) | 1945–至今 | 没有学过画的人——画出了最真实的东西 |
 | [Risograph 孔版印刷美学](11-millennium-nostalgia/risograph.md) | 2010s–至今 | 荧光油墨、套色偏移——最"不完美"的印刷术成了最酷的设计风格 |
 | [Zine Culture 独立出版文化](11-millennium-nostalgia/zine-culture.md) | 1930s/1970s/2010s–至今 | 复印机、订书钉——在没有许可的情况下出版你自己的世界 |
@@ -343,6 +349,11 @@
 | [Nautical 航海风](11-millennium-nostalgia/nautical.md) | 经典设计语言 | 蓝白条纹、黄铜罗盘——大海永远在召唤 |
 | [Japandi 日式北欧](11-millennium-nostalgia/japandi.md) | 2018–至今 | 侘寂遇见Hygge——日本的空与北欧的暖的平衡 |
 | [Wabi-Sabi 侘寂](11-millennium-nostalgia/wabi-sabi.md) | 日本传统/2015全球流行 | 裂纹陶碗、枯枝——在残缺中看见永恒 |
+| [Mono no Aware 物哀](11-millennium-nostalgia/mono-no-aware.md) | 平安时代至今 | 樱花凋零的瞬间——感知万物无常之美 |
+| [Yūgen 幽玄](11-millennium-nostalgia/yugen.md) | 日本中世 | 月色朦胧、薄雾深山——不可言说的深远暗示 |
+| [Iki 粹](11-millennium-nostalgia/iki.md) | 江户时代 | 条纹和服、洒脱不执——町人的都市优雅 |
+| [Mono no Aware 物哀](11-millennium-nostalgia/mono-no-aware.md) | 平安时代至今 | 樱花凋零的瞬间——感知万物无常之美 |
+| [Yūgen 幽玄](11-millennium-nostalgia/yugen.md) | 日本中世 | 月色朦胧、薄雾深山——不可言说的深远暗示 |
 | [Retro Futurism 复古未来主义](11-millennium-nostalgia/retro-futurism.md) | 1920s–60s/2010s复兴 | 飞行汽车、圆形太空站——过去想象的未来更有趣 |
 | [Chinese Cyberpunk 中国赛博朋克](11-millennium-nostalgia/chinese-cyberpunk.md) | 2017–至今 | 霓虹汉字、城中村天线——赛博朋克不在东京，在重庆 |
 | [New Chinese Style 新中式](11-millennium-nostalgia/new-chinese-style.md) | 2018–至今 | 水墨留白、宋代极简——让传统在当代呼吸 |
