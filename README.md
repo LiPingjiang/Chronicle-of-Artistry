@@ -216,6 +216,8 @@
 | [Blokecore 球迷核](11-millennium-nostalgia/blokecore.md) | 2022–至今 | 复古球衣、Adidas Samba——把看台文化穿成时装 |
 | [Coastal Cowgirl 海岸牛仔女孩](11-millennium-nostalgia/coastal-cowgirl.md) | 2022–至今 | 牛仔帽+比基尼+日落——当西部遇见海滩 |
 | [Tomato Girl 番茄女孩](11-millennium-nostalgia/tomato-girl.md) | 2023–至今 | 红色亚麻裙、草编篮——意大利电影里走出来的女孩 |
+| [Coconut Girl 椰子女孩](11-millennium-nostalgia/coconut-girl.md) | 2021–至今 | 贝壳比基尼、椰子树、热带日落——永远活在夏天的海岛上 |
+| [Vanilla Girl 香草女孩](11-millennium-nostalgia/vanilla-girl.md) | 2022–至今 | 米白毛衣、珍珠耳环、拿铁——把'普通'变成精致 |
 | [Eclectic Grandpa 古怪爷爷](11-millennium-nostalgia/eclectic-grandpa.md) | 2024–至今 | 超大号针织衫、宽松裤——穿得像最有品味的爷爷 |
 | [Frasurbane 郊区怀旧](11-millennium-nostalgia/frasurbane.md) | 怀念1993–2004 | 90年代情景喜剧里那个永远不会变的客厅 |
 
