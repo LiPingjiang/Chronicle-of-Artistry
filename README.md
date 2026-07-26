@@ -323,6 +323,9 @@
 | [Ebru 土耳其水拓画](11-millennium-nostalgia/ebru.md) | 15世纪–至今 土耳其/波斯 | 水面上的花园——Ebru Sanatı |
 | [Thangka 唐卡](11-millennium-nostalgia/thangka.md) | 7世纪–至今 藏区 | 丝绸上的佛国——ཐང་ཀ |
 | [Kintsugi 金缮](11-millennium-nostalgia/kintsugi.md) | 15世纪–至今 日本 | 破碎是新生的开始——金継ぎ |
+| [Wabi-Sabi 侘寂](11-millennium-nostalgia/wabi-sabi.md) | 15世纪–至今 日本 | 不完美即完美——侘び寂び |
+| [Mudcloth 泥染布](11-millennium-nostalgia/mudcloth.md) | 古代–至今 马里 | 大地的语言——Bògòlanfini |
+| [Tapa Cloth 树皮布](11-millennium-nostalgia/tapa-cloth.md) | 古代–至今 太平洋岛屿 | 太平洋的纸——Ngatu / Siapo |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
