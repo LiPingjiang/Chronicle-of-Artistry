@@ -190,6 +190,7 @@
 | [Princesscore 公主核](11-millennium-nostalgia/princesscore.md) | 2020–至今 | 粉色城堡、水晶皇冠——每个人都值得拥有自己的童话 |
 | [Dark Fantasy 暗黑奇幻](11-millennium-nostalgia/dark-fantasy.md) | 2010s–至今 | 血月下的骑士——当奇幻世界拒绝光明结局 |
 | [Dieselpunk 柴油朋克](11-millennium-nostalgia/dieselpunk.md) | 1920s–1950s 设定 | Art Deco 飞机、铆钉坦克——永远停在1940年代的平行世界 |
+| [Atompunk 原子朋克](11-millennium-nostalgia/atompunk.md) | 1945–1965/2000s复兴 | 原子能、太空竞赛、镀铬火箭——1950年代相信的闪亮未来 |
 | [Vintage Americana 复古美国风](11-millennium-nostalgia/vintage-americana.md) | 1950s 设定 | 霓虹汽车旅馆、铬合金点唱机——永远停在1950年代的美国梦 |
 | [Nautical 航海风](11-millennium-nostalgia/nautical.md) | 经典设计语言 | 蓝白条纹、黄铜罗盘——大海永远在召唤 |
 | [Japandi 日式北欧](11-millennium-nostalgia/japandi.md) | 2018–至今 | 侘寂遇见Hygge——日本的空与北欧的暖的平衡 |
@@ -205,6 +206,7 @@
 | [Mermaidcore 美人鱼核](11-millennium-nostalgia/mermaidcore.md) | 2012–至今 | 鳞片闪光、珍珠发饰——每个人心里都住着一条美人鱼 |
 | [Steampunk 蒸汽朋克](11-millennium-nostalgia/steampunk.md) | 1980s–至今 | 齿轮、黄铜和永不存在的维多利亚未来 |
 | [Solarpunk 太阳朋克](11-millennium-nostalgia/solarpunk.md) | 2014–至今 | 藤蔓缠绕的太阳能城市——乐观的生态未来 |
+| [Lunarpunk 月亮朋克](11-millennium-nostalgia/lunarpunk.md) | 2021–至今 | 月光加密、生物发光——在黑暗中建造隐秘的乌托邦 |
 | [Dopamine Dressing 多巴胺穿搭](11-millennium-nostalgia/dopamine-dressing.md) | 2021–至今 | 穿得像一包彩虹糖——后疫情的色彩爆发 |
 | [Maximalism 极繁主义](11-millennium-nostalgia/maximalism.md) | 2019–至今 | 更多就是更多——当极简主义让你窒息 |
 | [Soft Girl 软妹风](11-millennium-nostalgia/soft-girl.md) | 2019–至今 | 粉色云朵、蝴蝶发夹——TikTok 最甜的视觉糖果 |
