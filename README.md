@@ -257,6 +257,9 @@
 | [Balinese Painting 巴厘岛绘画](11-millennium-nostalgia/balinese-painting.md) | 12世纪–至今 印尼 | 神话在画布上跳舞——每片叶子都藏着精灵 |
 | [Georgian Cloisonné 格鲁吉亚掐丝珐琅](11-millennium-nostalgia/georgian-enamel.md) | 8–12世纪 格鲁吉亚 | 金丝围出的色彩宇宙——高加索的拜占庭光辉 |
 | [Dark Deco 暗黑装饰艺术](11-millennium-nostalgia/dark-deco.md) | 2010s–至今 | 当Art Deco坠入暗夜——金色几何在黑暗中闪烁 |
+| [Madhubani Painting 米蒂拉绘画](11-millennium-nostalgia/madhubani-painting.md) | 古代–至今 印度比哈尔 | 用手指和树枝在泥墙上画出宇宙——मधुबनी |
+| [Warli Art 瓦尔利绘画](11-millennium-nostalgia/warli-art.md) | 2500 BCE–至今 印度 | 白色圆圈和三角形——部落记忆在赭红墙上跳舞 |
+| [Gond Art 贡德绘画](11-millennium-nostalgia/gond-art.md) | 古代–至今 印度中部 | 每个点都是种子——森林部落用点线编织万物灵魂 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
