@@ -156,6 +156,12 @@
 | [Expressionism 表现主义](11-millennium-nostalgia/expressionism.md) | 1905–1930s/影响至今 | 不画世界的样子——画世界让我感受到的样子 |
 | [Cubism 立体主义](11-millennium-nostalgia/cubism.md) | 1907–1920s/影响至今 | 为什么只从一个角度看？——同时画出所有角度 |
 | [Abstract Expressionism 抽象表现主义](11-millennium-nostalgia/abstract-expressionism.md) | 1940s–1960s/影响至今 | 画布是竞技场——行动本身就是艺术 |
+| [Street Art 街头艺术](11-millennium-nostalgia/street-art.md) | 1960s–至今 | 城市是画布、喷漆是画笔——不需要画廊的许可 |
+| [Graffiti 涂鸦艺术](11-millennium-nostalgia/graffiti.md) | 1960s–至今 | 一罐喷漆、一个名字、一面墙——在城市的皮肤上刻下"我存在" |
+| [Land Art 大地艺术](11-millennium-nostalgia/land-art.md) | 1960s–至今 | 地球本身就是材料——艺术的尺度可以是一座山 |
+| [Digital Art 数字艺术](11-millennium-nostalgia/digital-art.md) | 1960s–至今 | 像素是新的颜料、屏幕是新的画布——无限撤销、无限可能 |
+| [Typography Art 字体艺术](11-millennium-nostalgia/typography-art.md) | 1450–至今 | 字母不只是信息的载体——字母本身就是形状、节奏和情感 |
+| [AI Art 人工智能艺术](11-millennium-nostalgia/ai-art.md) | 2015–至今 | 输入文字，输出图像——当创造力不再需要手 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1950s–1970s/影响至今 | Campbell's汤罐头、Ben-Day网点——大众文化成为高级艺术 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s/影响至今 | 融化的时钟、梦境逻辑——当潜意识成为画布 |
 | [Boho Chic 波西米亚时尚](11-millennium-nostalgia/boho-chic.md) | 1960s/2005–2015鼎盛 | 流苏、扎染、大地色——自由灵魂不需要规则 |
