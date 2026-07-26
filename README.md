@@ -314,6 +314,9 @@
 | [Filigree 金银丝工艺](11-millennium-nostalgia/filigree.md) | 5000年–至今 全球 | 金属的蕾丝——Filigrana |
 | [Pietra Dura 硬石镶嵌](11-millennium-nostalgia/pietra-dura.md) | 16世纪–至今 意大利/印度 | 石头的绘画——पच्चीकारी |
 | [Marquetry 木镶嵌](11-millennium-nostalgia/marquetry.md) | 15世纪–至今 欧洲/日本 | 木头的调色板——Intarsio |
+| [Chintz 印花棉布](11-millennium-nostalgia/chintz.md) | 古代–至今 印度/全球 | 印度的花园穿在欧洲身上——चिन्ट्ज़ |
+| [Damascene 大马士革镶嵌](11-millennium-nostalgia/damascene.md) | 古代–至今 中东/西班牙/日本 | 钢铁上的金丝画——الدمشقي |
+| [Encaustic Tile 维多利亚瓷砖](11-millennium-nostalgia/encaustic-tile.md) | 13世纪–至今 欧洲 | 脚下的中世纪——Carreau Encaustique |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
