@@ -275,6 +275,9 @@
 | [Ainu Art 阿伊努艺术](11-millennium-nostalgia/ainu-art.md) | 古代–至今 日本北海道 | 万物皆有神灵——アイヌ文様の螺旋曲线 |
 | [Rosemaling 挪威玫瑰画](11-millennium-nostalgia/rosemaling.md) | 18世纪–至今 挪威 | 花朵在木头上绽放——Rosemåling的C形曲线 |
 | [Wycinanki 波兰剪纸](11-millennium-nostalgia/wycinanki.md) | 19世纪–至今 波兰 | 一把剪刀一张纸——Łowicz的彩色花园 |
+| [Petrykivka 彼得里基夫卡彩绘](11-millennium-nostalgia/petrykivka.md) | 19世纪–至今 乌克兰 | 花朵从指尖绽放——Петриківський розпис |
+| [Delft Blue 代尔夫特蓝](11-millennium-nostalgia/delft-blue.md) | 17世纪–至今 荷兰 | 荷兰人对青花瓷的深情回应——Delfts Blauw |
+| [Mola 莫拉](11-millennium-nostalgia/mola.md) | 19世纪–至今 巴拿马 | 反向贴布绣——库纳族层层剪裁的色彩迷宫 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
