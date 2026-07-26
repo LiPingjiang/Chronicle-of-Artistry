@@ -320,6 +320,9 @@
 | [Lacquerware 漆器](11-millennium-nostalgia/lacquerware.md) | 7000年–至今 东亚 | 百道漆百道磨——漆芸 / Sơn mài |
 | [Scrimshaw 鲸骨雕刻](11-millennium-nostalgia/scrimshaw.md) | 18–19世纪 美国 | 大海上的寂寞艺术——水手的针尖画 |
 | [Niello 黑金镶嵌](11-millennium-nostalgia/niello.md) | 4000年–至今 全球 | 黑色的秘密——نیلو / Чернь |
+| [Ebru 土耳其水拓画](11-millennium-nostalgia/ebru.md) | 15世纪–至今 土耳其/波斯 | 水面上的花园——Ebru Sanatı |
+| [Thangka 唐卡](11-millennium-nostalgia/thangka.md) | 7世纪–至今 藏区 | 丝绸上的佛国——ཐང་ཀ |
+| [Kintsugi 金缮](11-millennium-nostalgia/kintsugi.md) | 15世纪–至今 日本 | 破碎是新生的开始——金継ぎ |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
