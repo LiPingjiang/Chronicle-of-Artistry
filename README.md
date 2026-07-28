@@ -387,6 +387,15 @@
 | [Maritime Art 海洋画派](11-millennium-nostalgia/maritime-art.md) | 17世纪–至今 | 巨浪、帆船与风暴——透纳和艾瓦佐夫斯基的海洋诗篇 |
 | [Vedutismo 威尼斯城市风景画](11-millennium-nostalgia/vedutismo.md) | 18世纪 意大利 | 卡纳莱托的精确全景——摄影术的精神先驱 |
 | [Newlyn School 纽林画派](11-millennium-nostalgia/newlyn-school.md) | 1880–1910 英国 | 康沃尔渔村的银灰光线——英国的外光画运动 |
+| [J.M.W. Turner 透纳](11-millennium-nostalgia/turner.md) | 1775–1851 英国 | 太阳即是上帝——光与色的极致追求者 |
+| [Ivan Aivazovsky 艾瓦佐夫斯基](11-millennium-nostalgia/aivazovsky.md) | 1817–1900 俄罗斯 | 6000幅海景——月光穿透翡翠色海浪 |
+| [Caspar David Friedrich 弗里德里希](11-millennium-nostalgia/caspar-david-friedrich.md) | 1774–1840 德国 | 背对观者凝视无限——德国浪漫主义的灵魂 |
+| [James McNeill Whistler 惠斯勒](11-millennium-nostalgia/whistler.md) | 1834–1903 美国/英国 | 绘画如音乐——夜曲、和声与为艺术而艺术 |
+| [Australian Impressionism 澳大利亚印象派](11-millennium-nostalgia/australian-impressionism.md) | 1885–1910 澳大利亚 | 金色灌木丛中的南半球阳光——海德堡画派 |
+| [Peredvizhniki 巡回展览画派](11-millennium-nostalgia/peredvizhniki.md) | 1870–1923 俄罗斯 | 艺术服务于人民——列宾、希施金与俄罗斯大地 |
+| [Sfumato 渐隐法](11-millennium-nostalgia/sfumato.md) | 15世纪–至今 | 如烟般消散的边界——达·芬奇的永恒微笑 |
+| [Impasto 厚涂法](11-millennium-nostalgia/impasto.md) | 16世纪–至今 | 颜料从画布凸起——梵高的旋转星空 |
+| [Glazing 罩染法](11-millennium-nostalgia/glazing.md) | 15世纪–至今 | 宝石般的内发光——凡·艾克的透明色层秘密 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
