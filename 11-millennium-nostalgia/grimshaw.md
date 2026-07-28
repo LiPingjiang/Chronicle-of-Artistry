@@ -62,7 +62,22 @@
 | 当代概念艺术/游戏 | Grimshaw风格影响暗黑维多利亚美学 |
 | Liminal Space | 共享空旷、孤独的氛围 |
 
-## 概念图
+## 真实作品（公共领域）
+
+格里姆肖的作品已进入公共领域（Public Domain），以下为代表作链接，可供下载参考：
+
+| 作品 | 年代 | 来源 |
+|------|------|------|
+| *Boar Lane, Leeds, by Lamplight* | 1881 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Atkinson_Grimshaw_-_Boar_Lane,_Leeds,_by_lamplight_(1881).jpg) |
+| *In the Golden Gloaming* | 1881 | [nbfox.com](https://www.nbfox.com/in-the-golden-gloaming/) |
+| *Spirit of the Night* | 1879 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:John_Atkinson_Grimshaw_-_Spirit_of_the_Night.jpg) |
+| *Nearing Home* | 1872 | [nbfox.com](https://www.nbfox.com/author/john-atkinson-grimshaw/) |
+| *A Moonlit Lane* | 1874 | [Christie's](https://www.christies.com.cn/zh-cn/lot/lot-6104728) |
+| *Canny Glasgow* | 1887 | [nbfox.com](https://www.nbfox.com/author/john-atkinson-grimshaw/) |
+
+> ⚠️ 本条目优先使用真实作品。如需本地图片，请从上述公共领域来源手动下载后放入 `assets/artworks/grimshaw/` 并压缩。
+
+## AI生成概念图（备用）
 
 ![John Atkinson Grimshaw 格里姆肖概念图](../assets/artworks/grimshaw/grimshaw-concept-01.png)
 
