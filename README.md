@@ -369,6 +369,24 @@
 | [Otomi Tenango 奥托米刺绣](11-millennium-nostalgia/otomi-tenango.md) | 古代–至今 墨西哥 | 山里人的彩色宇宙——Tenango de Doria |
 | [Petrykivka 彼得里基夫卡彩绘](11-millennium-nostalgia/petrykivka.md) | 古代–至今 乌克兰 | 乌克兰的花园——Петриківський розпис |
 | [John Atkinson Grimshaw 格里姆肖](11-millennium-nostalgia/grimshaw.md) | 1860s–1893 英国 | 没有人比格里姆肖更懂描绘月光——Victorian Nocturne |
+| [Hudson River School 哈德逊河画派](11-millennium-nostalgia/hudson-river-school.md) | 1825–1875 美国 | 金色光芒照耀美国荒野——第一个本土艺术运动 |
+| [Barbizon School 巴比松画派](11-millennium-nostalgia/barbizon-school.md) | 1830–1870 法国 | 走出画室面对自然——印象派的直接先驱 |
+| [Japonisme 日本主义](11-millennium-nostalgia/japonisme.md) | 1860–1910 欧洲 | 浮世绘改变了西方——平面、不对称、大胆裁切 |
+| [Orientalism 东方主义](11-millennium-nostalgia/orientalism.md) | 1800–1900 欧洲 | 清真寺、后宫与沙漠——西方对东方的华丽想象 |
+| [Plein Air 外光画派](11-millennium-nostalgia/plein-air.md) | 1840s–至今 | 只有在自然光下才能捕捉真实色彩——户外写生运动 |
+| [Divisionism 分割主义](11-millennium-nostalgia/divisionism.md) | 1884–1910 法国/意大利 | 色点并置的科学——修拉的光学革命 |
+| [Nabis 那比派](11-millennium-nostalgia/nabis.md) | 1888–1900 法国 | 画布是覆盖着色彩的平面——后印象派的装饰先知 |
+| [Cloisonnism 景泰蓝主义](11-millennium-nostalgia/cloisonnism.md) | 1886–1894 法国 | 粗黑轮廓分隔纯色——如彩色玻璃般的绘画 |
+| [Synthetism 综合主义](11-millennium-nostalgia/synthetism.md) | 1888–1900 法国 | 闭上眼睛才能看见——高更的记忆与象征 |
+| [Tenebrism 暗色主义](11-millennium-nostalgia/tenebrism.md) | 1600–1650 意大利/欧洲 | 从深黑中浮现的聚光灯——卡拉瓦乔的戏剧 |
+| [Chiaroscuro 明暗法](11-millennium-nostalgia/chiaroscuro.md) | 15世纪–至今 | 光与影的永恒对话——从达·芬奇到伦勃朗 |
+| [Dutch Golden Age 荷兰黄金时代绘画](11-millennium-nostalgia/dutch-golden-age.md) | 1600–1680 荷兰 | 市民的艺术——维米尔的光线、伦勃朗的灵魂 |
+| [Flemish Painting 佛兰德斯画派](11-millennium-nostalgia/flemish-painting.md) | 15–17世纪 佛兰德斯 | 凡·艾克发明了油画——宝石般的光泽与极致细节 |
+| [Ashcan School 灰盆画派](11-millennium-nostalgia/ashcan-school.md) | 1900–1918 美国 | 垃圾桶旁的真实——纽约底层生活的新闻画 |
+| [Nocturne Painting 夜曲画派](11-millennium-nostalgia/nocturne-painting.md) | 1866–1900s 英国 | 惠斯勒与格里姆肖——当绘画如音乐般追求色调和谐 |
+| [Maritime Art 海洋画派](11-millennium-nostalgia/maritime-art.md) | 17世纪–至今 | 巨浪、帆船与风暴——透纳和艾瓦佐夫斯基的海洋诗篇 |
+| [Vedutismo 威尼斯城市风景画](11-millennium-nostalgia/vedutismo.md) | 18世纪 意大利 | 卡纳莱托的精确全景——摄影术的精神先驱 |
+| [Newlyn School 纽林画派](11-millennium-nostalgia/newlyn-school.md) | 1880–1910 英国 | 康沃尔渔村的银灰光线——英国的外光画运动 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
