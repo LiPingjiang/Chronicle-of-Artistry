@@ -396,6 +396,17 @@
 | [Sfumato 渐隐法](11-millennium-nostalgia/sfumato.md) | 15世纪–至今 | 如烟般消散的边界——达·芬奇的永恒微笑 |
 | [Impasto 厚涂法](11-millennium-nostalgia/impasto.md) | 16世纪–至今 | 颜料从画布凸起——梵高的旋转星空 |
 | [Glazing 罩染法](11-millennium-nostalgia/glazing.md) | 15世纪–至今 | 宝石般的内发光——凡·艾克的透明色层秘密 |
+| [Claude Monet 莫奈](11-millennium-nostalgia/monet.md) | 1840–1926 法国 | 我像鸟儿歌唱一样画画——印象派的命名者 |
+| [Rembrandt 伦勃朗](11-millennium-nostalgia/rembrandt.md) | 1606–1669 荷兰 | 金色光芒中的灵魂——100幅自画像的诚实 |
+| [Johannes Vermeer 维米尔](11-millennium-nostalgia/vermeer.md) | 1632–1675 荷兰 | 35幅画凝固了永恒——珍珠般的窗光诗人 |
+| [Katsushika Hokusai 葛饰北斋](11-millennium-nostalgia/hokusai.md) | 1760–1849 日本 | 神奈川冲浪里——改变西方艺术的浮世绘大师 |
+| [Alphonse Mucha 穆夏](11-millennium-nostalgia/mucha.md) | 1860–1939 捷克 | 花与女神的曲线——新艺术运动的视觉代言人 |
+| [Düsseldorf School 杜塞尔多夫画派](11-millennium-nostalgia/dusseldorf-school.md) | 1830–1870 德国 | 莱茵河畔的学院——哈德逊河画派的摇篮 |
+| [Norwich School 诺里奇画派](11-millennium-nostalgia/norwich-school.md) | 1803–1833 英国 | 诺福克的橡树与风车——英国唯一的地方画派 |
+| [Macchiaioli 马基亚伊奥利画派](11-millennium-nostalgia/macchiaioli.md) | 1850–1870s 意大利 | 比印象派早十年的色斑革命——托斯卡纳的阳光 |
+| [Scumbling 擦涂法](11-millennium-nostalgia/scumbling.md) | 16世纪–至今 | 干笔轻擦的薄雾——大气透视的核心手段 |
+| [Grisaille 灰色画法](11-millennium-nostalgia/grisaille.md) | 中世纪–至今 | 纯灰色的雕塑感——古典油画的明暗基础 |
+| [Alla Prima 一次完成法](11-millennium-nostalgia/alla-prima.md) | 17世纪–至今 | 湿压湿的果断——一气呵成的新鲜活力 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
