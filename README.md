@@ -443,6 +443,18 @@
 | [Etching 蚀刻版画](11-millennium-nostalgia/etching.md) | 16世纪–至今 | 酸液中的自由线条——伦勃朗的亲密媒介 |
 | [Woodcut 木刻版画](11-millennium-nostalgia/woodcut.md) | 古代–至今 | 刀与木的搏斗——从浮世绘到表现主义 |
 | [Collage 拼贴艺术](11-millennium-nostalgia/collage.md) | 1912–至今 | 真实世界的碎片——打破绘画的窗户幻觉 |
+| [Titian 提香](11-millennium-nostalgia/titian.md) | 1488–1576 意大利 | 色彩之王——威尼斯画派的最高代表 |
+| [El Greco 埃尔·格列柯](11-millennium-nostalgia/el-greco.md) | 1541–1614 西班牙 | 火焰般的拉长人体——表现主义的先驱 |
+| [Peter Paul Rubens 鲁本斯](11-millennium-nostalgia/rubens.md) | 1577–1640 佛兰德斯 | 巴洛克的生命力——华丽的肉体与运动 |
+| [Edgar Degas 德加](11-millennium-nostalgia/degas.md) | 1834–1917 法国 | 芭蕾舞者的偷窥视角——粉彩画革新者 |
+| [Constructivism 构成主义](11-millennium-nostalgia/constructivism.md) | 1913–1930s 俄国 | 红色楔子——艺术服务于革命 |
+| [Futurism 未来主义](11-millennium-nostalgia/futurism.md) | 1909–1916 意大利 | 速度的美——在静态中表现运动 |
+| [Art Deco 装饰艺术](11-millennium-nostalgia/art-deco.md) | 1920–1940s | 几何的奢华——克莱斯勒大厦的黄金时代 |
+| [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s | 眼睛的欺骗——静态图案中的运动错觉 |
+| [Chinese Ink Painting 中国水墨画](11-millennium-nostalgia/chinese-ink-painting.md) | 古代–至今 | 墨分五色——以少胜多的东方美学 |
+| [Islamic Geometric Art 伊斯兰几何艺术](11-millennium-nostalgia/islamic-geometric.md) | 7世纪–至今 | 无限的星形镶嵌——神圣的数学秩序 |
+| [Street Art 街头艺术](11-millennium-nostalgia/street-art.md) | 1970s–至今 | 城市的画布——从涂鸦到班克西 |
+| [Generative Art 生成艺术](11-millennium-nostalgia/generative-art.md) | 1960s–至今 | 算法即画笔——从代码到AI的创造力 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
