@@ -1,124 +1,74 @@
 # De Stijl 风格派
 
-![De Stijl 概念图](../assets/artworks/de-stijl/de-stijl-concept-01.png)
-
-> **"红黄蓝+黑色网格——Mondrian 相信这就是宇宙的本质。"**
+> "The purpose of art is not the imitation of nature but the expression of the universal." — Theo van Doesburg
 
 ## 概述
 
-| 维度 | 描述 |
+风格派（De Stijl，荷兰语"风格"之意）是1917–1931年由荷兰画家皮特·蒙德里安（Piet Mondrian）和建筑师/设计师特奥·凡·杜斯堡（Theo van Doesburg）创立的艺术运动。它追求绝对的抽象——将视觉语言简化为最基本的元素：水平线、垂直线、三原色（红黄蓝）加黑白灰。
+
+风格派相信通过纯粹的几何和色彩可以表达宇宙的和谐秩序，它深刻影响了包豪斯、国际风格建筑和现代平面设计。
+
+## 核心特征
+
+| 特征 | 描述 |
 |------|------|
-| 时期 | 1917–1931 原版 / 影响至今 |
-| 别名 | De Stijl, Neoplasticism, The Style |
-| 核心色彩 | 红、黄、蓝 + 黑、白、灰 |
-| 关键元素 | 直角网格、三原色色块、黑色线条 |
-| 代表人物 | Piet Mondrian、Theo van Doesburg、Gerrit Rietveld |
-| 关联风格 | Bauhaus, Constructivism, Minimalism, Swiss Design |
+| 绝对抽象 | 只使用最基本的视觉元素 |
+| 直角网格 | 只有水平线和垂直线——拒绝对角线和曲线 |
+| 三原色 | 只使用红、黄、蓝三原色 |
+| 非色彩 | 黑、白、灰作为"非色彩"补充 |
+| 不对称平衡 | 通过不对称实现动态平衡 |
+| 宇宙和谐 | 追求表达宇宙的基本秩序 |
 
----
+## 视觉特征
 
-## 历史脉络
+- **线条**：只有水平和垂直的黑色直线
+- **色彩**：纯红、纯黄、纯蓝 + 黑白灰
+- **形状**：矩形色块——没有圆、三角或曲线
+- **构图**：不对称的网格布局
+- **空间**：扁平的、二维的纯粹平面
+- **平衡**：通过色块大小和位置实现动态平衡
 
-### 从荷兰到全球设计语言
+## 代表人物
 
-| 年份 | 事件 |
+| 艺术家 | 领域 | 代表作 |
+|--------|------|--------|
+| Piet Mondrian | 绘画 | *Composition with Red, Blue, and Yellow* |
+| Theo van Doesburg | 绘画/建筑 | 反构图系列、Café Aubette |
+| Gerrit Rietveld | 家具/建筑 | Red and Blue Chair、Schröder House |
+| Bart van der Leck | 绘画 | 几何化的具象到抽象 |
+| Vilmos Huszár | 绘画/设计 | De Stijl 杂志封面设计 |
+
+## 代表作品
+
+| 作品 | 年代 | 意义 |
+|------|------|------|
+| *Composition with Red, Blue, and Yellow* (Mondrian) | 1930 | 风格派的视觉标志 |
+| Red and Blue Chair (Rietveld) | 1917 | 三维的蒙德里安——家具设计革命 |
+| Schröder House (Rietveld) | 1924 | 风格派建筑的唯一完整实现 |
+| De Stijl 杂志 | 1917-32 | 运动的理论平台 |
+
+## 真实作品（公共领域）
+
+蒙德里安的多数作品已进入公共领域：
+
+| 作品 | 来源 |
 |------|------|
-| 1917 | Theo van Doesburg 创办《De Stijl》杂志 |
-| 1917 | Mondrian 发展"新造型主义"理论 |
-| 1918 | De Stijl 宣言发表 |
-| 1924 | Rietveld Schröder House——De Stijl 建筑 |
-| 1925 | Rietveld Red and Blue Chair |
-| 1931 | Van Doesburg 去世——运动结束 |
-| 至今 | Mondrian 的网格成为设计史经典 |
+| *Composition* 系列 | [Gemeentemuseum Den Haag](https://www.kunstmuseum.nl/en) |
+| Mondrian 作品集 | [Wikimedia](https://commons.wikimedia.org/wiki/Piet_Mondrian) |
 
-### 核心哲学
+## AI生成概念图
 
-De Stijl 的精神是**"将一切还原为最基本的元素——直线、直角、三原色"**：
-- 自然的本质是数学秩序
-- 水平 + 垂直 = 宇宙的基本结构
-- 三原色 = 色彩的本质
-- "去掉一切个人表达——留下普遍真理"
-- 艺术 = 精神的纯粹表达
+![De Stijl 风格派概念图](../assets/artworks/de-stijl/de-stijl-concept-01.png)
 
----
+## 与其他风格的关系
 
-## 视觉语法
-
-### 色彩系统
-
-```
-主色（且仅有这些色）：
-  红色 (#FF0000) — 三原色
-  黄色 (#FFFF00) — 三原色
-  蓝色 (#0000FF) — 三原色
-  黑色 (#000000) — 网格线
-  白色 (#FFFFFF) — 背景/色块
-  灰色 (#808080) — 偶尔使用
-
-规则：
-  - 只用三原色 + 黑白灰
-  - 绝对不用曲线
-  - 只有水平和垂直
-  - 不对称平衡
-  - 色块由黑线分隔
-
-质感：
-  绝对平涂 — 无任何质感
-  精确 — 数学般的精确
-  纯净 — 无笔触、无表情
-```
-
-### 标志性元素
-
-| 类别 | 元素 |
-|------|------|
-| 线条 | 只有水平和垂直的黑色线条 |
-| 色块 | 红、黄、蓝、白的矩形区域 |
-| 构图 | 不对称平衡、网格分割 |
-| 建筑 | 开放平面、色彩墙面 |
-| 家具 | Red and Blue Chair、几何形态 |
-| 态度 | 绝对、纯粹、普遍 |
+- **Bauhaus** → 直接影响了包豪斯的视觉语言
+- **Minimalism** → 极简主义的直接先驱
+- **International Style** → 现代建筑的理论基础
+- **Swiss Design** → 网格系统的灵感来源
+- **Constructivism** → 与俄国构成主义平行发展
+- **Mondrian** → 蒙德里安的新造型主义是核心
 
 ---
 
-## 与千禧怀旧的关系
-
-### 永恒的设计图标
-- Mondrian 的网格 = 设计史最可辨识的图像之一
-- YSL Mondrian Dress (1965) = 时尚史经典
-- 每隔几年就有品牌致敬 Mondrian
-- CSS Grid = De Stijl 的数字实现
-
-### 对现代设计的影响
-- 网格系统的哲学基础
-- "少即是多"的极端版本
-- 影响了 Bauhaus → Swiss Design → 现代UI
-- 三原色 + 网格 = 永恒的设计语言
-
----
-
-## 中国语境
-
-- Mondrian 在中国设计教育中的经典地位
-- "蒙德里安风格"在中国商业设计中的应用
-- 与极简主义设计的关联
-- 中国当代艺术中的几何抽象
-
----
-
-## 设计应用
-
-| 场景 | 应用方式 |
-|------|----------|
-| 品牌 | 网格+三原色+极简+辨识度 |
-| 时尚 | Mondrian图案+色块+几何 |
-| 空间 | 色彩墙面+开放平面+几何家具 |
-| 数字 | 网格布局+原色+黑线分隔 |
-
----
-
-## 相关风格
-
-← [Constructivism 构成主义](constructivism.md) | [Bauhaus 包豪斯](bauhaus.md) →
-
-↑ [返回千禧怀旧目录](README.md) | [返回总目录](../README.md)
+*浮光艺志 | Chronicle of Artistry*

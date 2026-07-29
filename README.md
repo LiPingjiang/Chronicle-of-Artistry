@@ -419,6 +419,18 @@
 | [Chiaroscuro 明暗法](11-millennium-nostalgia/chiaroscuro.md) | 15世纪–至今 | 光明与黑暗的戏剧——西方绘画的核心造型语言 |
 | [Pointillism 点彩派](11-millennium-nostalgia/pointillism.md) | 1886–1900s | 纯色小点的科学——修拉的光学混色革命 |
 | [Impasto 厚涂法](11-millennium-nostalgia/impasto.md) | 16世纪–至今 | 颜料的物理存在——从提香到梵高的浮雕质感 |
+| [Vincent van Gogh 梵高](11-millennium-nostalgia/van-gogh.md) | 1853–1890 荷兰 | 旋转的星空——用生命燃烧的色彩 |
+| [Pablo Picasso 毕加索](11-millennium-nostalgia/picasso.md) | 1881–1973 西班牙 | 打碎透视的人——立体主义与无尽变革 |
+| [Henri Matisse 马蒂斯](11-millennium-nostalgia/matisse.md) | 1869–1954 法国 | 色彩的愉悦——野兽派领袖与剪纸大师 |
+| [Wassily Kandinsky 康定斯基](11-millennium-nostalgia/kandinsky.md) | 1866–1944 俄/法 | 视觉音乐——西方抽象艺术的先驱 |
+| [Fauvism 野兽派](11-millennium-nostalgia/fauvism.md) | 1904–1908 法国 | 色彩的野兽——20世纪第一个前卫运动 |
+| [Expressionism 表现主义](11-millennium-nostalgia/expressionism.md) | 1905–1930 德国 | 扭曲的灵魂——焦虑与情感的极端表达 |
+| [Bauhaus 包豪斯](11-millennium-nostalgia/bauhaus.md) | 1919–1933 德国 | 少即是多——现代设计的摇篮 |
+| [De Stijl 风格派](11-millennium-nostalgia/de-stijl.md) | 1917–1931 荷兰 | 红黄蓝与直角——蒙德里安的宇宙秩序 |
+| [Trompe-l'œil 错视画](11-millennium-nostalgia/trompe-loeil.md) | 古罗马–至今 | 欺骗眼睛的艺术——以假乱真的永恒追求 |
+| [Fresco 湿壁画](11-millennium-nostalgia/fresco.md) | 古埃及–至今 | 颜料融入墙壁——西斯廷天花板的永恒技法 |
+| [Encaustic 蜡画法](11-millennium-nostalgia/encaustic.md) | 古希腊–至今 | 用火作画——蜂蜡中保存千年的色彩 |
+| [Watercolor Wash 水彩渲染](11-millennium-nostalgia/watercolor-wash.md) | 古代–至今 | 水的诗意——透明与流动的不可控之美 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
