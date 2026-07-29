@@ -1,62 +1,64 @@
-# Nabis 那比派
+# Les Nabis 纳比派
 
-> "Remember that a painting, before being a battle horse, a nude, or some anecdote, is essentially a flat surface covered with colors assembled in a certain order." — Maurice Denis
+> "Remember that a painting, before being a battle horse, a nude woman, or some anecdote, is essentially a flat surface covered with colors assembled in a certain order." — Maurice Denis
 
 ## 概述
 
-那比派（Les Nabis，希伯来语"先知"之意）是1888–1900年间活跃于巴黎的一个后印象派艺术团体。受保罗·高更在布列塔尼的综合主义实验启发，这群年轻画家追求将绘画从自然主义的束缚中解放出来，强调色彩的装饰性、平面化构图和主观情感表达。
+纳比派（Les Nabis，希伯来语"先知"之意）是1888–1900年活跃于巴黎的一群年轻后印象派画家。他们受高更在布列塔尼的综合主义（Synthetism）启发，追求平面化的装饰性色彩、简化的形式和主观的色彩表达——将绘画从对自然的模仿解放为独立的色彩和形式的组织。
 
-那比派是连接后印象派与20世纪现代艺术的重要桥梁，其成员后来分别走向了野兽派、象征主义和装饰艺术等不同方向。
+纳比派是从后印象派到20世纪现代艺术的关键桥梁，他们的理论直接影响了野兽派和抽象艺术。
 
 ## 核心特征
 
 | 特征 | 描述 |
 |------|------|
-| 平面化 | 拒绝传统透视，强调画面的二维装饰性 |
-| 主观色彩 | 色彩服务于情感而非写实 |
-| 装饰性 | 绘画与装饰艺术的界限模糊 |
-| 日本影响 | 深受浮世绘的构图和平涂影响 |
+| 平面化 | 拒绝透视深度，强调画面的平面性 |
+| 装饰性 | 绘画作为装饰——壁画、屏风、海报 |
+| 主观色彩 | 色彩表达情感，不必忠实于自然 |
+| 简化形式 | 将自然简化为基本形状和色块 |
+| 日本影响 | 深受浮世绘平面构图影响 |
 | 亲密题材 | 室内场景、家庭生活、花园 |
-| 跨媒介 | 涉足海报、版画、舞台设计、家具 |
 
 ## 视觉特征
 
-- **色彩**：大面积平涂的饱和色块
-- **轮廓**：简化的曲线轮廓
-- **构图**：装饰性的平面布局，高视角
-- **图案**：重复的装饰纹样融入画面
-- **空间**：压缩的浅空间，无深度透视
-- **笔触**：平滑的色面，或有节奏的装饰性笔触
+- **色彩**：大面积的平涂色块，主观的色彩选择
+- **轮廓**：清晰的装饰性轮廓线（cloisonnism）
+- **空间**：扁平化的空间，拒绝传统透视
+- **图案**：装饰性的重复图案——壁纸、织物
+- **构图**：日本式的不对称和裁切
+- **尺度**：从小型画到大型装饰壁画
 
 ## 代表人物
 
 | 画家 | 代表作 | 特点 |
 |------|--------|------|
-| Pierre Bonnard | *The Dining Room* 系列 | 亲密派，色彩大师 |
-| Édouard Vuillard | 室内装饰画系列 | 图案与空间的融合 |
-| Maurice Denis | *April* (1892) | 理论家，宗教题材 |
-| Paul Sérusier | *The Talisman* (1888) | 那比派的"护身符" |
-| Félix Vallotton | 木刻版画 | 黑白对比，简洁有力 |
-| Ker-Xavier Roussel | 神话风景 | 田园牧歌 |
+| Pierre Bonnard | 室内场景、浴室、花园 | "亲密派"——色彩的诗人 |
+| Édouard Vuillard | 室内装饰画、母亲肖像 | 最装饰性的成员 |
+| Maurice Denis | 宗教和象征性题材 | 画派理论家 |
+| Paul Sérusier | *The Talisman* (1888) | 画派的起源——高更的一课 |
+| Félix Vallotton | 木刻版画、裸体 | 最简洁有力的形式 |
+| Ker-Xavier Roussel | 神话和田园风景 | 古典题材的现代处理 |
 
 ## 历史背景
 
-1. **1888年**：Sérusier 在高更指导下画出《护身符》，带回巴黎
-2. **1889年**：Denis、Bonnard、Vuillard 等人组成那比派
-3. **1890年代**：活跃于巴黎画廊和杂志，设计海报和舞台
-4. **1900年前后**：团体逐渐解散，各自发展
+1. **1888年**：Sérusier 在高更指导下画出 *The Talisman*
+2. **1889年**：画家们在巴黎朱利安学院组成"纳比"团体
+3. **1890年代**：为《白色杂志》设计插图和海报
+4. **1891年**：Maurice Denis 发表纳比派宣言
+5. **1900年后**：团体解散，各自发展独立风格
 
 ## 与其他风格的关系
 
-- **Synthetism 综合主义** → 直接灵感来源（高更）
+- **Post-Impressionism** → 后印象派的直接继承者
+- **Gauguin / Synthetism** → 高更综合主义的巴黎发展
 - **Japonisme** → 深受浮世绘平面构图影响
-- **Art Nouveau** → 共享装饰性曲线美学
-- **Fauvism** → Denis 和 Bonnard 的色彩解放影响了野兽派
-- **Intimism** → Bonnard 和 Vuillard 发展出的亲密派
+- **Fauvism** → 纳比派的主观色彩直接启发了野兽派
+- **Art Nouveau** → 共享装饰性和曲线美学
+- **Abstract Art** → Denis 的理论预示了抽象艺术
 
 ## 概念图
 
-![Nabis 那比派概念图](../assets/artworks/nabis/nabis-concept-01.png)
+![Les Nabis 纳比派概念图](../assets/artworks/nabis/nabis-concept-01.png)
 
 ---
 

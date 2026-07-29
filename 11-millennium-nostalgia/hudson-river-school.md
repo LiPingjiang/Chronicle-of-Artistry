@@ -1,62 +1,64 @@
 # Hudson River School 哈德逊河画派
 
-> "The river! The river! The Hudson forever!" — Thomas Cole
+> "The wilderness is yet a fitting place to speak of God." — Thomas Cole
 
 ## 概述
 
-哈德逊河画派（Hudson River School）是19世纪中期（约1825–1875）美国第一个真正意义上的本土艺术运动，由一群风景画家组成，他们以浪漫主义的视角描绘美国东部的自然风光——尤其是哈德逊河谷、卡茨基尔山脉、新英格兰和美国西部的壮丽景观。
+哈德逊河画派（Hudson River School）是19世纪中期（约1825–1875）美国第一个真正的本土艺术运动。画家们以纽约州哈德逊河谷、卡茨基尔山脉和新英格兰的壮丽荒野为题材，创造了一种将自然崇拜、国家认同和宗教情感融为一体的美国风景画传统。
 
-这一画派的核心理念是将美国荒野视为伊甸园般的神圣之地，通过精细的光线处理和宏大的构图传达对自然的敬畏与崇拜。
+这一运动体现了美国"天命昭昭"（Manifest Destiny）时代对未开发荒野的敬畏和自豪——在欧洲有古老的教堂和城堡，美国有上帝创造的原始荒野。
 
 ## 核心特征
 
 | 特征 | 描述 |
 |------|------|
-| 光线处理 | 戏剧性的金色光芒（Luminism），常表现日出日落时分 |
-| 构图规模 | 大尺幅画布，展现全景式风景 |
-| 细节精确 | 对植被、岩石、水面的精确描绘 |
-| 精神内涵 | 自然即神性的超验主义思想 |
-| 叙事性 | 常包含微小人物，强调人在自然面前的渺小 |
-| 季节与天气 | 偏爱秋季金叶、暴风雨前的天空、晨雾 |
+| 荒野崇拜 | 对美国原始荒野的敬畏和神圣化 |
+| 巨幅画作 | 大尺寸画布展现自然的壮丽 |
+| 精确细节 | 对地质、植物、大气的科学精确描绘 |
+| 戏剧光线 | 金色的"上帝之光"穿透云层 |
+| 国家认同 | 美国风景 = 美国精神 |
+| 崇高美学 | 自然的壮丽引发敬畏感 |
 
 ## 视觉特征
 
-- **色调**：温暖的金色、琥珀色为主，辅以深绿和湛蓝
-- **天空**：占据画面1/2至2/3，云层层次丰富
-- **水面**：镜面般的湖泊或奔腾的瀑布
-- **植被**：精确到树种的细致描绘
-- **远景**：层层递退的山脉，营造深远空间感
-- **人物**：极小的点景人物或印第安人形象
+- **尺幅**：巨大的画布（常超过2米宽）
+- **光线**：金色的、戏剧性的"神圣光线"
+- **空间**：深远的全景视角
+- **细节**：前景的精确植物学描绘
+- **色彩**：金色、深绿、天蓝的壮丽组合
+- **人物**：极小的人物衬托自然的巨大
 
 ## 代表人物
 
 | 画家 | 代表作 | 特点 |
 |------|--------|------|
-| Thomas Cole | *The Oxbow* (1836) | 画派创始人，哲学性风景 |
-| Frederic Edwin Church | *Heart of the Andes* (1859) | 南美热带风景，极致细节 |
-| Albert Bierstadt | *Among the Sierra Nevada* (1868) | 美国西部壮丽山景 |
-| Asher B. Durand | *Kindred Spirits* (1849) | 诗意的林间风景 |
-| Jasper Francis Cropsey | *Autumn—On the Hudson River* (1860) | 秋色大师 |
-| Sanford Robinson Gifford | *Hunter Mountain, Twilight* (1866) | 光辉主义代表 |
+| Thomas Cole | *The Oxbow*, *The Course of Empire* | 画派创始人 |
+| Frederic Edwin Church | *Niagara*, *Heart of the Andes* | 最壮观的全景 |
+| Albert Bierstadt | *Among the Sierra Nevada* | 美国西部的壮丽 |
+| Asher B. Durand | *Kindred Spirits* | 最抒情的成员 |
+| Thomas Moran | *Grand Canyon of the Yellowstone* | 促成了国家公园的建立 |
+| Sanford Robinson Gifford | 光线主义风景 | Luminism 的代表 |
 
 ## 历史背景
 
-1. **1825年**：Thomas Cole 沿哈德逊河写生，开创画派
-2. **1830-40年代**：第一代画家确立风格，Cole 创作《帝国的进程》系列
-3. **1850-60年代**：第二代画家（Church、Bierstadt）将视野扩展到南美和西部
-4. **1870年代后**：随着巴比松画派和印象派的影响，画派逐渐式微
+1. **1825年**：Thomas Cole 首次沿哈德逊河写生
+2. **1830–40年代**：画派形成，Cole 为精神领袖
+3. **1850–60年代**：鼎盛期——Church 和 Bierstadt 的巨幅全景
+4. **1860年代后**：Luminism（光线主义）分支发展
+5. **1870年代**：印象派和巴比松影响下逐渐式微
 
 ## 与其他风格的关系
 
-- **浪漫主义** → 直接继承其崇高美学和自然崇拜
-- **Luminism 光辉主义** → 画派内部的光线极致分支
-- **Tonalism 色调主义** → 画派衰落后的继承者
-- **Barbizon School** → 法国对应物，同样关注自然风景
-- **Pre-Raphaelite** → 共享对细节的执着追求
+- **Romanticism** → 美国浪漫主义的视觉表达
+- **Düsseldorf School** → Bierstadt 等人在杜塞尔多夫受训
+- **Luminism** → 画派内部的光线主义分支
+- **Barbizon School** → 后期受巴比松画派影响
+- **Sublime** → 伯克崇高美学的美国实践
+- **National Parks** → Moran 的画直接促成了国家公园运动
 
 ## 概念图
 
-![Hudson River School 哈德逊河画派概念图](../assets/artworks/hudson-river-school/hudson-river-school-concept-01.png)
+![Hudson River School 哈德逊河画派概念图](../assets/artworks/hudson-river/hudson-river-concept-01.png)
 
 ---
 

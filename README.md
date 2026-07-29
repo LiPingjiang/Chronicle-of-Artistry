@@ -407,6 +407,18 @@
 | [Scumbling 擦涂法](11-millennium-nostalgia/scumbling.md) | 16世纪–至今 | 干笔轻擦的薄雾——大气透视的核心手段 |
 | [Grisaille 灰色画法](11-millennium-nostalgia/grisaille.md) | 中世纪–至今 | 纯灰色的雕塑感——古典油画的明暗基础 |
 | [Alla Prima 一次完成法](11-millennium-nostalgia/alla-prima.md) | 17世纪–至今 | 湿压湿的果断——一气呵成的新鲜活力 |
+| [J.M.W. Turner 透纳](11-millennium-nostalgia/turner.md) | 1775–1851 英国 | 太阳即上帝——光线溶解一切形体的先知 |
+| [Caravaggio 卡拉瓦乔](11-millennium-nostalgia/caravaggio.md) | 1571–1610 意大利 | 黑暗中的聚光灯——巴洛克绘画的暴力奠基者 |
+| [Gustav Klimt 克里姆特](11-millennium-nostalgia/klimt.md) | 1862–1918 奥地利 | 黄金与情色——维也纳分离派的华丽领袖 |
+| [Salvador Dalí 达利](11-millennium-nostalgia/dali.md) | 1904–1989 西班牙 | 融化的钟表——超现实主义最著名的偏执天才 |
+| [Barbizon School 巴比松画派](11-millennium-nostalgia/barbizon-school.md) | 1830–1870s 法国 | 枫丹白露森林的朴素真实——印象派的直接先驱 |
+| [Hudson River School 哈德逊河画派](11-millennium-nostalgia/hudson-river-school.md) | 1825–1875 美国 | 荒野即神殿——美国第一个本土艺术运动 |
+| [Pre-Raphaelite 前拉斐尔派](11-millennium-nostalgia/pre-raphaelite.md) | 1848–1880s 英国 | 宝石色彩与红发女神——回到拉斐尔之前的真诚 |
+| [Les Nabis 纳比派](11-millennium-nostalgia/nabis.md) | 1888–1900 法国 | 画布是平面——从后印象派到现代艺术的桥梁 |
+| [Sfumato 晕涂法](11-millennium-nostalgia/sfumato.md) | 15世纪–至今 | 如烟般消散——蒙娜丽莎微笑的秘密 |
+| [Chiaroscuro 明暗法](11-millennium-nostalgia/chiaroscuro.md) | 15世纪–至今 | 光明与黑暗的戏剧——西方绘画的核心造型语言 |
+| [Pointillism 点彩派](11-millennium-nostalgia/pointillism.md) | 1886–1900s | 纯色小点的科学——修拉的光学混色革命 |
+| [Impasto 厚涂法](11-millennium-nostalgia/impasto.md) | 16世纪–至今 | 颜料的物理存在——从提香到梵高的浮雕质感 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
