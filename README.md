@@ -431,6 +431,18 @@
 | [Fresco 湿壁画](11-millennium-nostalgia/fresco.md) | 古埃及–至今 | 颜料融入墙壁——西斯廷天花板的永恒技法 |
 | [Encaustic 蜡画法](11-millennium-nostalgia/encaustic.md) | 古希腊–至今 | 用火作画——蜂蜡中保存千年的色彩 |
 | [Watercolor Wash 水彩渲染](11-millennium-nostalgia/watercolor-wash.md) | 古代–至今 | 水的诗意——透明与流动的不可控之美 |
+| [Raphael 拉斐尔](11-millennium-nostalgia/raphael.md) | 1483–1520 意大利 | 完美的和谐——文艺复兴古典主义的终极典范 |
+| [Michelangelo 米开朗基罗](11-millennium-nostalgia/michelangelo.md) | 1475–1564 意大利 | 神圣的力量——西斯廷天花板与大卫像 |
+| [Diego Velázquez 委拉斯开兹](11-millennium-nostalgia/velazquez.md) | 1599–1660 西班牙 | 画家中的画家——空气可见的松散笔触 |
+| [Francisco Goya 戈雅](11-millennium-nostalgia/goya.md) | 1746–1828 西班牙 | 理性沉睡怪物苏醒——从洛可可到黑色绘画 |
+| [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
+| [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
+| [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
+| [Abstract Expressionism 抽象表现主义](11-millennium-nostalgia/abstract-expressionism.md) | 1940s–1960s 美国 | 滴洒与色域——纽约画派的身体能量 |
+| [Lithography 石版画](11-millennium-nostalgia/lithography.md) | 1796–至今 | 油水不相容的魔法——海报艺术的技术基础 |
+| [Etching 蚀刻版画](11-millennium-nostalgia/etching.md) | 16世纪–至今 | 酸液中的自由线条——伦勃朗的亲密媒介 |
+| [Woodcut 木刻版画](11-millennium-nostalgia/woodcut.md) | 古代–至今 | 刀与木的搏斗——从浮世绘到表现主义 |
+| [Collage 拼贴艺术](11-millennium-nostalgia/collage.md) | 1912–至今 | 真实世界的碎片——打破绘画的窗户幻觉 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
