@@ -1,50 +1,57 @@
 # Grisaille 灰色画法
 
-> "In grisaille, the painter proves mastery over light itself." — Traditional saying
+> "Grisaille strips painting to its essence — form, light, and shadow without the distraction of color." — Unknown
 
 ## 概述
 
-灰色画法（Grisaille）是一种仅使用灰色调（或单一色调）绘画的技法，通过纯粹的明暗关系来塑造形体和空间。它既可以作为独立的完成作品，也常作为油画的底层（underpainting），在其上叠加透明色层。
+灰色画法（Grisaille，法语"灰色"）是完全使用灰色调（或单一色调）进行绑画的技法——通过消除色彩，将观众的注意力完全集中在形体、光影和构图上。从中世纪的祭坛画外翼到文艺复兴的底层绘画，从巴洛克的仿雕塑效果到当代的概念性单色画，灰色画法以其纯粹的形式美和智性的克制成为绘画史上独特的存在。
 
-灰色画法证明了一个基本真理：色彩是锦上添花，而明暗才是绘画的骨架。
+灰色画法的哲学在于：有时候，减少就是增加——去掉色彩，反而让你看到更多。
 
 ## 核心特征
 
 | 特征 | 描述 |
 |------|------|
-| 单色调 | 仅使用灰色或单一色系 |
-| 明暗塑形 | 纯粹通过明暗关系表现体积 |
-| 底层技法 | 常作为多层油画的第一层 |
-| 仿雕塑 | 模拟石雕或浮雕的效果 |
-| 技术展示 | 展示画家对明暗的绝对掌控 |
-| 装饰功能 | 常用于教堂祭坛画的外翼 |
+| 单色 | 只使用灰色或单一色调 |
+| 形体 | 专注于形体和体积 |
+| 光影 | 纯粹的光影表现 |
+| 仿雕塑 | 常模拟石雕的效果 |
+| 底层 | 常作为油画的底层 |
+| 克制 | 色彩上的极度克制 |
 
 ## 视觉特征
 
-- **色彩**：纯灰色调——从白到黑的完整灰阶
-- **质感**：模拟石雕的冷硬质感
-- **光影**：精确的、雕塑般的明暗过渡
-- **空间**：强烈的三维幻觉
-- **表面**：光滑的、精细的笔触融合
-- **效果**：如同黑白照片或石膏浮雕
+- **灰色**：从白到黑的灰色范围
+- **体积**：强烈的三维体积感
+- **雕塑感**：如石雕般的质感
+- **光影**：纯粹的明暗关系
+- **精确**：精确的形体描绘
+- **庄严**：庄严肃穆的氛围
 
 ## 代表作品
 
-| 作品 | 年代 | 意义 |
-|------|------|------|
-| *Ghent Altarpiece* 外翼 (van Eyck) | 1432 | 灰色画法的巅峰 |
-| *The Annunciation* (van Eyck) | 1432 | 仿雕塑的完美幻觉 |
-| *Allegory of Faith* (Vermeer) | 1670s | 灰色底层的典范 |
-| *Grisaille studies* (Rubens) | 1600s | 油画草图的灰色底层 |
-| *Dead Christ* (Mantegna) | 1480 | 极端透视的灰色调 |
+| 作品 | 艺术家 | 年代 | 意义 |
+|------|--------|------|------|
+| *Ghent Altarpiece exterior* | Van Eyck | 1432 | 早期灰色画法 |
+| *Sistine Chapel lunettes* | Michelangelo | 1508-12 | 仿雕塑灰色画 |
+| *Grisaille paintings* | Gerhard Richter | 1960s-70s | 当代灰色画法 |
+| *Guernica* | Pablo Picasso | 1937 | 灰色调的政治力量 |
+| *Architectural trompe-l'oeil* | 匿名 | 16-18世纪 | 建筑仿雕塑装饰 |
 
-## 真实作品（公共领域）
+## 历史时间线
 
-| 作品 | 来源 |
+| 时期 | 事件 |
 |------|------|
-| *Ghent Altarpiece* 外翼 | [Closer to Van Eyck](https://closertovaneyck.kikirpa.be/) |
-| Rubens 灰色油画草图 | [National Gallery](https://www.nationalgallery.org.uk/) |
-| *Dead Christ* | [Pinacoteca di Brera](https://pinacotecabrera.org/) |
+| 中世纪 | 祭坛画外翼的灰色画法 |
+| 文艺复兴 | 底层绘画和仿雕塑 |
+| 巴洛克 | 建筑装饰中的灰色画法 |
+| 19世纪 | 学院派的灰色底层训练 |
+| 20世纪 | Picasso、Richter的灰色画 |
+| 当代 | 灰色画法的概念性运用 |
+
+## 中国语境
+
+灰色画法与中国水墨画有深刻的精神相通——中国水墨画本质上就是"墨色画法"，用墨的浓淡干湿来表现一切。中国画论中的"墨分五色"与灰色画法的色调层次有异曲同工之妙。当代中国的写实油画教育中，灰色底层（grisaille underpainting）是重要的基础训练。
 
 ## AI生成概念图
 
@@ -52,7 +59,13 @@
 
 ## 与其他风格的关系
 
-- **Chiaroscuro** → 明暗法是灰色画法的核心原理
-- **Trompe-l'oeil** → 灰色画法常用于欺骗眼睛的浮雕效果
-- **Academic Art** → 学院训练的基础技法
-- **Photography** → 黑白摄影与灰色画法的精神共鸣
+- **Chiaroscuro** → 明暗对比法与灰色画法有光影相通
+- **Ink Wash** → 水墨画是东方的"灰色画法"
+- **Sculpture** → 灰色画法模拟雕塑效果
+- **Trompe-l'oeil** → 仿雕塑的错视效果
+- **Monochrome** → 单色画是灰色画法的扩展
+- **Photography** → 黑白摄影与灰色画法有精神相通
+
+---
+
+*浮光艺志 | Chronicle of Artistry*
