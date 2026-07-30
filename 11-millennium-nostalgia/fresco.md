@@ -1,75 +1,60 @@
 # Fresco 湿壁画
 
-> "Buon fresco is the most permanent of all painting techniques." — 壁画传统
+> "Fresco is the most heroic of all painting techniques." — David Alfaro Siqueiros
 
 ## 概述
 
-湿壁画（Fresco，意大利语"新鲜"之意）是将颜料直接涂在湿润的石灰灰泥上的古老壁画技法。颜料中的矿物色素与灰泥中的�ite calcium carbonate 发生化学反应，永久地融入墙壁表面——使画作能够保存数千年。
+湿壁画（Fresco，意大利语"新鲜"）是将颜料直接涂在湿石灰灰泥上的壁画技法。颜料与灰泥发生化学反应，永久融入墙壁表面，使画面可以保存数百甚至数千年。
 
-从古埃及墓室到米开朗基罗的西斯廷天花板，从庞贝古城到墨西哥壁画运动，湿壁画是人类最古老、最持久的大型绘画形式。
+湿壁画是人类最古老也最持久的绘画技法之一——从庞贝古城到西斯廷教堂，它承载了人类文明最宏大的视觉叙事。
 
 ## 核心特征
 
 | 特征 | 描述 |
 |------|------|
-| 湿灰泥 | 颜料涂在新鲜湿润的石灰灰泥上 |
-| 化学结合 | 颜料与灰泥化学结合，成为墙壁的一部分 |
-| 分段完成 | 每天只能画一小块（giornata） |
-| 不可修改 | 一旦灰泥干燥就无法修改 |
-| 极度持久 | 可保存数千年 |
-| 矿物颜料 | 只能使用耐碱的矿物颜料 |
-
-## 技法分类
-
-| 类型 | 描述 | 持久性 |
-|------|------|--------|
-| Buon Fresco（真湿壁画） | 颜料涂在湿灰泥上 | 极高——化学结合 |
-| Fresco Secco（干壁画） | 颜料涂在干灰泥上 | 较低——物理附着 |
-| Mezzo Fresco | 颜料涂在半干灰泥上 | 中等 |
+| 湿灰泥 | 颜料涂在未干的石灰灰泥上 |
+| 化学结合 | 颜料与灰泥永久融合 |
+| 日工量 | 每天只能画灰泥未干的部分（giornata） |
+| 不可修改 | 干后无法修改——必须一次成功 |
+| 纪念碑性 | 适合大型公共空间的宏大叙事 |
+| 极致耐久 | 可保存数千年 |
 
 ## 视觉特征
 
-- **色彩**：柔和的、粉彩般的矿物色调
-- **表面**：哑光的、与墙壁融为一体的表面
-- **尺幅**：通常是大型的建筑装饰
-- **接缝**：可见的 giornata（每日工作区）接缝
-- **限制**：无法使用某些颜料（如群青蓝需后加）
-- **老化**：独特的时间痕迹和风化美感
+- **色彩**：柔和的、粉质的色调——石灰的碱性限制了颜料选择
+- **表面**：哑光的、与墙面融为一体的质感
+- **尺度**：巨大的——覆盖整面墙壁或天花板
+- **接缝**：可见的日工量接缝（giornata线）
+- **笔触**：快速的、自信的——没有犹豫的余地
+- **主题**：宗教叙事、历史场景、寓言
 
 ## 代表作品
 
 | 作品 | 年代 | 意义 |
 |------|------|------|
-| 庞贝壁画 | 1世纪 | 古罗马湿壁画的最佳保存 |
-| Giotto — Scrovegni Chapel | 1305 | 文艺复兴绘画的开端 |
-| Masaccio — Brancacci Chapel | 1425 | 透视法在壁画中的首次系统应用 |
-| Michelangelo — Sistine Chapel | 1508-12 | 人类艺术的巅峰之一 |
-| Raphael — School of Athens | 1509-11 | 文艺复兴理想的视觉化 |
-| Diego Rivera — 墨西哥壁画 | 1920s-50s | 20世纪壁画运动 |
+| *Sistine Chapel Ceiling* (Michelangelo) | 1508–12 | 人类艺术的巅峰 |
+| *The Last Supper* (Leonardo) | 1495–98 | 实验性技法（非纯湿壁画） |
+| *School of Athens* (Raphael) | 1509–11 | 文艺复兴理想的象征 |
+| *Pompeii Frescoes* | 前1世纪 | 古罗马壁画的保存 |
+| *Giotto's Arena Chapel* | 1305 | 文艺复兴壁画的开端 |
 
-## 代表人物
+## 真实作品（公共领域）
 
-| 画家 | Fresco 贡献 | 时期 |
-|------|------------|------|
-| Giotto | 现代壁画的开创者 | 早期文艺复兴 |
-| Masaccio | 透视法壁画 | 早期文艺复兴 |
-| Piero della Francesca | 光线和几何的壁画 | 盛期文艺复兴 |
-| Michelangelo | 西斯廷天花板和最后的审判 | 盛期文艺复兴 |
-| Raphael | 梵蒂冈签字厅 | 盛期文艺复兴 |
-| Diego Rivera | 墨西哥壁画运动 | 20世纪 |
+| 作品 | 来源 |
+|------|------|
+| *Sistine Chapel* | [Vatican Museums](https://www.museivaticani.va/) |
+| *School of Athens* | [Vatican Museums](https://www.museivaticani.va/) |
+| Pompeii Frescoes | [Pompeii Sites](https://pompeiisites.org/) |
 
-## 与其他技法的关系
+> ⚠️ 本条目优先使用真实作品。
 
-- **Encaustic** → 另一种古老的持久绘画技法
-- **Mosaic** → 同为建筑装饰的持久媒介
-- **Trompe-l'œil** → 壁画中常使用错视效果
-- **Tempera** → 蛋彩画是壁画的补充技法
-- **Mural Art** → 现代壁画运动继承了 Fresco 传统
-
-## 概念图
+## AI生成概念图
 
 ![Fresco 湿壁画概念图](../assets/artworks/fresco/fresco-concept-01.png)
 
----
+## 与其他风格的关系
 
-*浮光艺志 | Chronicle of Artistry*
+- **Renaissance** → 文艺复兴的核心技法
+- **Mexican Muralism** → 20世纪壁画运动的复兴
+- **Byzantine Art** → 拜占庭教堂壁画传统
+- **Sgraffito** → 刮画法是壁画的变体技法

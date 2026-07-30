@@ -1,107 +1,58 @@
 # Luminism 光辉主义
 
-![Luminism 概念图](../assets/artworks/luminism/luminism-concept-01.png)
-
-> **"光线本身就是主角——静谧、透明、无限。"**
+> "Light is the great revealer." — Fitz Henry Lane
 
 ## 概述
 
-| 维度 | 描述 |
+光辉主义（Luminism）是19世纪中期美国的绘画风格，以极其精细的光线处理、镜面般平静的水面和隐藏笔触的光滑表面为特征。它与哈德逊河画派同时期，但追求的是一种更安静、更冥想性的自然体验。
+
+光辉主义画家将空气本身变成了绘画的主题——光线穿透大气层的微妙变化，水面反射天空的完美镜像，一切都沉浸在超自然的宁静中。
+
+## 核心特征
+
+| 特征 | 描述 |
 |------|------|
-| 时期 | 1850s–1870s |
-| 别名 | Luminism, 光辉主义, American Luminism |
-| 核心色彩 | 透明金光、天空蓝、水面银、暖琥珀 |
-| 关键元素 | 极致光线、镜面水面、隐藏笔触、宁静构图 |
-| 代表人物 | Fitz Henry Lane, Martin Johnson Heade, John Frederick Kensett, Sanford Gifford |
-| 关联风格 | Hudson River School, Tonalism, Impressionism, Romanticism |
+| 隐藏笔触 | 极其光滑的表面——看不到画笔痕迹 |
+| 大气光线 | 光线穿透空气的微妙层次 |
+| 水面反射 | 镜面般平静的水面 |
+| 水平构图 | 强调水平线的宁静构图 |
+| 超自然宁静 | 时间凝固般的静谧感 |
+| 前景暗/远景亮 | 从暗前景到明亮地平线的渐变 |
 
----
+## 视觉特征
 
-## 历史脉络
+- **光线**：金色或银色的大气光辉
+- **水面**：完美的镜面反射
+- **天空**：渐变的、发光的天空占据大面积
+- **笔触**：完全隐藏——照片般光滑
+- **构图**：低地平线，大面积天空
+- **色彩**：柔和的金色、粉色、淡蓝渐变
 
-| 年份 | 事件 |
+## 代表作品
+
+| 作品 | 年代 | 意义 |
+|------|------|------|
+| *Lumber Schooners at Evening* (Lane) | 1860 | 光辉主义的典范 |
+| *Thunder Storm on Narragansett Bay* (Heade) | 1868 | 戏剧性的大气 |
+| *Twilight in the Wilderness* (Church) | 1860 | 壮丽的黄昏 |
+| *Shrewsbury River* (Kensett) | 1856 | 极简的水面与天空 |
+| *Approaching Thunder Storm* (Heade) | 1859 | 暴风雨前的宁静 |
+
+## 真实作品（公共领域）
+
+| 作品 | 来源 |
 |------|------|
-| 1850s | 美国画家开始关注光线本身——光辉主义萌芽 |
-| 1860s | Fitz Henry Lane的海景画——光辉主义巅峰 |
-| 1870s | Martin Johnson Heade的沼泽风景——光线的诗 |
-| 1954 | John Baur首次使用"Luminism"一词 |
-| 1980 | 国家美术馆"American Light"展——光辉主义被正式认可 |
+| *Lumber Schooners at Evening* | [National Gallery](https://www.nga.gov/collection/art-object-page.46474.html) |
+| *Thunder Storm on Narragansett Bay* | [Amon Carter Museum](https://www.cartermuseum.org/) |
+| *Twilight in the Wilderness* | [Cleveland Museum](https://www.clevelandart.org/art/1965.233) |
 
-### 核心哲学
+## AI生成概念图
 
-光辉主义的精神是**"光线不是照亮物体的工具——光线本身就是神圣"**：
-- "笔触必须消失——让光线成为唯一的存在"
-- "水面是光线的镜子——天空的倒影"
-- "宁静不是空虚——是充满光线的丰盈"
-- "画面越安静——光线越响亮"
-- "这不是风景画——是光线的肖像"
+![Luminism 光辉主义概念图](../assets/artworks/luminism/luminism-concept-01.png)
 
----
+## 与其他风格的关系
 
-## 视觉语法
-
-### 色彩系统
-
-```
-主色：
-  透明金 (#FFD700) — 日出/日落的光线
-  天空蓝 (#87CEEB) — 无限、纯净
-  水面银 (#C0C0C0) — 反射、镜面
-  暖琥珀 (#FFBF00) — 温暖、神圣
-
-辅色：
-  地平线紫 (#9370DB) — 远方、神秘
-  草地绿 (#228B22) — 前景、大地
-  云白 (#F8F8FF) — 天空、纯净
-
-规则：
-  - 笔触完全不可见——表面如瓷
-  - 光线是画面的绝对主角
-  - 水平构图——强调宁静
-  - 水面必须如镜——完美反射
-  - 天空占画面2/3以上
-```
-
-### 标志性元素
-
-| 类别 | 元素 |
-|------|------|
-| 题材 | 海港、沼泽、河流、日出日落 |
-| 光线 | 透明、弥漫、金色、神圣 |
-| 水面 | 镜面、完美反射、绝对平静 |
-| 天空 | 巨大、渐变、光线的舞台 |
-| 笔触 | 不可见——光滑如照片 |
-| 情绪 | 宁静、崇高、超越、冥想 |
-
----
-
-## 与千禧怀旧/当代的关系
-
-### "Golden Hour"文化
-- Instagram的"Golden Hour"执念 = 光辉主义的大众化
-- 手机摄影追求的"完美光线" = 光辉主义精神
-- "Magic Hour"电影摄影 = 光辉主义的影像延续
-
-### 对数字艺术的影响
-- 概念艺术中的"大气光线" = 光辉主义技法
-- 游戏中的"God Rays" = 光辉主义的数字实现
-- HDR摄影 = 光辉主义的技术极端化
-
----
-
-## 设计应用
-
-| 场景 | 应用方式 |
-|------|----------|
-| 摄影 | Golden Hour+镜面水面+极致光线 |
-| 游戏 | 大气光线+God Rays+宁静场景 |
-| 品牌 | 纯净+光线+高端+自然 |
-| 空间 | 自然光设计+冥想空间 |
-
----
-
-## 相关风格
-
-← [Romanticism 浪漫主义](romanticism.md) | [Tonalism 调性主义](tonalism.md) →
-
-↑ [返回千禧怀旧目录](README.md) | [返回总目录](../README.md)
+- **Hudson River School** → 同时期但更安静的分支
+- **Tonalism** → 色调主义是光辉主义的后继
+- **Photorealism** → 隐藏笔触的传统延续
+- **Romanticism** → 浪漫主义的美国变体

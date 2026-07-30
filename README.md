@@ -455,6 +455,40 @@
 | [Islamic Geometric Art 伊斯兰几何艺术](11-millennium-nostalgia/islamic-geometric.md) | 7世纪–至今 | 无限的星形镶嵌——神圣的数学秩序 |
 | [Street Art 街头艺术](11-millennium-nostalgia/street-art.md) | 1970s–至今 | 城市的画布——从涂鸦到班克西 |
 | [Generative Art 生成艺术](11-millennium-nostalgia/generative-art.md) | 1960s–至今 | 算法即画笔——从代码到AI的创造力 |
+| [Paul Cézanne 塞尚](11-millennium-nostalgia/cezanne.md) | 1839–1906 法国 | 现代艺术之父——几何化自然的先驱 |
+| [Sandro Botticelli 波提切利](11-millennium-nostalgia/botticelli.md) | 1445–1510 意大利 | 线条的诗意——维纳斯的诞生 |
+| [Albrecht Dürer 丢勒](11-millennium-nostalgia/durer.md) | 1471–1528 德国 | 北方的达·芬奇——版画的巅峰 |
+| [Frida Kahlo 弗里达·卡罗](11-millennium-nostalgia/frida-kahlo.md) | 1907–1954 墨西哥 | 以自我为宇宙——痛苦与坚韧的自画像 |
+| [Johannes Vermeer 维米尔](11-millennium-nostalgia/vermeer.md) | 1632–1675 荷兰 | 光线魔术师——北方的蒙娜丽莎 |
+| [Auguste Rodin 罗丹](11-millennium-nostalgia/rodin.md) | 1840–1917 法国 | 现代雕塑之父——未完成的力量 |
+| [Andy Warhol 安迪·沃霍尔](11-millennium-nostalgia/warhol.md) | 1928–1987 美国 | 波普之王——艺术即商品 |
+| [Jean-Michel Basquiat 巴斯奎特](11-millennium-nostalgia/basquiat.md) | 1960–1988 美国 | 从街头到画廊——王冠与骷髅 |
+| [Conceptual Art 观念艺术](11-millennium-nostalgia/conceptual-art.md) | 1960s–1970s | 想法即作品——去物质化的艺术 |
+| [Suprematism 至上主义](11-millennium-nostalgia/suprematism.md) | 1915–1920s 俄国 | 黑色方块——绘画的零度 |
+| [De Stijl 风格派](11-millennium-nostalgia/de-stijl.md) | 1917–1931 荷兰 | 红黄蓝的宇宙秩序——蒙德里安 |
+| [Orphism 俄耳甫斯主义](11-millennium-nostalgia/orphism.md) | 1912–1914 法国 | 色彩的音乐——同心圆的交响 |
+| [Tonalism 色调主义](11-millennium-nostalgia/tonalism.md) | 1880–1910s 美国 | 雾中的诗意——统一色调的冥想 |
+| [Luminism 光辉主义](11-millennium-nostalgia/luminism.md) | 1850–1870s 美国 | 镜面般的水——隐藏笔触的光辉 |
+| [Ashcan School 垃圾箱画派](11-millennium-nostalgia/ashcan-school.md) | 1900–1910s 美国 | 纽约底层的真实——反学院的城市 |
+| [Social Realism 社会现实主义](11-millennium-nostalgia/social-realism.md) | 1930s–1940s | 画笔是武器——为社会变革服务 |
+| [Nihonga 日本画](11-millennium-nostalgia/nihonga.md) | 明治–至今 日本 | 矿物颜料的活传统——岩绘具之美 |
+| [Sumi-e 墨绘](11-millennium-nostalgia/sumi-e.md) | 古代–至今 日本 | 一笔入魂——禅宗的即兴水墨 |
+| [Mughal Miniature 莫卧儿细密画](11-millennium-nostalgia/mughal-miniature.md) | 16–19世纪 印度 | 单根毛发的精细——帝国的视觉编年 |
+| [Tibetan Thangka 唐卡](11-millennium-nostalgia/thangka.md) | 古代–至今 藏区 | 通往觉悟的窗口——金粉与曼陀罗 |
+| [Korean Minhwa 韩国民画](11-millennium-nostalgia/korean-minhwa.md) | 朝鲜时代 韩国 | 虎与鹊——民间的幽默与祝福 |
+| [Batik Art 蜡染艺术](11-millennium-nostalgia/batik-art.md) | 古代–至今 印尼 | 蜡的抗拒——千年的纺织智慧 |
+| [Voxel Art 体素艺术](11-millennium-nostalgia/voxel-art.md) | 2000s–至今 | 三维像素——数字乐高的世界 |
+| [NFT Art NFT艺术](11-millennium-nostalgia/nft-art.md) | 2017–至今 | 区块链上的唯一性——数字原生收藏 |
+| [Synthwave 合成波](11-millennium-nostalgia/synthwave.md) | 2000s–至今 | 霓虹网格——80年代未来的浪漫重构 |
+| [Cottagecore 田园核](11-millennium-nostalgia/cottagecore.md) | 2018–至今 | 野花与面包——数字时代的田园逃避 |
+| [Dark Academia 暗黑学院](11-millennium-nostalgia/dark-academia.md) | 2010s–至今 | 烛光图书馆——古典教育的哥特浪漫 |
+| [Solarpunk 太阳朋克](11-millennium-nostalgia/solarpunk.md) | 2010s–至今 | 绿色乌托邦——自然与科技的和谐未来 |
+| [Grisaille 灰色画法](11-millennium-nostalgia/grisaille.md) | 古代–至今 | 纯粹明暗——色彩之前的骨架 |
+| [Sgraffito 刮画法](11-millennium-nostalgia/sgraffito.md) | 古代–至今 | 减法的艺术——刮去表层见底色 |
+| [Fresco 湿壁画](11-millennium-nostalgia/fresco.md) | 古代–至今 | 与墙壁永久融合——最英雄的技法 |
+| [Gouache 水粉画](11-millennium-nostalgia/gouache.md) | 古代–至今 | 不透明的水彩——天鹅绒般的哑光 |
+| [Linocut 麻胶版画](11-millennium-nostalgia/linocut.md) | 20世纪–至今 | 大胆的刀痕——最民主的版画 |
+| [Woodblock Print 木版画](11-millennium-nostalgia/woodblock-print.md) | 古代–至今 | 刀与木的对抗——千年的印刷艺术 |
 | [Concrete Art 具体艺术](11-millennium-nostalgia/concrete-art.md) | 1930–至今 | 不抽象任何东西——纯粹的形式、纯粹的色彩、纯粹的数学 |
 | [Op Art 欧普艺术](11-millennium-nostalgia/op-art.md) | 1960s/影响至今 | 黑白条纹在眼前跳动——当画布开始欺骗视觉 |
 | [Psychedelic Art 迷幻艺术](11-millennium-nostalgia/psychedelic-art.md) | 1960s–1970s/影响至今 | 万花筒色彩、流动字体——60年代反文化运动的视觉爆炸 |
