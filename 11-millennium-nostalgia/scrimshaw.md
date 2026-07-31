@@ -1,70 +1,70 @@
-# Scrimshaw 骨雕刻画
+# Scrimshaw 骨雕
 
-> "Scrimshaw is the art of the sea — carved by sailors who had nothing but time, bone, and a needle." — Unknown
+> "Scrimshaw is patience carved into bone — sailors turned endless ocean hours into art, etching the world they left behind onto the remains of the world they hunted." — Unknown
 
 ## 概述
 
-骨雕刻画（Scrimshaw）是在鲸骨、象牙或骨头表面用针或刀刻画图案，再用墨水或颜料填充线条的雕刻艺术。这种艺术形式起源于18-19世纪的捕鲸船上——水手们在漫长的航行中，用简陋的工具在鲸牙和鲸骨上刻画船只、海洋生物、家乡风景和心爱的人。Scrimshaw是海洋文化的独特艺术遗产。
+骨雕（Scrimshaw）是在骨骼或象牙质材料（传统上是鲸牙、鲸骨、海象牙）表面进行雕刻和着色的艺术。这种工艺起源于18-19世纪的捕鲸船上——水手们在漫长的航海中，用小刀在鲸牙和鲸骨上刻画图案，然后用墨水或烟灰填入刻痕使图案显现。Scrimshaw的题材包括：船只、海洋生物、家乡风景、爱人肖像和装饰性花纹。由于现代对鲸类和象牙的保护，当代Scrimshaw艺术家使用替代材料——如鹿角、牛骨、猛犸象牙化石和合成材料。
 
-骨雕刻画的诗意在于它的孤独——每一条线都是远离家乡的水手在无尽大海上刻下的思念。
+骨雕的哲学在于：在等待中创造——将漫长的时间转化为精细的艺术，在最坚硬的材料上留下最细腻的痕迹。
 
 ## 核心特征
 
 | 特征 | 描述 |
 |------|------|
-| 骨质 | 在骨头或象牙上创作 |
-| 刻画 | 用针或刀刻出线条 |
-| 填色 | 用墨水填充刻痕 |
-| 精细 | 极其精细的线条 |
-| 海洋 | 与海洋文化紧密相关 |
-| 叙事 | 常讲述航海故事 |
+| 骨质 | 在骨质材料上雕刻 |
+| 精细 | 极其精细的刻线 |
+| 着色 | 刻痕填入颜色 |
+| 耐心 | 极其耗时耐心 |
+| 航海 | 航海文化的产物 |
+| 永久 | 图案永久不褪 |
 
 ## 视觉特征
 
-- **线条**：极细的刻画线条
-- **对比**：白色骨面与黑色墨线的对比
-- **精细**：微型的精细图案
-- **曲面**：在曲面上的创作
-- **叙事**：图像的叙事性
-- **质感**：骨质材料的光滑质感
+- **精细**：极其精细的线条
+- **白底**：白色骨质底色
+- **黑线**：黑色填充的刻线
+- **叙事**：叙事性的图案
+- **曲面**：在曲面上的构图
+- **微缩**：微缩的精细画面
 
 ## 代表作品
 
 | 作品 | 艺术家 | 年代 | 意义 |
 |------|--------|------|------|
-| *Whaling scenes* | 匿名水手 | 1800s | 捕鲸场景 |
-| *Ship portraits* | 匿名水手 | 1800s | 船只肖像 |
-| *Nantucket scrimshaw* | 匿名 | 1820s-60s | 南塔克特传统 |
-| *Frederick Myrick pieces* | Frederick Myrick | 1828-29 | 已知最早署名作品 |
-| *Contemporary scrimshaw* | Various | 2000s+ | 当代骨雕刻画 |
+| *Nantucket whaling scrimshaw* | 匿名水手 | 19世纪 | 经典捕鲸骨雕 |
+| *Frederick Myrick works* | Frederick Myrick | 1820s | 早期署名骨雕 |
+| *Contemporary scrimshaw* | Various | 当代 | 当代骨雕艺术 |
+| *Inuit bone carvings* | 因纽特人 | 传统 | 因纽特骨雕 |
+| *Japanese netsuke* | Various | 17-19世纪 | 日本根付（类似） |
 
 ## 历史时间线
 
 | 时期 | 事件 |
 |------|------|
 | 古代 | 因纽特人的骨雕传统 |
-| 18世纪末 | 美国捕鲸船上的scrimshaw兴起 |
-| 1820s-60s | 黄金时代——南塔克特和新贝德福德 |
-| 1860s后 | 捕鲸业衰落，scrimshaw减少 |
-| 1970s | 象牙贸易禁令的影响 |
-| 当代 | 使用替代材料的当代scrimshaw |
+| 18世纪 | 美国捕鲸船上的骨雕兴起 |
+| 19世纪 | 骨雕的黄金时代 |
+| 1970s | 鲸类保护法限制传统材料 |
+| 当代 | 替代材料的使用 |
+| 当代 | 当代骨雕艺术的精细化 |
 
 ## 中国语境
 
-骨雕刻画与中国传统的牙雕、骨雕有相似之处——中国的象牙雕刻和骨雕有数千年的历史。但中国的传统更偏向立体雕刻，而scrimshaw更偏向平面刻画。随着象牙贸易的全面禁止，中国的牙雕艺人也转向使用猛犸象牙和骨质替代材料，与当代scrimshaw面临相似的材料转型。
+骨雕在中国有悠久的传统——中国的牙雕（象牙雕刻）和骨雕是重要的传统工艺。北京牙雕、广州牙雕都曾是国家级非物质文化遗产。由于象牙贸易禁令，中国的牙雕艺术家转向使用猛犸象牙化石、牛骨和其他替代材料。中国的骨雕传统与西方Scrimshaw有不同的美学——中国骨雕更注重立体雕刻和镂空技法，而Scrimshaw更注重平面的线刻。当代中国的骨雕艺术家在传承传统技法的同时，也在探索新材料和新表达。
 
 ## AI生成概念图
 
-![Scrimshaw 骨雕刻画概念图](../assets/artworks/scrimshaw/scrimshaw-concept-01.png)
+![Scrimshaw 骨雕概念图](../assets/artworks/scrimshaw/scrimshaw-concept-01.png)
 
 ## 与其他风格的关系
 
-- **Engraving** → 雕版与骨雕刻画有技法相似
-- **Etching** → 蚀刻的线条美学
-- **Folk Art** → 民间艺术的海洋分支
-- **Ivory Carving** → 象牙雕刻的平面形式
-- **Miniature Art** → 微型艺术的精细
-- **Maritime Art** → 海洋艺术的独特形式
+- **Engraving** → 雕刻
+- **Ivory Carving** → 牙雕
+- **Netsuke** → 根付
+- **Maritime Art** → 航海艺术
+- **Miniature Art** → 微缩艺术
+- **Folk Art** → 民间艺术
 
 ---
 
