@@ -742,6 +742,15 @@
 | [Camille Henrot 卡米耶·昂罗](11-millennium-nostalgia/camille-henrot.md) | 1978–至今 | 信息过载——百科全书冲动的数字焦虑 |
 | [Laure Prouvost 劳尔·普鲁沃](11-millennium-nostalgia/laure-prouvost.md) | 1978–至今 | 感官沉浸——语言游戏的触觉影像 |
 | [Cyprien Gaillard 西普里安·盖拉尔](11-millennium-nostalgia/cyprien-gaillard.md) | 1980–至今 | 废墟浪漫主义——建筑暴力的数字考古 |
+| [Zaha Hadid 扎哈·哈迪德](11-millennium-nostalgia/zaha-hadid.md) | 1950–2016 | 参数化建筑——流动曲线的未来主义形态 |
+| [Tadao Ando 安藤忠雄](11-millennium-nostalgia/tadao-ando.md) | 1941–至今 | 清水混凝土——光与影的极简禅意 |
+| [Peter Zumthor 彼得·卒姆托](11-millennium-nostalgia/peter-zumthor.md) | 1943–至今 | 氛围建筑——材料真实的感官体验 |
+| [Rem Koolhaas 雷姆·库哈斯](11-millennium-nostalgia/rem-koolhaas.md) | 1944–至今 | 大都会主义——反乌托邦的理论建筑 |
+| [Kengo Kuma 隈研吾](11-millennium-nostalgia/kengo-kuma.md) | 1954–至今 | 负建筑——木构编织的消解边界 |
+| [Wang Shu 王澍](11-millennium-nostalgia/wang-shu.md) | 1963–至今 | 回收材料——山水营造的业余建筑 |
+| [Bjarke Ingels 比亚克·英格尔斯](11-millennium-nostalgia/bjarke-ingels.md) | 1974–至今 | 实用乌托邦——堆叠游戏的是即是多 |
+| [Shigeru Ban 坂茂](11-millennium-nostalgia/shigeru-ban.md) | 1957–至今 | 纸管建筑——灾难救援的人道主义 |
+| [Diébédo Francis Kéré 弗朗西斯·凯雷](11-millennium-nostalgia/diebedo-francis-kere.md) | 1965–至今 | 非洲建筑——社区参与的气候适应 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
