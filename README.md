@@ -889,6 +889,17 @@
 | [Vanitas Painting 虚空画](11-millennium-nostalgia/vanitas-painting.md) | 16世纪–18世纪 | 万物皆空——骷髅沙漏的道德警示 |
 | [Memento Mori Art 死亡警示艺术](11-millennium-nostalgia/memento-mori-art.md) | 古罗马–至今 | 记住你终将死去——生命有限的哲学冥想 |
 | [Still Life Painting 静物画](11-millennium-nostalgia/still-life-painting.md) | 古埃及–至今 | 桌面上的宇宙——光影质感的永恒实验场 |
+| [Marine Painting 海景画](11-millennium-nostalgia/marine-painting.md) | 16世纪–至今 | 风浪中的瞬间——海洋帝国的视觉史诗 |
+| [History Painting 历史画](11-millennium-nostalgia/history-painting.md) | 15世纪–19世纪 | 最高等级——宏大叙事与英雄崇拜 |
+| [Genre Painting 风俗画](11-millennium-nostalgia/genre-painting.md) | 16世纪–至今 | 没有英雄的史诗——日常生活的永恒诗意 |
+| [Portrait Painting 肖像画](11-millennium-nostalgia/portrait-painting.md) | 古埃及–至今 | 你是谁——面容与精神的永恒追问 |
+| [Landscape Painting 风景画](11-millennium-nostalgia/landscape-painting.md) | 古罗马–至今 | 人与自然——光线氛围的视觉日记 |
+| [Palette Knife Art 调色刀画](11-millennium-nostalgia/palette-knife-art.md) | 19世纪–至今 | 颜料的物质性——刮刀堆叠的触觉雕塑 |
+| [Panorama Painting 全景画](11-millennium-nostalgia/panorama-painting.md) | 18世纪–20世纪初 | 早期VR——360度环绕的沉浸体验 |
+| [Diorama Art 透视画](11-millennium-nostalgia/diorama-art.md) | 1822年–至今 | 凝固的瞬间——绘画与实物的三维幻觉 |
+| [Tondo Painting 圆形画](11-millennium-nostalgia/tondo-painting.md) | 15世纪–至今 | 无角可藏——圆弧中的文艺复兴和谐 |
+| [Polyptych Art 多联画](11-millennium-nostalgia/polyptych-art.md) | 中世纪–至今 | 折叠的时间——翼板开合间的双重世界 |
+| [Altarpiece Art 祭坛画](11-millennium-nostalgia/altarpiece-art.md) | 11世纪–至今 | 信仰的焦点——烛光尽头的神圣图像 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
