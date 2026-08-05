@@ -962,6 +962,12 @@
 | [Neo-Concrete 新具体主义](11-millennium-nostalgia/neo-concrete.md) | 1959年–1961年 | 感官诗歌——观者身体参与的几何抽象 |
 | [MADI Art 马迪艺术](11-millennium-nostalgia/madi-art.md) | 1946年–至今 | 异形画框——打破矩形专制的动态游戏 |
 | [Gutai Painting 具体派绘画](11-millennium-nostalgia/gutai-painting.md) | 1954年–1972年 | 身体行动——破坏即创造的日本先锋 |
+| [BMPT Group BMPT小组](11-millennium-nostalgia/bmpt-group.md) | 1966年–1967年 | 绘画零度——条纹与圆点的制度批判 |
+| [Anti-Form 反形式](11-millennium-nostalgia/anti-form.md) | 1968年–1970年代 | 重力决定——软材料的自然成形 |
+| [Process Art Painting 过程艺术绘画](11-millennium-nostalgia/process-art-painting.md) | 1960年代末–1970年代 | 时间记录——材料行为的开放结局 |
+| [Land Art Painting 大地艺术绘画](11-millennium-nostalgia/land-art-painting.md) | 1968年–至今 | 航拍视角——地球表面即画布 |
+| [Net Art Painting 网络艺术绘画](11-millennium-nostalgia/net-art-painting.md) | 1994年–至今 | 像素美学——互联网原生的视觉语言 |
+| [Deconstructivism Art 解构主义艺术](11-millennium-nostalgia/deconstructivism-art.md) | 1980年代–至今 | 碎片化——永恒差异与延宕的视觉哲学 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
