@@ -674,6 +674,16 @@
 | [Hale Woodruff 黑尔·伍德拉夫](11-millennium-nostalgia/hale-woodruff.md) | 1900–1980 | 壁画运动——Amistad历史叙事 |
 | [Charles Alston 查尔斯·阿尔斯顿](11-millennium-nostalgia/charles-alston.md) | 1907–1977 | 哈莱姆壁画——立体主义与非洲雕塑融合 |
 | [Ernest Crichlow 欧内斯特·克里奇洛](11-millennium-nostalgia/ernest-crichlow.md) | 1914–2005 | 温暖人文主义——黑人儿童肖像 |
+| [Elizabeth Murray 伊丽莎白·默里](11-millennium-nostalgia/elizabeth-murray.md) | 1940–2007 | 异形画布——卡通抽象的色彩爆炸 |
+| [Grace Hartigan 格蕾丝·哈蒂根](11-millennium-nostalgia/grace-hartigan.md) | 1922–2008 | 第二代抽象表现主义——都市能量 |
+| [Elaine de Kooning 伊莱恩·德库宁](11-millennium-nostalgia/elaine-de-kooning.md) | 1918–1989 | 抽象表现主义肖像——运动捕捉 |
+| [Louise Nevelson 路易丝·内维尔森](11-millennium-nostalgia/louise-nevelson.md) | 1899–1988 | 黑色集合墙——木质装配的环境雕塑 |
+| [Eva Hesse 伊娃·海塞](11-millennium-nostalgia/eva-hesse.md) | 1936–1970 | 后极简主义——有机材料的荒诞形态 |
+| [Lee Bontecou 李·邦特库](11-millennium-nostalgia/lee-bontecou.md) | 1931–2022 | 黑洞浮雕——太空时代的虚空雕塑 |
+| [Lynda Benglis 琳达·本格利斯](11-millennium-nostalgia/lynda-benglis.md) | 1941–至今 | 倾倒雕塑——荧光色彩的后极简主义 |
+| [Judy Chicago 朱迪·芝加哥](11-millennium-nostalgia/judy-chicago.md) | 1939–至今 | 女性主义先驱——《晚宴》与合作创作 |
+| [Miriam Schapiro 米里亚姆·夏皮罗](11-millennium-nostalgia/miriam-schapiro.md) | 1923–2015 | Femmage——图案与装饰的女性主义 |
+| [Ana Mendieta 安娜·门迪耶塔](11-millennium-nostalgia/ana-mendieta.md) | 1948–1985 | 大地身体——女性身体与自然的仪式 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
