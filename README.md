@@ -547,6 +547,18 @@
 | [Norman Rockwell 诺曼·洛克威尔](11-millennium-nostalgia/norman-rockwell.md) | 1894–1978 美国 | 叙事插画——温情幽默的美国日常 |
 | [Grant Wood 格兰特·伍德](11-millennium-nostalgia/grant-wood.md) | 1891–1942 美国 | 地方主义——美国哥特式与中西部风景 |
 | [Balthus 巴尔蒂斯](11-millennium-nostalgia/balthus.md) | 1908–2001 法国/瑞士 | 具象绘画——静止时间与神秘氛围 |
+| [Willem de Kooning 威廉·德·库宁](11-millennium-nostalgia/willem-de-kooning.md) | 1904–1997 荷兰/美国 | 抽象表现主义——狂暴笔触与肉感色彩 |
+| [Mark Rothko 马克·罗斯科](11-millennium-nostalgia/mark-rothko.md) | 1903–1970 俄国/美国 | 色域绘画——悬浮矩形的精神沉浸 |
+| [Jackson Pollock 杰克逊·波洛克](11-millennium-nostalgia/jackson-pollock.md) | 1912–1956 美国 | 行动绘画——滴洒法与全面构图 |
+| [Frank Stella 弗兰克·斯特拉](11-millennium-nostalgia/frank-stella.md) | 1936–2024 美国 | 从极简到极繁——条纹绘画与异形画布 |
+| [Sol LeWitt 索尔·勒维特](11-millennium-nostalgia/sol-lewitt.md) | 1928–2007 美国 | 概念艺术——指令式墙面绘画 |
+| [Donald Judd 唐纳德·贾德](11-millennium-nostalgia/donald-judd.md) | 1928–1994 美国 | 极简主义——特定物体与工业精确 |
+| [Dan Flavin 丹·弗莱文](11-millennium-nostalgia/dan-flavin.md) | 1933–1996 美国 | 光艺术——荧光灯管改变空间 |
+| [Richard Serra 理查德·塞拉](11-millennium-nostalgia/richard-serra.md) | 1938–2024 美国 | 耐候钢巨型曲面——身体穿行的雕塑 |
+| [Louise Bourgeois 路易丝·布尔乔亚](11-millennium-nostalgia/louise-bourgeois.md) | 1911–2010 法国/美国 | 巨型蜘蛛——心理创伤的视觉化 |
+| [Henry Moore 亨利·摩尔](11-millennium-nostalgia/henry-moore.md) | 1898–1986 英国 | 斜倚人体——有机抽象与公共雕塑 |
+| [Alberto Giacometti 阿尔贝托·贾科梅蒂](11-millennium-nostalgia/alberto-giacometti.md) | 1901–1966 瑞士/法国 | 存在主义雕塑——极度细长的行走者 |
+| [Constantin Brancusi 康斯坦丁·布朗库西](11-millennium-nostalgia/constantin-brancusi.md) | 1876–1957 罗马尼亚/法国 | 现代雕塑之父——纯粹形态的追求 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
