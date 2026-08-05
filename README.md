@@ -968,6 +968,12 @@
 | [Land Art Painting 大地艺术绘画](11-millennium-nostalgia/land-art-painting.md) | 1968年–至今 | 航拍视角——地球表面即画布 |
 | [Net Art Painting 网络艺术绘画](11-millennium-nostalgia/net-art-painting.md) | 1994年–至今 | 像素美学——互联网原生的视觉语言 |
 | [Deconstructivism Art 解构主义艺术](11-millennium-nostalgia/deconstructivism-art.md) | 1980年代–至今 | 碎片化——永恒差异与延宕的视觉哲学 |
+| [Luminism Painting 光辉主义绘画](11-millennium-nostalgia/luminism-painting.md) | 1850年代–1870年代 | 弥漫光线——自然内部发光的冥想宁静 |
+| [Washington Color School 华盛顿色彩画派](11-millennium-nostalgia/washington-color-school.md) | 1950年代末–1970年代 | 色彩浸染——纯粹颜色的光辉体验 |
+| [Bay Area Figurative 湾区具象运动](11-millennium-nostalgia/bay-area-figurative.md) | 1950年代–1960年代 | 加州光线——抽象能量注入具象绘画 |
+| [Chicago Imagists 芝加哥意象派](11-millennium-nostalgia/chicago-imagists.md) | 1960年代–1970年代 | 怪诞漫画——反主流的鲜艳具象 |
+| [Funk Art Painting 放克艺术绘画](11-millennium-nostalgia/funk-art-painting.md) | 1960年代–1970年代 | 荒诞幽默——嬉皮文化的反精英美学 |
+| [Color Field Abstraction 色域抽象](11-millennium-nostalgia/color-field-abstraction.md) | 1950年代–1970年代 | 大面积纯色——沉浸式的冥想色彩体验 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
