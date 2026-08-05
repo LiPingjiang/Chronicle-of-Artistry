@@ -648,6 +648,12 @@
 | [Paula Rego 葆拉·雷戈](11-millennium-nostalgia/paula-rego.md) | 1935–2022 | 叙事具象——女性权力的心理戏剧 |
 | [Philip Guston 菲利普·加斯顿](11-millennium-nostalgia/philip-guston.md) | 1913–1980 | 晚期具象——粉色世界的卡通怪诞 |
 | [Joan Mitchell 琼·米切尔](11-millennium-nostalgia/joan-mitchell.md) | 1925–1992 | 抒情抽象——风景记忆的色彩狂欢 |
+| [Lee Krasner 李·克拉斯纳](11-millennium-nostalgia/lee-krasner.md) | 1908–1984 | 抽象表现主义先驱——全幅构图的自我重塑 |
+| [Alma Thomas 阿尔玛·托马斯](11-millennium-nostalgia/alma-thomas.md) | 1891–1978 | 色彩马赛克——自然抽象的晚年绽放 |
+| [Sam Gilliam 萨姆·吉利亚姆](11-millennium-nostalgia/sam-gilliam.md) | 1933–2022 | 悬挂画布——色彩浸染的雕塑性绘画 |
+| [Jack Whitten 杰克·惠滕](11-millennium-nostalgia/jack-whitten.md) | 1939–2018 | 材料实验——丙烯铸造的马赛克纪念碑 |
+| [Stanley Whitney 斯坦利·惠特尼](11-millennium-nostalgia/stanley-whitney.md) | 1946–至今 | 色彩网格——爵士节奏的即兴堆叠 |
+| [McArthur Binion 麦克阿瑟·比尼恩](11-millennium-nostalgia/mcarthur-binion.md) | 1946–至今 | 自传抽象——网格下的档案记忆 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
