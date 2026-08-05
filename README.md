@@ -1004,6 +1004,16 @@
 | [Symbolist Painting 象征主义绘画](11-millennium-nostalgia/symbolist-painting.md) | 1880年代–1910年代 | 内在世界——符号与暗示的神秘领域 |
 | [Nabis Painting 纳比派绘画](11-millennium-nostalgia/nabis-painting.md) | 1888年–1900年代 | 先知装饰——日常生活的色彩交响 |
 | [Divisionism Painting 分色主义绘画](11-millennium-nostalgia/divisionism-painting.md) | 1880年代–1910年代 | 视网膜调色——意大利的光学色彩实验 |
+| [Romanticism Painting 浪漫主义绘画](11-millennium-nostalgia/romanticism-painting.md) | 1780年代–1850年代 | 情感至上——崇高自然与个人主义的爆发 |
+| [Rococo Painting 洛可可绘画](11-millennium-nostalgia/rococo-painting.md) | 1720年代–1780年代 | 轻盈甜美——贵族田园的粉彩梦境 |
+| [Mannerism Painting 风格主义绘画](11-millennium-nostalgia/mannerism-painting.md) | 1520年代–1600年代 | 优雅焦虑——文艺复兴之后的刻意不完美 |
+| [Baroque Painting 巴洛克绘画](11-millennium-nostalgia/baroque-painting.md) | 1600年代–1750年代 | 戏剧光影——震撼灵魂的宏大叙事 |
+| [Gothic Painting 哥特式绘画](11-millennium-nostalgia/gothic-painting.md) | 1200年代–1400年代 | 金色虔诚——中世纪的神圣与人间 |
+| [Byzantine Painting 拜占庭绘画](11-millennium-nostalgia/byzantine-painting.md) | 330年–1453年 | 永恒圣像——通向神圣世界的窗口 |
+| [Venetian School 威尼斯画派](11-millennium-nostalgia/venetian-school.md) | 15世纪–18世纪 | 色彩崇拜——用光线和颜色雕塑形体 |
+| [Spanish Golden Age Painting 西班牙黄金时代绘画](11-millennium-nostalgia/spanish-golden-age.md) | 1580年代–1680年代 | 朴素深沉——宫廷与信仰的心理写实 |
+| [Northern Renaissance Painting 北方文艺复兴绘画](11-millennium-nostalgia/northern-renaissance.md) | 15世纪–16世纪 | 微观真实——油画技法的宝石般世界 |
+| [International Gothic Painting 国际哥特式绘画](11-millennium-nostalgia/international-gothic.md) | 1375年–1425年 | 宫廷珠宝——跨越欧洲的优雅统一 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
