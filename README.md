@@ -591,6 +591,17 @@
 | [Hiroshi Sugimoto 杉本博司](11-millennium-nostalgia/hiroshi-sugimoto.md) | 1948–至今 | 时间凝固——海与天的永恒分界 |
 | [Wolfgang Tillmans 沃尔夫冈·提尔曼斯](11-millennium-nostalgia/wolfgang-tillmans.md) | 1968–至今 | 民主摄影——一切都值得被认真观看 |
 | [Shirin Neshat 希琳·奈沙特](11-millennium-nostalgia/shirin-neshat.md) | 1957–至今 | 书法与面纱——身体作为文化战场 |
+| [Doris Salcedo 多丽丝·萨尔塞多](11-millennium-nostalgia/doris-salcedo.md) | 1958–至今 | 家具纪念碑——暴力留下的空洞 |
+| [El Anatsui 埃尔·阿纳祖伊](11-millennium-nostalgia/el-anatsui.md) | 1944–至今 | 瓶盖织物——非洲当代艺术的闪耀 |
+| [Wangechi Mutu 万格奇·穆图](11-millennium-nostalgia/wangechi-mutu.md) | 1972–至今 | 混合身体——非洲未来主义拼贴 |
+| [Julie Mehretu 朱莉·梅赫雷图](11-millennium-nostalgia/julie-mehretu.md) | 1970–至今 | 信息抽象——城市爆炸的视觉史诗 |
+| [Mark Bradford 马克·布拉德福德](11-millennium-nostalgia/mark-bradford.md) | 1961–至今 | 城市考古——街头纸层的抽象 |
+| [Cai Guo-Qiang 蔡国强](11-millennium-nostalgia/cai-guo-qiang.md) | 1957–至今 | 火药画——爆炸即创造 |
+| [Xu Bing 徐冰](11-millennium-nostalgia/xu-bing.md) | 1955–至今 | 天书——无人能读的完美文字 |
+| [Zhang Xiaogang 张晓刚](11-millennium-nostalgia/zhang-xiaogang.md) | 1958–至今 | 血缘大家庭——集体记忆的灰色肖像 |
+| [Yue Minjun 岳敏君](11-millennium-nostalgia/yue-minjun.md) | 1962–至今 | 大笑人——玩世现实主义的荒诞 |
+| [Zeng Fanzhi 曾梵志](11-millennium-nostalgia/zeng-fanzhi.md) | 1964–至今 | 面具系列——社会关系的虚伪 |
+| [Antony Gormley 安东尼·葛姆雷](11-millennium-nostalgia/antony-gormley.md) | 1950–至今 | 铁人雕塑——身体与公共空间的对话 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
