@@ -1035,6 +1035,15 @@
 | [Minimalism Painting 极简主义绘画](11-millennium-nostalgia/minimalism-painting.md) | 1960年代–1970年代 | 少即是多——纯粹物质存在的冥想 |
 | [Conceptual Art Painting 观念艺术绘画](11-millennium-nostalgia/conceptual-art-painting.md) | 1960年代末–至今 | 思考即作品——去物质化的艺术革命 |
 | [Performance Art Painting 行为艺术绘画](11-millennium-nostalgia/performance-art-painting.md) | 1960年代–至今 | 身体画布——现场性的去商品化艺术 |
+| Impressionism Painting | 印象派绘画 | [impressionism-painting.md](11-millennium-nostalgia/impressionism-painting.md) |
+| Post-Impressionism Painting | 后印象派绘画 | [post-impressionism-painting.md](11-millennium-nostalgia/post-impressionism-painting.md) |
+| Naturalism Painting | 自然主义绘画 | [naturalism-painting.md](11-millennium-nostalgia/naturalism-painting.md) |
+| Realism Painting | 现实主义绘画 | [realism-painting.md](11-millennium-nostalgia/realism-painting.md) |
+| Biedermeier Painting | 比德迈尔绘画 | [biedermeier-painting.md](11-millennium-nostalgia/biedermeier-painting.md) |
+| Plein Air Painting | 外光派绘画 | [plein-air-painting.md](11-millennium-nostalgia/plein-air-painting.md) |
+| Tenebrism Painting | 暗色主义绘画 | [tenebrism-painting.md](11-millennium-nostalgia/tenebrism-painting.md) |
+| Chiaroscuro Painting | 明暗法绘画 | [chiaroscuro-painting.md](11-millennium-nostalgia/chiaroscuro-painting.md) |
+| Sfumato Painting | 晕涂法绘画 | [sfumato-painting.md](11-millennium-nostalgia/sfumato-painting.md) |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
