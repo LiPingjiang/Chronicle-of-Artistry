@@ -861,6 +861,17 @@
 | [Macro Photography 微距摄影](11-millennium-nostalgia/macro-photography.md) | 1890s–至今 | 极近距离——放大世界的微观美学 |
 | [Drone Photography 无人机摄影](11-millennium-nostalgia/drone-photography.md) | 2010s–至今 | 鸟瞰视角——地景抽象的上帝之眼 |
 | [Tilt-Shift Photography 移轴摄影](11-millennium-nostalgia/tilt-shift-photography.md) | 1960s–至今 | 微缩效果——选择性对焦的玩具世界 |
+| [Parametric Design 参数化设计](11-millennium-nostalgia/parametric-design.md) | 1990s–至今 | 算法生成——有机曲面的数字建造 |
+| [Metabolist Architecture 新陈代谢派建筑](11-millennium-nostalgia/metabolist-architecture.md) | 1960–1970s | 有机生长——可替换单元的巨构城市 |
+| [Chinese Calligraphy 中国书法](11-millennium-nostalgia/chinese-calligraphy.md) | 前1300–至今 | 毛笔墨韵——气韵生动的线条艺术 |
+| [Arabic Calligraphy 阿拉伯书法](11-millennium-nostalgia/arabic-calligraphy.md) | 7世纪–至今 | 几何韵律——连笔流动的宗教装饰 |
+| [Western Calligraphy 西方书法](11-millennium-nostalgia/western-calligraphy.md) | 3世纪–至今 | 宽笔书写——哥特体与手抄本传统 |
+| [Scientific Illustration 科学插画](11-millennium-nostalgia/scientific-illustration.md) | 15世纪–至今 | 精确记录——艺术与科学的交汇 |
+| [Medical Illustration 医学插画](11-millennium-nostalgia/medical-illustration.md) | 15世纪–至今 | 解剖精确——人体结构的视觉传达 |
+| [Tattoo Art 纹身艺术](11-millennium-nostalgia/tattoo-art.md) | 史前–至今 | 皮肤画布——永久标记的身份认同 |
+| [Graffiti Wildstyle 涂鸦狂野风格](11-millennium-nostalgia/graffiti-wildstyle.md) | 1970s–至今 | 字母变形——不可读性的视觉爆炸 |
+| [Costume Design 戏服设计](11-millennium-nostalgia/costume-design.md) | 古希腊–至今 | 角色塑造——面料色彩的叙事语言 |
+| [Stage Design 舞台设计](11-millennium-nostalgia/stage-design.md) | 古希腊–至今 | 空间叙事——灯光雕塑的沉浸体验 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
