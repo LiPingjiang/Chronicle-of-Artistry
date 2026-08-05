@@ -523,6 +523,16 @@
 | [Ivan Aivazovsky 艾瓦佐夫斯基](11-millennium-nostalgia/ivan-aivazovsky.md) | 1817–1900 俄国 | 第九浪——海洋画的最高成就 |
 | [Ilya Repin 列宾](11-millennium-nostalgia/ilya-repin.md) | 1844–1930 俄国 | 伏尔加河纤夫——俄国绘画的良心 |
 | [Anders Zorn 安德斯·佐恩](11-millennium-nostalgia/anders-zorn.md) | 1860–1920 瑞典 | 四色大师——光与水的极致 |
+| [Edward Burne-Jones 爱德华·伯恩-琼斯](11-millennium-nostalgia/edward-burne-jones.md) | 1833–1898 英国 | 拉斐尔前派晚期——中世纪梦境与装饰之美 |
+| [William Morris 威廉·莫里斯](11-millennium-nostalgia/william-morris.md) | 1834–1896 英国 | 工艺美术运动之父——万物皆可美 |
+| [Dante Gabriel Rossetti 但丁·加百列·罗塞蒂](11-millennium-nostalgia/dante-gabriel-rossetti.md) | 1828–1882 英国 | 拉斐尔前派创始人——诗与画的交融 |
+| [John Everett Millais 约翰·埃弗里特·米莱](11-millennium-nostalgia/john-everett-millais.md) | 1829–1896 英国 | 拉斐尔前派——自然主义的极致细节 |
+| [Georges Braque 乔治·布拉克](11-millennium-nostalgia/georges-braque.md) | 1882–1963 法国 | 立体主义共同创始人——解构视觉的诗人 |
+| [Fernand Léger 费尔南·莱热](11-millennium-nostalgia/fernand-leger.md) | 1881–1955 法国 | 管状立体主义——机械时代的色彩交响 |
+| [Giorgio de Chirico 乔治·德·基里科](11-millennium-nostalgia/giorgio-de-chirico.md) | 1888–1978 意大利 | 形而上画派——空旷广场上的永恒谜题 |
+| [Max Ernst 马克斯·恩斯特](11-millennium-nostalgia/max-ernst.md) | 1891–1976 德国/法国 | 达达与超现实主义——拓印术与梦境森林 |
+| [René Magritte 勒内·马格利特](11-millennium-nostalgia/rene-magritte.md) | 1898–1967 比利时 | 超现实主义——精确描绘不可能之物 |
+| [Joan Miró 胡安·米罗](11-millennium-nostalgia/joan-miro.md) | 1893–1983 西班牙 | 超现实主义——星空中的生物形态诗歌 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
