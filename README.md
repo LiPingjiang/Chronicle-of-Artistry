@@ -980,6 +980,17 @@
 | [Harlem Renaissance Art 哈莱姆文艺复兴艺术](11-millennium-nostalgia/harlem-renaissance-art.md) | 1920年代–1930年代 | 爵士剪影——非裔美国人的现代主义觉醒 |
 | [Outsider Art Painting 局外人艺术绘画](11-millennium-nostalgia/outsider-art-painting.md) | 20世纪–至今 | 原始冲动——体制之外的不可遏制创作 |
 | [Art Brut Painting 原生艺术绘画](11-millennium-nostalgia/art-brut-painting.md) | 1945年–至今 | 反美学——未经文化污染的生的表达 |
+| [Naive Art Painting 素朴艺术绘画](11-millennium-nostalgia/naive-art-painting.md) | 19世纪末–至今 | 天真视角——未经规训的自由表达 |
+| [Folk Art Painting 民间艺术绘画](11-millennium-nostalgia/folk-art-painting.md) | 古代–至今 | 集体记忆——社区传统的视觉传承 |
+| [Visionary Realism 幻视现实主义](11-millennium-nostalgia/visionary-realism.md) | 1960年代–至今 | 灵性维度——精密技法描绘内在体验 |
+| [Fantastic Realism 幻想现实主义](11-millennium-nostalgia/fantastic-realism.md) | 1946年–至今 | 精密幻想——古典技法画出不可能的世界 |
+| [Vienna Fantastic Realism 维也纳幻想现实主义](11-millennium-nostalgia/vienna-fantastic-realism.md) | 1946年–1970年代 | 蛋彩梦境——弗洛伊德式的神话重构 |
+| [Magical Realism Painting 魔幻现实主义绘画](11-millennium-nostalgia/magical-realism-painting.md) | 1920年代–至今 | 日常奇迹——超自然融入平凡生活 |
+| [Hyperrealism Painting 超写实主义绘画](11-millennium-nostalgia/hyperrealism-painting.md) | 2000年代–至今 | 超越照片——极致细节的情感深度 |
+| [Photorealism Painting 照相写实主义绘画](11-millennium-nostalgia/photorealism-painting.md) | 1960年代末–至今 | 机械之眼——用画笔复制相机所见 |
+| [Trompe-l'oeil Painting 错视画](11-millennium-nostalgia/trompe-loeil-painting.md) | 古罗马–至今 | 欺骗眼睛——平面上的三维幻觉 |
+| [Illusionism Painting 幻觉主义绘画](11-millennium-nostalgia/illusionism-painting.md) | 古希腊–至今 | 空间魔术——突破平面的视觉奇迹 |
+| [Academic Realism 学院现实主义](11-millennium-nostalgia/academic-realism.md) | 17世纪–20世纪初 | 沙龙正统——完美技法服务崇高主题 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
