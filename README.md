@@ -773,6 +773,18 @@
 | [Vivienne Westwood 薇薇安·韦斯特伍德](11-millennium-nostalgia/vivienne-westwood.md) | 1941–2022 | 朋克时尚教母——叛逆与历史混搭 |
 | [Iris van Herpen 艾里斯·范·赫本](11-millennium-nostalgia/iris-van-herpen.md) | 1984–至今 | 3D打印高定——科技与自然的交汇 |
 | [Martin Margiela 马丁·马吉拉](11-millennium-nostalgia/martin-margiela.md) | 1957–至今 | 解构主义时装——匿名与回收再造 |
+| [Situationist International 情境主义国际](11-millennium-nostalgia/situationist-international.md) | 1957–1972 | 异轨与漂移——景观社会的文化颠覆 |
+| [Vienna Actionism 维也纳行动主义](11-millennium-nostalgia/vienna-actionism.md) | 1960–1971 | 身体作为画布——仪式性极端表演 |
+| [Support/Surface 支架/表面](11-millennium-nostalgia/support-surface.md) | 1969–1974 | 绘画物质性——去框架的法国后极简 |
+| [New Realism 新现实主义](11-millennium-nostalgia/new-realism.md) | 1960–1970 | 现成品积累与压缩——日常物品诗意化 |
+| [Post-Painterly Abstraction 后绘画性抽象](11-millennium-nostalgia/post-painterly-abstraction.md) | 1960年代 | 色彩浸染与硬边——去笔触的光学纯净 |
+| [Nouveau Réalisme 新现实主义（法国）](11-millennium-nostalgia/nouveau-realisme.md) | 1960–1970 | 物质诗学——décollage与蓝色单色 |
+| [Pattern and Decoration 图案与装饰运动](11-millennium-nostalgia/pattern-and-decoration.md) | 1975–1985 | 多元文化图案——反极简的装饰性 |
+| [Bad Painting 坏画](11-millennium-nostalgia/bad-painting.md) | 1978–1980s | 故意粗糙——反技巧的怪诞幽默 |
+| [Simulation Art 模拟艺术](11-millennium-nostalgia/simulation-art.md) | 1980年代 | 拟像与商品美学——后现代复制 |
+| [Massurrealism 大众超现实主义](11-millennium-nostalgia/massurrealism.md) | 1992–至今 | 数字超现实——大众媒体的集体梦境 |
+| [Altermodern 替代现代主义](11-millennium-nostalgia/altermodern.md) | 2009–至今 | 全球游牧——文化翻译与超文本叙事 |
+| [Object-Oriented Ontology Art 物导向本体论艺术](11-millennium-nostalgia/object-oriented-ontology-art.md) | 2010s–至今 | 非人类视角——物的自主性与退隐 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
