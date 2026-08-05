@@ -948,6 +948,14 @@
 | [Kitchen Sink Realism 厨房水槽现实主义](11-millennium-nostalgia/kitchen-sink-realism.md) | 1950年代–1960年代 | 愤怒青年——工人阶级厨房里的反精英 |
 | [School of London 伦敦画派](11-millennium-nostalgia/school-of-london.md) | 1970年代–至今 | 肉体真实——具象绘画的心理深度 |
 | [Neue Wilde 新野兽派](11-millennium-nostalgia/neue-wilde.md) | 1978年–1985年 | 朋克色彩——柏林地下的狂野笔触 |
+| [Systemic Painting 系统绘画](11-millennium-nostalgia/systemic-painting.md) | 1960年代–1970年代 | 重复模块——整体系统的非关系性抽象 |
+| [Op Art Painting 欧普艺术绘画](11-millennium-nostalgia/op-art-painting.md) | 1960年代–至今 | 视觉幻象——几何图案的知觉实验 |
+| [Kinetic Painting 动态绘画](11-millennium-nostalgia/kinetic-painting.md) | 1950年代–1970年代 | 莫尔效应——引入时间的第四维度 |
+| [Figuration Libre 自由具象](11-millennium-nostalgia/figuration-libre.md) | 1981年–1980年代末 | 漫画语言——法国街头的快乐绘画 |
+| [Spatialism 空间主义](11-millennium-nostalgia/spatialism.md) | 1947年–1960年代 | 割破画布——打开绘画的第三维度 |
+| [Arte Nucleare 核艺术](11-millennium-nostalgia/arte-nucleare.md) | 1951年–1960年代 | 原子裂变——宇宙能量的爆炸形式 |
+| [Pittura Analitica 分析绘画](11-millennium-nostalgia/pittura-analitica.md) | 1970年代 | 自我指涉——绘画追问绘画本身 |
+| [Nuova Figurazione 新具象](11-millennium-nostalgia/nuova-figurazione.md) | 1959年–1970年代 | 扭曲人物——存在焦虑的视觉表达 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
