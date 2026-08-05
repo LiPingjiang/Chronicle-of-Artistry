@@ -751,6 +751,12 @@
 | [Bjarke Ingels 比亚克·英格尔斯](11-millennium-nostalgia/bjarke-ingels.md) | 1974–至今 | 实用乌托邦——堆叠游戏的是即是多 |
 | [Shigeru Ban 坂茂](11-millennium-nostalgia/shigeru-ban.md) | 1957–至今 | 纸管建筑——灾难救援的人道主义 |
 | [Diébédo Francis Kéré 弗朗西斯·凯雷](11-millennium-nostalgia/diebedo-francis-kere.md) | 1965–至今 | 非洲建筑——社区参与的气候适应 |
+| [Dieter Rams 迪特·拉姆斯](11-millennium-nostalgia/dieter-rams.md) | 1932–至今 | 少即是多——博朗设计的十项原则 |
+| [Jonathan Ive 乔纳森·艾维](11-millennium-nostalgia/jonathan-ive.md) | 1967–至今 | 苹果设计——一体成型的触觉极简 |
+| [David Carson 大卫·卡森](11-millennium-nostalgia/david-carson.md) | 1955–至今 | 解构排版——Ray Gun的视觉摇滚 |
+| [Paula Scher 宝拉·谢尔](11-millennium-nostalgia/paula-scher.md) | 1948–至今 | 大字体设计——环境图形的表现主义 |
+| [Stefan Sagmeister 斯蒂芬·萨格迈斯特](11-millennium-nostalgia/stefan-sagmeister.md) | 1962–至今 | 身体排版——物质化文字的极端实验 |
+| [Neville Brody 内维尔·布罗迪](11-millennium-nostalgia/neville-brody.md) | 1957–至今 | 后朋克排版——The Face的数字先锋 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
