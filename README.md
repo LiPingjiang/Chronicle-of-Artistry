@@ -974,6 +974,12 @@
 | [Chicago Imagists 芝加哥意象派](11-millennium-nostalgia/chicago-imagists.md) | 1960年代–1970年代 | 怪诞漫画——反主流的鲜艳具象 |
 | [Funk Art Painting 放克艺术绘画](11-millennium-nostalgia/funk-art-painting.md) | 1960年代–1970年代 | 荒诞幽默——嬉皮文化的反精英美学 |
 | [Color Field Abstraction 色域抽象](11-millennium-nostalgia/color-field-abstraction.md) | 1950年代–1970年代 | 大面积纯色——沉浸式的冥想色彩体验 |
+| [Cubo-Futurism 立体未来主义](11-millennium-nostalgia/cubo-futurism.md) | 1912年–1920年代 | 几何碎片——立体主义与未来主义的俄罗斯融合 |
+| [Productivism 生产主义](11-millennium-nostalgia/productivism.md) | 1920年–1930年代 | 设计革命——艺术为生产和生活服务 |
+| [Socialist Realism Painting 社会主义现实主义绘画](11-millennium-nostalgia/socialist-realism-painting.md) | 1932年–1991年 | 英雄叙事——金色阳光中的理想化人民 |
+| [Harlem Renaissance Art 哈莱姆文艺复兴艺术](11-millennium-nostalgia/harlem-renaissance-art.md) | 1920年代–1930年代 | 爵士剪影——非裔美国人的现代主义觉醒 |
+| [Outsider Art Painting 局外人艺术绘画](11-millennium-nostalgia/outsider-art-painting.md) | 20世纪–至今 | 原始冲动——体制之外的不可遏制创作 |
+| [Art Brut Painting 原生艺术绘画](11-millennium-nostalgia/art-brut-painting.md) | 1945年–至今 | 反美学——未经文化污染的生的表达 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
