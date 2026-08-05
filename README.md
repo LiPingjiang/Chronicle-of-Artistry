@@ -900,6 +900,16 @@
 | [Tondo Painting 圆形画](11-millennium-nostalgia/tondo-painting.md) | 15世纪–至今 | 无角可藏——圆弧中的文艺复兴和谐 |
 | [Polyptych Art 多联画](11-millennium-nostalgia/polyptych-art.md) | 中世纪–至今 | 折叠的时间——翼板开合间的双重世界 |
 | [Altarpiece Art 祭坛画](11-millennium-nostalgia/altarpiece-art.md) | 11世纪–至今 | 信仰的焦点——烛光尽头的神圣图像 |
+| [Pastoral Painting 田园画](11-millennium-nostalgia/pastoral-painting.md) | 16世纪–19世纪 | 阿卡迪亚之梦——理想化的牧歌黄金时代 |
+| [Allegory Painting 寓意画](11-millennium-nostalgia/allegory-painting.md) | 中世纪–19世纪 | 不可见的思想——拟人化的视觉哲学 |
+| [Mythological Painting 神话画](11-millennium-nostalgia/mythological-painting.md) | 15世纪–19世纪 | 众神的舞台——理想人体与古典想象 |
+| [Battle Painting 战争画](11-millennium-nostalgia/battle-painting.md) | 古代–至今 | 混乱中的秩序——国家记忆的视觉史诗 |
+| [Animal Painting 动物画](11-millennium-nostalgia/animal-painting.md) | 史前–至今 | 解剖与性格——动物王国的肖像学 |
+| [Flower Painting 花卉画](11-millennium-nostalgia/flower-painting.md) | 16世纪–至今 | 植物学与花语——永不凋谢的象征花束 |
+| [Architectural Painting 建筑画](11-millennium-nostalgia/architectural-painting.md) | 15世纪–至今 | 石头与光线——透视法的最佳舞台 |
+| [Conversation Piece 谈话画](11-millennium-nostalgia/conversation-piece.md) | 18世纪–19世纪 | 非正式群像——日常互动中的社会关系 |
+| [Quadratura 建筑错觉画](11-millennium-nostalgia/quadratura.md) | 16世纪–18世纪 | 天堂敞开——巴洛克天顶的建筑幻觉 |
+| [Sotto in Sù 仰视透视法](11-millennium-nostalgia/sotto-in-su.md) | 15世纪–18世纪 | 从下往上看——天使从天顶倾泻而下 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
