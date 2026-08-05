@@ -851,6 +851,16 @@
 | [Swiss Style 瑞士国际主义风格](11-millennium-nostalgia/swiss-style.md) | 1950s–至今 | 网格系统——无衬线字体的客观设计 |
 | [Transavantgarde 超前卫艺术](11-millennium-nostalgia/transavantgarde.md) | 1979–1990s | 回归绘画——意大利的游牧美学 |
 | [Hypermodernism 超现代主义](11-millennium-nostalgia/hypermodernism.md) | 2000s–至今 | 加速美学——液态社会的流动形态 |
+| [Holographic Art 全息艺术](11-millennium-nostalgia/holographic-art.md) | 1960s–至今 | 激光干涉——三维幻象的彩虹光谱 |
+| [Lenticular Art 光栅艺术](11-millennium-nostalgia/lenticular-art.md) | 1940s–至今 | 透镜光栅——视角变换的裸眼3D |
+| [Street Photography 街头摄影](11-millennium-nostalgia/street-photography.md) | 1890s–至今 | 决定性瞬间——城市观察的偶然美学 |
+| [Documentary Photography 纪实摄影](11-millennium-nostalgia/documentary-photography.md) | 1880s–至今 | 社会记录——真实见证的人文关怀 |
+| [Fashion Photography 时尚摄影](11-millennium-nostalgia/fashion-photography.md) | 1910s–至今 | 造型叙事——光影塑形的视觉奢华 |
+| [Food Photography 美食摄影](11-millennium-nostalgia/food-photography.md) | 1920s–至今 | 食欲诱发——质感表现的造型艺术 |
+| [Astrophotography 天文摄影](11-millennium-nostalgia/astrophotography.md) | 1840s–至今 | 深空成像——长曝光的宇宙壮美 |
+| [Macro Photography 微距摄影](11-millennium-nostalgia/macro-photography.md) | 1890s–至今 | 极近距离——放大世界的微观美学 |
+| [Drone Photography 无人机摄影](11-millennium-nostalgia/drone-photography.md) | 2010s–至今 | 鸟瞰视角——地景抽象的上帝之眼 |
+| [Tilt-Shift Photography 移轴摄影](11-millennium-nostalgia/tilt-shift-photography.md) | 1960s–至今 | 微缩效果——选择性对焦的玩具世界 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
