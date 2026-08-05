@@ -991,6 +991,19 @@
 | [Trompe-l'oeil Painting 错视画](11-millennium-nostalgia/trompe-loeil-painting.md) | 古罗马–至今 | 欺骗眼睛——平面上的三维幻觉 |
 | [Illusionism Painting 幻觉主义绘画](11-millennium-nostalgia/illusionism-painting.md) | 古希腊–至今 | 空间魔术——突破平面的视觉奇迹 |
 | [Academic Realism 学院现实主义](11-millennium-nostalgia/academic-realism.md) | 17世纪–20世纪初 | 沙龙正统——完美技法服务崇高主题 |
+| [Neo-Romanticism Painting 新浪漫主义绘画](11-millennium-nostalgia/neo-romanticism-painting.md) | 1920年代–1950年代 | 诗意荒野——战争阴影下的情感风景 |
+| [New Objectivity 新客观主义](11-millennium-nostalgia/new-objectivity.md) | 1919年–1933年 | 冷酷解剖——手术刀般的社会写实 |
+| [Regionalism Painting 地方主义绘画](11-millennium-nostalgia/regionalism-painting.md) | 1930年代 | 美国心脏——中西部乡村的民族认同 |
+| [Social Realism Painting 社会现实主义绘画](11-millennium-nostalgia/social-realism-painting.md) | 1930年代–1960年代 | 画笔武器——为社会正义服务的艺术 |
+| [Verism Painting 真实主义绘画](11-millennium-nostalgia/verism-painting.md) | 1920年代–1930年代 | 残忍真相——新客观主义的激进左翼 |
+| [Neo-Classicism Painting 新古典主义绘画](11-millennium-nostalgia/neo-classicism-painting.md) | 1760年代–1850年代 | 理性秩序——古希腊罗马的道德崇高 |
+| [Luminism American 美国光明主义](11-millennium-nostalgia/luminism-american.md) | 1850年代–1870年代 | 光的冥想——宁静水面上的超然时刻 |
+| [Orientalism Painting 东方主义绘画](11-millennium-nostalgia/orientalism-painting.md) | 19世纪 | 异域想象——殖民时代的视觉东方 |
+| [Japonisme Painting 日本主义绘画](11-millennium-nostalgia/japonisme-painting.md) | 1860年代–1910年代 | 浮世绘冲击——改变西方构图的东方美学 |
+| [Aestheticism Painting 唯美主义绘画](11-millennium-nostalgia/aestheticism-painting.md) | 1860年代–1900年代 | 为美而美——拒绝教化的纯粹视觉 |
+| [Symbolist Painting 象征主义绘画](11-millennium-nostalgia/symbolist-painting.md) | 1880年代–1910年代 | 内在世界——符号与暗示的神秘领域 |
+| [Nabis Painting 纳比派绘画](11-millennium-nostalgia/nabis-painting.md) | 1888年–1900年代 | 先知装饰——日常生活的色彩交响 |
+| [Divisionism Painting 分色主义绘画](11-millennium-nostalgia/divisionism-painting.md) | 1880年代–1910年代 | 视网膜调色——意大利的光学色彩实验 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
