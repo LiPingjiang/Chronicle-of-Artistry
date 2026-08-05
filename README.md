@@ -757,6 +757,12 @@
 | [Paula Scher 宝拉·谢尔](11-millennium-nostalgia/paula-scher.md) | 1948–至今 | 大字体设计——环境图形的表现主义 |
 | [Stefan Sagmeister 斯蒂芬·萨格迈斯特](11-millennium-nostalgia/stefan-sagmeister.md) | 1962–至今 | 身体排版——物质化文字的极端实验 |
 | [Neville Brody 内维尔·布罗迪](11-millennium-nostalgia/neville-brody.md) | 1957–至今 | 后朋克排版——The Face的数字先锋 |
+| [Philippe Starck 菲利普·斯塔克](11-millennium-nostalgia/philippe-starck.md) | 1949–至今 | 民主设计——有机形态的幽默诗意 |
+| [Karim Rashid 卡里姆·拉希德](11-millennium-nostalgia/karim-rashid.md) | 1960–至今 | 数字有机——blob美学的感官设计 |
+| [Marc Newson 马克·纽森](11-millennium-nostalgia/marc-newson.md) | 1963–至今 | 太空时代复古——铝合金曲面的未来怀旧 |
+| [Massimo Vignelli 马西莫·维涅利](11-millennium-nostalgia/massimo-vignelli.md) | 1931–2014 | 网格系统——Helvetica的永恒设计 |
+| [Milton Glaser 米尔顿·格拉瑟](11-millennium-nostalgia/milton-glaser.md) | 1929–2020 | I♥NY——迷幻海报的插画式设计 |
+| [Saul Bass 索尔·巴斯](11-millennium-nostalgia/saul-bass.md) | 1920–1996 | 电影片头设计——剪纸美学的叙事图形 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
