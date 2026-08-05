@@ -467,6 +467,14 @@
 | [Lucian Freud 卢西安·弗洛伊德](11-millennium-nostalgia/lucian-freud.md) | 1922–2011 英国 | 肉体的重量——数百小时凝视的诚实 |
 | [Andrew Wyeth 怀斯](11-millennium-nostalgia/wyeth.md) | 1917–2009 美国 | 枯草色的乡愁——蛋彩画中凝固的时间 |
 | [Norman Rockwell 洛克威尔](11-millennium-nostalgia/rockwell.md) | 1894–1978 美国 | 美国小镇的温暖故事——插画黄金时代的巅峰 |
+| [Thomas Gainsborough 庚斯博罗](11-millennium-nostalgia/gainsborough.md) | 1727–1788 英国 | 银灰色调的优雅——肖像与风景的完美融合 |
+| [Antoine Watteau 华托](11-millennium-nostalgia/watteau.md) | 1684–1721 法国 | 雅宴画的发明者——洛可可绘画的诗意忧郁 |
+| [Willem de Kooning 德·库宁](11-millennium-nostalgia/de-kooning.md) | 1904–1997 美国/荷兰裔 | 暴力笔触——抽象与具象之间的永恒游走 |
+| [Helen Frankenthaler 弗兰肯塔勒](11-millennium-nostalgia/helen-frankenthaler.md) | 1928–2011 美国 | 浸染法的发明者——色域绘画的先驱 |
+| [Agnes Martin 阿格尼丝·马丁](11-millennium-nostalgia/agnes-martin.md) | 1912–2004 美国/加拿大裔 | 铅笔网格中的冥想——极简与精神的交汇 |
+| [Bridget Riley 布里奇特·赖利](11-millennium-nostalgia/bridget-riley.md) | 1931– 英国 | 让眼睛跳舞——欧普艺术的视觉振动 |
+| [Kazimir Malevich 马列维奇](11-millennium-nostalgia/malevich.md) | 1879–1935 俄国 | 黑色方块——艺术史的零点与至上主义 |
+| [M.C. Escher 埃舍尔](11-millennium-nostalgia/escher.md) | 1898–1972 荷兰 | 不可能的建筑与无限镶嵌——数学之美 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
