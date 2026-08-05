@@ -956,6 +956,12 @@
 | [Arte Nucleare 核艺术](11-millennium-nostalgia/arte-nucleare.md) | 1951年–1960年代 | 原子裂变——宇宙能量的爆炸形式 |
 | [Pittura Analitica 分析绘画](11-millennium-nostalgia/pittura-analitica.md) | 1970年代 | 自我指涉——绘画追问绘画本身 |
 | [Nuova Figurazione 新具象](11-millennium-nostalgia/nuova-figurazione.md) | 1959年–1970年代 | 扭曲人物——存在焦虑的视觉表达 |
+| [Arte Povera Painting 贫穷艺术绘画](11-millennium-nostalgia/arte-povera-painting.md) | 1967年–1970年代 | 日常材料——自然与工业的诗意对话 |
+| [Situationist Art 情境主义艺术](11-millennium-nostalgia/situationist-art.md) | 1957年–1972年 | 异轨拼贴——颠覆景观社会的文化革命 |
+| [Lettrism 字母主义](11-millennium-nostalgia/lettrism.md) | 1945年–至今 | 超图形——字母解放的新视觉语言 |
+| [Neo-Concrete 新具体主义](11-millennium-nostalgia/neo-concrete.md) | 1959年–1961年 | 感官诗歌——观者身体参与的几何抽象 |
+| [MADI Art 马迪艺术](11-millennium-nostalgia/madi-art.md) | 1946年–至今 | 异形画框——打破矩形专制的动态游戏 |
+| [Gutai Painting 具体派绘画](11-millennium-nostalgia/gutai-painting.md) | 1954年–1972年 | 身体行动——破坏即创造的日本先锋 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
