@@ -718,6 +718,15 @@
 | [Daniel Buren 丹尼尔·布伦](11-millennium-nostalgia/daniel-buren.md) | 1938–至今 | 8.7cm条纹——原位创作的制度批判 |
 | [Giuseppe Penone 朱塞佩·佩诺内](11-millennium-nostalgia/giuseppe-penone.md) | 1947–至今 | 贫穷艺术——树木雕塑与身体印记 |
 | [Jannis Kounellis 扬尼斯·库奈里斯](11-millennium-nostalgia/jannis-kounellis.md) | 1936–2017 | 贫穷艺术——工业材料与活体元素的戏剧 |
+| [Jeff Wall 杰夫·沃尔](11-millennium-nostalgia/jeff-wall.md) | 1946–至今 | 灯箱摄影——编导式日常的电影画面 |
+| [Thomas Struth 托马斯·施特鲁特](11-millennium-nostalgia/thomas-struth.md) | 1954–至今 | 博物馆摄影——观看的观看 |
+| [Thomas Demand 托马斯·德曼德](11-millennium-nostalgia/thomas-demand.md) | 1964–至今 | 纸模型摄影——再造现实的无人空间 |
+| [Gregory Crewdson 格雷戈里·克鲁德森](11-millennium-nostalgia/gregory-crewdson.md) | 1962–至今 | 电影式摄影——郊区梦魇的心理景观 |
+| [Stephen Shore 斯蒂芬·肖尔](11-millennium-nostalgia/stephen-shore.md) | 1947–至今 | 新彩色摄影——美国公路的日常纪念碑 |
+| [William Eggleston 威廉·埃格尔斯顿](11-millennium-nostalgia/william-eggleston.md) | 1939–至今 | 彩色摄影之父——民主森林的色彩戏剧 |
+| [Martin Parr 马丁·帕尔](11-millennium-nostalgia/martin-parr.md) | 1952–至今 | 新纪实摄影——消费主义的闪光灯讽刺 |
+| [Alec Soth 亚历克·索斯](11-millennium-nostalgia/alec-soth.md) | 1969–至今 | 美国公路摄影——密西西比河畔的孤独肖像 |
+| [Rineke Dijkstra 里内克·迪克斯特拉](11-millennium-nostalgia/rineke-dijkstra.md) | 1959–至今 | 青少年肖像——海滩上的脆弱与尊严 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
