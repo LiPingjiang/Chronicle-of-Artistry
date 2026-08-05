@@ -916,6 +916,12 @@
 | [Dance of Death 死亡之舞](11-millennium-nostalgia/dance-of-death.md) | 14世纪–17世纪 | 人人平等——骷髅引领的最后舞蹈 |
 | [Grotesque Ornament 怪诞装饰](11-millennium-nostalgia/grotesque-ornament.md) | 15世纪–19世纪 | 洞穴之梦——藤蔓与幻兽的无重力世界 |
 | [Arabesque Art 阿拉伯式花纹](11-millennium-nostalgia/arabesque-art.md) | 7世纪–至今 | 无限之美——几何与植物的数学赞歌 |
+| [Orientalism Art 东方主义绘画](11-millennium-nostalgia/orientalism-art.md) | 19世纪–20世纪初 | 异域之光——殖民想象中的中东幻景 |
+| [Rocaille 洛可可装饰](11-millennium-nostalgia/rocaille.md) | 1730年代–1770年代 | 贝壳曲线——不对称的镀金梦幻世界 |
+| [Neoclassicism Painting 新古典主义绘画](11-millennium-nostalgia/neoclassicism-painting.md) | 1760年代–1850年代 | 理性回归——线条与道德的古典崇高 |
+| [Salon Painting 沙龙绘画](11-millennium-nostalgia/salon-painting.md) | 17世纪–19世纪 | 学院巅峰——看不见笔触的完美技艺 |
+| [Troubadour Style 吟游诗人风格](11-millennium-nostalgia/troubadour-style.md) | 1800年代–1850年代 | 骑士之梦——精细笔触中的中世纪浪漫 |
+| [Nazarene Movement 拿撒勒派](11-millennium-nostalgia/nazarene-movement.md) | 1809年–1850年代 | 虔诚回归——修道院中的前拉斐尔理想 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
