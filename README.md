@@ -940,6 +940,14 @@
 | [Neo-Expressionism Painting 新表现主义绘画](11-millennium-nostalgia/neo-expressionism-painting.md) | 1970年代末–1980年代 | 激烈笔触——具象回归的原始力量 |
 | [Simulationism 模拟主义](11-millennium-nostalgia/simulationism.md) | 1980年代–1990年代 | 拟像挪用——消费社会的冷静解剖 |
 | [Commodity Art 商品艺术](11-millennium-nostalgia/commodity-art.md) | 1980年代–1990年代 | 现成品展示——艺术与商品的边界模糊 |
+| [Exoticism Art 异国情调艺术](11-millennium-nostalgia/exoticism-art.md) | 18世纪–20世纪初 | 东方想象——浪漫化他者的视觉猎奇 |
+| [Pompier Art 学院派绘画](11-millennium-nostalgia/pompier-art.md) | 19世纪中后期 | 技法完美——官方沙龙的宏大叙事 |
+| [Wanderers Movement 巡回展览画派](11-millennium-nostalgia/wanderers-movement.md) | 1870年–1923年 | 俄罗斯大地——民族良心的现实主义镜子 |
+| [Camden Town Group 卡姆登镇画派](11-millennium-nostalgia/camden-town-group.md) | 1911年–1913年 | 伦敦日常——后印象派笔触中的工人世界 |
+| [Euston Road School 尤斯顿路画派](11-millennium-nostalgia/euston-road-school.md) | 1937年–1939年 | 直接观察——朴素诚实的伦敦街景 |
+| [Kitchen Sink Realism 厨房水槽现实主义](11-millennium-nostalgia/kitchen-sink-realism.md) | 1950年代–1960年代 | 愤怒青年——工人阶级厨房里的反精英 |
+| [School of London 伦敦画派](11-millennium-nostalgia/school-of-london.md) | 1970年代–至今 | 肉体真实——具象绘画的心理深度 |
+| [Neue Wilde 新野兽派](11-millennium-nostalgia/neue-wilde.md) | 1978年–1985年 | 朋克色彩——柏林地下的狂野笔触 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
