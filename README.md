@@ -559,6 +559,15 @@
 | [Henry Moore 亨利·摩尔](11-millennium-nostalgia/henry-moore.md) | 1898–1986 英国 | 斜倚人体——有机抽象与公共雕塑 |
 | [Alberto Giacometti 阿尔贝托·贾科梅蒂](11-millennium-nostalgia/alberto-giacometti.md) | 1901–1966 瑞士/法国 | 存在主义雕塑——极度细长的行走者 |
 | [Constantin Brancusi 康斯坦丁·布朗库西](11-millennium-nostalgia/constantin-brancusi.md) | 1876–1957 罗马尼亚/法国 | 现代雕塑之父——纯粹形态的追求 |
+| [Barbara Hepworth 芭芭拉·赫普沃斯](11-millennium-nostalgia/barbara-hepworth.md) | 1903–1975 英国 | 穿孔形态与弦线张力——有机抽象雕塑 |
+| [Isamu Noguchi 野口勇](11-millennium-nostalgia/isamu-noguchi.md) | 1904–1988 美国/日本 | 石庭园与Akari灯——东西融合的跨界大师 |
+| [Alexander Calder 亚历山大·考尔德](11-millennium-nostalgia/alexander-calder.md) | 1898–1976 美国 | 动态雕塑(Mobile)——让雕塑动起来 |
+| [Jean Arp 让·阿尔普](11-millennium-nostalgia/jean-arp.md) | 1886–1966 法国/德国 | 达达与有机抽象——自然生长的形态 |
+| [Naum Gabo 瑙姆·加博](11-millennium-nostalgia/naum-gabo.md) | 1890–1977 俄国/英国 | 构成主义——透明材料与空间构成 |
+| [Christo & Jeanne-Claude 克里斯托](11-millennium-nostalgia/christo.md) | 1935–2020 保加利亚/美国 | 包裹艺术——临时性的大地尺度 |
+| [Claes Oldenburg 克拉斯·奥尔登堡](11-millennium-nostalgia/claes-oldenburg.md) | 1929–2022 瑞典/美国 | 巨型日常物品——波普雕塑的幽默 |
+| [Chuck Close 查克·克洛斯](11-millennium-nostalgia/chuck-close.md) | 1940–2021 美国 | 网格肖像——照相写实主义的极致 |
+| [Hyperrealism 超写实主义](11-millennium-nostalgia/hyperrealism.md) | 2000s–至今 | 超越照片——比真实更真实的视觉 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
