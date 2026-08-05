@@ -575,6 +575,22 @@
 | [James Turrell 詹姆斯·特瑞尔](11-millennium-nostalgia/james-turrell.md) | 1943–至今 | 光即材料——感知的极限体验 |
 | [Olafur Eliasson 奥拉维尔·埃利亚松](11-millennium-nostalgia/olafur-eliasson.md) | 1967–至今 | 人造太阳——沉浸式环境装置 |
 | [Takashi Murakami 村上隆](11-millennium-nostalgia/takashi-murakami.md) | 1962–至今 | 超扁平——动漫与高雅艺术的融合 |
+| [Yoko Ono 小野洋子](11-millennium-nostalgia/yoko-ono.md) | 1933–至今 | 指令艺术——用一个想法改变世界 |
+| [Nam June Paik 白南准](11-millennium-nostalgia/nam-june-paik.md) | 1932–2006 | 视频艺术之父——电子高速公路的预言者 |
+| [Bill Viola 比尔·维奥拉](11-millennium-nostalgia/bill-viola.md) | 1951–2024 | 慢动作视频——水与火中的灵魂 |
+| [Sigmar Polke 西格马尔·波尔克](11-millennium-nostalgia/sigmar-polke.md) | 1941–2010 | 化学炼金术——不可预测的绘画 |
+| [Yves Klein 伊夫·克莱因](11-millennium-nostalgia/yves-klein.md) | 1928–1962 | 国际克莱因蓝——颜色即作品 |
+| [Piero Manzoni 皮耶罗·曼佐尼](11-millennium-nostalgia/piero-manzoni.md) | 1933–1963 | 艺术家的身体——签名即艺术 |
+| [Robert Rauschenberg 罗伯特·劳森伯格](11-millennium-nostalgia/robert-rauschenberg.md) | 1925–2008 | 混合绘画——艺术可以包含一切 |
+| [Jasper Johns 贾斯珀·约翰斯](11-millennium-nostalgia/jasper-johns.md) | 1930–至今 | 旗帜与靶子——既是又不是的暧昧 |
+| [Roy Lichtenstein 罗伊·利希滕斯坦](11-millennium-nostalgia/roy-lichtenstein.md) | 1923–1997 | 本戴点——漫画变身高雅艺术 |
+| [Kara Walker 卡拉·沃克](11-millennium-nostalgia/kara-walker.md) | 1969–至今 | 黑色剪影——优雅形式下的沉重历史 |
+| [William Kentridge 威廉·肯特里奇](11-millennium-nostalgia/william-kentridge.md) | 1955–至今 | 擦除动画——记忆从未消失 |
+| [Andreas Gursky 安德烈亚斯·古尔斯基](11-millennium-nostalgia/andreas-gursky.md) | 1955–至今 | 上帝视角——全球化时代的视觉史诗 |
+| [Thomas Ruff 托马斯·鲁夫](11-millennium-nostalgia/thomas-ruff.md) | 1958–至今 | 摄影解剖——照片不等于真实 |
+| [Hiroshi Sugimoto 杉本博司](11-millennium-nostalgia/hiroshi-sugimoto.md) | 1948–至今 | 时间凝固——海与天的永恒分界 |
+| [Wolfgang Tillmans 沃尔夫冈·提尔曼斯](11-millennium-nostalgia/wolfgang-tillmans.md) | 1968–至今 | 民主摄影——一切都值得被认真观看 |
+| [Shirin Neshat 希琳·奈沙特](11-millennium-nostalgia/shirin-neshat.md) | 1957–至今 | 书法与面纱——身体作为文化战场 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
