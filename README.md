@@ -879,6 +879,16 @@
 | [Happenings Art 偶发艺术](11-millennium-nostalgia/happenings-art.md) | 1958年–1970年代 | 生活即艺术——不可重复的参与式事件 |
 | [Drone Art 无人机艺术](11-millennium-nostalgia/drone-art.md) | 2010年代–至今 | 天空画布——LED编队的三维光绘 |
 | [Satellite Art 卫星艺术](11-millennium-nostalgia/satellite-art.md) | 1970年代–至今 | 行星视角——遥感数据的抽象美学 |
+| [Fresco Art 湿壁画](11-millennium-nostalgia/fresco-art.md) | 公元前1500年–至今 | 墙壁在说话——矿物颜料与灰泥的千年结合 |
+| [Artist Books 艺术家书籍](11-millennium-nostalgia/artist-books.md) | 1960年代–至今 | 书籍即媒介——翻页间的跨感官叙事 |
+| [Gouache Art 水粉画](11-millennium-nostalgia/gouache-art.md) | 中世纪–至今 | 丝绒哑光——不透明水彩的平涂魅力 |
+| [Silverpoint Art 银尖笔画](11-millennium-nostalgia/silverpoint-art.md) | 14世纪–至今 | 银丝精密——不可擦除的氧化时间感 |
+| [Icon Painting 圣像画](11-millennium-nostalgia/icon-painting.md) | 6世纪–至今 | 金色窗口——通往神圣世界的拜占庭程式 |
+| [Veduta Painting 城市风景画](11-millennium-nostalgia/veduta-painting.md) | 17世纪–19世纪 | 暗箱精确——大旅行时代的视觉纪念品 |
+| [Capriccio Art 随想画](11-millennium-nostalgia/capriccio-art.md) | 17世纪–19世纪 | 建筑白日梦——真实与虚构的诗意第三空间 |
+| [Vanitas Painting 虚空画](11-millennium-nostalgia/vanitas-painting.md) | 16世纪–18世纪 | 万物皆空——骷髅沙漏的道德警示 |
+| [Memento Mori Art 死亡警示艺术](11-millennium-nostalgia/memento-mori-art.md) | 古罗马–至今 | 记住你终将死去——生命有限的哲学冥想 |
+| [Still Life Painting 静物画](11-millennium-nostalgia/still-life-painting.md) | 古埃及–至今 | 桌面上的宇宙——光影质感的永恒实验场 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
