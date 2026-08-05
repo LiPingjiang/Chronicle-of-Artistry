@@ -684,6 +684,14 @@
 | [Judy Chicago 朱迪·芝加哥](11-millennium-nostalgia/judy-chicago.md) | 1939–至今 | 女性主义先驱——《晚宴》与合作创作 |
 | [Miriam Schapiro 米里亚姆·夏皮罗](11-millennium-nostalgia/miriam-schapiro.md) | 1923–2015 | Femmage——图案与装饰的女性主义 |
 | [Ana Mendieta 安娜·门迪耶塔](11-millennium-nostalgia/ana-mendieta.md) | 1948–1985 | 大地身体——女性身体与自然的仪式 |
+| [Carl Andre 卡尔·安德烈](11-millennium-nostalgia/carl-andre.md) | 1935–2024 | 地板雕塑——极简主义的水平性 |
+| [Robert Smithson 罗伯特·史密森](11-millennium-nostalgia/robert-smithson.md) | 1938–1973 | 大地艺术——螺旋防波堤与熵的美学 |
+| [Gordon Matta-Clark 戈登·马塔-克拉克](11-millennium-nostalgia/gordon-matta-clark.md) | 1943–1978 | 建筑切割——无政府建筑的解构 |
+| [Bruce Nauman 布鲁斯·瑙曼](11-millennium-nostalgia/bruce-nauman.md) | 1941–至今 | 多媒介实验——霓虹灯与身体极限 |
+| [Richard Tuttle 理查德·塔特尔](11-millennium-nostalgia/richard-tuttle.md) | 1941–至今 | 微型极简——脆弱材料的墙面诗学 |
+| [Fred Sandback 弗雷德·桑德巴克](11-millennium-nostalgia/fred-sandback.md) | 1943–2003 | 纱线雕塑——虚拟体量的空间划分 |
+| [Robert Irwin 罗伯特·欧文](11-millennium-nostalgia/robert-irwin.md) | 1928–2023 | 光与感知——加州光与空间运动 |
+| [Larry Bell 拉里·贝尔](11-millennium-nostalgia/larry-bell.md) | 1939–至今 | 玻璃立方体——真空镀膜的透明与反射 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
