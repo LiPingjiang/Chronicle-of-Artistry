@@ -795,6 +795,15 @@
 | [Indigenous Futurism 原住民未来主义](11-millennium-nostalgia/indigenous-futurism.md) | 2010s–至今 | 传统知识+科幻——去殖民时间线 |
 | [Sinofuturism 华夏未来主义](11-millennium-nostalgia/sinofuturism.md) | 2016–至今 | 中国科技想象——山寨与加速 |
 | [Gulf Futurism 海湾未来主义](11-millennium-nostalgia/gulf-futurism.md) | 2012–至今 | 石油资本——沙漠中的超级建筑 |
+| [Afro-Surrealism 非洲超现实主义](11-millennium-nostalgia/afro-surrealism.md) | 2009–至今 | 黑人超现实——日常魔幻与时间扭曲 |
+| [Tropical Futurism 热带未来主义](11-millennium-nostalgia/tropical-futurism.md) | 2010s–至今 | 丛林赛博格——热带生态与科技共生 |
+| [Slavic Futurism 斯拉夫未来主义](11-millennium-nostalgia/slavic-futurism.md) | 2010s–至今 | 斯拉夫神话+科技——东欧忧郁美学 |
+| [Nordic Noir Art 北欧黑色艺术](11-millennium-nostalgia/nordic-noir-art.md) | 2000s–至今 | 斯堪的纳维亚忧郁——冷色调极简阴暗 |
+| [Desert Punk Art 沙漠朋克艺术](11-millennium-nostalgia/desert-punk-art.md) | 2010s–至今 | 后末日废土——DIY生存美学 |
+| [Light Academia Art 浅色学院派美学](11-millennium-nostalgia/light-academia-art.md) | 2020–至今 | 古典乐观——阳光图书馆与知识之美 |
+| [Dreamcore 梦核](11-millennium-nostalgia/dreamcore.md) | 2019–至今 | 梦境逻辑——熟悉又陌生的超现实日常 |
+| [Backrooms Art 后室艺术](11-millennium-nostalgia/backrooms-art.md) | 2019–至今 | 无限空间——荧光灯下的恐怖留白 |
+| [Analog Horror Art 模拟恐怖艺术](11-millennium-nostalgia/analog-horror-art.md) | 2019–至今 | VHS质感——公共广播中的怀旧恐惧 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
