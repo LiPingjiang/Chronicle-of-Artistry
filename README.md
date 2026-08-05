@@ -804,6 +804,18 @@
 | [Dreamcore 梦核](11-millennium-nostalgia/dreamcore.md) | 2019–至今 | 梦境逻辑——熟悉又陌生的超现实日常 |
 | [Backrooms Art 后室艺术](11-millennium-nostalgia/backrooms-art.md) | 2019–至今 | 无限空间——荧光灯下的恐怖留白 |
 | [Analog Horror Art 模拟恐怖艺术](11-millennium-nostalgia/analog-horror-art.md) | 2019–至今 | VHS质感——公共广播中的怀旧恐惧 |
+| [Studio Glass 工作室玻璃运动](11-millennium-nostalgia/studio-glass.md) | 1962–至今 | 玻璃吹制——光与色的熔融雕塑 |
+| [Art Glass 艺术玻璃](11-millennium-nostalgia/art-glass.md) | 1880s–至今 | 彩色镶嵌——光影诗学 |
+| [Ceramic Sculpture 陶瓷雕塑](11-millennium-nostalgia/ceramic-sculpture.md) | 1950s–至今 | 泥土表现力——功能性解放 |
+| [Wood-Fired Ceramics 柴烧陶瓷](11-millennium-nostalgia/wood-fired-ceramics.md) | 传统–至今 | 自然落灰——火与土的侘寂美学 |
+| [Noise Art 噪音艺术](11-millennium-nostalgia/noise-art.md) | 1910s–至今 | 噪音即音乐——反和谐的极端声响 |
+| [Field Recording Art 田野录音艺术](11-millennium-nostalgia/field-recording-art.md) | 1960s–至今 | 环境声景——深度聆听的声音生态 |
+| [Sound Sculpture 声音雕塑](11-millennium-nostalgia/sound-sculpture.md) | 1960s–至今 | 声音物体——共振与动力装置 |
+| [Audiovisual Art 视听艺术](11-millennium-nostalgia/audiovisual-art.md) | 1960s–至今 | 声画同步——沉浸式实时生成 |
+| [Motion Graphics 动态图形](11-millennium-nostalgia/motion-graphics.md) | 1960s–至今 | 动态排版——时间维度的平面设计 |
+| [Demoscene 演示场景](11-millennium-nostalgia/demoscene.md) | 1980s–至今 | 64K代码艺术——极端优化的实时渲染 |
+| [Creative Coding 创意编程](11-millennium-nostalgia/creative-coding.md) | 2001–至今 | Processing代码素描——生成式设计 |
+| [Procedural Art 程序化艺术](11-millennium-nostalgia/procedural-art.md) | 1960s–至今 | 规则系统——无限变体的自动生成 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
