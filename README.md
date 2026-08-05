@@ -872,6 +872,13 @@
 | [Graffiti Wildstyle 涂鸦狂野风格](11-millennium-nostalgia/graffiti-wildstyle.md) | 1970s–至今 | 字母变形——不可读性的视觉爆炸 |
 | [Costume Design 戏服设计](11-millennium-nostalgia/costume-design.md) | 古希腊–至今 | 角色塑造——面料色彩的叙事语言 |
 | [Stage Design 舞台设计](11-millennium-nostalgia/stage-design.md) | 古希腊–至今 | 空间叙事——灯光雕塑的沉浸体验 |
+| [Primitivism Art 原始主义](11-millennium-nostalgia/primitivism-art.md) | 1890年代–1940年代 | 回归原始——部落面具与几何人体的现代表达 |
+| [Visionary Art 幻视艺术](11-millennium-nostalgia/visionary-art.md) | 1960年代–至今 | 神圣几何——灵性光芒与分形曼陀罗 |
+| [New Contemporary 新当代艺术](11-millennium-nostalgia/new-contemporary.md) | 2000年代–至今 | 街头遇见画廊——涂鸦与纯艺的跨界融合 |
+| [Neo-Dada 新达达主义](11-millennium-nostalgia/neo-dada.md) | 1950年代–1960年代 | 现成品拼贴——日常物品的反艺术宣言 |
+| [Happenings Art 偶发艺术](11-millennium-nostalgia/happenings-art.md) | 1958年–1970年代 | 生活即艺术——不可重复的参与式事件 |
+| [Drone Art 无人机艺术](11-millennium-nostalgia/drone-art.md) | 2010年代–至今 | 天空画布——LED编队的三维光绘 |
+| [Satellite Art 卫星艺术](11-millennium-nostalgia/satellite-art.md) | 1970年代–至今 | 行星视角——遥感数据的抽象美学 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
