@@ -615,6 +615,16 @@
 | [Jenny Saville 珍妮·萨维尔](11-millennium-nostalgia/jenny-saville.md) | 1970–至今 | 巨幅肉体——颜料即肌肤 |
 | [Adrian Ghenie 阿德里安·格尼](11-millennium-nostalgia/adrian-ghenie.md) | 1977–至今 | 面孔毁灭——历史暴力的颜料考古 |
 | [Cecily Brown 塞西莉·布朗](11-millennium-nostalgia/cecily-brown.md) | 1969–至今 | 笔触狂欢——抽象与肉体的切换 |
+| [Titus Kaphar 泰特斯·卡法尔](11-millennium-nostalgia/titus-kaphar.md) | 1976–至今 | 历史修正——切割画布揭示被遮蔽的存在 |
+| [Jordan Casteel 乔丹·卡斯蒂尔](11-millennium-nostalgia/jordan-casteel.md) | 1989–至今 | 社区肖像——哈莱姆日常的纪念碑 |
+| [Henry Taylor 亨利·泰勒](11-millennium-nostalgia/henry-taylor.md) | 1958–至今 | 即兴肖像——粗犷笔触的日常史诗 |
+| [Dana Schutz 达娜·舒茨](11-millennium-nostalgia/dana-schutz.md) | 1976–至今 | 荒诞具象——色彩爆炸的身体寓言 |
+| [Michaël Borremans 米夏埃尔·博雷曼斯](11-millennium-nostalgia/michael-borremans.md) | 1963–至今 | 谜语绘画——古典技法的心理悬疑 |
+| [Elizabeth Peyton 伊丽莎白·佩顿](11-millennium-nostalgia/elizabeth-peyton.md) | 1965–至今 | 亲密肖像——薄涂油画的浪漫光晕 |
+| [John Currin 约翰·柯林](11-millennium-nostalgia/john-currin.md) | 1962–至今 | 技法炫耀——古典与讽刺的矫饰美人 |
+| [Lisa Yuskavage 丽莎·尤斯卡维奇](11-millennium-nostalgia/lisa-yuskavage.md) | 1962–至今 | 色彩渐变——糖果光晕中的梦幻形体 |
+| [Chris Ofili 克里斯·奥菲利](11-millennium-nostalgia/chris-ofili.md) | 1968–至今 | 迷幻装饰——象粪与闪光粉的多层拼贴 |
+| [Daniel Richter 丹尼尔·里希特](11-millennium-nostalgia/daniel-richter.md) | 1962–至今 | 荧光政治——霓虹色彩下的社会冲突 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
