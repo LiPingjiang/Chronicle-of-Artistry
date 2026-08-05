@@ -483,6 +483,20 @@
 | [François Boucher 布歇](11-millennium-nostalgia/boucher.md) | 1703–1770 法国 | 粉色维纳斯——洛可可感官愉悦的巅峰 |
 | [Jean-Honoré Fragonard 弗拉戈纳尔](11-millennium-nostalgia/fragonard.md) | 1732–1806 法国 | 飞扬的秋千——洛可可最后的辉煌 |
 | [Jacques-Louis David 大卫](11-millennium-nostalgia/jacques-louis-david.md) | 1748–1825 法国 | 荷拉斯兄弟的誓言——新古典主义的奠基人 |
+| [Giovanni Battista Tiepolo 提埃波罗](11-millennium-nostalgia/tiepolo.md) | 1696–1770 意大利 | 天顶的辉煌——巴洛克壁画的最后巨匠 |
+| [Canaletto 卡纳莱托](11-millennium-nostalgia/canaletto.md) | 1697–1768 意大利 | 威尼斯的永恒——城市风景画的巅峰 |
+| [Gian Lorenzo Bernini 贝尼尼](11-millennium-nostalgia/bernini.md) | 1598–1680 意大利 | 大理石的奇迹——巴洛克雕塑之王 |
+| [Albert Bierstadt 比尔施塔特](11-millennium-nostalgia/bierstadt.md) | 1830–1902 美国 | 西部的黄金光辉——哈德逊河画派第二代 |
+| [Diego Rivera 迭戈·里维拉](11-millennium-nostalgia/diego-rivera.md) | 1886–1957 墨西哥 | 壁画的史诗——墨西哥壁画运动领袖 |
+| [Tamara de Lempicka 塔玛拉·德·兰碧嘉](11-millennium-nostalgia/tamara-de-lempicka.md) | 1898–1980 波兰/法国 | 冷峻的魅力——Art Deco绘画的女王 |
+| [Alexander Rodchenko 罗德琴科](11-millennium-nostalgia/rodchenko.md) | 1891–1956 俄国 | 红与黑的革命——构成主义设计先驱 |
+| [El Lissitzky 利西茨基](11-millennium-nostalgia/el-lissitzky.md) | 1890–1941 俄国 | Proun——绘画与建筑之间的桥梁 |
+| [Vladimir Tatlin 塔特林](11-millennium-nostalgia/tatlin.md) | 1885–1953 俄国 | 第三国际纪念塔——构成主义的创始人 |
+| [László Moholy-Nagy 莫霍利-纳吉](11-millennium-nostalgia/moholy-nagy.md) | 1895–1946 匈牙利 | 光的艺术——包豪斯多媒体先驱 |
+| [Josef Albers 约瑟夫·阿尔伯斯](11-millennium-nostalgia/albers.md) | 1888–1976 德国/美国 | 向正方形致敬——色彩相互作用的科学 |
+| [Robert Motherwell 罗伯特·马瑟韦尔](11-millennium-nostalgia/motherwell.md) | 1915–1991 美国 | 西班牙共和国挽歌——抽象表现主义的知识分子 |
+| [Franz Kline 弗朗茨·克莱因](11-millennium-nostalgia/franz-kline.md) | 1910–1962 美国 | 钢铁骨架——黑白行动绘画的力量 |
+| [Clyfford Still 克利福德·斯蒂尔](11-millennium-nostalgia/clyfford-still.md) | 1904–1980 美国 | 地质断层——色域绘画的原始崇高 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
