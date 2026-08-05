@@ -507,6 +507,15 @@
 | [Jeff Koons 杰夫·昆斯](11-millennium-nostalgia/jeff-koons.md) | 1955– 美国 | 气球狗——媚俗的纪念碑 |
 | [Anish Kapoor 安尼施·卡普尔](11-millennium-nostalgia/anish-kapoor.md) | 1954– 印度/英国 | 云门与虚空——超越物质的感知 |
 | [Ai Weiwei 艾未未](11-millennium-nostalgia/ai-weiwei.md) | 1957– 中国 | 一亿颗瓜子——艺术即行动 |
+| [Marina Abramović 玛丽娜·阿布拉莫维奇](11-millennium-nostalgia/marina-abramovic.md) | 1946– 塞尔维亚 | 行为艺术之母——身体即媒介 |
+| [Nicolas Poussin 普桑](11-millennium-nostalgia/poussin.md) | 1594–1665 法国 | 理性的秩序——法国古典主义之父 |
+| [J.M.W. Turner 透纳](11-millennium-nostalgia/william-turner.md) | 1775–1851 英国 | 光之画家——浪漫主义的崇高 |
+| [Thomas Cole 托马斯·科尔](11-millennium-nostalgia/thomas-cole.md) | 1801–1848 美国 | 帝国的历程——哈德逊河画派创始人 |
+| [Frederic Edwin Church 弗雷德里克·丘奇](11-millennium-nostalgia/frederic-church.md) | 1826–1900 美国 | 安第斯之心——全球自然的崇高 |
+| [Lawrence Alma-Tadema 阿尔玛-塔德玛](11-millennium-nostalgia/alma-tadema.md) | 1836–1912 荷兰/英国 | 大理石浴场——维多利亚学院派的感官 |
+| [William Blake 威廉·布莱克](11-millennium-nostalgia/william-blake.md) | 1757–1827 英国 | 幻象与诗歌——浪漫主义的先知 |
+| [Gustave Moreau 居斯塔夫·莫罗](11-millennium-nostalgia/gustave-moreau.md) | 1826–1898 法国 | 宝石般的梦境——象征主义的华丽 |
+| [Joshua Reynolds 约书亚·雷诺兹](11-millennium-nostalgia/joshua-reynolds.md) | 1723–1792 英国 | 宏大风格——英国皇家艺术学院之父 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
