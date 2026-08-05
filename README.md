@@ -516,6 +516,13 @@
 | [William Blake 威廉·布莱克](11-millennium-nostalgia/william-blake.md) | 1757–1827 英国 | 幻象与诗歌——浪漫主义的先知 |
 | [Gustave Moreau 居斯塔夫·莫罗](11-millennium-nostalgia/gustave-moreau.md) | 1826–1898 法国 | 宝石般的梦境——象征主义的华丽 |
 | [Joshua Reynolds 约书亚·雷诺兹](11-millennium-nostalgia/joshua-reynolds.md) | 1723–1792 英国 | 宏大风格——英国皇家艺术学院之父 |
+| [Claude Lorrain 克洛德·洛兰](11-millennium-nostalgia/claude-lorrain.md) | 1600–1682 法国 | 金色港口——理想风景画的巅峰 |
+| [George Stubbs 乔治·斯塔布斯](11-millennium-nostalgia/george-stubbs.md) | 1724–1806 英国 | 马的画家——科学与艺术的完美结合 |
+| [John Martin 约翰·马丁](11-millennium-nostalgia/john-martin.md) | 1789–1854 英国 | 末日的崇高——灾难美学的先驱 |
+| [Rosa Bonheur 罗莎·博纳尔](11-millennium-nostalgia/rosa-bonheur.md) | 1822–1899 法国 | 马市——19世纪最伟大的女性画家 |
+| [Ivan Aivazovsky 艾瓦佐夫斯基](11-millennium-nostalgia/ivan-aivazovsky.md) | 1817–1900 俄国 | 第九浪——海洋画的最高成就 |
+| [Ilya Repin 列宾](11-millennium-nostalgia/ilya-repin.md) | 1844–1930 俄国 | 伏尔加河纤夫——俄国绘画的良心 |
+| [Anders Zorn 安德斯·佐恩](11-millennium-nostalgia/anders-zorn.md) | 1860–1920 瑞典 | 四色大师——光与水的极致 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
