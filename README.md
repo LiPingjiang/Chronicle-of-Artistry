@@ -602,6 +602,14 @@
 | [Yue Minjun 岳敏君](11-millennium-nostalgia/yue-minjun.md) | 1962–至今 | 大笑人——玩世现实主义的荒诞 |
 | [Zeng Fanzhi 曾梵志](11-millennium-nostalgia/zeng-fanzhi.md) | 1964–至今 | 面具系列——社会关系的虚伪 |
 | [Antony Gormley 安东尼·葛姆雷](11-millennium-nostalgia/antony-gormley.md) | 1950–至今 | 铁人雕塑——身体与公共空间的对话 |
+| [Liu Xiaodong 刘小东](11-millennium-nostalgia/liu-xiaodong.md) | 1963–至今 | 现场写生——普通人的史诗 |
+| [Theaster Gates 西斯特·盖茨](11-millennium-nostalgia/theaster-gates.md) | 1973–至今 | 社区再生——艺术改变街区 |
+| [Kehinde Wiley 凯欣德·威利](11-millennium-nostalgia/kehinde-wiley.md) | 1977–至今 | 古典挪用——黑人身体的权力肖像 |
+| [Amy Sherald 艾米·谢拉尔德](11-millennium-nostalgia/amy-sherald.md) | 1973–至今 | 灰色肤色——超越种族的静谧尊严 |
+| [Peter Doig 彼得·多伊格](11-millennium-nostalgia/peter-doig.md) | 1959–至今 | 梦幻风景——记忆与幻觉之间 |
+| [Marlene Dumas 马琳·杜马斯](11-millennium-nostalgia/marlene-dumas.md) | 1953–至今 | 流淌的肖像——脆弱笔触下的鬼魅 |
+| [Luc Tuymans 吕克·图伊曼斯](11-millennium-nostalgia/luc-tuymans.md) | 1958–至今 | 褪色美学——最安静的暴力叙事 |
+| [Neo Rauch 尼奥·劳赫](11-millennium-nostalgia/neo-rauch.md) | 1960–至今 | 新莱比锡画派——东德记忆的梦境 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
