@@ -733,6 +733,15 @@
 | [Gabriel Orozco 加布里埃尔·奥罗斯科](11-millennium-nostalgia/gabriel-orozco.md) | 1962–至今 | 日常诗学——游戏与几何的轻触干预 |
 | [Francis Alÿs 弗朗西斯·阿利斯](11-millennium-nostalgia/francis-alys.md) | 1959–至今 | 行走艺术——西西弗斯式的政治寓言 |
 | [Tino Sehgal 蒂诺·塞加尔](11-millennium-nostalgia/tino-sehgal.md) | 1976–至今 | 构建情境——无物质的活体艺术 |
+| [Arthur Jafa 亚瑟·贾法](11-millennium-nostalgia/arthur-jafa.md) | 1960–至今 | 黑人影像——节奏蒙太奇的情感洪流 |
+| [Hito Steyerl 希托·施泰尔](11-millennium-nostalgia/hito-steyerl.md) | 1966–至今 | 后互联网艺术——图像政治的论文电影 |
+| [Trevor Paglen 特雷弗·帕格伦](11-millennium-nostalgia/trevor-paglen.md) | 1974–至今 | 监控美学——机器视觉与隐秘地理 |
+| [Ian Cheng 郑曦然](11-millennium-nostalgia/ian-cheng.md) | 1984–至今 | 实时模拟——人工生命的无限游戏 |
+| [Jordan Wolfson 乔丹·沃尔夫森](11-millennium-nostalgia/jordan-wolfson.md) | 1980–至今 | 机器人雕塑——不适感与面部追踪 |
+| [Ryan Trecartin 瑞安·特雷卡廷](11-millennium-nostalgia/ryan-trecartin.md) | 1981–至今 | 后互联网视频——数字原住民的身份表演 |
+| [Camille Henrot 卡米耶·昂罗](11-millennium-nostalgia/camille-henrot.md) | 1978–至今 | 信息过载——百科全书冲动的数字焦虑 |
+| [Laure Prouvost 劳尔·普鲁沃](11-millennium-nostalgia/laure-prouvost.md) | 1978–至今 | 感官沉浸——语言游戏的触觉影像 |
+| [Cyprien Gaillard 西普里安·盖拉尔](11-millennium-nostalgia/cyprien-gaillard.md) | 1980–至今 | 废墟浪漫主义——建筑暴力的数字考古 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
