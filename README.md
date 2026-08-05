@@ -643,6 +643,11 @@
 | [Shara Hughes 莎拉·休斯](11-millennium-nostalgia/shara-hughes.md) | 1981–至今 | 想象风景——野兽派色彩的内在地形 |
 | [Matthew Wong 王俊杰](11-millennium-nostalgia/matthew-wong.md) | 1984–2019 | 孤独风景——星空夜色的厚涂色点 |
 | [Nicolas de Staël 尼古拉·德·斯塔埃尔](11-millennium-nostalgia/nicolas-de-stael.md) | 1914–1955 | 厚涂色块——抽象与具象之间的地中海光线 |
+| [Frank Auerbach 弗兰克·奥尔巴赫](11-millennium-nostalgia/frank-auerbach.md) | 1931–2024 | 极厚堆积——反复重画的伦敦凝视 |
+| [Leon Kossoff 莱昂·科索夫](11-millennium-nostalgia/leon-kossoff.md) | 1926–2019 | 厚涂风景——伦敦日常的史诗记录 |
+| [Paula Rego 葆拉·雷戈](11-millennium-nostalgia/paula-rego.md) | 1935–2022 | 叙事具象——女性权力的心理戏剧 |
+| [Philip Guston 菲利普·加斯顿](11-millennium-nostalgia/philip-guston.md) | 1913–1980 | 晚期具象——粉色世界的卡通怪诞 |
+| [Joan Mitchell 琼·米切尔](11-millennium-nostalgia/joan-mitchell.md) | 1925–1992 | 抒情抽象——风景记忆的色彩狂欢 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
