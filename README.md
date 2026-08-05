@@ -929,6 +929,11 @@
 | [Verism Art 真实主义](11-millennium-nostalgia/verism-art.md) | 古罗马–至今 | 拒绝美化——皱纹与疤痕中的另一种尊严 |
 | [Pittura Metafisica 形而上绘画](11-millennium-nostalgia/pittura-metafisica.md) | 1911年–1920年代 | 永恒午后——空旷广场与无面人偶的不安 |
 | [Scuola Romana 罗马画派](11-millennium-nostalgia/scuola-romana.md) | 1928年–1945年 | 巴洛克遗产——表现主义色彩中的罗马街道 |
+| [Intimism 亲密主义](11-millennium-nostalgia/intimism.md) | 1890年代–1910年代 | 一杯茶的温度——私密空间中的日常诗意 |
+| [Nabis Movement 纳比派](11-millennium-nostalgia/nabis-movement.md) | 1888年–1900年代 | 先知宣言——色彩覆盖平面的装饰革命 |
+| [Suprematism Painting 至上主义绘画](11-millennium-nostalgia/suprematism-painting.md) | 1913年–1930年代 | 纯粹感觉——白色无限中漂浮的几何宣言 |
+| [Purism Art 纯粹主义](11-millennium-nostalgia/purism-art.md) | 1918年–1925年 | 机器之美——工程图纸般精确的静物秩序 |
+| [Section d Or 黄金分割派](11-millennium-nostalgia/section-dor.md) | 1911年–1914年 | 数学与色彩——立体主义的理性公众化 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
