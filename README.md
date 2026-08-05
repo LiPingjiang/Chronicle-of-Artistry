@@ -816,6 +816,20 @@
 | [Demoscene 演示场景](11-millennium-nostalgia/demoscene.md) | 1980s–至今 | 64K代码艺术——极端优化的实时渲染 |
 | [Creative Coding 创意编程](11-millennium-nostalgia/creative-coding.md) | 2001–至今 | Processing代码素描——生成式设计 |
 | [Procedural Art 程序化艺术](11-millennium-nostalgia/procedural-art.md) | 1960s–至今 | 规则系统——无限变体的自动生成 |
+| [Manga Art 漫画艺术（日本）](11-millennium-nostalgia/manga-art.md) | 1940s–至今 | 分镜叙事——速度线与网点纸的视觉语法 |
+| [Anime Art 动画艺术（日本）](11-millennium-nostalgia/anime-art.md) | 1960s–至今 | 赛璐珞美学——有限动画的无限想象 |
+| [Manhwa Art 漫画艺术（韩国）](11-millennium-nostalgia/manhwa-art.md) | 1950s–至今 | 竖屏网漫——全彩数字的情感革命 |
+| [Manhua Art 漫画艺术（中国）](11-millennium-nostalgia/manhua-art.md) | 1920s–至今 | 水墨融合——从连环画到数字国漫 |
+| [Graphic Novel Art 图像小说艺术](11-millennium-nostalgia/graphic-novel-art.md) | 1970s–至今 | 文学性叙事——漫画的严肃艺术化 |
+| [Bande Dessinée 法比漫画](11-millennium-nostalgia/bande-dessinee.md) | 1930s–至今 | 第九艺术——清线风格与精装叙事 |
+| [Underground Comix 地下漫画](11-millennium-nostalgia/underground-comix.md) | 1960s–1980s | 反文化自出版——粗犷线条的禁忌表达 |
+| [Ligne Claire 清线风格](11-millennium-nostalgia/ligne-claire.md) | 1930s–至今 | 均匀线条——平涂色彩的极致可读性 |
+| [Tokusatsu Art 特摄美术](11-millennium-nostalgia/tokusatsu-art.md) | 1950s–至今 | 微缩模型——实体特效的手工魅力 |
+| [Mecha Design 机甲设计](11-millennium-nostalgia/mecha-design.md) | 1970s–至今 | 人形机械——工业设计与科幻想象 |
+| [Chibi Art Q版艺术](11-millennium-nostalgia/chibi-art.md) | 1980s–至今 | 二头身——极致可爱的超变形美学 |
+| [Ukiyo-e Revival 浮世绘复兴](11-millennium-nostalgia/ukiyo-e-revival.md) | 1990s–至今 | 木版画传统——当代重释的平面构图 |
+| [Shin-Hanga 新版画](11-millennium-nostalgia/shin-hanga.md) | 1915–1960s | 东西融合——传统木版画的光影革新 |
+| [Sōsaku-Hanga 创作版画](11-millennium-nostalgia/sosaku-hanga.md) | 1904–至今 | 自画自刻自摺——艺术家主体性的版画 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
