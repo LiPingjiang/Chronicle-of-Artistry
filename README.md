@@ -922,6 +922,13 @@
 | [Salon Painting 沙龙绘画](11-millennium-nostalgia/salon-painting.md) | 17世纪–19世纪 | 学院巅峰——看不见笔触的完美技艺 |
 | [Troubadour Style 吟游诗人风格](11-millennium-nostalgia/troubadour-style.md) | 1800年代–1850年代 | 骑士之梦——精细笔触中的中世纪浪漫 |
 | [Nazarene Movement 拿撒勒派](11-millennium-nostalgia/nazarene-movement.md) | 1809年–1850年代 | 虔诚回归——修道院中的前拉斐尔理想 |
+| [American Scene Painting 美国场景画](11-millennium-nostalgia/american-scene-painting.md) | 1920年代–1950年代 | 本土觉醒——从爱荷华农场到霍珀的孤独城市 |
+| [Regionalism Art 地方主义](11-millennium-nostalgia/regionalism-art.md) | 1930年代–1940年代 | 美国心脏——中西部农田的圆润诗意 |
+| [Social Realism Art 社会现实主义](11-millennium-nostalgia/social-realism-art.md) | 1930年代–1960年代 | 底层之声——艺术作为社会变革的武器 |
+| [Magic Realism Painting 魔幻现实主义绘画](11-millennium-nostalgia/magic-realism-painting.md) | 1920年代–至今 | 熟悉中的陌生——日常渗入的超自然静止 |
+| [Verism Art 真实主义](11-millennium-nostalgia/verism-art.md) | 古罗马–至今 | 拒绝美化——皱纹与疤痕中的另一种尊严 |
+| [Pittura Metafisica 形而上绘画](11-millennium-nostalgia/pittura-metafisica.md) | 1911年–1920年代 | 永恒午后——空旷广场与无面人偶的不安 |
+| [Scuola Romana 罗马画派](11-millennium-nostalgia/scuola-romana.md) | 1928年–1945年 | 巴洛克遗产——表现主义色彩中的罗马街道 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
