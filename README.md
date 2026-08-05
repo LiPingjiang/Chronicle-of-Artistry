@@ -1014,6 +1014,17 @@
 | [Spanish Golden Age Painting 西班牙黄金时代绘画](11-millennium-nostalgia/spanish-golden-age.md) | 1580年代–1680年代 | 朴素深沉——宫廷与信仰的心理写实 |
 | [Northern Renaissance Painting 北方文艺复兴绘画](11-millennium-nostalgia/northern-renaissance.md) | 15世纪–16世纪 | 微观真实——油画技法的宝石般世界 |
 | [International Gothic Painting 国际哥特式绘画](11-millennium-nostalgia/international-gothic.md) | 1375年–1425年 | 宫廷珠宝——跨越欧洲的优雅统一 |
+| [Pre-Raphaelite Painting 拉斐尔前派绘画](11-millennium-nostalgia/pre-raphaelite-painting.md) | 1848年–1870年代 | 宝石真诚——中世纪复兴的自然忠实 |
+| [Arts and Crafts Painting 工艺美术运动绘画](11-millennium-nostalgia/arts-and-crafts-painting.md) | 1880年代–1920年代 | 手工之美——艺术与生活的完全统一 |
+| [Art Nouveau Painting 新艺术运动绘画](11-millennium-nostalgia/art-nouveau-painting.md) | 1890年代–1910年代 | 有机曲线——自然形态的装饰革命 |
+| [Jugendstil Painting 青年风格绘画](11-millennium-nostalgia/jugendstil-painting.md) | 1896年–1910年代 | 几何自然——德语区的克制装饰 |
+| [Vienna Secession Painting 维也纳分离派绘画](11-millennium-nostalgia/vienna-secession-painting.md) | 1897年–1905年 | 金色分离——装饰与心理的深度融合 |
+| [Art Deco Painting 装饰艺术绘画](11-millennium-nostalgia/art-deco-painting.md) | 1920年代–1930年代 | 机械贵族——几何优雅的爵士时代 |
+| [Constructivism Painting 构成主义绘画](11-millennium-nostalgia/constructivism-painting.md) | 1913年–1930年代 | 革命构建——几何形式服务新社会 |
+| [De Stijl Painting 风格派绘画](11-millennium-nostalgia/de-stijl-painting.md) | 1917年–1931年 | 纯粹真理——直线与原色的宇宙和谐 |
+| [Bauhaus Painting 包豪斯绘画](11-millennium-nostalgia/bauhaus-painting.md) | 1919年–1933年 | 形式法则——色彩与几何的科学美学 |
+| [Orphism Painting 俄耳甫斯主义绘画](11-millennium-nostalgia/orphism-painting.md) | 1912年–1914年 | 色彩音乐——纯粹光谱的视觉节奏 |
+| [Rayonism Painting 光线主义绘画](11-millennium-nostalgia/rayonism-painting.md) | 1911年–1914年 | 光线交响——物体在光束中溶解 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
