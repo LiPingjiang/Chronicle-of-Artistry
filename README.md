@@ -727,6 +727,12 @@
 | [Martin Parr 马丁·帕尔](11-millennium-nostalgia/martin-parr.md) | 1952–至今 | 新纪实摄影——消费主义的闪光灯讽刺 |
 | [Alec Soth 亚历克·索斯](11-millennium-nostalgia/alec-soth.md) | 1969–至今 | 美国公路摄影——密西西比河畔的孤独肖像 |
 | [Rineke Dijkstra 里内克·迪克斯特拉](11-millennium-nostalgia/rineke-dijkstra.md) | 1959–至今 | 青少年肖像——海滩上的脆弱与尊严 |
+| [Yoshitomo Nara 奈良美智](11-millennium-nostalgia/yoshitomo-nara.md) | 1959–至今 | 大眼女孩——朋克精神的孤独童年 |
+| [Lee Ufan 李禹焕](11-millennium-nostalgia/lee-ufan.md) | 1936–至今 | 物派——石与钢板的关系项 |
+| [Do Ho Suh 徐道获](11-millennium-nostalgia/do-ho-suh.md) | 1962–至今 | 织物建筑——半透明的家的记忆 |
+| [Gabriel Orozco 加布里埃尔·奥罗斯科](11-millennium-nostalgia/gabriel-orozco.md) | 1962–至今 | 日常诗学——游戏与几何的轻触干预 |
+| [Francis Alÿs 弗朗西斯·阿利斯](11-millennium-nostalgia/francis-alys.md) | 1959–至今 | 行走艺术——西西弗斯式的政治寓言 |
+| [Tino Sehgal 蒂诺·塞加尔](11-millennium-nostalgia/tino-sehgal.md) | 1976–至今 | 构建情境——无物质的活体艺术 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
