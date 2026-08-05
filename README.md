@@ -700,6 +700,14 @@
 | [Tony Smith 托尼·史密斯](11-millennium-nostalgia/tony-smith.md) | 1912–1980 | 黑色几何——建筑尺度的极简雕塑 |
 | [Anthony Caro 安东尼·卡罗](11-millennium-nostalgia/anthony-caro.md) | 1924–2013 | 去底座革命——色彩焊接钢雕塑 |
 | [David Smith 大卫·史密斯](11-millennium-nostalgia/david-smith.md) | 1906–1965 | 美国现代雕塑之父——不锈钢几何 |
+| [Julio González 胡利奥·冈萨雷斯](11-millennium-nostalgia/julio-gonzalez.md) | 1876–1942 | 铁雕塑之父——焊接的空间绘画 |
+| [Jean Tinguely 让·丁格利](11-millennium-nostalgia/jean-tinguely.md) | 1925–1991 | 动态雕塑——自毁机器的幽默讽刺 |
+| [Niki de Saint Phalle 妮基·德·圣法尔](11-millennium-nostalgia/niki-de-saint-phalle.md) | 1930–2002 | 娜娜雕塑——色彩狂欢的女性力量 |
+| [George Segal 乔治·西格尔](11-millennium-nostalgia/george-segal.md) | 1924–2000 | 石膏铸模——白色幽灵的日常场景 |
+| [Duane Hanson 杜安·汉森](11-millennium-nostalgia/duane-hanson.md) | 1925–1996 | 超写实雕塑——普通美国人的社会肖像 |
+| [Ron Mueck 罗恩·穆克](11-millennium-nostalgia/ron-mueck.md) | 1958–至今 | 尺度变异——超写实的存在主义 |
+| [Rachel Whiteread 瑞秋·怀特里德](11-millennium-nostalgia/rachel-whiteread.md) | 1963–至今 | 负空间铸造——记忆的物质化 |
+| [Cornelia Parker 科妮莉亚·帕克](11-millennium-nostalgia/cornelia-parker.md) | 1956–至今 | 爆炸碎片——暴力转化的物质诗学 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
