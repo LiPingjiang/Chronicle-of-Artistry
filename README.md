@@ -634,6 +634,15 @@
 | [Issy Wood 伊西·伍德](11-millennium-nostalgia/issy-wood.md) | 1993–至今 | 消费物恋——暗色调的千禧焦虑 |
 | [Louise Bonnet 路易丝·博内](11-millennium-nostalgia/louise-bonnet.md) | 1970–至今 | 身体膨胀——粉彩色的超现实怪诞 |
 | [Christina Quarles 克里斯蒂娜·夸尔斯](11-millennium-nostalgia/christina-quarles.md) | 1985–至今 | 身体纠缠——数字图案中的酷儿身份 |
+| [Nicolas Party 尼古拉斯·帕蒂](11-millennium-nostalgia/nicolas-party.md) | 1980–至今 | 粉彩肖像——饱和色彩的当代装饰主义 |
+| [Genieve Figgis 吉妮薇·菲吉斯](11-millennium-nostalgia/genieve-figgis.md) | 1972–至今 | 融化肖像——洛可可的黑色幽默 |
+| [Emily Mae Smith 艾米丽·梅·史密斯](11-millennium-nostalgia/emily-mae-smith.md) | 1979–至今 | 女性主义寓言——扫帚图腾的波普超现实 |
+| [Loie Hollowell 洛伊·霍洛韦尔](11-millennium-nostalgia/loie-hollowell.md) | 1983–至今 | 身体几何——光晕渐变的浮雕抽象 |
+| [Hilary Pecis 希拉里·佩西斯](11-millennium-nostalgia/hilary-pecis.md) | 1979–至今 | 日常静物——加州阳光的平面色彩 |
+| [Anna Weyant 安娜·韦扬特](11-millennium-nostalgia/anna-weyant.md) | 1995–至今 | 新古典肖像——柔光写实的少女忧郁 |
+| [Shara Hughes 莎拉·休斯](11-millennium-nostalgia/shara-hughes.md) | 1981–至今 | 想象风景——野兽派色彩的内在地形 |
+| [Matthew Wong 王俊杰](11-millennium-nostalgia/matthew-wong.md) | 1984–2019 | 孤独风景——星空夜色的厚涂色点 |
+| [Nicolas de Staël 尼古拉·德·斯塔埃尔](11-millennium-nostalgia/nicolas-de-stael.md) | 1914–1955 | 厚涂色块——抽象与具象之间的地中海光线 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
