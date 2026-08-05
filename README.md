@@ -692,6 +692,14 @@
 | [Fred Sandback 弗雷德·桑德巴克](11-millennium-nostalgia/fred-sandback.md) | 1943–2003 | 纱线雕塑——虚拟体量的空间划分 |
 | [Robert Irwin 罗伯特·欧文](11-millennium-nostalgia/robert-irwin.md) | 1928–2023 | 光与感知——加州光与空间运动 |
 | [Larry Bell 拉里·贝尔](11-millennium-nostalgia/larry-bell.md) | 1939–至今 | 玻璃立方体——真空镀膜的透明与反射 |
+| [Mary Corse 玛丽·科尔斯](11-millennium-nostalgia/mary-corse.md) | 1945–至今 | 白光绘画——玻璃微珠的感知艺术 |
+| [De Wain Valentine 德韦恩·瓦伦丁](11-millennium-nostalgia/de-wain-valentine.md) | 1936–2022 | 树脂雕塑——凝固的加州光线 |
+| [Peter Alexander 彼得·亚历山大](11-millennium-nostalgia/peter-alexander.md) | 1939–2020 | 日落色彩——树脂与大气渐变 |
+| [John McCracken 约翰·麦克拉肯](11-millennium-nostalgia/john-mccracken.md) | 1934–2011 | 彩色木板——倚靠的极简主义 |
+| [Helen Pashgian 海伦·帕什吉安](11-millennium-nostalgia/helen-pashgian.md) | 1934–至今 | 树脂球体——凝固的内部光线 |
+| [Tony Smith 托尼·史密斯](11-millennium-nostalgia/tony-smith.md) | 1912–1980 | 黑色几何——建筑尺度的极简雕塑 |
+| [Anthony Caro 安东尼·卡罗](11-millennium-nostalgia/anthony-caro.md) | 1924–2013 | 去底座革命——色彩焊接钢雕塑 |
+| [David Smith 大卫·史密斯](11-millennium-nostalgia/david-smith.md) | 1906–1965 | 美国现代雕塑之父——不锈钢几何 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
