@@ -658,6 +658,12 @@
 | [Jacob Lawrence 雅各布·劳伦斯](11-millennium-nostalgia/jacob-lawrence.md) | 1917–2000 | 叙事系列——平面色彩的非裔美国史诗 |
 | [Romare Bearden 罗马尔·比尔登](11-millennium-nostalgia/romare-bearden.md) | 1911–1988 | 拼贴叙事——爵士节奏的哈莱姆记忆 |
 | [Faith Ringgold 费丝·林戈尔德](11-millennium-nostalgia/faith-ringgold.md) | 1930–2024 | 故事被子——叙事织物的女性主义 |
+| [Beauford Delaney 博福德·德拉尼](11-millennium-nostalgia/beauford-delaney.md) | 1901–1979 | 光之抽象——黄色光晕的精神绘画 |
+| [Bob Thompson 鲍勃·汤普森](11-millennium-nostalgia/bob-thompson.md) | 1937–1966 | 色彩寓言——古典重构的短暂天才 |
+| [Norman Lewis 诺曼·刘易斯](11-millennium-nostalgia/norman-lewis.md) | 1909–1979 | 书法性抽象——光与暗的非裔先驱 |
+| [Charles White 查尔斯·怀特](11-millennium-nostalgia/charles-white.md) | 1918–1979 | 素描大师——纪念碑性的黑人形象 |
+| [Betye Saar 贝蒂·萨尔](11-millennium-nostalgia/betye-saar.md) | 1926–至今 | 集合艺术——种族符号的神秘颠覆 |
+| [Howardena Pindell 霍华德娜·平德尔](11-millennium-nostalgia/howardena-pindell.md) | 1943–至今 | 打孔圆点——过程抽象的身体政治 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
