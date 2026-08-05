@@ -497,6 +497,16 @@
 | [Robert Motherwell 罗伯特·马瑟韦尔](11-millennium-nostalgia/motherwell.md) | 1915–1991 美国 | 西班牙共和国挽歌——抽象表现主义的知识分子 |
 | [Franz Kline 弗朗茨·克莱因](11-millennium-nostalgia/franz-kline.md) | 1910–1962 美国 | 钢铁骨架——黑白行动绘画的力量 |
 | [Clyfford Still 克利福德·斯蒂尔](11-millennium-nostalgia/clyfford-still.md) | 1904–1980 美国 | 地质断层——色域绘画的原始崇高 |
+| [Hilma af Klint 希尔玛·阿夫·克林特](11-millennium-nostalgia/hilma-af-klint.md) | 1862–1944 瑞典 | 隐秘的先驱——比康定斯基更早的抽象 |
+| [Yayoi Kusama 草间弥生](11-millennium-nostalgia/yayoi-kusama.md) | 1929– 日本 | 无限圆点——自我消融的宇宙 |
+| [Jean-Michel Basquiat 巴斯奎特](11-millennium-nostalgia/jean-michel-basquiat.md) | 1960–1988 美国 | 皇冠与涂鸦——街头走向殿堂 |
+| [Keith Haring 凯斯·哈林](11-millennium-nostalgia/keith-haring.md) | 1958–1990 美国 | 跳舞的小人——艺术属于所有人 |
+| [Banksy 班克斯](11-millennium-nostalgia/banksy.md) | 1990s– 英国 | 墙上的讽刺——匿名的街头革命 |
+| [Gerhard Richter 格哈德·里希特](11-millennium-nostalgia/gerhard-richter.md) | 1932– 德国 | 模糊的真实——绘画的无限可能 |
+| [Damien Hirst 达米恩·赫斯特](11-millennium-nostalgia/damien-hirst.md) | 1965– 英国 | 甲醛中的死亡——YBA的领军人物 |
+| [Jeff Koons 杰夫·昆斯](11-millennium-nostalgia/jeff-koons.md) | 1955– 美国 | 气球狗——媚俗的纪念碑 |
+| [Anish Kapoor 安尼施·卡普尔](11-millennium-nostalgia/anish-kapoor.md) | 1954– 印度/英国 | 云门与虚空——超越物质的感知 |
+| [Ai Weiwei 艾未未](11-millennium-nostalgia/ai-weiwei.md) | 1957– 中国 | 一亿颗瓜子——艺术即行动 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
