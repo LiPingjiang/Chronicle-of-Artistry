@@ -664,6 +664,16 @@
 | [Charles White 查尔斯·怀特](11-millennium-nostalgia/charles-white.md) | 1918–1979 | 素描大师——纪念碑性的黑人形象 |
 | [Betye Saar 贝蒂·萨尔](11-millennium-nostalgia/betye-saar.md) | 1926–至今 | 集合艺术——种族符号的神秘颠覆 |
 | [Howardena Pindell 霍华德娜·平德尔](11-millennium-nostalgia/howardena-pindell.md) | 1943–至今 | 打孔圆点——过程抽象的身体政治 |
+| [Loïs Mailou Jones 洛伊丝·梅卢·琼斯](11-millennium-nostalgia/lois-mailou-jones.md) | 1905–1998 | 跨文化融合——非洲图案与加勒比色彩 |
+| [Elizabeth Catlett 伊丽莎白·卡特利特](11-millennium-nostalgia/elizabeth-catlett.md) | 1915–2012 | 黑人女性力量——版画与雕塑的社会正义 |
+| [Augusta Savage 奥古斯塔·萨维奇](11-millennium-nostalgia/augusta-savage.md) | 1892–1962 | 哈莱姆雕塑——黑人面容的尊严 |
+| [Aaron Douglas 亚伦·道格拉斯](11-millennium-nostalgia/aaron-douglas.md) | 1899–1979 | 剪影与光圈——哈莱姆文艺复兴视觉语言 |
+| [Archibald Motley 阿奇博尔德·莫特利](11-millennium-nostalgia/archibald-motley.md) | 1891–1981 | 爵士时代——芝加哥黑人夜生活的色彩节奏 |
+| [Palmer Hayden 帕尔默·海登](11-millennium-nostalgia/palmer-hayden.md) | 1890–1973 | 民间叙事——黑人生活与约翰·亨利传说 |
+| [William H. Johnson 威廉·H·约翰逊](11-millennium-nostalgia/william-h-johnson.md) | 1901–1970 | 民间现代主义——色彩平面的黑人生活史诗 |
+| [Hale Woodruff 黑尔·伍德拉夫](11-millennium-nostalgia/hale-woodruff.md) | 1900–1980 | 壁画运动——Amistad历史叙事 |
+| [Charles Alston 查尔斯·阿尔斯顿](11-millennium-nostalgia/charles-alston.md) | 1907–1977 | 哈莱姆壁画——立体主义与非洲雕塑融合 |
+| [Ernest Crichlow 欧内斯特·克里奇洛](11-millennium-nostalgia/ernest-crichlow.md) | 1914–2005 | 温暖人文主义——黑人儿童肖像 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
