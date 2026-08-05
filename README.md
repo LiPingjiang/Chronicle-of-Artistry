@@ -654,6 +654,10 @@
 | [Jack Whitten 杰克·惠滕](11-millennium-nostalgia/jack-whitten.md) | 1939–2018 | 材料实验——丙烯铸造的马赛克纪念碑 |
 | [Stanley Whitney 斯坦利·惠特尼](11-millennium-nostalgia/stanley-whitney.md) | 1946–至今 | 色彩网格——爵士节奏的即兴堆叠 |
 | [McArthur Binion 麦克阿瑟·比尼恩](11-millennium-nostalgia/mcarthur-binion.md) | 1946–至今 | 自传抽象——网格下的档案记忆 |
+| [Alice Neel 爱丽丝·尼尔](11-millennium-nostalgia/alice-neel.md) | 1900–1984 | 心理肖像——表现主义线条的纽约众生 |
+| [Jacob Lawrence 雅各布·劳伦斯](11-millennium-nostalgia/jacob-lawrence.md) | 1917–2000 | 叙事系列——平面色彩的非裔美国史诗 |
+| [Romare Bearden 罗马尔·比尔登](11-millennium-nostalgia/romare-bearden.md) | 1911–1988 | 拼贴叙事——爵士节奏的哈莱姆记忆 |
+| [Faith Ringgold 费丝·林戈尔德](11-millennium-nostalgia/faith-ringgold.md) | 1930–2024 | 故事被子——叙事织物的女性主义 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
