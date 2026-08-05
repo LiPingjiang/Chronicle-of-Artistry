@@ -910,6 +910,12 @@
 | [Conversation Piece 谈话画](11-millennium-nostalgia/conversation-piece.md) | 18世纪–19世纪 | 非正式群像——日常互动中的社会关系 |
 | [Quadratura 建筑错觉画](11-millennium-nostalgia/quadratura.md) | 16世纪–18世纪 | 天堂敞开——巴洛克天顶的建筑幻觉 |
 | [Sotto in Sù 仰视透视法](11-millennium-nostalgia/sotto-in-su.md) | 15世纪–18世纪 | 从下往上看——天使从天顶倾泻而下 |
+| [Cabinet Painting 小品画](11-millennium-nostalgia/cabinet-painting.md) | 17世纪–18世纪 | 巴掌大的精品——珍奇柜中的微缩世界 |
+| [Sacra Conversazione 神圣对话](11-millennium-nostalgia/sacra-conversazione.md) | 15世纪–17世纪 | 宁静共在——圣母与圣徒的超时间交流 |
+| [Pietà Art 圣殇](11-millennium-nostalgia/pieta-art.md) | 14世纪–至今 | 普世悲悯——母亲怀抱中的永恒哀伤 |
+| [Dance of Death 死亡之舞](11-millennium-nostalgia/dance-of-death.md) | 14世纪–17世纪 | 人人平等——骷髅引领的最后舞蹈 |
+| [Grotesque Ornament 怪诞装饰](11-millennium-nostalgia/grotesque-ornament.md) | 15世纪–19世纪 | 洞穴之梦——藤蔓与幻兽的无重力世界 |
+| [Arabesque Art 阿拉伯式花纹](11-millennium-nostalgia/arabesque-art.md) | 7世纪–至今 | 无限之美——几何与植物的数学赞歌 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
