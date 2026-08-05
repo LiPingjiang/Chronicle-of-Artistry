@@ -763,6 +763,16 @@
 | [Massimo Vignelli 马西莫·维涅利](11-millennium-nostalgia/massimo-vignelli.md) | 1931–2014 | 网格系统——Helvetica的永恒设计 |
 | [Milton Glaser 米尔顿·格拉瑟](11-millennium-nostalgia/milton-glaser.md) | 1929–2020 | I♥NY——迷幻海报的插画式设计 |
 | [Saul Bass 索尔·巴斯](11-millennium-nostalgia/saul-bass.md) | 1920–1996 | 电影片头设计——剪纸美学的叙事图形 |
+| [Herb Lubalin 赫布·卢巴林](11-millennium-nostalgia/herb-lubalin.md) | 1918–1981 | 表现主义字体设计——文字即图像 |
+| [Wim Crouwel 维姆·克劳威尔](11-millennium-nostalgia/wim-crouwel.md) | 1928–2019 | 网格系统字体设计——荷兰理性主义 |
+| [Josef Müller-Brockmann 约瑟夫·米勒-布罗克曼](11-millennium-nostalgia/josef-muller-brockmann.md) | 1914–1996 | 瑞士国际主义平面设计——网格与秩序 |
+| [Jan Tschichold 扬·奇肖尔德](11-millennium-nostalgia/jan-tschichold.md) | 1902–1974 | 新字体排印——从包豪斯到企鹅书籍 |
+| [Alexander McQueen 亚历山大·麦昆](11-millennium-nostalgia/alexander-mcqueen.md) | 1969–2010 | 暗黑浪漫高定——戏剧性与工艺极致 |
+| [Rei Kawakubo 川久保玲](11-millennium-nostalgia/rei-kawakubo.md) | 1942–至今 | 解构时装——反美学的概念服装 |
+| [Issey Miyake 三宅一生](11-millennium-nostalgia/issey-miyake.md) | 1938–2022 | 褶皱技术——一块布的诗意建筑 |
+| [Vivienne Westwood 薇薇安·韦斯特伍德](11-millennium-nostalgia/vivienne-westwood.md) | 1941–2022 | 朋克时尚教母——叛逆与历史混搭 |
+| [Iris van Herpen 艾里斯·范·赫本](11-millennium-nostalgia/iris-van-herpen.md) | 1984–至今 | 3D打印高定——科技与自然的交汇 |
+| [Martin Margiela 马丁·马吉拉](11-millennium-nostalgia/martin-margiela.md) | 1957–至今 | 解构主义时装——匿名与回收再造 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
