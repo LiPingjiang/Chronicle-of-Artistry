@@ -610,6 +610,11 @@
 | [Marlene Dumas 马琳·杜马斯](11-millennium-nostalgia/marlene-dumas.md) | 1953–至今 | 流淌的肖像——脆弱笔触下的鬼魅 |
 | [Luc Tuymans 吕克·图伊曼斯](11-millennium-nostalgia/luc-tuymans.md) | 1958–至今 | 褪色美学——最安静的暴力叙事 |
 | [Neo Rauch 尼奥·劳赫](11-millennium-nostalgia/neo-rauch.md) | 1960–至今 | 新莱比锡画派——东德记忆的梦境 |
+| [Njideka Akunyili Crosby 恩吉德卡·阿库尼利·克罗斯比](11-millennium-nostalgia/njideka-akunyili-crosby.md) | 1983–至今 | 跨文化拼贴——移民经验的视觉肌理 |
+| [Kerry James Marshall 凯里·詹姆斯·马歇尔](11-millennium-nostalgia/kerry-james-marshall.md) | 1955–至今 | 极黑肤色——将黑人写入艺术正典 |
+| [Jenny Saville 珍妮·萨维尔](11-millennium-nostalgia/jenny-saville.md) | 1970–至今 | 巨幅肉体——颜料即肌肤 |
+| [Adrian Ghenie 阿德里安·格尼](11-millennium-nostalgia/adrian-ghenie.md) | 1977–至今 | 面孔毁灭——历史暴力的颜料考古 |
+| [Cecily Brown 塞西莉·布朗](11-millennium-nostalgia/cecily-brown.md) | 1969–至今 | 笔触狂欢——抽象与肉体的切换 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
