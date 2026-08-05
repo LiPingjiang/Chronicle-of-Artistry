@@ -842,6 +842,15 @@
 | [Tintype Art 锡版摄影](11-millennium-nostalgia/tintype-art.md) | 1856–至今 | 湿版火棉胶——金属底片的独一无二 |
 | [Lomography LOMO摄影](11-millennium-nostalgia/lomography.md) | 1992–至今 | 暗角过饱和——反规则的随机美学 |
 | [Infrared Photography 红外摄影](11-millennium-nostalgia/infrared-photography.md) | 1910s–至今 | 不可见光谱——白色植被的梦幻景观 |
+| [Low Poly Art 低多边形艺术](11-millennium-nostalgia/low-poly-art.md) | 1990s–至今 | 三角面片——几何简化的棱角美学 |
+| [Isometric Art 等轴测艺术](11-millennium-nostalgia/isometric-art.md) | 1980s–至今 | 等角投影——无透视的微缩世界 |
+| [Game UI Design 游戏界面设计](11-millennium-nostalgia/game-ui-design.md) | 1970s–至今 | HUD设计——沉浸式信息传达艺术 |
+| [Architectural Illustration 建筑插画](11-millennium-nostalgia/architectural-illustration.md) | 文艺复兴–至今 | 透视渲染——空间叙事的可视化 |
+| [Brutalist Web Design 粗野主义网页设计](11-millennium-nostalgia/brutalist-web-design.md) | 2014–至今 | 反设计——原始HTML的功能至上 |
+| [Material Design 材料设计](11-millennium-nostalgia/material-design.md) | 2014–至今 | 纸张隐喻——海拔层级的有意义动效 |
+| [Swiss Style 瑞士国际主义风格](11-millennium-nostalgia/swiss-style.md) | 1950s–至今 | 网格系统——无衬线字体的客观设计 |
+| [Transavantgarde 超前卫艺术](11-millennium-nostalgia/transavantgarde.md) | 1979–1990s | 回归绘画——意大利的游牧美学 |
+| [Hypermodernism 超现代主义](11-millennium-nostalgia/hypermodernism.md) | 2000s–至今 | 加速美学——液态社会的流动形态 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
