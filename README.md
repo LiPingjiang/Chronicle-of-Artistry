@@ -533,6 +533,20 @@
 | [Max Ernst 马克斯·恩斯特](11-millennium-nostalgia/max-ernst.md) | 1891–1976 德国/法国 | 达达与超现实主义——拓印术与梦境森林 |
 | [René Magritte 勒内·马格利特](11-millennium-nostalgia/rene-magritte.md) | 1898–1967 比利时 | 超现实主义——精确描绘不可能之物 |
 | [Joan Miró 胡安·米罗](11-millennium-nostalgia/joan-miro.md) | 1893–1983 西班牙 | 超现实主义——星空中的生物形态诗歌 |
+| [Egon Schiele 埃贡·席勒](11-millennium-nostalgia/egon-schiele.md) | 1890–1918 奥地利 | 表现主义——扭曲人体与锐利线条 |
+| [Amedeo Modigliani 阿梅代奥·莫迪利亚尼](11-millennium-nostalgia/amedeo-modigliani.md) | 1884–1920 意大利/法国 | 拉长面孔与杏仁眼的优雅变形 |
+| [Marc Chagall 马克·夏加尔](11-millennium-nostalgia/marc-chagall.md) | 1887–1985 俄国/法国 | 飞翔的恋人——犹太民俗与梦幻色彩 |
+| [Piet Mondrian 皮特·蒙德里安](11-millennium-nostalgia/piet-mondrian.md) | 1872–1944 荷兰 | 新造型主义——网格与三原色的宇宙秩序 |
+| [Paul Klee 保罗·克利](11-millennium-nostalgia/paul-klee.md) | 1879–1940 瑞士/德国 | 色彩方格与童趣线条的音乐性 |
+| [David Hockney 大卫·霍克尼](11-millennium-nostalgia/david-hockney.md) | 1937–至今 英国 | 泳池蓝与加州阳光——观看方式的革新 |
+| [Cy Twombly 赛·托姆布雷](11-millennium-nostalgia/cy-twombly.md) | 1928–2011 美国/意大利 | 涂鸦书写——诗意的痕迹与古典引用 |
+| [Jean Dubuffet 让·杜布菲](11-millennium-nostalgia/jean-dubuffet.md) | 1901–1985 法国 | 原生艺术——厚涂肌理与反美学 |
+| [Giorgio Morandi 乔治·莫兰迪](11-millennium-nostalgia/giorgio-morandi.md) | 1890–1964 意大利 | 瓶罐静物——灰调色彩的沉默诗意 |
+| [Edward Hopper 爱德华·霍珀](11-millennium-nostalgia/edward-hopper.md) | 1882–1967 美国 | 都市孤独——戏剧光影与沉默叙事 |
+| [Andrew Wyeth 安德鲁·怀斯](11-millennium-nostalgia/andrew-wyeth.md) | 1917–2009 美国 | 蛋彩画——枯草色调的美国乡村 |
+| [Norman Rockwell 诺曼·洛克威尔](11-millennium-nostalgia/norman-rockwell.md) | 1894–1978 美国 | 叙事插画——温情幽默的美国日常 |
+| [Grant Wood 格兰特·伍德](11-millennium-nostalgia/grant-wood.md) | 1891–1942 美国 | 地方主义——美国哥特式与中西部风景 |
+| [Balthus 巴尔蒂斯](11-millennium-nostalgia/balthus.md) | 1908–2001 法国/瑞士 | 具象绘画——静止时间与神秘氛围 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
