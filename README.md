@@ -830,6 +830,18 @@
 | [Ukiyo-e Revival 浮世绘复兴](11-millennium-nostalgia/ukiyo-e-revival.md) | 1990s–至今 | 木版画传统——当代重释的平面构图 |
 | [Shin-Hanga 新版画](11-millennium-nostalgia/shin-hanga.md) | 1915–1960s | 东西融合——传统木版画的光影革新 |
 | [Sōsaku-Hanga 创作版画](11-millennium-nostalgia/sosaku-hanga.md) | 1904–至今 | 自画自刻自摺——艺术家主体性的版画 |
+| [Stop Motion Art 定格动画艺术](11-millennium-nostalgia/stop-motion-art.md) | 1890s–至今 | 逐帧拍摄——实体偶动画的手工魅力 |
+| [Rotoscope Art 转描动画艺术](11-millennium-nostalgia/rotoscope-art.md) | 1915–至今 | 真人转描——现实与动画的梦幻边界 |
+| [Cel Animation 赛璐珞动画](11-millennium-nostalgia/cel-animation.md) | 1914–2000s | 透明胶片——手绘动画的黄金时代 |
+| [Claymation 黏土动画](11-millennium-nostalgia/claymation.md) | 1950s–至今 | 黏土造型——可塑变形的逐帧雕塑 |
+| [Cut-out Animation 剪纸动画](11-millennium-nostalgia/cut-out-animation.md) | 1920s–至今 | 剪纸拼贴——平面关节的影子戏美学 |
+| [Sand Animation 沙画动画](11-millennium-nostalgia/sand-animation.md) | 1960s–至今 | 流沙绘画——转瞬即逝的光台诗意 |
+| [Pin Screen Animation 针幕动画](11-millennium-nostalgia/pin-screen-animation.md) | 1930s–至今 | 针板装置——光影浮雕的半色调奇迹 |
+| [Textile Sculpture 纺织雕塑](11-millennium-nostalgia/textile-sculpture.md) | 1960s–至今 | 软雕塑——纤维材料的纪念碑性 |
+| [Art Jewelry 艺术首饰](11-millennium-nostalgia/art-jewelry.md) | 1960s–至今 | 概念首饰——可穿戴的雕塑思想 |
+| [Tintype Art 锡版摄影](11-millennium-nostalgia/tintype-art.md) | 1856–至今 | 湿版火棉胶——金属底片的独一无二 |
+| [Lomography LOMO摄影](11-millennium-nostalgia/lomography.md) | 1992–至今 | 暗角过饱和——反规则的随机美学 |
+| [Infrared Photography 红外摄影](11-millennium-nostalgia/infrared-photography.md) | 1910s–至今 | 不可见光谱——白色植被的梦幻景观 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
