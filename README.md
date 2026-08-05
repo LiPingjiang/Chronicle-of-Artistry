@@ -435,6 +435,22 @@
 | [Michelangelo 米开朗基罗](11-millennium-nostalgia/michelangelo.md) | 1475–1564 意大利 | 神圣的力量——西斯廷天花板与大卫像 |
 | [Diego Velázquez 委拉斯开兹](11-millennium-nostalgia/velazquez.md) | 1599–1660 西班牙 | 画家中的画家——空气可见的松散笔触 |
 | [Francisco Goya 戈雅](11-millennium-nostalgia/goya.md) | 1746–1828 西班牙 | 理性沉睡怪物苏醒——从洛可可到黑色绘画 |
+| [Édouard Manet 马奈](11-millennium-nostalgia/manet.md) | 1832–1883 法国 | 现代绘画之父——用平涂和直视打破学院规则 |
+| [Pierre-Auguste Renoir 雷诺阿](11-millennium-nostalgia/renoir.md) | 1841–1919 法国 | 阳光下的欢愉——印象派最温暖的画笔 |
+| [Jackson Pollock 波洛克](11-millennium-nostalgia/pollock.md) | 1912–1956 美国 | 滴画革命——行动绘画的狂野先驱 |
+| [Mark Rothko 罗斯科](11-millennium-nostalgia/rothko.md) | 1903–1970 美国/俄裔 | 色域的冥想——用色块触及灵魂深处 |
+| [David Hockney 霍克尼](11-millennium-nostalgia/hockney.md) | 1937– 英国 | 加州泳池与iPad绘画——永远年轻的色彩大师 |
+| [Edvard Munch 蒙克](11-millennium-nostalgia/munch.md) | 1863–1944 挪威 | 呐喊——将内心焦虑化为视觉尖叫 |
+| [Egon Schiele 席勒](11-millennium-nostalgia/schiele.md) | 1890–1918 奥地利 | 扭曲的线条与赤裸的灵魂——维也纳表现主义天才 |
+| [Edward Hopper 霍珀](11-millennium-nostalgia/hopper.md) | 1882–1967 美国 | 都市孤独的光影诗人——夜鹰与空旷街道 |
+| [Gustave Courbet 库尔贝](11-millennium-nostalgia/courbet.md) | 1819–1877 法国 | 写实主义之父——只画眼睛看到的真实 |
+| [Georges Seurat 修拉](11-millennium-nostalgia/seurat.md) | 1859–1891 法国 | 点彩科学——用百万色点编织光线 |
+| [Paul Klee 保罗·克利](11-millennium-nostalgia/klee.md) | 1879–1940 瑞士/德国 | 童趣与深邃——用线条散步的色彩魔术师 |
+| [Pieter Bruegel 老勃鲁盖尔](11-millennium-nostalgia/bruegel.md) | 1525–1569 尼德兰 | 农民画家——用全景鸟瞰记录人间百态 |
+| [John Constable 康斯太勃尔](11-millennium-nostalgia/constable.md) | 1776–1837 英国 | 英格兰田园的忠实记录者——云与光的自然主义 |
+| [Hans Holbein 小荷尔拜因](11-millennium-nostalgia/holbein.md) | 1497–1543 德国/英国 | 都铎宫廷的镜子——北方文艺复兴肖像巅峰 |
+| [John Singer Sargent 萨金特](11-millennium-nostalgia/sargent.md) | 1856–1925 美国 | 笔触的魔术师——镀金时代最耀眼的肖像画家 |
+| [Joaquín Sorolla 索罗拉](11-millennium-nostalgia/sorolla.md) | 1863–1923 西班牙 | 光之画家——地中海阳光的纯粹辉煌 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
