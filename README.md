@@ -475,6 +475,11 @@
 | [Bridget Riley 布里奇特·赖利](11-millennium-nostalgia/bridget-riley.md) | 1931– 英国 | 让眼睛跳舞——欧普艺术的视觉振动 |
 | [Kazimir Malevich 马列维奇](11-millennium-nostalgia/malevich.md) | 1879–1935 俄国 | 黑色方块——艺术史的零点与至上主义 |
 | [M.C. Escher 埃舍尔](11-millennium-nostalgia/escher.md) | 1898–1972 荷兰 | 不可能的建筑与无限镶嵌——数学之美 |
+| [Jean-Auguste-Dominique Ingres 安格尔](11-millennium-nostalgia/ingres.md) | 1780–1867 法国 | 线条至上——新古典主义的最后守护者 |
+| [Jean-François Millet 米勒](11-millennium-nostalgia/millet.md) | 1814–1875 法国 | 拾穗者的尊严——农民劳动的史诗画家 |
+| [Camille Corot 柯罗](11-millennium-nostalgia/corot.md) | 1796–1875 法国 | 银灰色的晨雾——印象派的祖父 |
+| [Victor Vasarely 瓦萨雷利](11-millennium-nostalgia/vasarely.md) | 1906–1997 法国/匈牙利裔 | 欧普艺术之父——几何幻觉的宇宙 |
+| [Winslow Homer 温斯洛·霍默](11-millennium-nostalgia/winslow-homer.md) | 1836–1910 美国 | 大海的力量——美国写实主义的巅峰 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
