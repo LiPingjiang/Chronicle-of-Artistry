@@ -785,6 +785,16 @@
 | [Massurrealism 大众超现实主义](11-millennium-nostalgia/massurrealism.md) | 1992–至今 | 数字超现实——大众媒体的集体梦境 |
 | [Altermodern 替代现代主义](11-millennium-nostalgia/altermodern.md) | 2009–至今 | 全球游牧——文化翻译与超文本叙事 |
 | [Object-Oriented Ontology Art 物导向本体论艺术](11-millennium-nostalgia/object-oriented-ontology-art.md) | 2010s–至今 | 非人类视角——物的自主性与退隐 |
+| [Tactical Media 战术媒体](11-millennium-nostalgia/tactical-media.md) | 1990s–2000s | 媒体干预——DIY游击传播 |
+| [Hacktivism Art 黑客行动主义艺术](11-millennium-nostalgia/hacktivism-art.md) | 1990s–至今 | 代码即抗议——数字不服从 |
+| [Culture Jamming 文化干扰](11-millennium-nostalgia/culture-jamming.md) | 1980s–至今 | 广告颠覆——符号游击战 |
+| [Artivism 艺术行动主义](11-millennium-nostalgia/artivism.md) | 2000s–至今 | 艺术+行动主义——公共干预 |
+| [Eco-Art 生态艺术](11-millennium-nostalgia/eco-art.md) | 1990s–至今 | 生态系统——环境修复即创作 |
+| [Land Art Revival 大地艺术复兴](11-millennium-nostalgia/land-art-revival.md) | 2000s–至今 | 临时性景观介入——自然材料几何 |
+| [Posthuman Art 后人类艺术](11-millennium-nostalgia/posthuman-art.md) | 2000s–至今 | 赛博格——人机融合的物种边界 |
+| [Indigenous Futurism 原住民未来主义](11-millennium-nostalgia/indigenous-futurism.md) | 2010s–至今 | 传统知识+科幻——去殖民时间线 |
+| [Sinofuturism 华夏未来主义](11-millennium-nostalgia/sinofuturism.md) | 2016–至今 | 中国科技想象——山寨与加速 |
+| [Gulf Futurism 海湾未来主义](11-millennium-nostalgia/gulf-futurism.md) | 2012–至今 | 石油资本——沙漠中的超级建筑 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
