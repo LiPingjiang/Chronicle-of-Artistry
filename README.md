@@ -1025,6 +1025,16 @@
 | [Bauhaus Painting 包豪斯绘画](11-millennium-nostalgia/bauhaus-painting.md) | 1919年–1933年 | 形式法则——色彩与几何的科学美学 |
 | [Orphism Painting 俄耳甫斯主义绘画](11-millennium-nostalgia/orphism-painting.md) | 1912年–1914年 | 色彩音乐——纯粹光谱的视觉节奏 |
 | [Rayonism Painting 光线主义绘画](11-millennium-nostalgia/rayonism-painting.md) | 1911年–1914年 | 光线交响——物体在光束中溶解 |
+| [Fauvism Painting 野兽派绘画](11-millennium-nostalgia/fauvism-painting.md) | 1904年–1908年 | 纯色爆发——解放色彩的野兽呐喊 |
+| [Expressionism Painting 表现主义绘画](11-millennium-nostalgia/expressionism-painting.md) | 1905年–1930年代 | 内心呐喊——扭曲形式的精神危机 |
+| [Cubism Painting 立体主义绘画](11-millennium-nostalgia/cubism-painting.md) | 1907年–1920年代 | 多视角革命——打破500年透视传统 |
+| [Futurism Painting 未来主义绘画](11-millennium-nostalgia/futurism-painting.md) | 1909年–1920年代 | 速度崇拜——运动分解的能量机器 |
+| [Dadaism Painting 达达主义绘画](11-millennium-nostalgia/dadaism-painting.md) | 1916年–1924年 | 反艺术——用荒诞回应疯狂世界 |
+| [Surrealism Painting 超现实主义绘画](11-millennium-nostalgia/surrealism-painting.md) | 1924年–1960年代 | 梦境逻辑——潜意识的视觉解放 |
+| [Pop Art Painting 波普艺术绘画](11-millennium-nostalgia/pop-art-painting.md) | 1950年代末–1970年代 | 大众图像——消费文化的冷静挪用 |
+| [Minimalism Painting 极简主义绘画](11-millennium-nostalgia/minimalism-painting.md) | 1960年代–1970年代 | 少即是多——纯粹物质存在的冥想 |
+| [Conceptual Art Painting 观念艺术绘画](11-millennium-nostalgia/conceptual-art-painting.md) | 1960年代末–至今 | 思考即作品——去物质化的艺术革命 |
+| [Performance Art Painting 行为艺术绘画](11-millennium-nostalgia/performance-art-painting.md) | 1960年代–至今 | 身体画布——现场性的去商品化艺术 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
