@@ -480,6 +480,9 @@
 | [Camille Corot 柯罗](11-millennium-nostalgia/corot.md) | 1796–1875 法国 | 银灰色的晨雾——印象派的祖父 |
 | [Victor Vasarely 瓦萨雷利](11-millennium-nostalgia/vasarely.md) | 1906–1997 法国/匈牙利裔 | 欧普艺术之父——几何幻觉的宇宙 |
 | [Winslow Homer 温斯洛·霍默](11-millennium-nostalgia/winslow-homer.md) | 1836–1910 美国 | 大海的力量——美国写实主义的巅峰 |
+| [François Boucher 布歇](11-millennium-nostalgia/boucher.md) | 1703–1770 法国 | 粉色维纳斯——洛可可感官愉悦的巅峰 |
+| [Jean-Honoré Fragonard 弗拉戈纳尔](11-millennium-nostalgia/fragonard.md) | 1732–1806 法国 | 飞扬的秋千——洛可可最后的辉煌 |
+| [Jacques-Louis David 大卫](11-millennium-nostalgia/jacques-louis-david.md) | 1748–1825 法国 | 荷拉斯兄弟的誓言——新古典主义的奠基人 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
