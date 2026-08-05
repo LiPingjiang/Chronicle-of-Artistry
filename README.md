@@ -451,6 +451,22 @@
 | [Hans Holbein 小荷尔拜因](11-millennium-nostalgia/holbein.md) | 1497–1543 德国/英国 | 都铎宫廷的镜子——北方文艺复兴肖像巅峰 |
 | [John Singer Sargent 萨金特](11-millennium-nostalgia/sargent.md) | 1856–1925 美国 | 笔触的魔术师——镀金时代最耀眼的肖像画家 |
 | [Joaquín Sorolla 索罗拉](11-millennium-nostalgia/sorolla.md) | 1863–1923 西班牙 | 光之画家——地中海阳光的纯粹辉煌 |
+| [Berthe Morisot 莫里索](11-millennium-nostalgia/morisot.md) | 1841–1895 法国 | 轻盈如纱的笔触——印象派最重要的女性画家 |
+| [Mary Cassatt 卡萨特](11-millennium-nostalgia/cassatt.md) | 1844–1926 美国 | 母子亲密——日本构图与印象派色彩的融合 |
+| [Georgia O'Keeffe 奥基弗](11-millennium-nostalgia/georgia-okeeffe.md) | 1887–1986 美国 | 花卉特写与沙漠骨骼——美国现代主义之母 |
+| [Toulouse-Lautrec 图卢兹-劳特累克](11-millennium-nostalgia/toulouse-lautrec.md) | 1864–1901 法国 | 红磨坊海报——将广告提升为艺术 |
+| [Piet Mondrian 蒙德里安](11-millennium-nostalgia/mondrian.md) | 1872–1944 荷兰 | 红黄蓝的网格宇宙——新造型主义 |
+| [Eugène Delacroix 德拉克洛瓦](11-millennium-nostalgia/delacroix.md) | 1798–1863 法国 | 自由引导人民——浪漫主义色彩的领袖 |
+| [Barbizon School 巴比松画派](11-millennium-nostalgia/barbizon.md) | 1830–1870 法国 | 走出画室——印象派的直接先驱 |
+| [Hudson River School 哈德逊河画派](11-millennium-nostalgia/hudson-river.md) | 1825–1875 美国 | 壮丽荒野——美国第一个本土艺术运动 |
+| [Die Brücke 桥社](11-millennium-nostalgia/die-brucke.md) | 1905–1913 德国 | 粗犷木刻与刺目色彩——德国表现主义的开端 |
+| [Der Blaue Reiter 蓝骑士](11-millennium-nostalgia/der-blaue-reiter.md) | 1911–1914 德国 | 蓝色马匹与精神抽象——通向纯粹抽象的桥梁 |
+| [CoBrA 眼镜蛇画派](11-millennium-nostalgia/cobra.md) | 1948–1951 欧洲 | 儿童画般的狂欢——战后最激进的艺术运动 |
+| [Alberto Giacometti 贾科梅蒂](11-millennium-nostalgia/giacometti.md) | 1901–1966 瑞士 | 极度细长的行走者——存在主义的视觉化身 |
+| [Francis Bacon 弗朗西斯·培根](11-millennium-nostalgia/francis-bacon.md) | 1909–1992 英国 | 扭曲的尖叫——人类存在的恐惧与欲望 |
+| [Lucian Freud 卢西安·弗洛伊德](11-millennium-nostalgia/lucian-freud.md) | 1922–2011 英国 | 肉体的重量——数百小时凝视的诚实 |
+| [Andrew Wyeth 怀斯](11-millennium-nostalgia/wyeth.md) | 1917–2009 美国 | 枯草色的乡愁——蛋彩画中凝固的时间 |
+| [Norman Rockwell 洛克威尔](11-millennium-nostalgia/rockwell.md) | 1894–1978 美国 | 美国小镇的温暖故事——插画黄金时代的巅峰 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
