@@ -568,6 +568,13 @@
 | [Claes Oldenburg 克拉斯·奥尔登堡](11-millennium-nostalgia/claes-oldenburg.md) | 1929–2022 瑞典/美国 | 巨型日常物品——波普雕塑的幽默 |
 | [Chuck Close 查克·克洛斯](11-millennium-nostalgia/chuck-close.md) | 1940–2021 美国 | 网格肖像——照相写实主义的极致 |
 | [Hyperrealism 超写实主义](11-millennium-nostalgia/hyperrealism.md) | 2000s–至今 | 超越照片——比真实更真实的视觉 |
+| [Anselm Kiefer 安塞尔姆·基弗](11-millennium-nostalgia/anselm-kiefer.md) | 1945–至今 | 铅与灰烬——废墟上的历史记忆 |
+| [Georg Baselitz 格奥尔格·巴塞利兹](11-millennium-nostalgia/georg-baselitz.md) | 1938–至今 | 倒置的人体——颠覆视觉惯性 |
+| [Joseph Beuys 约瑟夫·博伊斯](11-millennium-nostalgia/joseph-beuys.md) | 1921–1986 | 毛毡与油脂——社会雕塑的先知 |
+| [Cindy Sherman 辛迪·舍曼](11-millennium-nostalgia/cindy-sherman.md) | 1954–至今 | 扮演所有人——后现代摄影身份术 |
+| [James Turrell 詹姆斯·特瑞尔](11-millennium-nostalgia/james-turrell.md) | 1943–至今 | 光即材料——感知的极限体验 |
+| [Olafur Eliasson 奥拉维尔·埃利亚松](11-millennium-nostalgia/olafur-eliasson.md) | 1967–至今 | 人造太阳——沉浸式环境装置 |
+| [Takashi Murakami 村上隆](11-millennium-nostalgia/takashi-murakami.md) | 1962–至今 | 超扁平——动漫与高雅艺术的融合 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
