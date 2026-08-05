@@ -708,6 +708,16 @@
 | [Ron Mueck 罗恩·穆克](11-millennium-nostalgia/ron-mueck.md) | 1958–至今 | 尺度变异——超写实的存在主义 |
 | [Rachel Whiteread 瑞秋·怀特里德](11-millennium-nostalgia/rachel-whiteread.md) | 1963–至今 | 负空间铸造——记忆的物质化 |
 | [Cornelia Parker 科妮莉亚·帕克](11-millennium-nostalgia/cornelia-parker.md) | 1956–至今 | 爆炸碎片——暴力转化的物质诗学 |
+| [Sophie Calle 苏菲·卡尔](11-millennium-nostalgia/sophie-calle.md) | 1953–至今 | 自传性观念艺术——窥视与暴露的规则游戏 |
+| [Christian Boltanski 克里斯蒂安·波尔坦斯基](11-millennium-nostalgia/christian-boltanski.md) | 1944–2021 | 记忆装置——旧照片与灯泡的哀悼仪式 |
+| [Annette Messager 安妮特·梅萨热](11-millennium-nostalgia/annette-messager.md) | 1943–至今 | 暗黑童话——毛绒玩具与身体碎片的软雕塑 |
+| [Thomas Hirschhorn 托马斯·赫希洪](11-millennium-nostalgia/thomas-hirschhorn.md) | 1957–至今 | 胶带美学——纸板与哲学的过度堆积 |
+| [Pierre Huyghe 皮埃尔·于热](11-millennium-nostalgia/pierre-huyghe.md) | 1962–至今 | 生态系统装置——自我演化的活体艺术 |
+| [Philippe Parreno 菲利普·帕雷诺](11-millennium-nostalgia/philippe-parreno.md) | 1964–至今 | 展览即媒介——自动化编排的幽灵空间 |
+| [Dominique Gonzalez-Foerster 多米尼克·冈萨雷斯-福尔斯特](11-millennium-nostalgia/dominique-gonzalez-foerster.md) | 1965–至今 | 环境装置——热带现代主义的记忆房间 |
+| [Daniel Buren 丹尼尔·布伦](11-millennium-nostalgia/daniel-buren.md) | 1938–至今 | 8.7cm条纹——原位创作的制度批判 |
+| [Giuseppe Penone 朱塞佩·佩诺内](11-millennium-nostalgia/giuseppe-penone.md) | 1947–至今 | 贫穷艺术——树木雕塑与身体印记 |
+| [Jannis Kounellis 扬尼斯·库奈里斯](11-millennium-nostalgia/jannis-kounellis.md) | 1936–2017 | 贫穷艺术——工业材料与活体元素的戏剧 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
