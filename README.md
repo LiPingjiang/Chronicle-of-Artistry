@@ -625,6 +625,15 @@
 | [Lisa Yuskavage 丽莎·尤斯卡维奇](11-millennium-nostalgia/lisa-yuskavage.md) | 1962–至今 | 色彩渐变——糖果光晕中的梦幻形体 |
 | [Chris Ofili 克里斯·奥菲利](11-millennium-nostalgia/chris-ofili.md) | 1968–至今 | 迷幻装饰——象粪与闪光粉的多层拼贴 |
 | [Daniel Richter 丹尼尔·里希特](11-millennium-nostalgia/daniel-richter.md) | 1962–至今 | 荧光政治——霓虹色彩下的社会冲突 |
+| [Flora Yukhnovich 弗洛拉·尤赫诺维奇](11-millennium-nostalgia/flora-yukhnovich.md) | 1990–至今 | 洛可可解构——糖果色的笔触狂欢 |
+| [Salman Toor 萨尔曼·图尔](11-millennium-nostalgia/salman-toor.md) | 1983–至今 | 酷儿亲密——棕色调的散居叙事 |
+| [Avery Singer 艾弗里·辛格](11-millennium-nostalgia/avery-singer.md) | 1987–至今 | 3D建模绘画——喷枪灰度的后网络艺术 |
+| [Toyin Ojih Odutola 托因·奥吉·奥杜托拉](11-millennium-nostalgia/toyin-ojih-odutola.md) | 1985–至今 | 线条肖像——黑色皮肤的宝石光泽 |
+| [Amoako Boafo 阿莫阿科·博阿福](11-millennium-nostalgia/amoako-boafo.md) | 1984–至今 | 手指绘画——指纹肌理的黑人肖像 |
+| [Jadé Fadojutimi 贾德·法多朱蒂米](11-millennium-nostalgia/jade-fadojutimi.md) | 1993–至今 | 抽象风景——情感色彩的织物层次 |
+| [Issy Wood 伊西·伍德](11-millennium-nostalgia/issy-wood.md) | 1993–至今 | 消费物恋——暗色调的千禧焦虑 |
+| [Louise Bonnet 路易丝·博内](11-millennium-nostalgia/louise-bonnet.md) | 1970–至今 | 身体膨胀——粉彩色的超现实怪诞 |
+| [Christina Quarles 克里斯蒂娜·夸尔斯](11-millennium-nostalgia/christina-quarles.md) | 1985–至今 | 身体纠缠——数字图案中的酷儿身份 |
 | [Surrealism 超现实主义](11-millennium-nostalgia/surrealism.md) | 1924–1960s | 梦境的逻辑——潜意识的视觉解放 |
 | [Pop Art 波普艺术](11-millennium-nostalgia/pop-art.md) | 1956–1970s | 汤罐头与玛丽莲——大众文化即艺术 |
 | [Minimalism 极简主义](11-millennium-nostalgia/minimalism.md) | 1960s–至今 | 你看到的就是你看到的——纯粹的物体存在 |
